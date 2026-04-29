@@ -24,7 +24,7 @@ Through joy and sorrow, peace and strife,
 May they, undaunted, press along
 The Way that leadeth unto Life,
 To cast their crowns before the Throne
-Of Him Whom King of kings they own", 'source_url' => ''),
+Of Him Whom King of kings they own", 'source_url' => 'https://en.wikisource.org/wiki/Hymns_for_the_Coronation_of_His_Majesty_King_Edward_VII/O_God,_Who_from_Thy_Throne'),
     array('title' => 'Ambassadors of God', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "God, the offended God most high,
 Ambassadors to rebels sends;
 His messengers His place supply,
@@ -131,7 +131,7 @@ Wonderful in saving power,
 Him let all our hearts adore;
 Earth and Heav’n repeat the cry,“Glory be to God most High!”
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Clap_Your_Hands,_Ye_People_All'),
     array('title' => 'Jesus, My Lord, My God, My All', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Jesus! my Lord, my God, my all!
 How can I love Thee as I ought?
 And how revere this wondrous gift
@@ -162,7 +162,7 @@ He comes! He comes! the Lord of Hosts,
 Borne on His throne triumphantly!
 We see Thee, and we know Thee, Lord;
 And yearn to shed our blood for Thee
-Sweet Sacrament, &c.", 'source_url' => ''),
+Sweet Sacrament, &c.", 'source_url' => 'https://en.wikisource.org/wiki/The_Army_and_Navy_Hymnal/Catholic/Jesus,_My_Lord,_My_God,_My_All'),
     array('title' => 'Jesus, We Look to Thee', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Jesus, we look to Thee,
 Thy promis’d Presence claim,
 Thou in the midst of Us shalt be
@@ -197,7 +197,7 @@ From every Thought unclean,
 Our Jesus, 'till our Souls are freed
 From all Remains of Sin.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Jesus,_We_Look_to_Thee'),
     array('title' => 'Come, Thou Everlasting Spirit', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Come, Thou everlasting Spirit,
 Bring to every thankful Mind
 All the Saviour's dying Merit
@@ -216,7 +216,7 @@ Look on him we pierc'd and grieve,
 All receive the Grace Atoning,
 All the Sprinkled Blood receive.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Thou_Everlasting_Spirit'),
     array('title' => 'Ye Simple Men of Heart Sincere', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Ye simple men of heart sincere,
 Shepherds, who watch your flocks by night,
 Start not to see an Angel near,
@@ -266,7 +266,7 @@ Are now at work for me.
 This work is in thepublic domainin the
 United Statesbecause it was published before January 1, 1931.
 
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => ''),
+This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => 'https://en.wikisource.org/wiki/Away,_My_Needless_Fears'),
     array('title' => 'Jesus, the Sinner’s Friend', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Jesus, the sinner’s Friend, to thee,
 Lost and undone, for aid I flee,
 Weary of earth, myself, and sin:
@@ -285,7 +285,7 @@ What can I say Thy grace to move?
 Lord, I am sin, but Thou art love;
 I give up every plea beside--Lord, I am lost, but Thou hast died
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Jesus,_the_Sinner%E2%80%99s_Friend'),
     array('title' => 'The Shores of Botany Bay', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "I'm on my way down to the quay
 Where the big ship at anchor lays
 To command a gang of navvys
@@ -365,7 +365,7 @@ Scatter all my unbelief;
 More and more thyself display,
 Shining to the perfect day.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Christ,_Whose_Glory_Fills_the_Skies'),
     array('title' => 'Behold the Servant of the Lord!', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Behold the Servant of the Lord!
 I Wait thy guiding Hand to feel,
 To hear, and keep Thine every Word,
@@ -425,7 +425,7 @@ Whate’er Thy bounteous grace hath giv’n;
 And run my course with even joy,
 And closely walk with Thee to Heav’n.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Forth_in_Thy_Name,_O_Lord'),
     array('title' => 'Summi Parentis filio', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "To
 Christ, the Prince of Peace,
 And Son of God most high,
@@ -569,7 +569,7 @@ And banquet with our Lord in heaven.
 This work is in thepublic domainin the
 United Statesbecause it was published before January 1, 1931.
 
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => ''),
+This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => 'https://en.wikisource.org/wiki/Author_of_Our_Salvation,_Thee'),
     array('title' => 'Jesu, meines Herzens Freud', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Hail my soul's true Comforterhail my Iesuhail my heart's Inflamer dearhail my Iesustill my life's defender nearhail my Iesuhail my sweetest Iesu.
 
 AThousand times I think on thee.
@@ -602,7 +602,7 @@ I am Sick, oh! Comfort me
 My Creator.
 Ah! I Die, give Life to me,
 O my Saviour,
-Jesu, O my Saviour.", 'source_url' => ''),
+Jesu, O my Saviour.", 'source_url' => 'https://en.wikisource.org/wiki/Author:Johann_Rudolph_Ahle'),
     array('title' => 'Come, Let Us Anew Our Journey Pursue', 'author' => '', 'year' => '1850', 'category' => 'Ballads', 'lyrics' => "COME, let us anew Our journey pursue,
 Roll round with the year,
 And never stand still till the Master appear.
@@ -618,7 +618,7 @@ Rushes on to our view, and eternity's here.
 O that each in the day Of his coming may say,\"I have fought my way through;
 I have finish'd the work thou didst give me to do.\"
 O that each from his Lord May receive the glad word,\"Well and faithfully done;
-Enter into my joy and sit down on my throne.\"", 'source_url' => ''),
+Enter into my joy and sit down on my throne.\"", 'source_url' => 'https://en.wikisource.org/wiki/A_Collection_of_Hymns,_for_the_Use_of_the_People_Called_Methodists_(1830)/Hymn_46_(2)'),
     array('title' => 'And Can I Yet Delay?', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "And can I yet delay
 My little all to give?
 To tear my soul from earth away
@@ -666,7 +666,7 @@ In Godhead One, in Persons Three,
 The source of life, of grace, of love,
 Homage we pay on bended knee;
 Do thou, bright Queen, Star of the sea.
-Pray for thy children, pray for me", 'source_url' => ''),
+Pray for thy children, pray for me", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hail,_Queen_of_Heaven'),
     array('title' => 'Let Jubil-Trumpets Blow', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Let Jubil-Trumpets blow & hearts in Raptures flow
 Our beloved One lies inyemanger lownor Heav'n brighter Sun than Mary's lap can Showth'Alpha & great O—th'allincirling
 O.
@@ -767,7 +767,7 @@ Is heavenly bliss begun below.
 This work is in thepublic domainin the
 United Statesbecause it was published before January 1, 1931.
 
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => ''),
+This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => 'https://en.wikisource.org/wiki/Arise,_My_Soul,_On_Wings_Sublime'),
     array('title' => 'Stabat Mater Dolorosa', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Stabat Mater Dolorosa, often referred to as
 Stabat Mater, is a 13th-century Catholic hymn to Mary. It is generally ascribed to
 Jacopone da Todi, but has also been attributed to Pope
@@ -848,7 +848,7 @@ Let no Temptation Countermand;
 And still with Power inspir'd from Thee,
 Like Champions Fight for Liberty,
 Till Sabbatizing with Christ our King,
-Hallelujah, Hallelujah.", 'source_url' => ''),
+Hallelujah, Hallelujah.", 'source_url' => 'https://en.wikisource.org/wiki/Lyra_Davidica/A_Pentecostal_Hymn'),
     array('title' => 'Ah! Whither Should I Go?', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Ah! whither should I go,
 Burdened and sick and faint?
 To whom should I my trouble show,
@@ -966,7 +966,7 @@ Sink as low, and mount as high;
 Fall o’erwhelmed with love, or soar,
 Shout, or silently adore.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/The_Army_and_Navy_Hymnal/Hymns/Holy,_Holy,_Holy,_Lord_God_Almighty'),
     array('title' => 'Come, Let Us Rise with Christ', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Come, let us rise with Christ our Head
 And seek the things above,
 By the almighty Spirit led
@@ -994,7 +994,7 @@ With Christ concealed above,
 And tasting the celestial powers,
 We banquet on His love.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Let_Us_Rise_with_Christ'),
     array('title' => 'He Comes! He Comes! the Judge Severe!', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "He comes! He comes! the Judge severe!
 The seventh trumpet speaks Him near;
 His lightnings flash, His thunders roll;
@@ -1050,7 +1050,7 @@ O ever-loving Lord.
 E'en so I love Thee, and will love,
 And in Thy Praise will sing;
 Solely because Thou art my God,
-And my eternal King.", 'source_url' => ''),
+And my eternal King.", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hymn_of_St._Francis_Xavier'),
     array('title' => 'Sing, Sing, ye Angel Bands', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Sing, sing, ye Angel bands,
 All beautiful and bright;
 For higher still, and higher,
@@ -1076,7 +1076,7 @@ Lose my sweet right to thee
 Ah, no!—the Angel's Queen
 Man's mother still will be,
 And thou, upon thy throne,
-Will keep thy love for me", 'source_url' => ''),
+Will keep thy love for me", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Sing,_Sing,_ye_Angel_Bands'),
     array('title' => 'God of mercy, let us run', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Godof mercy let us run
 Where yon fount of sorrow flows,
 Pondering sweetly one by one,
@@ -1095,7 +1095,7 @@ Endless joys in Heaven above.
 Jesu who for us didst die,
 All on Thee our love we pour;
 And in the Holy Trinity
-Worship Thee for evermore.", 'source_url' => ''),
+Worship Thee for evermore.", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hymn_to_the_Sacred_Wounds_of_Jesus'),
     array('title' => 'The Banks of Sweet Primroses (Such)', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "AS I walked one mid-summer morning
 To view the fields and take the air,
 Down by the banks of sweet primroses,
@@ -1159,7 +1159,7 @@ I am Sick, oh! Comfort me
 My Creator.
 Ah! I Die, give Life to me,
 O my Saviour,
-Jesu, O my Saviour.", 'source_url' => ''),
+Jesu, O my Saviour.", 'source_url' => 'https://en.wikisource.org/wiki/Lyra_Davidica/A_hymn_to_Jesus'),
     array('title' => 'We Three Kings of Orient Are', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "We three kings of Orient are;
 Bearing gifts we traverse afar,
 Field and fountain, moor and mountain,
@@ -1274,7 +1274,7 @@ Thine immortality.
 Praise to the Father be,
 Praise to His only Son;
 Praise to the blessed Paraclete,
-While endless ages run.", 'source_url' => ''),
+While endless ages run.", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hymn_to_the_Sacred_Heart'),
     array('title' => 'Komm, Heiliger Geist, Herre Gott', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Come holy holy Ghost Lord our God& wththy gifts of Pentecostthe faithfull hearts of Sions Waiters fillthy burning love in them instillthou hast by thy love lightning glancethe Nations calld in Faiths Accordall Tribes to thine Inheritancefor this praise We Sing to our great Kinghalleluiah halleluiah.
 
 HAil Holy, Holy Light! Diamond Rock,
@@ -1297,7 +1297,7 @@ Let no Temptation Countermand;
 And still with Power inspir'd from Thee,
 Like Champions Fight for Liberty,
 Till Sabbatizing with Christ our King,
-Hallelujah, Hallelujah.", 'source_url' => ''),
+Hallelujah, Hallelujah.", 'source_url' => 'https://en.wikisource.org/wiki/Lyra_Davidica/A_Pentecostal_Hymn'),
     array('title' => 'Head of Thy Church, Whose Spirit Fills', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Head of Thy church, whose Spirit fills
 And flows through every faithful soul,
 Unites in mystic love, and seals
@@ -1320,7 +1320,7 @@ The purchase of Thy passion claim!
 Thine heritage the Gentiles take,
 And cause the world to know Thy Name.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Head_of_Thy_Church,_Whose_Spirit_Fills'),
     array('title' => 'Te mater alma numinis', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Motherof Almighty God,
 Suppliant at thy feet we pray;
 Shelter us from Satan's fraud,
@@ -1367,7 +1367,7 @@ Quicken'd with our Living
 Lord
 Let us in thy Spirit rise,
 Rise to all thy Life restor'd,
-And thank Thee in the Skies.", 'source_url' => ''),
+And thank Thee in the Skies.", 'source_url' => 'https://en.wikisource.org/wiki/Hymns_for_our_Lord%27s_Resurrection/Hymn_IX'),
     array('title' => 'The Great Archangel\'s Trump', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "The great archangel’s trump shall sound,
 While twice ten thousand thunders roar
 Tear up the graves, and cleave the ground,
@@ -1398,7 +1398,7 @@ And on that ruined world look down;
 By love above all height we rise,
 And share the everlasting throne.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/The_Great_Archangel%27s_Trump'),
     array('title' => 'Summae Deus clementiae', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Godof mercy let us run
 Where yon fount of sorrow flows,
 Pondering sweetly one by one,
@@ -1464,7 +1464,7 @@ Stamped with the Triune character;
 Flesh, spirit, soul, to Thee resign,
 And live and die entirely Thine!
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Father,_Son,_and_Holy_Ghost'),
     array('title' => 'Holy as Thou, O Lord, Is None', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Holy as Thou, O Lord, is none;
 Thy holiness is all Thine own;
 A drop of that unbounded sea
@@ -1485,7 +1485,7 @@ Established on the Rock of peace;
 The Rock that never shall remove,
 The Rock of pure, almighty, love.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Holy_as_Thou,_O_Lord,_Is_None'),
     array('title' => 'Come, Divine Interpreter', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Come, divine Interpreter,
 Bring me eyes Thy book to read,
 Ears the mystic words to hear,
@@ -1500,7 +1500,7 @@ Thee we shall in glory view
 When Thou comest on earth to abide,
 Reign triumphant at Thy side.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Divine_Interpreter'),
     array('title' => 'Banks of Sweet Primroses (Jackson and Son)', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "As I walked out one summer's morning,
 To view the fields and take the air,
 Down by the banks of the sweet primroses
@@ -1655,7 +1655,7 @@ Nor ever hence remove;
 But sup with us, and let the feast
 Be everlasting love.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Let_Us_Who_in_Christ_Believe'),
     array('title' => 'Author of Faith, Eternal Word', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Author of faith, eternal Word,
 Whose Spirit breathes the active flame;
 Faith like its finisher and Lord,
@@ -1686,7 +1686,7 @@ The clouds disperse, the shadows fly;
 Th’invisible appears in sight,
 And God is seen by mortal eye.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Author_of_Faith,_Eternal_Word'),
     array('title' => 'Hail, Jesus, Hail', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Hail, Jesus! hail! who for my sake
 Sweet Blood from Mary's veins didst take,
 And shed it all for me;
@@ -1712,7 +1712,7 @@ And hell's despairing courage faints,
 When this sweet song we raise:
 Oh, louder then, and louder still,
 Earth with one mighty chorus fill,
-The Precious Blood to praise!", 'source_url' => ''),
+The Precious Blood to praise!", 'source_url' => 'https://en.wikisource.org/wiki/All_Hail_the_Power_of_Jesus%27_Name'),
     array('title' => 'A Charge to Keep I Have', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "A charge to keep I have,
 A God to glorify,
 A never-dying soul to save,
@@ -1756,7 +1756,7 @@ That, that is the Fulness: but This is the Taste.
 And this I shall prove,'Till with Joy I remove
 To the Heaven of Heavens of Jesus's Love.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/My_God,_I_Am_Thine'),
     array('title' => 'Forever Here My Rest Shall Be', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Forever here my rest shall be,
 Close to Thy bleeding side;
 This all my hope, and all my plea,
@@ -1810,7 +1810,7 @@ God my heav’nly Father’s will;
 Never His good Spirit grieve;
 Only to His glory live.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Gentle_Jesus,_Meek_and_Mild'),
     array('title' => 'Being of Beings', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Being of beings, God of love;
 To Thee our hearts we raise;
 Thy all sustaining power we prove,
@@ -1857,7 +1857,7 @@ If thou within us shine,
 And sound, with all thy saints below,
 The depths of love divine.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Holy_Ghost,_Our_Hearts_Inspire'),
     array('title' => 'Salve cordis gaudium', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Hail my soul's true Comforterhail my Iesuhail my heart's Inflamer dearhail my Iesustill my life's defender nearhail my Iesuhail my sweetest Iesu.
 
 AThousand times I think on thee.
@@ -1944,7 +1944,7 @@ Shall swiftly in His statues move,
 Shall walk in glorious liberty
 Shall fly upon the wings of love.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/God_Only_Wise,_and_Great,_and_Strong'),
     array('title' => 'All Praise to Him Who Dwells in Bliss', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "All praise to Him Who dwells in bliss,
 Who made both day and night;
 Whose throne is darkness, in th’abyss
@@ -1985,7 +1985,7 @@ Or miss our providential way;
 As far from danger as from fear,
 While Love, almighty Love, is near.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Captain_of_Israel%27s_Host'),
     array('title' => 'Awake, Jerusalem, Awake!', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Awake, Jerusalem, awake!
 No longer in thy sins lie down;
 The garment of salvation take,
@@ -2006,7 +2006,7 @@ Be purge from every sinful stain,
 Be like your Lord, His Word embrace,
 Nor bear His hallowed Name in vain.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Awake,_Jerusalem,_Awake!'),
     array('title' => 'Follow Me up to Carlow', 'author' => '', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "Lift Mac
 Cahir Óg your face, brooding o'er the old disgrace
 That black
@@ -2070,7 +2070,7 @@ Exactly what is best for me.
 Hear me sigh, hear me cry,
 Surely you ain't gon' to let me die,
 For if some love will make me gain,
-Do your duty, Doctor, cure my pain.\"", 'source_url' => ''),
+Do your duty, Doctor, cure my pain.\"", 'source_url' => 'https://en.wikisource.org/wiki/Do_Your_Duty_Doctor!_(Oh,_Oh,_Oh,_Oh,_Doctor)'),
     array('title' => 'Ariel\'s Song (Come unto these yellow sands, unsourced)', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Come unto these yellow sands,
 And then take hands:
 Curtsied when you have, and kiss'd
@@ -2095,7 +2095,7 @@ Sea-nymphs hourly ring his knell:
 Ding-dong.
 Hark! now I hear them—Ding-dong, bell.
 
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
+This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Ariel%27s_Song_(Come_unto_these_yellow_sands,_unsourced)'),
     array('title' => 'The Internationale (Pottier, English)', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => ". Arise ye starvelings from your slumbers
 Arise ye criminals of want
 For reason in revolt now thunders
@@ -2122,7 +2122,7 @@ Drive the indolent from the soil.
 On our flesh too long has fed the raven,
 We've too long been the vulture's prey.
 But now farewell the spirit craven,
-The dawn brings in a brighter day.", 'source_url' => ''),
+The dawn brings in a brighter day.", 'source_url' => 'https://en.wikisource.org/wiki/The_Internationale'),
     array('title' => 'Bye Bye Blackbird', 'author' => '', 'year' => '1860', 'category' => 'Spirituals', 'lyrics' => "[Verse 1]Blackbird, blackbird,
 Singing the blues all day
 Right outside of my door.
@@ -2232,7 +2232,7 @@ Drifting to and fro,
 Dreamy, dreamy Chinatown,
 Almond eyes of brown,
 Heart seems light and life seems bright,
-In dreamy Chinatown.", 'source_url' => ''),
+In dreamy Chinatown.", 'source_url' => 'https://en.wikisource.org/wiki/Chinatown,_My_Chinatown'),
     array('title' => 'Ye Watchers and Ye Holy Ones', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Ye watchers and ye holy ones,
 Bright seraphs, cherubim, and thrones,
 Raise the glad strain,
@@ -2422,7 +2422,7 @@ Strew the straw, though all is mean.
 Here the temple, here the throne,
 Here the altar, here the altar,
 Of our King, this gentle Child,
-Of our King, this gentle Child.", 'source_url' => ''),
+Of our King, this gentle Child.", 'source_url' => 'https://en.wikisource.org/wiki/Gentle_Savior,_Day_and_Night'),
     array('title' => 'The Lost Chord', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Seated one day at the organ,
 I was weary and ill at ease,
 And my fingers wandered idly
@@ -2496,7 +2496,7 @@ Their dying hopes revive.
 Though in ourselves we have no stock,
 The Lord is nigh to save;
 His door flies open when we knock,
-And 'tis but ask and have.", 'source_url' => ''),
+And 'tis but ask and have.", 'source_url' => 'https://en.wikisource.org/wiki/By_the_poor_widow%27s_oil_and_meal'),
     array('title' => 'Beautiful Dreamer', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "1.
 Beautiful dreamer, wake unto me,
 Starlight and dewdrops are waiting for thee;
@@ -2567,7 +2567,7 @@ That Thou art what Thou art.
 Most ancient of all mysteries!
 Still at Thy throne we lie;
 Have mercy now, most Merciful,
-Most holy Trinity.", 'source_url' => ''),
+Most holy Trinity.", 'source_url' => 'https://en.wikisource.org/wiki/Have_Mercy_on_Us,_God_Most_High'),
     array('title' => 'Good ol\' song', 'author' => '', 'year' => '1860', 'category' => 'Spirituals', 'lyrics' => "The good ol' song of wah-hoo-wah
 We'll sing it o'er and o'er
 It cheers our hearts and warms our blood
@@ -2587,7 +2587,7 @@ At the dear old UVA.
 Wah-Hoo-Wah, Wah-Hoo-Wah!
 Uni-v Vir-gin-i-a
 Hoo Rah Rah, Hoo Ray Ay
-Hey, Hey! U-V-A!", 'source_url' => ''),
+Hey, Hey! U-V-A!", 'source_url' => 'https://en.wikisource.org/wiki/Good_ol%27_song'),
     array('title' => 'My God, How Wonderful Thou Art', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "My God, how wonderful Thou art,
 Thy majesty, how bright;
 How beautiful Thy mercy seat
@@ -2618,7 +2618,7 @@ Earth has no higher bliss.
 Father of Jesus, love’s Reward!
 What rapture it will be
 Prostrate before Thy throne to lie,
-And gaze, and gaze on Thee!", 'source_url' => ''),
+And gaze, and gaze on Thee!", 'source_url' => 'https://en.wikisource.org/wiki/My_God,_How_Wonderful_Thou_Art'),
     array('title' => 'Jesus Christ the Apple Tree', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "The tree of life mysoul hathseen,
 Laden with fruit, and always green;
 The trees of nature fruitless be,
@@ -2673,7 +2673,7 @@ In the name of God the Father,
 Name of God the Son,
 Name of God the blessèd Spirit,
 Ever Three in One:
-Refrain", 'source_url' => ''),
+Refrain", 'source_url' => 'https://en.wikisource.org/wiki/Hail_the_Sign,_the_Sign_of_Jesus'),
     array('title' => 'Stand and Sing of Zambia, Proud and Free', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Verse 1
 Stand and sing of Zambia, proud and free
 Land of work and joy in unity
@@ -2697,7 +2697,7 @@ Zambia, Zambia, Zambia
 Free men we stand
 Under the flag of our land
 Zambia, praise to thee
-All one, strong and free.", 'source_url' => ''),
+All one, strong and free.", 'source_url' => 'https://en.wikisource.org/wiki/Stand_and_Sing_of_Zambia,_Proud_and_Free'),
     array('title' => 'Joy to the World', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "This hymn is sung to the 1839 tune
 Antioch, arranged by
 Lowell Masonbased on melodic themes from
@@ -2737,7 +2737,7 @@ Public domainfalsefalse
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Random'),
     array('title' => 'The Star-Spangled Banner', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "National anthem of the United States, by a Congressional resolution on March 3, 1931. It uses the words of the poem
 Defence of Fort Mc
 Henryby
@@ -2821,7 +2821,7 @@ At the dear old UVA.
 Wah-Hoo-Wah, Wah-Hoo-Wah!
 Uni-v Vir-gin-i-a
 Hoo Rah Rah, Hoo Ray Ay
-Hey, Hey! U-V-A!", 'source_url' => ''),
+Hey, Hey! U-V-A!", 'source_url' => 'https://en.wikisource.org/wiki/Good_ol%27_song'),
     array('title' => 'Hurrah! Hurrah! For Cleve and Steve', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Hurrah! hurrah! for Cleve and Steve,
 Ring out the party cry,
 The Democratic flag unfurl,
@@ -3157,7 +3157,7 @@ Ever be our faith thus bright.
 Praise to God the Father sing,
 Praise to God the Son, our King,
 Praise to God the Spirit be
-Ever and eternally.", 'source_url' => ''),
+Ever and eternally.", 'source_url' => 'https://en.wikisource.org/wiki/Savior_of_the_Nations,_Come'),
     array('title' => 'All Things Bright and Beautiful', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "1. All things bright and beautiful,
 All creatures great and small,
 All things wise and wonderful,
@@ -3241,7 +3241,7 @@ John Zundel, \"Hyfrydol\" by
 Rowland Hugh Prichard, \"Blaenwern\" by
 William Penfro Rowlands, and \"Love Divine\" by
 George F. Le
-Jeune.", 'source_url' => ''),
+Jeune.", 'source_url' => 'https://en.wikisource.org/wiki/Love_Divine,_All_Loves_Excelling'),
     array('title' => 'O How the Thought of God Attracts', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "O how the thought of God attracts
 And draws the heart from earth
 And sickens it of passing shows
@@ -3293,7 +3293,7 @@ Flow my praise, forever flow!
 Reascend, immortal Savior;
 Leave Thy footstool, take Thy throne;
 Thence return, and reign forever,
-Be the kingdom all Thine own!", 'source_url' => ''),
+Be the kingdom all Thine own!", 'source_url' => 'https://en.wikisource.org/wiki/Mighty_God,_While_Angels_Bless_Thee'),
     array('title' => 'O the Hope of Israel, the Savior Thereof', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "1314.
 O the Hope of Israel, the Saviour thereof, &c.—[Jeremiah 14:8-9].1 HOPE of Thy church and Saviour, hear!
 In all our pass'd distresses near,
@@ -3326,7 +3326,7 @@ And perfect Thine own work of grace
 But now again begun,
 Still with our favour'd nation stay,
 Till every island flee away
-Before Thine azure throne.", 'source_url' => ''),
+Before Thine azure throne.", 'source_url' => 'https://en.wikisource.org/wiki/O_the_Hope_of_Israel,_the_Savior_Thereof'),
     array('title' => 'The Christmas Bells', 'author' => '', 'year' => '1850', 'category' => 'Christmas carols', 'lyrics' => "Ring the bells, the Christmas bells.
 Chime out the wond’rous story;
 First in song, on angel tongues,
@@ -3425,7 +3425,7 @@ Thy joy and glory still.
 O little heart of mine! shall pain
 Or sorrow make thee moan,
 When all this God is all for thee,
-A Father all thine own?", 'source_url' => ''),
+A Father all thine own?", 'source_url' => 'https://en.wikisource.org/wiki/O_God,_Thy_Power_Is_Wonderful'),
     array('title' => 'For Whit-Sunday', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Creator Spirit, by whose Aid
 The World's Foundations first were laid,
 Come, visit ev'ry pious Mind,
@@ -3507,7 +3507,7 @@ He that communicates direct
 The tutor of the soul;
 Who without pain, degrees or parts,
 While he illuminates our hearts,
-Can teach at once the whole.", 'source_url' => ''),
+Can teach at once the whole.", 'source_url' => 'https://en.wikisource.org/wiki/The_Great_Learning'),
     array('title' => 'Prudence', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "O best oeconomist of life,
 Tho' all the passions were at strife;
 Yet thou, fair Prudence, could'st assuage
@@ -3567,7 +3567,7 @@ Circling us with hosts of fire.
 Christ the Saviour is come down,
 Points us to the victor's crown,
 Bids us take our seats above,
-More than conquerors in his love.", 'source_url' => ''),
+More than conquerors in his love.", 'source_url' => 'https://en.wikisource.org/wiki/A_Collection_of_Hymns,_for_the_Use_of_the_People_Called_Methodists_(1876)/Hymn_728'),
     array('title' => 'Mirth', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "If you are merry sing away,
 And touch the organs sweet;
 This is the Lord's triumphant day,
@@ -3619,7 +3619,7 @@ And make in thee their goings sure.
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author_of_Faith,_We_Seek_Thy_Face'),
     array('title' => 'Burial of a Friend', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "AS, bowed by sudden storms, the rose
 Sinks on the garden's breast,
 Down to the grave our brother goes,
@@ -3736,7 +3736,7 @@ And all Thy merits, Lord, are mine.
 Death, hell, and sin are now subdued;
 All grace is now to sinners given;
 And lo, I plead the atoning blood,
-And in Thy right I claim Thy Heaven!", 'source_url' => ''),
+And in Thy right I claim Thy Heaven!", 'source_url' => 'https://en.wikisource.org/wiki/%27Tis_Finished!_The_Messiah_Dies'),
     array('title' => 'Father, Son and Holy Ghost', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Father, Son, and Holy Ghost,
 In solemn power come down!
 Present with Thy heavenly host,
@@ -3758,7 +3758,7 @@ For ever in his heart!
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Father,_Son_and_Holy_Ghost'),
     array('title' => 'And Let Our Bodies Part', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "And let our bodies part,
 To different climes repair;
 Inseparably joined in heart
@@ -3839,7 +3839,7 @@ And breaks Thy sacred heart.
 Who love Thee most, at Thy dear cross,
 Will truest, Lord, abide;
 Make Thou that cross our only hope,
-O Jesus crucified.", 'source_url' => ''),
+O Jesus crucified.", 'source_url' => 'https://en.wikisource.org/wiki/O_Thou,_the_Eternal_Son_of_God'),
     array('title' => 'Communion with God', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Our heavenly Father calls,
 And Christ invites us near;
 With both our friendship shall be sweet,
@@ -3883,7 +3883,7 @@ My soul without it dies.
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Father,_I_Stretch_My_Hands_to_Thee'),
     array('title' => 'Mutual Subjection', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Some think that in the Christian scheme
 Politeness has no part;
 That manners we shou'd disesteem,
@@ -3926,7 +3926,7 @@ And cries, “It shall be done!”
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Father_of_Jesus_Christ,_My_Lord'),
     array('title' => 'Peace', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "The Mount of Olives was thy seat,[1]O Angel, heav'nly fair;
 And thou, sweet Peace, didst often meet
 Thy Prince[2]and Saviour there.5
@@ -4000,7 +4000,7 @@ Rise eternal in my heart
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Abba,_Father,_Hear_Thy_Child'),
     array('title' => 'Forgiveness of Injuries', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "And is the Gospel peace and love?
 Such let our conversation be;
 The serpent blended with the dove,
@@ -4056,7 +4056,7 @@ And all shall own Thou diedst for all.
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Father,_Whose_Everlasting_Love'),
     array('title' => 'Of a rose, a lovely rose, of a rose is al myn song', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Lestenyt,[1]lordynges, both elde and yinge,
 How this rose began to sprynge;
 Swych a rose to myn lykynge
@@ -4077,7 +4077,7 @@ Therein myht non sowle dwelle;
 Blyssid be the time the rose sprong!
 The thredde braunche is good and swote,
 It sprang to hevene, crop and rote,
-Therein to dwellyn and ben our bote;[7]Every day it schewit in prystes hond.", 'source_url' => ''),
+Therein to dwellyn and ben our bote;[7]Every day it schewit in prystes hond.", 'source_url' => 'https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1918/Of_a_rose,_a_lovely_rose'),
     array('title' => 'Eternal Son, Eternal Love', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Eternal Son, eternal Love,
 Take to Thyself Thy mighty power;
 Let all earth’s sons Thy mercy prove;
@@ -4101,7 +4101,7 @@ Than we on earth, to do Thy will.
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Eternal_Son,_Eternal_Love'),
     array('title' => 'I\'m a Soldier in the Army of the Lord', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Army of the Lord,
 In the army, in the army,
 Just a soldier, just a soldier,
@@ -4130,7 +4130,7 @@ Just a soldier,
 Just a soldier,
 In the army of the Lord
 Just a soldier,
-In the army.", 'source_url' => ''),
+In the army.", 'source_url' => 'https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Army'),
     array('title' => 'One Hundred English Folksongs', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Oliver Ditson Company edition, Boston
 
 Boston: Oliver Ditson Company
@@ -4225,7 +4225,7 @@ United Statesbecause it was published before January 1, 1931.
 The longest-living author of this work died in 1989, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 36 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/At_the_Devil%27s_Ball'),
     array('title' => 'I Beg Your Pardon Dear Old Broadway', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Broadway, Broadway, I've a message from a friend across the foam
 
 From someone who loves you dearly
@@ -4314,7 +4314,7 @@ Contents(not listed in original)
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Bride%27s_burial'),
     array('title' => 'Indiana', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "I have always been a wand'rer
 Ballard Mac
 Donald
@@ -4350,7 +4350,7 @@ Where we'll sit and dream sweet girlie
 In a home for two
 See just what it means, sweet girlie
 What it means for you and ISo in Junetime, spoontime, honeymoon-time
-We'll be happy, bye and bye", 'source_url' => ''),
+We'll be happy, bye and bye", 'source_url' => 'https://en.wikisource.org/wiki/Good_Bye,_Girlie,_and_Remember_Me'),
     array('title' => 'My Bird of Paradise', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "She's so excited and so delighted
 
 I hear a Ukalele strumming gaily
@@ -4561,7 +4561,7 @@ And never lost our nerve
 If the Army and the Navy
 Ever look on Heaven's scenes
 They will find the streets are guarded by the
-United States Marines", 'source_url' => ''),
+United States Marines", 'source_url' => 'https://en.wikisource.org/wiki/The_Marines%27_Hymn_(1942)'),
     array('title' => 'Daddy, Come Home', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "[1st verse:]Hello! Central, dear
 Central, listen here:
 Please connect me with my father
@@ -4587,7 +4587,7 @@ Harry stubbed his toe
 Playing Buffalo
 Mabel fell downstairs
 Willie's chasing Jack around the flat
-Everything's fine outside of that", 'source_url' => ''),
+Everything's fine outside of that", 'source_url' => 'https://en.wikisource.org/wiki/Daddy,_Come_Home'),
     array('title' => 'Mandy', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "I was strolling out one evening by the silv'ry moon
 
 I could hear somebody singing a familiar tune
@@ -4746,7 +4746,7 @@ And never lost our nerve;
 If the Army and the Navy
 Ever look on Heaven’s scenes;
 They will find the streets are guarded
-By United States Marines.", 'source_url' => ''),
+By United States Marines.", 'source_url' => 'https://en.wikisource.org/wiki/The_Marines%27_Hymn_(1929)'),
     array('title' => 'Come into the Garden Maud', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Come into the garden, Maud,
 For the black bat, Night, has flown;
 Come into the garden, Maud,
@@ -4896,7 +4896,7 @@ I cannot work before tomorrow,
 Cayse de tear drops flow,
 I try to drive away my sorrow
 Pickin on de old banjo.
-Chorus:", 'source_url' => ''),
+Chorus:", 'source_url' => 'https://en.wikisource.org/wiki/Massa%27s_in_de_Cold_Ground'),
     array('title' => 'The Cambridge Carol Book', 'author' => '', 'year' => '1850', 'category' => 'Christmas carols', 'lyrics' => "Edited by Charles Woodand George R. Woodward
 
 BEING FIFTY-TWO SONGS FOR CHRISTMAS,
@@ -5070,7 +5070,7 @@ This category has the following 14 subcategories, out of 14 total.
 
 The following 200 pages are in this category, out of 23,367 total.
 
-The following 47 files are in this category, out of 47 total.", 'source_url' => ''),
+The following 47 files are in this category, out of 47 total.", 'source_url' => 'https://en.wikisource.org/wiki/The_Old_Huntsman_and_Other_Poems'),
     array('title' => 'The Cruel Mother', 'author' => '', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "AND there she's leand her back to a thorn,
 Refrain:
 Oh and alelladay, oh and alelladay
@@ -5104,7 +5104,7 @@ National anthems of other Russian entities:
 
 Predecessor states and colonies
 
-Ottoman Empire had personal anthems for each Sultan:", 'source_url' => ''),
+Ottoman Empire had personal anthems for each Sultan:", 'source_url' => 'https://en.wikisource.org/wiki/The_National_Anthems_of_the_Allies'),
     array('title' => 'Shortcut', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "The list of available Wikisource shortcuts can be found at
 Wikisource:
 Shortcuts.
@@ -5118,7 +5118,7 @@ Redirect) that can be used to get to a Wikisource project reference page more qu
 
 Reserved for Wikisource project reference pages (WS: namespace) only.
 
-A shortcut link box is added to the a page using theshortcutfield in the {{process header}} or {{header}} template. The following is the code used to generate the shortcut to this page:", 'source_url' => ''),
+A shortcut link box is added to the a page using theshortcutfield in the {{process header}} or {{header}} template. The following is the code used to generate the shortcut to this page:", 'source_url' => 'https://en.wikisource.org/wiki/Executive_Order_12553'),
     array('title' => 'School Song Knapsack', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Fair Song(Wait for the Wagon)106
 
 Here’s Where Scholars do Their Best71
@@ -5164,7 +5164,7 @@ Star-spangled banner. ogg
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Federal_Reporter/Third_series/Volume_161'),
     array('title' => 'Songs of Long Ago', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "PUBLISHED BYGEO. P. BENT,
 MANUFACTURER OFCROWNPIANOS &ORGANSCHICAGO
 
@@ -5219,7 +5219,7 @@ RAMEAU[d](Répertoire d’autorité-matière encyclopédique et alphabétique un
 Bibliothèque nationale de France.[4]
 
 The id. loc. gov site initially used a fairly lightweight
-Pythonprogram to serve linked data.[5]", 'source_url' => ''),
+Pythonprogram to serve linked data.[5]", 'source_url' => 'https://en.wikisource.org/wiki/Author:Eleanor_Vere_Boyle'),
     array('title' => 'Ralph in the Switch Tower', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Second book in the
 Railroad seriesof the Stratemeyer Syndicate
 
@@ -5381,7 +5381,7 @@ United Statesbecause it was published before January 1, 1931.
 This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Bunny_Brown_and_His_Sister_Sue_on_Grandpa%27s_Farm'),
     array('title' => 'Tom Swift and His Motor Cycle', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "First book in the
 Tom Swiftseries
 
@@ -5680,7 +5680,7 @@ But still in Israel's paths they shine.
 The Atoms of Democritus
 And Newton's Particles of light
 Are sands upon the Red sea shore,
-Where Israel's tents do shine so bright.", 'source_url' => ''),
+Where Israel's tents do shine so bright.", 'source_url' => 'https://en.wikisource.org/wiki/Mock_on,_Mock_on,_Voltaire,_Rousseau'),
     array('title' => 'I saw a chapel all of gold', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "* * *I saw a chapel all of gold
 That none did dare to enter in;
 And many weeping stood without,
@@ -5843,7 +5843,7 @@ Miscellanies, 1743:
 Some or all works by this author were published before January 1, 1931, and are in thepublic domainworldwide because the author died at least 100 years ago. Translations or editions published later may be copyrighted. Posthumous works may becopyrighted based on how long they have been publishedin certain countries and areas.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author:Henry_Fielding'),
     array('title' => 'Tristan und Isolde (Wagner)', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "This English translation published anonymously in 1890.
 
 FRED RULLMAN, INC., NEW YORK, N. Y.
@@ -5874,7 +5874,7 @@ United Statesbecause it was published before January 1, 1931.
 This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Merman'),
     array('title' => 'The Southern Literary Messenger', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Content exists for this periodical, though at this stage it is not specifically organised beyond a basic hierarchy.
 
 The pages listed below are an automatically generated listing.
@@ -5901,7 +5901,7 @@ United Statesbecause they were published before January 1, 1931.
 These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:The_Educational_Screen'),
     array('title' => 'The American Printer', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The American Printeris a periodical, published from 1885 to 1958. It was originally called
 The American Bookmaker. From 1897 it was called
 The Printer and Bookmaker. In 1900 it was called
@@ -5920,7 +5920,7 @@ United Statesbecause they were published before January 1, 1931.
 These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:The_American_Printer'),
     array('title' => 'Printing Times and Lithographer', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "The Printing Times and Lithographeris a periodical, published from January1875 to July 1891; it replaced
 The Printing Timesand
 The Lithographer. It was published by
@@ -5932,7 +5932,7 @@ United Statesbecause they were published before January 1, 1931.
 These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:Printing_Times_and_Lithographer'),
     array('title' => 'The Atlantic Monthly', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The Atlantic(formerly known as
 The Atlantic Monthly) is an American magazine founded in Boston in 1857.
 
@@ -5972,7 +5972,7 @@ Madam, me thinks I see him living yet;
 So well your words his noble vertues praise,
 That all both judge you to relate them true,
 And to possess them, Honour'd
-Margaret.", 'source_url' => ''),
+Margaret.", 'source_url' => 'https://en.wikisource.org/wiki/Daughter_to_that_good_Earl,_once_President'),
     array('title' => 'Fafaïa', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Starsthat seem so close and bright,
 Watched by lovers through the night,
 Swim in emptiness, men say,
@@ -6102,7 +6102,7 @@ AND PARKER, OXFORD.
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Philological_Museum/Volume_2'),
     array('title' => 'The Grammar of English Grammars', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Current Wikisource text based on the sixth edition; the scan referred to is of the tenth edition. See also
 Table of Contents.
 
@@ -6152,7 +6152,7 @@ United Statesbecause it was published before January 1, 1931.
 The longest-living author of this work died in 1933, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 92 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Sign_Language'),
     array('title' => 'The Mathematical Principles of Natural Philosophy', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The first \"American\" edition of
 Philosophiae Naturalis Principia Mathematica. Edited by
 N. W. Chittenden.
@@ -6206,7 +6206,7 @@ This category has the following 58 subcategories, out of 58 total.
 
 The following 200 pages are in this category, out of 2,105 total.
 
-The following 2 files are in this category, out of 2 total.", 'source_url' => ''),
+The following 2 files are in this category, out of 2 total.", 'source_url' => 'https://en.wikisource.org/wiki/The_Illustrated_London_News'),
     array('title' => 'Geological Society of London', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "The Geological Society of London publish selected papers since 1811. The title of their publications varied over time.
 
 1st series, 1811-1821, volumes 1 to 5;2nd series, 1822-1824, volume 1 (three parts)
@@ -6294,7 +6294,7 @@ Public domainfalsefalse
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/%C3%86lfric%27s_Lives_of_Saints'),
     array('title' => 'Bohemia\'s claim for freedom', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "with an introduction by
 G·K· CHESTERTON·
 
@@ -6312,7 +6312,7 @@ United Statesbecause it was published before January 1, 1931.
 The longest-living author of this work died in 1961, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 64 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Bohemia%27s_claim_for_freedom'),
     array('title' => 'Wikinews', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "This is the category fortelevision.
 
 You can also browse through all articles in this category alphabetically.
@@ -6331,7 +6331,7 @@ This category has the following 24 subcategories, out of 24 total.
 
 The following 200 pages are in this category, out of 479 total.
 
-This category contains only the following file.", 'source_url' => ''),
+This category contains only the following file.", 'source_url' => 'https://en.wikisource.org/wiki/Crowdsourcing_and_Open_Access:_Collaborative_Techniques_for_Disseminating_Legal_Materials_and_Scholarship'),
     array('title' => 'Commons gallery', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Medion TV-Tuner for DVB-T/TV/FM
 
 Medion TV-Tuner for DVB-T/TV/FM
@@ -6360,7 +6360,7 @@ WDR-Studio, Düsseldorf, Germany
 
 WDR-Archivhaus, Cologne, Germany
 
-WDR-Studio, Düsseldorf, Germany", 'source_url' => ''),
+WDR-Studio, Düsseldorf, Germany", 'source_url' => 'https://en.wikisource.org/wiki/Creative_Commons_Attribution-ShareAlike_3.0_Unported'),
     array('title' => 'Baseball Joe on the School Nine', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Book 2 in the
 Baseball Joeseries
 
@@ -6408,7 +6408,7 @@ United Statesbecause they were published before January 1, 1931.
 These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author:Lester_Chadwick'),
     array('title' => 'Sex', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Published 1922. See talk page for difficulties.
 
 AVOIDED SUBJECTS DISCUSSED IN PLAIN ENGLISH
@@ -6452,7 +6452,7 @@ United Statesbecause they were published before January 1, 1931.
 These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author:Maurice_Mauris'),
     array('title' => 'Cicero And The Fall Of The Roman Republic', 'author' => '', 'year' => '1850', 'category' => 'Christmas carols', 'lyrics' => "FELLOW OF BALLIOL COLLEGE, OXFORD
 
 FACTA DUCIS VIVENT, OPEROSAQUEGLORIA RERUM—OVID, IN LIVIAM, 265
@@ -6604,7 +6604,7 @@ United Statesbecause it was published before January 1, 1931.
 The longest-living author of this work died in 1970, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 55 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
 
 Public domain
-Public domainfalsefalse", 'source_url' => ''),
+Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Czechoslovak_Review/Volume_3/Number_1/Prague,_city_of_seven_hills'),
     array('title' => 'Pulchrism: Championing Beauty as the Purpose of Art', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "PULCHRISMCHAMPIONING BEAUTY AS THE PURPOSE OF ART
 
 Pulchrism: Championing Beauty as the Purpose of Art
@@ -6815,7 +6815,7 @@ Clellan fearless,
 Though he boasts what he can do.
 So farewell “old Fuss and Feathers,”Good bye “Picayune” also,
 You’ll make excellent bell weathers,
-To lose a fight in a week or so.", 'source_url' => ''),
+To lose a fight in a week or so.", 'source_url' => 'https://en.wikisource.org/wiki/The_Rebel%27s_Retort'),
     array('title' => 'The Skye Boat Song', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Chorus:
 Speed bonnie boat like a bird on the wing,
 Onward, the sailors cry.
@@ -6908,7 +6908,7 @@ A garden is you know,
 In Eden was a garden,
 Five thouſand years ago;
 And Adam was a gard’ner,
-Juſt when he was made new,", 'source_url' => ''),
+Juſt when he was made new,", 'source_url' => 'https://en.wikisource.org/wiki/Excellent_new_song_called_the_farmer%27s_glory'),
     array('title' => 'Canadian Singers and Their Songs', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "The clouds roll over the pine trees,
 Like waves that are charged with ire;
 Golden and glory hued, their crests,
@@ -7280,7 +7280,7 @@ Where hospitable graves
 Are widely yawning for the reckless foe,
 My lip can bid thee, best beloved, go!
 What if thou fallest? my heart will throb to know
-He died, O South, for thee!", 'source_url' => ''),
+He died, O South, for thee!", 'source_url' => 'https://en.wikisource.org/wiki/The_Confederate_Soldier%27s_wife'),
     array('title' => 'The Song of Right and Wrong', 'author' => '', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "Feast on wine or fast on water
 And your honour shall stand sure,
 God Almighty's son and daughter
@@ -7636,7 +7636,7 @@ Some more ragtime;
 Yiddle, don't you stop,
 If you do, I'll drop,
 For I just can't make any eyes shut up,
-Yiddle on your fiddle, play some ragtime.\"", 'source_url' => ''),
+Yiddle on your fiddle, play some ragtime.\"", 'source_url' => 'https://en.wikisource.org/wiki/Yiddle,_On_Your_Fiddle,_Play_Some_Ragtime'),
     array('title' => 'Uncle Jim’s Baptist Revival Hymn', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Solo.—Sin’s rooster’s crowed, Ole Mahster’s riz,
 De sleepin’-time is pas’;
 Wake up dem lazy Baptissis,
@@ -7947,7 +7947,7 @@ The Father's co-eternal Son,
 Glory to Him be ever sung ;
 Come, let us adore,
 Come, let us adore,
-Come, let us adore the Lord.", 'source_url' => ''),
+Come, let us adore the Lord.", 'source_url' => 'https://en.wikisource.org/wiki/Ye_Faithful,_Come_Rejoice_and_Sing'),
     array('title' => 'O Come, All Ye Faithful (Westminster Abbey Hymn Book)', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "O come, all ye faithful,
 Joyful and triumphant;
 O come ye, O come ye to Bethlehem:
@@ -8055,7 +8055,7 @@ Blessing and honour
 Give we by the Spirit:
 O come with adoration
 O come with adoration,
-O come with adoration before the Lord. Amen.", 'source_url' => ''),
+O come with adoration before the Lord. Amen.", 'source_url' => 'https://en.wikisource.org/wiki/Assemble,_Ye_Faithful'),
     array('title' => 'Ye Faithful, Triumphant Enter Into Bethlehem', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Ye faithful, triumphant
 Enter into Bethlehem,
 Enter, oh enter with joy of heart;
@@ -8079,7 +8079,7 @@ Sing praise in full chorus,
 All ye hosts of angels,
 Sing praise all ye nations of the earth.
 Hallelujah! Hallelujah!
-Chorus.", 'source_url' => ''),
+Chorus.", 'source_url' => 'https://en.wikisource.org/wiki/Ye_Faithful,_Triumphant_Enter_Into_Bethlehem'),
     array('title' => 'How Far From Home', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "I hear the rising tempest moan,
 My failing limbs have weary grown,
 The flowers are shut, the streams are dried,
@@ -8318,7 +8318,7 @@ SARAH, about 14 Years old, House Servant.
 Fine Rice, Gram, Paddy, Books, Muslins,
 Needles, Pins, Ribbons, &c. &c.
 
-BLUCHER,", 'source_url' => ''),
+BLUCHER,", 'source_url' => 'https://en.wikisource.org/wiki/Slave_sale_poster,_1829'),
     array('title' => 'Tidings of the Saviour\'s birth.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "2.
 See a beauteous angel soaring
 In the bright celestial blaze,
