@@ -229,32 +229,6 @@ All receive the Grace Atoning,
 All the Sprinkled Blood receive.
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
-    array('title' => 'English Folk-Carols/King Herod and the Cock', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "This abridged version of \"The Carnal and the Crane\" was sung by Mrs. Plumb at Armscote, Worcestershire. For more information, see
-Notes on the Songsat the end of this volume.
-
-1
-Therewas a star in David's land,
-In David's land appeared;
-And in King Herod's chamber
-So bright it did shine there.
-
-2
-The Wise Men they soon spi-ed it,
-And told the King a-nigh
-That a Princely Babe was born that night,
-No King shall e'er destroy.
-
-3
-If this be the truth, King Herod said,
-That thou hast told to me,
-The roasted cock that lies in the dish
-Shall crow full senses three.
-
-4
-O the cock soon thrustened and feathered well,
-By the work of God's own hand,
-And he did crow full senses three
-In the dish where he did stand.", 'source_url' => ''),
     array('title' => 'Ye Simple Men of Heart Sincere', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Ye simple men of heart sincere,
 Shepherds, who watch your flocks by night,
 Start not to see an Angel near,
@@ -3019,54 +2993,6 @@ Raise, raise a song on high,
 The virgin sings her lullaby.
 Joy, joy for Christ is born,
 The Babe, the Son of Mary.", 'source_url' => ''),
-    array('title' => 'A Soldier\'s Song (Kearney/Heeney)', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "We'll sing a song, a soldier's song,
-With cheering rousing chorus,
-As round our blazing fires we throng,
-The starry heavens o'er us;
-Impatient for the coming fight,
-And as we wait the morning's light,
-Here in the silence of the night,
-We'll chant a soldier's song.
-Chorus:
-Soldiers are we , whose lives are pledged to Ireland;
-Some have come from a land beyond the wave.
-Sworn to be free, No more our ancient sire land
-Shall shelter the despot or the slave.
-Tonight we man the gap of danger
-In Erin's cause, come woe or weal'Mid cannons' roar and rifles peal,
-We'll chant a soldier's song.
-In valley green, on towering crag,
-Our fathers fought before us,
-And conquered 'neath the same old flag
-That's proudly floating o'er us.
-We're children of a fighting race,
-That never yet has known disgrace,
-And as we march, the foe to face,
-We'll chant a soldier's song.
-Chorus
-Sons of the Gael! Men of the Pale!
-The long watched day is breaking;
-The serried ranks of Inisfail
-Shall set the Tyrant quaking.
-Our camp fires now are burning low;
-See in the east a silv'ry glow,
-Out yonder waits the Saxon foe,
-So chant a soldier's song.", 'source_url' => ''),
-    array('title' => 'The National Anthems of the Allies/Portugal', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "1.
-O' pa-tria,ó  Rei, ó Po vo, Amaa tua Religião,
-Observa e guarda sempre
-Divinal Consti tuição, (repeat)Chorus
-Viva, viva, vivao Rei
-Via vao Santa Religião
-Viva Lusos valorosos,
-A felis Consti tuição (repeat)1. All ye who love our nation,
-For the faith put forth your might!
-Be it ever in your inspiratrion,
-The law divine to all hearts unite! (repeat)Chorus
-Lead us onward, holy banner!
-Guide us ever, immortal faith!
-Ev'ry man will follow proudly
-On the way to victory or death, (repeat)", 'source_url' => ''),
     array('title' => 'Ode to Newfoundland', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "National anthem of the Dominion of Newfoundland from 1904 to 1949; provincial anthem of Newfoundland and Labrador since 1980. The tune was composed by
 Hubert Parry. Traditionally only the first and last verses are sung.
 
@@ -4275,22 +4201,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Ar Hyd y Nos (Boulton/Maynard)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Sleep my love, and peace attend thee
-All through the night;
-Guardian angels God will lend thee,
-All through the night,
-Soft the drowsy hours are creeping,
-Hill and vale in slumber steeping,
-I my loving vigil keeping,
-All through the night.
-Angels watching ever round thee,
-All through the night,
-In thy slumbers close surround thee,
-All through the night,
-They should of all fears disarm thee,
-No forebodings should alarm thee,
-They will let no peril harm thee,
-All through the night.", 'source_url' => ''),
     array('title' => 'In Zanzibar', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "In Zanzibar great land of glory
 A monkey Czar so runs the story
 Came from afar with love o'er laden
@@ -6723,35 +6633,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/That\'s Mathematics', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Counting sheep --- when you're trying to sleep,
-Being fair --- when there's something to share,
-Being neat --- when you're folding a sheet,
-That's mathematics!
-When a ball --- bounces off of a wall,
-When you cook --- from a recipe book,
-When you know --- how much money you owe,
-That's mathematics!
-How much gold
-Can you hold
-In an elephant's ear?
-When it's noon
-On the moon,
-Then what time is it here?
-If you could count for a year,
-Would you get to infinity
-Or somewhere in that vicinity?
-When you choose --- how much postage to use,
-When you know --- what's the chance it will snow,
-When you bet --- and you end up in debt,
-Oh, try as you may,
-You just can't get away
-From mathematics!
-Tap your feet --- keeping time to the beat
-Of a song --- while you're singing along,
-Harmonize --- with the rest of the guys,
-Yes, try as you may,
-You just can't get away
-From mathematics!", 'source_url' => ''),
     array('title' => 'Prague, city of seven hills', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Eight Etchings by
 J. C. Vondrous
 
@@ -6946,146 +6827,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/New Math', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "You can't take three from two,
-Two is less than three,
-So you look at the four in the tens place.
-Now that's really four tens
-So you make it three tens,
-Regroup, and you change a ten to ten ones,
-And you add 'em to the two and get twelve,
-And you take away three, that's nine.
-Is that clear?
-Now instead of four in the tens place
-You've got three,'Cause you added one,
-That is to say, ten, to the two,
-But you can't take seven from three,
-So you look in the hundreds place.
-From the three you then use one
-To make ten ones...(And you know why four plus minus one
-Plus ten is fourteen minus one?'Cause addition is commutative, right!)And so you've got thirteen tens
-And you take away seven,
-And that leaves five...
-Well, six actually...
-But the idea is the important thing!
-Now go back to the hundreds place,
-You're left with two,
-And you take away one from two,
-And that leaves...?
-Everybody get one? Not bad for the first day!
-Hooray for New Math,
-New-hoo-hoo Math,
-It won't do you a bit of good to review math.
-It's so simple,
-So very simple,
-That only a child can do it!", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/The Elements', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "There's antimony, arsenic, aluminum, selenium,
-And hydrogen and oxygen and nitrogen and rhenium,
-And nickel, neodymium, neptunium, germanium,
-And iron, americium, ruthenium, uranium,
-Europium, zirconium, lutetium, vanadium,
-And lanthanum and osmium and astatine and radium,
-And gold and protactinium and indium and gallium,
-And iodine and thorium and thulium and thallium.
-There's yttrium, ytterbium, actinium, rubidium,
-And boron, gadolinium, niobium, iridium,
-And strontium and silicon and silver and samarium,
-And bismuth, bromine, lithium, beryllium, and barium.
-There's holmium and helium and hafnium and erbium,
-And phosphorus and francium and fluorine and terbium,
-And manganese and mercury, molybdenum, magnesium,
-Dysprosium and scandium and cerium and cesium.
-And lead, praseodymium and platinum, plutonium,
-Palladium, promethium, potassium, polonium,
-And tantalum, technetium, titanium, tellurium,
-And cadmium and calcium and chromium and curium.
-There's sulfur, californium and fermium, berkelium,
-And also mendelevium, einsteinium, nobelium,
-And argon, krypton, neon, radon, xenon, zinc and rhodium,
-And chlorine, carbon, cobalt, copper, tungsten, tin and sodium.
-These are the only ones of which the news has come to Ha'vard,
-And there may be many others but they haven't been discavard.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/George Murphy', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "Hollywood's often tried to mix
-Show business with politics,
-From Helen Gahagan
-To Ronald Reagan.
-But Mister Murphy is the star
-Who's done the best by far.
-Oh, gee, it's great,
-At last we've got a senator who can really sing and dance.
-We can't expect America to win against its foes
-With no one in the Senate who can really tap his toes.
-The movies that you've seen
-On your television screen
-Show his legislative talents at a glance:
-Should
-American'spick crops? George says \"No,'Cause no one but a Mexican would stoop so low,
-And, after all, even in Egypt the Pharaohs
-Had to import Hebrew braceros.
-Just think of all the musicals we have in store.
-Imagine
-Broadway Melody of 1984!
-Yes, now that he's a senator, he's really got the chance
-To give the public
-A song and dance.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/The Hunting Song', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "I always will remember,'Twas a year ago November,
-I went out to hunt some deer
-On a morning bright and clear.
-I went and shot the maximum the game laws would allow.
-Two game wardens, seven hunters, and a cow.
-I was in no mood to trifle,
-I took down my trusty rifle
-And went out to stalk my prey.
-What a haul I made that day.
-I tied them to my fender, and I drove them home somehow,
-Two game wardens, seven hunters, and a cow.
-The law was very firm, it
-Took away my permit,
-The worst punishment I ever endured.
-It turned out there was a reason,
-Cows were out of season,
-And one of the hunters wasn't insured.
-People ask me how I do it,
-And I say, \"There's nothin' to it,
-You just stand there lookin' cute,
-And when something moves, you shoot!\"And there's ten stuffed heads in my trophy room right now,
-Two game wardens,
-Seven hunters,
-And a pure-bred Guernsey cow.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Speed\'s Song', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "All day long you whine and whimper,
-Sighing sighs and looking vague,
-Fold your arms and look tormented(And) hide as if you had the plague.
-War-bl-ing pathetic love songs,
-Tossing in your sleep at night,
-Weeping [sob] --- just as if you'd lost your mother,
-Fasting with no appetite.
-Once you used to laugh at lovers
-When they spoke of how it feels,
-Weeping [sob] --- only when you needed money,
-Fasting only between meals.
-You may be my master,
-But look how you behave!
-Love is the master now,
-You are the slave.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Relativity', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "When Isaac Newton wrote
-The laws that we all quote,
-It's now extremely apparent that he
-Neglected to consider
-Relativity.
-What focused our attention
-On the fourth dimension?
-We 'd been doing so well with just three.'Twas Mister Einstein's brain child,
-Relativity.
-And who would think
-And who'd forecast
-That bodies shrink
-When they go fast?
-It makes old Isaac's theory
-Look w-e-o-ry.
-And so if you are near
-When atom bombs appear,
-And you're reduced to a pile of debris,
-You 'll know it's largely due to
-Relativity.", 'source_url' => ''),
     array('title' => 'A Ballad of Trees and the Master', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "Intothe woods my Master went,
 Clean forspent, forspent.
 Into the woods my Master came,
@@ -7101,154 +6842,6 @@ Content with death and shame.
 When Death and Shame would woo Him last,
 From under the trees they drew Him last:’Twas on a tree they slew Him—last
 When out of the woods He came.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/A Christmas Carol', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "Christmas time is here, by golly.
-Disapproval would be folly.
-Deck the halls with hunks of holly.
-Fill the cup and don't say when.
-Kill the turkeys, ducks, and chickens,
-Mix the punch, drag out the Dickens.
-Even though the prospect sickens,
-Brother, here we go again.
-On Christmas Day you can't get sore.
-Your fellow man you must adore.
-There's time to rob him all the more
-The other three hundred and sixty-four.
-Relations, sparing no expense, 'll
-Send some useless old utensil
-Or a matching pen and pencil.(\"Just the thing I need! How nice!\")It doesn't matter how sincere it
-Is, nor how heartfelt the spirit,
-Sentiment will not endear it.
-What's important is the price.
-Hark, the
-Herald Tribunesings,
-Advertising wondrous things.
-God rest you merry, merchants,
-May you make the Yuletide pay.
-Angels we have heard on high
-Tell us to go out and buy!
-So let the raucous sleighbells jingle.
-Hail our dear old friend Kriss Kringle,
-Driving his reindeer across the sky.
-Don't stand underneath when they fly by.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Clementine', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "(Gilbert and Sullivan)That I missed her depressed her
-Young sister named Esther.
-This mister to pester
-She'd try.
-Now a pestering sister's a festering blister,
-You'd best to resist her,
-Say I.
-The mister resisted,
-The sister persisted,
-I kissed her, all loyalty slipped.
-When she said I could have her,
-Her sister's cadaver
-Must surely have turned in its crypt, yes, yes, yes yes!
-Now I love she and she loves me.
-Enraptured are the both of we,
-Yes, I love her and she loves I,
-And will through all eternitye.
-See what I mean?", 'source_url' => ''),
-    array('title' => 'The National Anthems of the Allies/Serbia', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Boze prar de Tisto spase,
-Od propasti do sad nas
-Cuj i od sad našeglase I od sad nam budispas
-Moé-nom rukmo vodi brani,
-Buduénosti srpske brod.
-Bože spasi Boži brani
-Srpskog kerlja, Srpski rod:
-Bože spasi, Bože brani,
-Srpskog kerlja, Srpski rod:
-Srpskog kerlja, Srpski rod:
-God! Who in bygones hast saved us thy people,
-Great King of Justice, hear us this day
-While for our country, for Serbia's salvation,
-We with devotion unceasingly pray
-Onward! onward! Lead us ever.
-Out of shadow into light,
-Till our ship of state be anchored
-Thro' the mercy of thy might:
-Till our foes be spent and scattered
-In the fullneed of the Light,
-Serbia's King and Serbia's land,
-Guarded for ever more.", 'source_url' => ''),
-    array('title' => 'The National Anthems of the Allies/France', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "2. Nous entrerons duns la carriére,
-Quand nos ainés n'y seront plus.
-Nous y trouverons leur poussiére,
-Et la trace de leurs vertus!(bis)Bien moins jaloux de leur survivre,
-Que de partager leur cercueil,
-Nous aurons le sublime orgueil
-De les venger on de les suivre.
-Aux armes, citoyens! etc.3. Amour sacré de la Patrie,
-Conduis, soutiens nos bras vengeurs;
-Liberté, Libertié, chérie,
-Combats avec tes défenseurs!(bis)Sous nos drapeaux que la Victoire
-Accoure  tes males accents;
-Que tes ennemis expirants
-Voient ton triomphe et notre gloire!
-Aux armes, citoyens! etc.2. Within the tomb ourselves must enter,
-When all our oldest are at rest;
-We shall find their dust reposing,
-Trace the virtues each possest; (bis)Then, then shall we, jealous of honour, yet
-Shrink not to share their grave,
-For pride, o'ercoming vain regret,
-Avenges still the brave!
-To arms, ye warriors all! etc.3. That sacred love — the love of country,
-Spurs on afresh our eager arms,
-And for conquest and for freedom,
-We dare the vast alarms! (bis)Speedily then, crowning heroic deeds,
-Triumph shall lift each head
-And our One Flag fly proudly o'er
-The living and the dead!
-To arms, ye warriors all! etc.", 'source_url' => ''),
-    array('title' => 'Japanese Peasant Songs/Foundation Pounding Songs', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "In the center
-Of the two tan[5]field
-One very little
-Plum tree stands.
-This plum tree
-Brought the young pine tree.
-The small plum tree
-Has this to say:“Because I’m small
-Do not look down on me;
-Pepper and sansho[6]The smaller they are, the sharper they are.
-The pocket knife of Seki,
-Although the blade is thin,
-It can cut silk
-And cut brocade.
-Although the bridge of Seta[7]Is a small short bridge
-Here I too
-Will cut short
-To the young people[8]The rest I’ll leave.”", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/The Rebel Girl', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "That's the Rebel Girl, that's the Rebel Girl!
-To the working class she's a precious pearl.
-She brings courage, pride and joy
-To the fighting Rebel Boy.
-We've had girls before, but we need some more
-In the Industrial Workers of the World.
-For it's great fight forfreedof
-With a Rebel Girl.
-Yes, her hands may hardened from labor,
-And her dress may not be very fine;
-But a heart in her bosom is beating
-That is true to her class and her kind.
-And the grafters in terror are trembling
-When her spite and defiance she'll hurl;
-For the only andthroughbredlady
-Is the Rebel Girl.", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (9th edition)/The Rebel Girl', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "That's the Rebel Girl, that's the Rebel Girl!
-To the working class she's a precious pearl.
-She brings courage, pride and joy
-To the fighting Rebel Boy.
-We've had girls before, but we need some more
-In the Industrial Workers of the World.
-For it's great to fight for freedom
-With a Rebel Girl.
-Yes, her hands may be hardened from labor,
-And her dress may not be very fine;
-But a heart in her bosom is beating
-That is true to her class and her kind.
-And the grafters in terror are trembling
-When her spite and defiance she'll hurl;
-For the only and thoroughbred lady
-Is the Rebel Girl.", 'source_url' => ''),
     array('title' => 'The Rebel\'s Retort', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "Tell us not we will make blunders,
 That our hopes are but a dream,
 What reck we of Lincoln’s thunders,
@@ -7277,61 +6870,6 @@ Though he boasts what he can do.
 So farewell “old Fuss and Feathers,”Good bye “Picayune” also,
 You’ll make excellent bell weathers,
 To lose a fight in a week or so.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/A Mirage', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "And all day long
-Our lives should be a song:
-No grief, no wrong
-Should make my heart rebel—Were I thy bride!
-The silvery flute,
-The melancholy lute,
-Were night owl's hoot
-To my low-whispered coo—Were I thy bride!
-The skylark's trill
-Were but discordance shrill
-To the soft thrill
-Of wooing as I'd woo—Were I thy bride!
-The rose's sigh
-Were as a carrion's cry
-To lullaby
-Such as I'd sing to thee,
-Were I thy bride!
-A feather's press
-Were leaden heaviness
-To my caress.
-But then, unhappily,
-I'm not thy bride!", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/So Long, Mom', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "So long, Mom,
-I'm off to drop the bomb,
-So don't wait up for me.
-But while you swelter
-Down there in your shelter,
-You can see me
-On your TV.
-While we're attacking frontally,
-Watch Brinkally and Huntally,
-Describing contrapuntally
-The cities we have lost.
-No need for you to miss a minute
-Of the agonizing holocaust.
-Little Johnny Jones he was a U.
-S. pilot,
-And no shrinking vi'let was he.
-He was mighty proud when World War Three was declared.
-He wasn't scared,
-No siree!
-And this is what he said on
-His way to armageddon:
-So long, Mom,
-I'm off to drop the bomb,
-So don't wait up for me.
-But though I may roam,
-I'll come back to my home,
-Although it may be
-A pile of debris.
-Remember, Mommy,
-I'm off to get a Commie,
-So send me a salami,
-And try to smile somehow.
-I'll look for you when the war is over ---An hour and a half from now", 'source_url' => ''),
     array('title' => 'The Skye Boat Song', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Chorus:
 Speed bonnie boat like a bird on the wing,
 Onward, the sailors cry.
@@ -7357,25 +6895,6 @@ Scattered the loyal men.
 Yet ere the sword cool in the sheath,
 Charlie will come again.
 Chorus", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/The White Slave', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Come with me now, my girly,
-Don't sleep out in the cold;
-Your face and tresses curly
-Will bring you fame and gold,
-Automobiles to ride in, diamonds and silk to wear,
-You'll be a star bright, down in the red light,
-You'll make your fortune there.
-Same little girl, no more a pearl,
-Walks all alone 'long the river,
-Five years have flown, her health is gone,
-She would look at the water and shiver,
-Whene'er she'd stop to rest and sleep,
-She'd hear a voice call from the deep:
-Girls in this way, fall every day,
-And have been falling for ages,
-Who is to blame? You know his name,
-It's the boss that pays starvation wages.
-A homeless girl can always hear
-Temptations calling everywhere.", 'source_url' => ''),
     array('title' => 'Twelve Years a Slave', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "\"Such dupes are men to custom, and so prone
 To reverence what is ancient, and can plead
 A course of long observance for its use,
@@ -7392,118 +6911,6 @@ Should be a despot absolute, and boast
 Himself the only freeman of his land?\"
 
 Cowper", 'source_url' => ''),
-    array('title' => 'Songs of Love and Rebellion/Might is right', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Might was right when Christ was hanged
-Beside the Jordan's foam;
-Might was right when Gracchus bled,
-Upon the stones of Rome;
-And might was right when Danton fell,
-When Emmet passed away—\"'Tis the logic of the ancient world,
-And the gospel of today.\"Might was right when Spartacus
-Went down in seas of blood,
-And when the Commune perished
-In the self-same crimson flood;
-And might was right at Cripple Creek,
-At Homestead, Grabow—yea!\"'Tis the logic of the ancient world,
-And the gospel of today.\"Might was right when Parsons died,
-When Ferrer followed him,
-When Cole's young life was beaten out
-In Spokane's dungeons grim;
-And might was right when Pettibone
-Went stagg'ring down death's way—\"'Tis the logic of the ancient world,
-And the gospel of today.\"Might is right when Morgan builds
-A hell 'round every hearth;
-Might is right when Kirby starves
-His peons off the earth;
-And might was right when Deitz became
-Wolfe Weyerhauser's prey —\"'Tis the logic of the ancient world,
-And the gospel of today.\"", 'source_url' => ''),
-    array('title' => 'Memories of Virginia/Bruton Church', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "And now, my friend of memories,
-I'll wake the echoes with refrain,
-The echoes known to every heart,\"Never again! Never again.\"Echoes from the old Welsh mountains,
-Echoes from Great Britain's shore,
-Echoes from the land of Baldwin,
-The old time echo, \"Never more.\"Echoes from Denbigh Plantation,
-Echoes from Point Comfort shore,
-Echoes from the Old James River,
-Echoes we seek to hear once more.
-Echoes from the Mississippi,
-Echoes from the Tappan Zee,
-Echoes from the Rappahannock,
-They call to you—they call to me.", 'source_url' => ''),
-    array('title' => 'Work-a-day Warriors/Adverts', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "HERBERT ASQUITH, Capt. R.
-F.
-A.†RUPERT BROOKE, Sub-Lieut, R.
-N.
-V.
-R.
-GILBERT FRANKAU, Capt. R.
-F.
-A.
-ROBERT GRAVES, Capt. Royal Welsh Fusiliers†JULIAN GRENFELL, D.5.0., Capt. Royal Dragoons
-F. W. HARVEY, D.
-C.
-M., Lieut. Gloucestershire Regt.
-AUBREY HERBERT, M.
-P., Capt. Irish Guards†W, N. HODGSON, M.
-C., Lieut. Devon Regt.
-RONALD HOPWOOD, Capt. R.
-N.
-WILLIAM M. JAMES, Commander R.
-N.
-JOSEPH LEE, Lieut. K.
-R.
-R.
-C.
-E. A. MACKINTOSH, M.
-C., Lieut, Seaforth Highlanders
-ROBERT NICHOLS, Lieut. R.
-F.
-A.†COLWYN PHILIPPS, Capt Royal Horse Guards
-SIEGFRIED SASSOON, M.
-C., Lieut. Royal Welsh Fusiliers†CHARLES H. SORLEY, Lieut. Suffolk Regt.
-WILLOUGHBY WEAVING, Lieut. Royal Irish Rifles", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/Dixie', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Where justice is God only knows
-Far away in Dixie land
-They built the vilest place I've known
-To keep the slaves from doing harm
-Nothing was forgotten
-Where every thing is rotten
-When they built the county farm.
-And then they took a devil from the pit
-And they gave him a thirty-eight
-Theytoughthim to be a convict quard
-And all workingmen to hate
-It's a crime to organize down there
-But we'll show them as we've shown the Master Classalsewhere
-We'll make it twice as nice as paradise
-When we conquer Dixie land.
-Oh the workers slave in this land so bright
-Where flowerseverbloom
-And democrats use laws and might
-To turn the light to gloom
-Oh working class of Dixie,
-Wake up and take your due
-Then the flowers will bloom for us again
-When finally we are through.", 'source_url' => ''),
-    array('title' => 'Hold the Fort!/Union Hall and Picket Line', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "We meet today in Freedom's cause
-And raise our voices high;
-We'll join our hands in union strong,
-To battle or to die.
-Hold the fort for we are corning—Union men, be strong.
-Side by side we battle onward,
-Victory will come.
-Look my Comrades, see the union
-Banners waving high.
-Reinforcements now appearing
-Victory is nigh.
-See our numbers still increasing;
-Hear the bugles blow.
-By our union we shall triumph
-Over every foe.
-Fierce and long the battle rages,
-But we will not fear,
-Help will come whene'er it's needed,
-Cheer, my Comrades, cheer.[134]", 'source_url' => ''),
     array('title' => 'Violet: a Vaudeville in Four Scenes', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Dane.
 Sunshine glows and warms my being,
 Coming from your touch and glances;
@@ -7556,21 +6963,6 @@ In Eden was a garden,
 Five thouſand years ago;
 And Adam was a gard’ner,
 Juſt when he was made new,", 'source_url' => ''),
-    array('title' => 'Cornhuskers/Mammy Hums', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The right shoulder of a strong man I leaned on.
-
-The face of the rain that drizzled on the short neck of a canal boat.
-
-The eyes of a child who slept while death went over and under.
-
-They go and come with white surf
-
-And then you may sleep with a late afternoon slumber sun.
-
-Then you may slip your head in an elbow knowing nothing—only sleep.
-
-If so you sleep in the house of our song,
-
-If so you sleep under the apple trees of our song,", 'source_url' => ''),
     array('title' => 'Canadian Singers and Their Songs', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The clouds roll over the pine trees,
 Like waves that are charged with ire;
 Golden and glory hued, their crests,
@@ -7587,75 +6979,6 @@ And the lake, serene and thoughtful,
 And the river, deep in dreams,
 And the purple cliff in the distance,
 Are robed with the glory-gleams.", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/Robert J. C. Stead', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Weep, waves of England! Nobler clay
-Was ne'er to nobler grave consigned;
-The wild waves weep with us to-day
-Who mourn a nation's master-mind.
-We hoped an honoured age for him,
-And ashes laid with England's great;
-And rapturous music, and the divine
-Deep hush that veils our Tomb of State.
-But this is better Set him sleep
-Where sleep the men who made us free,
-For England's heart is in the deep,
-And England's glory is the sea.
-Leap, waves of England! Boastful be,
-And fling defiance in the blast;
-For Earth is envious of the Sea
-Which shelters England's dead at last.", 'source_url' => ''),
-    array('title' => 'Opals (Custance)/Advertisements', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Volume
-I.
-April 1894, 272 pp., 15 Illustrations. [Out of print.
-Volume
-II.
-July 1894, 364 pp., 23 Illustrations.
-Volume
-III.
-October 1894, 280 pp., 15 Illustrations.
-Volume
-IV.
-January 1895, 285 pp., 16 Illustrations.
-Volume
-V.
-April 1895, 317 pp., 14 Illustrations.
-Volume
-VI.
-July 1895, 335 pp., 16 Illustrations.
-Volume
-VII. October, 1895, 320 pp., 20 Illustrations.
-Volume
-VIII.
-January 1896, 406 pp., 26 Illustrations.
-Volume
-IX.
-April 1896, 256 pp., 17 Illustrations.
-Volume
-X.
-July 1896. 340 pp., 13 Illustrations.
-Volume
-XI.
-October 1896, 342 pp., 12 Illustrations.
-Volume
-XII.
-January 1897, 350 pp., 14 Illustrations.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Juca', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Juca was arrested for dancing,
-It was part of his romancing,
-Serenading his Maria,
-Who was finding it entrancing.
-Two policemen, reconnoitering,
-Decided he was loitering.
-Outside the shops
-Along that street in Rio,
-He tried to get the cops
-To make the act a trio.
-Juca was a little disgusted
-When they took him into custod-Y — He said, \"Now just for dancing
-Can a guy get busted?\"His defense was very short:
-He did a samba in the court,
-And yet the judge said \"Guilty! Why, the very idea!\"But he hadn't danced in years and never met Maria.
-Juca said, \"It sure would be a great idea
-If judges learned to dance,
-And if they met my Maria.\"", 'source_url' => ''),
     array('title' => 'Egyptian Girl Scouts Anthem', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "We are the lights of intelligence,
 We are the good news of the times.
 We are the scouts of the fatherland.
@@ -7672,95 +6995,6 @@ That the fatherland may live for ever,
 Free and powerful,
 Honored and firm.
 We are the scouts of the fatherland.\"", 'source_url' => ''),
-    array('title' => 'The University Hymn Book/God reveals his presence', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "GOD reveals his presence—Let us now adore him,
-And with awe appear before him,
-God is in his temple—All within keep silence,
-Prostrate lie with deepest reverence.
-Him alone
-God we own.
-Him our God and Saviour:
-Praise his name for ever.
-God reveals his presence—Hear the harps resounding!
-See the crowds the throne surrounding!'Holy, holy, holy,'Hear the hymn ascending,
-Angels, saints, their voices blending!
-Bow thine ear
-To us here:
-Hearken, Lord Jesus,
-To our meaner praises.
-O thou Fount of blessing,
-Purify my spirit
-Trusting only in thy merit.
-Like the holy angels
-Who behold thy glory
-May I ceaselessly adore thee.
-Let thy will
-Ever still
-Rule thy church terrestrial.
-As the hosts celestial.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Love of God', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Great God of Love! — that charming name
-Should all my powers controul;
-Should make my best affections flame
-And kindle all my soul.
-Nor I, nor Angels round the throne
-Can love to what's thy due;
-Beauties divine to them unknown
-Pass all they have in view.
-When they have stretch'd their wings for flight,
-The steep ascent to try; <10>Struck with the vast and boundless height,
-In wonder lost they lie.
-Yet they for ever wonder on
-And gaze with high delight:
-And love the Infinite unknown,
-With all their mind and might.
-I too would lift mine eyes to see
-What Angels can't explore,
-With fix'd attention gaze at Thee,
-And wonder and adore. <20>O clear mine eyes, my heart inflame,
-With love fill up my soul;
-Let this affection reign supreme,
-And all my powers controul.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Fear of God', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Celestial King, our spirits lie
-Trembling beneath thy feet;
-And wish, and cast a longing eye
-To reach thy lofty seat.
-In Thee, what endless wonders meet!
-What various glory shines!
-The crossing rays too fiercely beat
-Upon our fainting minds.
-Destruction waits upon thy frown,
-And heav'n attends thy smile; <10>A wreath of lightning arms thy crown,
-But love adorns it still.
-Angels are lost in sweet surprize,
-If thou unveil thy grace;
-And humble awe runs thro' the skies,
-When wrath arrays thy face.
-Created powers, how weak they be,
-How short our praises fall!
-So much akin to nothing we,
-And Thou th'eternal all. <20>Lord, here we bend our humble souls,
-And awfully adore!
-For the weak pinions of our minds
-Can stretch a thought no more.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Trust in God', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Great Source of boundless Power and Grace,
-Attend my mournful cry;
-In the dark hour of deep distress,
-To Thee, to Thee I fly.
-Thou art my strength, my life, my stay,
-Assist my feeble trust;
-Drive these distressing fears away,
-And raise me from the dust.
-O, let me call thy Grace to mind,
-And trust thy glorious name;
-Jehovah pow'rful, wise and kind,
-For ever is the same.
-Thy presence, Lord, can cheer my heart,
-When earthly comforts die;
-Thy smile can bid my pains depart,
-And raise my pleasures high.
-Here let me rest, in Thee depend,
-My God, my Hope, my All;
-Be Thou my everlasting friend,
-And I can never fall.", 'source_url' => ''),
     array('title' => 'Now the Day Is Over (The Lutheran Hymnal)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Now the day is over,
 Night is drawing nigh,
 Shadows of the evening
@@ -7793,267 +7027,6 @@ Glory to the Father,
 Glory to the Son,
 And to Thee, blest Spirit,
 While all ages run.", 'source_url' => ''),
-    array('title' => 'Rosemary and Pansies/Cradle Song', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Little laughing, crowing sprite,
-Mother's ever-new delight!
-How I love thee can I show
-By word or action? No, no, no!
-Smile, my darling, smile again!
-Far from thee be care and pain!
-All the joys of life be thine,
-Boundless love and pride be mine!
-Gladdest of all living things,
-Happier than queens or kings!
-In thy little cot upcurled,
-Sweetest creature in the world!
-Wealth or glory for a night
-Or a day may give delight,
-Day and night and night and day
-Lasts a mother's joy alway.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Prudence', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "O best oeconomist of life,
-Tho' all the passions were at strife;
-Yet thou, fair Prudence, could'st assuage
-The storm, and moderate its rage.5
-With Dove and Serpent at thy call,
-As caution'd by the Lord of all,
-Thou art in Christ full well aware,
-Of open force or secret snare.
-To check thy thoughts divinely meek,10
-To weigh thy words before you speak,
-To make the day's demand secure,
-To be the treas'rer of the poor:
-All these, Prudentia, these are thine,
-And God thro' Christ shall make them mine;15
-To do my best till life shall end,
-Then on futurity depend.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Moderation', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Tho' I my party long have chose,
-And claim Christ Jesus on my side,
-Yet will I not my peace oppose,
-By pique, by prejudice, or pride.5
-Blessed be God, that, at the font,
-My sponsors bound me to the call
-Of Christ in England to confront
-The world, the flesh, the fiend and all.
-And yet I will my thoughts suppress,10
-And keep my tongue from censure clear;
-The Jew, the Turk, the Heathen bless,
-And hold the plough and persevere.
-There's God in ev'ry man most sure,
-And ev'ry soul's to Christ allied;15
-If fears deject, if hopes allure,
-If Jesus wept, and pray'd, and died.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Mirth', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "If you are merry sing away,
-And touch the organs sweet;
-This is the Lord's triumphant day,
-Ye children in the gall'ries gay,5
-Shout from each goodly seat.
-It shall be May to-morrow's morn,[1]A field then let us run,
-And deck us in[2]the blooming thorn,
-Soon as the cock begins to warn,[3]10
-And long before the sun.
-I give the praise to Christ alone,
-My pinks already show;
-And my streak'd roses fully blown,
-The sweetness of the Lord make known,15
-And to his glory grow.
-Ye little prattlers that repair
-For cowslips in the mead,
-Of those exulting colts beware,
-But blythe security is there,20
-Where skipping lambkins feed.
-With white and crimson laughs the sky,[4]With birds the hedge-rows ring;
-To give the praise to God most High,
-And all the sulky fiends defy,25
-Is a most joyful thing.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Beauty', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "For a Damsel.
-
-Christ, keep me from the self — survey
-Of beauties all thine own;
-If there is beauty, let me pray
-And praise the Lord alone.5
-Pray — that I may the fiend withstand,
-Where'er his serpents be;
-Praise — that the Lord's almighty hand
-Is manifest in me.
-It is not so — my features are10
-Much meaner than the rest;
-A glow-worm cannot be a star,
-And I am plain at best.
-Then come, my love, thy grace impart,
-Great Saviour of mankind;15
-O come, and purify my heart,
-And beautify my mind.
-Then will I thy carnations nurse,
-And cherish every rose;
-And empty to the poor my purse,20
-Till grace to glory grows.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Mercy', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "O sweet — attentive to the pray'r,
-Ye forward hope and stave despair;
-Thro' Christ his blood divinely spill'd,
-Tremendous ruin to rebuild.5
-Tho' high above the great and just,
-Yet thou descendest to the dust;[1]Both to the sovereign and the slave,
-Nor quitt'st the monument and grave.
-O let me like the righteous die,10
-And so I shall if thou art by!
-The viol in thy hand uprears[2]My Saviour's blood, my Saviour's tears.
-Come, Cherub, come, possess my soul,
-All wrath and bitterness controul;15
-If thou thy charming pow'rs bestow,
-I'll shew thee to my veriest foe.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Learning', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Come, come with emulative strife,
-To learn the way, the truth, and life,
-Which Jesus is in one;
-In all sound doctrine he proceeds,5
-From Alpha to Omega leads,
-E'en Spirit, Sire, and Son.
-Sure of th'exceeding great reward,
-Midst all your learning learn the Lord —This was thy doctrine, Paul;10
-And this thy lecture shou'd persuade,
-Tho' thou hadst more of human aid,
-Than thy blest brethren all.
-Humanity's a charming thing,
-And every science of the ring,15
-Good is the classic lore;
-For these are helps along the road,
-That leads to Zion's blest abode,
-And heav'nly muse's store.
-But greater still in each respect,20
-He that communicates direct
-The tutor of the soul;
-Who without pain, degrees or parts,
-While he illuminates our hearts,
-Can teach at once the whole.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Loveliness', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Good-nature is thy sterling name,
-Yet loveliness is English too;[1]Sweet disposition, whose bright aim,
-Is to the mark of Jesus true.5
-I've seen thee in an homely face,
-Excel by pulchritude[2]of mind;
-To ill-form'd features give a grace,
-Serene, benevolent and kind.'Tis when the spirit is so great,10
-That it the body still controuls,
-As godly inclinations meet,
-In sweet society of souls.
-It is that condescending air,
-Where perfect willingness is plain,15
-To smile assent, to join in pray'r,
-And urg'd a mile to go it twain.[3]To grant at once the boon preferr'd,
-By contrite foe, or needy friend;
-To be obliging is the word,20
-And God's good blessing is the end.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Taste', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "O guide my judgment and my taste,
-Sweet SPIRIT, author of the book
-Of wonders, told in language chaste,
-And plainness not to be mistook.5
-O let me muse, and yet at sight
-The page admire, the page believe;\"Let there be light, and there was light,\"Let there be Paradise and Eve!\"Who his soul's rapture can refrain?10
-At Joseph's ever-pleasing tale,
-Of marvels, the prodigious train,
-To Sinai's hill from Goshen's vale.
-The Psalmist and proverbial Seer,
-And all the prophets' sons of song,15
-Make all things precious, all things clear,
-And bear the brilliant word along.
-O take the book from off the shelf,
-And con it meekly on thy knees;
-Best panegyric on itself,20
-And self-avouch'd to teach and please.
-Respect, adore it heart and mind,
-How greatly sweet, how sweetly grand!
-Who reads the most, is most refin'd,
-And polish'd by the Master's hand.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Silence', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Before thy betters with suspense,
-Into thyself withdraw
-Silence denotes superior sense,
-And shews superior awe.5
-Keep blessing still within thy heart,
-In meditation meek;
-Thus thou'rt prepar'd to act thy part.
-When urg'd at length to speak.
-When words break forth not duly weigh'd10
-From out the babbler's tongue,
-Full many a mournful mischief's made,
-Full many a conscience stung.
-Then pray with David, that the Lord
-Wou'd keep himself the door;15
-And all things from thy lips award,[1]That make thy brother sore.[2]But if there be a point to praise
-Some godly deed of price,
-With all thy might thy plaudits raise,
-Here silence were a vice.20", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Charity', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "O queen of virtues, whose sweet pow'r
-Does o'er the first perfections tow'r,
-Sustaining in the arms of love
-All want below, all weal above.5
-With thee O let my thoughts conceive,
-For all the very best believe;
-Predict, pronounce for all the best,
-And be by bearing all things blest.
-To suffer long and still be kind10
-In holy temperance of mind,
-Rejoice that truth is on my side,
-As free from envy as from pride.
-Both tongues and prophecies shall cease,
-And painful knowledge cede to peace;15
-And time and death o'er all prevail,
-But Charity shall never fail.
-Then guide, O Christ, this little hand,
-To deal thy bounties round the land;
-To clothe and feed the hungry poor,20
-And to the stranger ope my door.
-My cup of water, Christ, is free,
-For all that love and thirst for thee;
-With wisdom many a soul to win,
-And loose the irksome bonds of sin.25
-Make me, O Christ, tho' yet a child,
-To virtue zealous, errors mild,
-Profess the feelings of a man,
-And be the Lord's Samaritan.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Fortitude', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Stand fast, my child, and after all,
-Yet still stand fast, says holy Paul,
-Thy resolution be renew'd,
-For this is Christian Fortitude.5
-Repeat the Lord's own pray'r for grace,
-At ev'ry hour in ev'ry place;
-Spring up from human to divine,
-For strength invincible is thine.[2]Then, as the great Apostle saith,10'Bove all things take the shield of Faith,
-Salvation's helm, and for thy sword,
-E'en God's good Spirit and his Word.
-And now in dang'rous giddy youth,
-Your loins begirt about with Truth;[3]15
-Your feet with Gospel-peace be shod,
-Your breast — plate Righteousness from God.
-When to the ghostly fight alarm'd,
-Know, soldier, thou'rt completely arm'd,
-And free from terror or dismay,20
-March on, engage, and win the day.", 'source_url' => ''),
-    array('title' => 'Hymns for the Amusement of Children (1791)/Gratitude', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I upon the first creation
-Clap'd my wings with loud applause,
-Cherub of the highest station,[1]Praising, blessing, without pause.5
-I in Eden's bloomy bowers
-Was the heav'nly gard'ner's pride,
-Sweet of sweets, and flow'r of flowers
-With the scented tinctures dy'd.
-Hear, ye little children, hear me,10
-I am God's delightful voice;
-They who sweetly still revere me,
-Still shall make the wisest choice.
-Hear me not like Adam trembling,
-When I walk'd in Eden's grove;15
-And the host of heav'n assembling,
-From the spot the traitor drove.
-Hear me rather as the lover
-Of mankind, restor'd and free;
-By the Word[2]ye shall recover20
-More than that ye lost by Me.[3]I'm the Phoenix of the singers
-That in upper Eden[4]dwell;
-Hearing me Euphrates[5]lingers,
-As my wond'rous tale I tell.25'Tis the story of the Graces,
-Mercies without end or sum;
-And the sketches and the traces
-Of ten thousand more to come.
-List, my children, list within you,30
-Dread not ye the tempter's rod;
-Christ our gratitude shall win you,
-Wean'd from earth, and led to God.", 'source_url' => ''),
     array('title' => 'Christ Among the Cattle', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "\"Think what a price to pay,
 Faces so bright and gay,
 Just for a hat!
@@ -8120,97 +7093,6 @@ You'd idly sit, as I, sansdoubt;
 As I, would fall to wishing
 That you were just a speckled trout
 When Mabel goes a-fishing!", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/High School Hymn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "To whom it may concern we pray
-That we'll get out of here some day.
-O Thou, our awesome chaperone,
-Who can't leave well enough alone,
-Give us a break, we beg of Thee,
-Or better yet, just let us be.
-If Thou canst hear us, that's just swell.
-Sometimes it's really hard to tell.
-Perhaps we'll never see Thy face,
-But we'll keep praying just in case,
-Until the day we say goodbye,
-Released at last from --------- High.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/A Man who would Woo a Fair Maid', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "AMAN who would woo a fair maid,
-Should 'prentice himself to the trade;
-And study all day,
-In methodical way,
-How to flatter, cajole and persuade.
-He should 'prentice himself at fourteen,
-And practise from morning to e'en;
-And when he's of age,
-If he will, I'll engage,
-He may capture the heart of a queen!
-It is purely a matter of skill,
-Which all may attain if they will:
-But every Jack
-He must study the knack
-If he wants to make sure of his Jill!", 'source_url' => ''),
-    array('title' => 'The Songs that Quinte Sang/Waiting', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "All day long I walk the shore
-Gazing out across the sea
-Where the merry white-capped waves
-Chase each other in their glee.
-And I watch with eager eyes,
-Pacing slowly to and fro,
-For the ships I sent to sea
-Many weary years ago.
-Other ships come sailing in
-From countries strange far away
-And with canvas closely furled
-Lie at anchor in the bay.
-And the sailors as they pass
-Answer me right cheerily
-When I ask them of my ships
-That are still far out at sea.
-Oh! I know they pity me,
-Keeping vigil on the strand,
-And with words of kindly cheer
-Come and take me by the hand.
-And they bid me cease to weep,“Weep no more, dear heart,” they say,“Soon you’ll see your bonnie ships
-Anchored safely in the bay.”", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/Alexander McLachlan', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "1.
-Thou of the wild impassioned brain
-Who poured thy heart in bloody rain
-And was by thine own passions slain
-Oh who thy sorrow can compute
-O'er all the bitter bitter fruit
-Of instincts trampled underfoot
-For there’s an angel sits above
-Guarding the sanctities of love
-That doth all levity reprove2
-Cold natures never can compute
-The terrible lifelong dispute
-Souls such as thine wage with the brute
-And thus it is we often see
-Good men all void of charity
-For souls tossed on a raging sea
-For here we have had all along
-One standard measure for the weak and strong
-And surely surely we are wrong", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Te Amo', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "The moon is high above,
-And I'm in the mood for love,
-And I just love the song he isplaying,
-The night is so romantic,
-But it's driving me just frantic,
-Cause
-I don't understand a word he's saying.
-My troubles all might vanish
-If I knew a little Spanish,
-But I'm afraid it's only Greek to me.
-And yet I wish I knew
-Just what the guy would do
-If I should say \"Si, Si.\"", 'source_url' => ''),
-    array('title' => 'Studies in Song/A Parting Song', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Thesewinds and suns of spring
-That warm with breath and wing
-The trembling sleep of earth, till half awake
-She laughs and blushes ere her slumber break,
-For all good gifts they bring
-Require one better thing,
-For all the loans of joy they lend us, borrow
-One sharper dole of sorrow,
-To sunder soon by half a world of sea
-Her son from England and my friend from me.", 'source_url' => ''),
     array('title' => 'Ballad (Hood; "She\'s up and gone, the graceless girl")', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "She's up and gone, the graceless girl,
 And robb'd my failing years!
 My blood before was thin and cold
@@ -8233,49 +7115,6 @@ But now she'll share the robin's food,
 And sup the common rill,
 Before her feet will turn again
 To meet her father's will!", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Yarn of the "Nancy Bell"', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "'TWAS on the shores that round our coast
-From
-Dealto
-Ramsgatespan,
-That I found alone, on a piece of stone,
-An elderly naval man.
-His hair was weedy, his beard was long,
-And weedy and long was he.
-And I heard this wight on the shore recite.
-In a singularminor key:\"Oh, I am acookand acaptainbold,
-And themateof the
-Nancybrig,
-And abo'suntight, and amidshipmite,
-And the crew of thecaptain's gig.\"And he shook his fists and he tore his hair,
-Till I really felt afraid,
-For I couldn't help thinking the man had been drinking,
-And so I simply said:", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/She\'s My Girl', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Sharks gotta swim, and bats gotta fly,
-I gotta love one woman till I die.
-To Ed or Dick or Bob
-She may be just a slob,
-But to me, well,
-She's my girl.
-In winter the bedroom is one large ice cube,
-And she squeezes the toothpaste from the middle of the tube.
-Her hairs in the sink
-Have driven me to drink,
-But she's my girl, she's my girl, she's my girl,
-And I love her.
-The girl that I lament for,
-The girl my money's spent for,
-The girl my back is bent for,
-The girl I owe the rent for,
-The girl I gave up Lent for
-Is the girl that heaven meant for me.
-So though for breakfast she makes coffee that tastes like sham--poo,
-I come home for dinner and get peanut butter stew,
-Or if I'm in luck,
-It's broiled hockey puck,
-But, oh well,
-What the hell,
-She's my girl,
-And I love her.", 'source_url' => ''),
     array('title' => 'She Wore a Wreath of Roses', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "She wore a wreath of roses
 The night that first we met;
 Her lovely face was smiling
@@ -8311,36 +7150,6 @@ I see her broken-hearted;
 Yet methinks I see her now,
 In the pride of youth and beauty,
 With a garland on her brow.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/National Brotherhood Week', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "Oh, the white folks hate the black folks,
-And the black folks hate the white folks.
-To hate all but the right folks
-Is an old established rule.
-But during National Brotherhood Week,
-National Brotherhood Week,
-Lena Horne and Sheriff Clarke are dancing cheek to cheek.[1]It's fun to eulogize
-The people you despise,
-As long as you don't let 'em in your school.
-Oh, the poor folks hate the rich folks,
-And the rich folks hate the poor folks.
-All of my folks hate all of your folks,
-It's American as apple pie.
-But during National Brotherhood Week,
-National Brotherhood Week,
-New Yorkers love the Puerto Ricans 'cause it's very chic.
-Step up and shake the hand
-Of someone you can't stand.
-You can tolerate him if you try.
-Oh, the Protestants hate the Catholics,
-And the Catholics hate the Protestants,
-And the Hindus hate the Moslems,
-And everybody hates the Jews.
-But during National Brotherhood Week,
-National Brotherhood Week,
-It's National Everyone-smile-at-one-another-hood Week.
-Be nice to people who
-Are inferior to you.
-It's only for a week, so have no fear.
-Be grateful that it doesn't last all year!", 'source_url' => ''),
     array('title' => 'The Ballad of Reading Gaol (1904)', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "E did not wear his scarlet coat,
 For blood and wine are red,
 And blood and wine were on his hands
@@ -8355,89 +7164,6 @@ But I never saw a man who looked
 So wistfully at the day.
 I never saw a man who looked
 With such a wistful eye", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/The Red Flag', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Then raise the scarlet standard high;
-Beneath its folds we'll live and die,
-Though cowards flinch and traitors sneer,
-We'll keep the red flag flying here.
-Look 'round, the Frenchman loves its blaze
-The sturdy German chants its praise;
-In Moscow's vaults its hymns are sung,
-Chicago swells its surging song.
-It waved above our infant might
-When all ahead seemed dark as night;
-It witnessed many a deed and vow,
-We will not change its color now.", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (9th edition)/The Red Flag', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Then raise the scarlet standard high
-Beneath its folds, we'll live and die,
-Though cowards flinch and traitors sneer,
-We'll keep the red flag flying here.
-Look 'round the Frenchman loves its blaze
-The sturdy German chants its praise;
-In Moscow's vaults, its hymns are sung,
-Chicago swells its surging song.
-It waved above our infant might
-When all ahead seemed dark as night;
-It witnessed many a deed and vow,
-We will not change its color now.
-It suits today, the meek and base
-Whose minds are fixed on pelf and place;
-To cringe beneath the rich man's frown,
-And haul that sacred emblem down.
-With heads uncovered, swear we all,
-To bear it onward till we fall;
-Come dungeons dark, or gallows grim,
-This song shall be our parting hymn!", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/Joe Golightly', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "He bore a workhouse brand,
-No pa or ma had claimed him,
-The
-Beadlefound him, and
-The
-Board of Guardiansnamed him.
-P'r'aps some princess's son—A beggar p'r'aps his mother!
-Herather thought the one,
-Irather think the other.
-He liked his ship at sea,
-He loved the salt sea-water;
-He worshipped junk, and he
-Adored the
-First Lord'sdaughter.
-The First Lord's daughter proud,
-Snubbed earls and viscounts nightly—She sneered at barts aloud,
-And spurned poor
-Joe Golightly.
-Whene'er he sailed afar
-Upon a
-Channelcruise, he
-Unpacked his lightguitar
-And sang thisballad(Boosey).", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/John and Freddy', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "But
-Freddytries another style,
-He knows some graceful steps and does 'em—A breathing Poem—Woman's smile—A man all poesy and buzzem.
-Now
-Freddy's operaticpas—Now
-Johnny's hornpipe seems entrapping:
-Now
-Freddy's gracefulentrechats—Now
-Johnny's skilful \"cellar-flapping.\"For many hours—for many days—For many weeks performed each brother.
-For each was active in his ways,
-And neither would give in to t'other.
-After a month of this, they say(The maid was getting bored and moody)A wandering curate passed that way
-And talked a lot of goody-goody.", 'source_url' => ''),
-    array('title' => 'New song, called Auld Scotia free/Auld Scotia Free', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Auld Scotia thou’rt my native land,
-Thy snaw clad hills are dear to me,
-Thy rocky glens me better please,
-Then distant lands across the sea.
-Nae foreign land tho’ e’er so fine, shall ever gain my heart fræ thee
-I’ll rather roam thro’ scotia’s shores,
-For scotia thou’rt for ever free.
-Thy peaceful shepherds tend their flocks,
-Contented they seek not command.
-The husbandman his labour sees,
-All thriving well beneath is hand.
-Some foreign Empires boast of wealth,
-Of greater pomp and luxury;
-Here health and strenth and beauty meet,
-And scotia thou’rt for ever free.", 'source_url' => ''),
     array('title' => 'The Flags of the World', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Plate 1— Personal Flags—Mediæval Period
 Plate 2— Mediæval Banners
 Plate 3— Tudor Standards
@@ -8495,56 +7221,6 @@ As fast as flowers are shed.
 And she who wandered by my side,
 And breathed enchantment o'er thy tide,
 That makes thee still my friend and guide—And she is dead.'", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/Arthur S. Bourinot', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "They are not dead, the soldier and the sailor,
-Fallen for Freedom's sake;
-They merely sleep with faces that are paler
-Until they wake.
-
-—
-
-They will not weep, the mothers, in the years
-The future will decree;
-For they have died that the battles and the tears
-Should cease to be.
-
-—
-
-They will not die, the victorious and the slain,
-Sleeping in foreign soil,
-They gave their lives, but to the world is the gain
-Of their sad toil.
-
-—
-
-They are not dead, the soldier and the sailor,
-Fallen for Freedom’s sake;
-They merely sleep with faces that are paler
-Until they wake.
-
-—", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/GSAS Alma Mater', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Though we end up as professors or selling appliances
-We will not forget throughout all life's alliances
-The dear Graduate
-School of Arts and of Sciences
-No-sir-ree!
-Though there is hardly a one here who knows if he
-Will be an M.
-A. or a Doctor of Philosophy
-Nevertheless
-GSASWe will always be true to thee!
-Though you have no football team
-And no cheers that we can scream
-Yet as strange as it may seem
-We still love you!
-Each alumnus may meet with success or adversity
-But whether he feels he should bless it or curse it, he
-Admits it's the best part of this university
-Yes-sir-ree!
-Far from the real world's corruption and connivery
-We love ev'ry one of your great tow'rs of ivory
-And we confess
-GSAS,
-We will always be true to thee!", 'source_url' => ''),
     array('title' => 'School Mates', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Mem'ry strays, to other days,
 When I was small,
 A little maid, with hair in braid,
@@ -8569,104 +7245,6 @@ You and me,
 Since the day we \"learnt\" to say our \"A. B. C.\"Lovenotes and glances, passed to and fro;
 School mates, play mates,
 Not so many years ago.", 'source_url' => ''),
-    array('title' => 'Death the Knight and the Lady/Ballad of the Arras', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "Lo! where are now these armoured hosts
-Mailed for the tourneycâp-a-pie,
-These dames and damozelles whose ghosts
-Make of the past thispagentry?
-O sanguine book of History!
-Romance with perfume cloaks thy must,
-But he who shakes the page may see—Dust.
-Stiff hangs the arras in the gloom;
-I turn my head awhile to gaze:
-Here lordly stallions fret and fume,
-Here streams o'er briar and brake the chase.
-Here sounds a horn, here turns a face,
-How filled with fires of life and lust!
-Wind shakes the arras and betrays—Dust.
-Ephemeral hand inditing this
-Great hound that lolls against my knee,
-Lips pursed in thought as if to kiss
-Regret—full soon the time must be.
-When one shall search, but find not ye,
-For that dim moth whose labours rust
-All forms in time or tapestry—Dust.
-Forth offspring to the perch and then
-Clap wings—or fall, if find you must
-This saddest fate of books or men—Dust.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/Babette\'s Love', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The
-Panther's
-Captain stood hard by,
-He was a man of morals strict,
-If e'er a sailor winked his eye,
-Straightway he had that sailor licked,
-Mast-headed all (such was his code)Who dashed or jiggered, blessed or blowed.
-He wept to think a tar of his
-Should lean so gracefully on posts,
-He sighed and sobbed to think of this,
-On foreign, French, and friendly coasts.\"It's human natur', p'raps—if so,
-Oh, isn't human natur' low!\"He called his
-Bill, who pulled his curl,
-He said, \"My
-Bill, I understand
-You've captivated some young gurl
-On this here French and foreign land.
-Her tender heart your beauties jog—They do, you know they do, you dog.\"You have a graceful way, I learn,
-Of leaning airily on posts,
-By which you've been and caused to burn
-A tender flame on these here coasts.
-A fisher gurl, I much regret,—Her age, sixteen—her name
-Babette.", 'source_url' => ''),
-    array('title' => 'Searchlights on Health/Love', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "But there's nothing half so sweet in life
-As love's young dream.—MOORE.
-All love is sweet,
-Given or returned. Common as light is love,
-And its familiar voice wearies not ever.—SHELLEY.
-Doubt thou the stars are fire,
-Doubt that the sun doth move;
-Doubt truth to be a liar,
-But never doubt I love.—SHAKESPEARE.
-Let those love now who never loved before,
-Let those that always loved now love the more.", 'source_url' => ''),
-    array('title' => 'The Kobzar of the Ukraine/The Water Fairy', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "ME my mother bore'Mid lofty palace walls,
-Me at midnight hour
-In Dnieper's flood she bathed;
-And bathing, she murmured
-Over little me:\"Swim, swim, little maid,
-Adown the Dnieper water,
-You'll swim out a fairy
-Next midnight, my daughter.
-I go to dance with him,
-My faithless lover;
-You'll come and lure him
-Into the river.
-No more shall he laugh at me,
-At my tears out-flowing,
-But o'er him the Dnieper
-It's blue water is rolling.
-Swim out, my only one,
-He will come to dance with thee.
-Waves, waves, little waves,
-Greet ye the water fairy.\"Sadly she cried and ran away,
-As I floated down the stream.", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/All Saints, and All Souls', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Thybirthday is All Saints' Day, my sweet treasure.
-Ah! well it may be!
-For on us there descended in full measure
-All saints in one celestial pleasure,
-With thee, dear baby!
-For thou wert open, loyal, fearless,
-Ah me! forsaken!
-Radiant soul in raiment peerless,
-A private joy to thee how cheerless,
-Until partaken!
-It is All Saints' Day; on the morrow,
-With flowers offered,
-Sons and daughters of dark sorrow
-Some faint ray of peace-may borrow
-From flowers proffered
-On green mounds of the departed,
-Meekly saying
-To sweet souls of the true-hearted,\"May we not for long be parted,
-Here delaying!\"", 'source_url' => ''),
     array('title' => 'Here We Come A-Wassailing', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Here we come a-wassailing
 Among the leaves so green
 Here we come a-wand'rin
@@ -8693,63 +7271,6 @@ Likewise the mistress too!
 And all the little children
 That 'round the table go.
 CHORUS", 'source_url' => ''),
-    array('title' => 'Morning-Glories and Other Stories/A Christmas Song', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "Coldand wintry is the sky,
-Bitter winds go whistling by,
-Orchard boughs are bare and dry,
-Yet here stands a fruitful tree.
-Household fairies kind and dear,
-With loving magic none need fear,
-Bade it rise and blossom here,
-Little friends, for you and me.
-Come and gather as they fall,
-Shining gifts for great and small;
-Santa Claus remembers all
-When he comes with goodies piled.
-Corn and candy, apples red,
-Sugar horses, gingerbread,
-Babies who are never fed,
-Are hanging here for every child.
-Shake the boughs and down they come,
-Better fruit than peach or plum,'T is our little harvest home;
-For though frosts the flowers kill,
-Though birds depart and squirrels sleep,
-Though snows may gather cold and deep,
-Little folk their sunshine keep,
-And mother-love makes summer still.", 'source_url' => ''),
-    array('title' => 'The Farmer\'s Bride/Song', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "LOVE, Love to-day, my dear,
-Love is not always here;
-Wise maids know how soon grows sere
-The greenest leaf of Spring;
-But no man knoweth
-Whither it goeth
-When the wind bloweth
-So frail a thing.
-Love, Love, my dear, to-day,
-If the ship's in the bay,
-If the bird has come your way
-That sings on summer trees;
-When his song faileth
-And the ship saileth
-No voice availeth
-To call back these.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Post-Thanksgiving Hymn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "We gathered together to ask the Lord's blessing
-For turkey and dressing
-And cranberry sauce.
-It was slightly distressing,
-But now we're convalescing,
-So sing praises to his name,
-And remember to floss.
-Our nearest and dearest, we don't mind confessing.
-It's sort of depressing
-To have them so near.
-Our feelings suppressing,
-We concentrate on fressing,(alt:
-We're sweetly acquiescing)As loudly we proclaim
-That we're glad they were here.
-We gathered together and got the Lord's blessing.(Of course we're just guessing,'Cause how can you tell?)Our stomachs are bloating,
-Our kidneys nearly floating,
-Hellos are very nice,
-But goodbyes can be swell.", 'source_url' => ''),
     array('title' => 'Song of Hubbardton Raid', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "From their rural wigwams in Castleton,
 The land of slates and quarries,
 Quarries of green and purple slates,
@@ -8814,139 +7335,6 @@ Are widely yawning for the reckless foe,
 My lip can bid thee, best beloved, go!
 What if thou fallest? my heart will throb to know
 He died, O South, for thee!", 'source_url' => ''),
-    array('title' => 'Japanese Peasant Songs/Children’s Game Songs', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "One two three measures,[15]Four five measures,[15]Suspend a bridge.
-On the bridge railing
-Sitting,
-Way over there
-Should one look,
-A seventeen or eighteen year old
-Maiden[16]In one hand carrying flowers,
-Incense in the other.“Where from, maiden?”Should one ask:
-I am from Kyūshū,
-Kagoshima’s
-Saigō Takamori’s
-Daughter.
-In the Meiji Ten
-War,[17]Having been killed in battle,
-My father
-His grave
-I am visiting.
-If IHad been a boy,
-From military school
-I’d be graduating,
-As the nightingale on the plum tree
-Alighting,
-Hōhokekyō[18]I would sing.[19]", 'source_url' => ''),
-    array('title' => 'Songs of Love and Rebellion/The drunkard\'s song', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Drink, brothers, drink!
-Let us smile on the to-day;
-Let us smile and let us say,
-There is nothing but to-day!
-Let us drink, drink, drink,
-While the morning skies are pink:
-Let us drink ere we sink,
-Like the shooting stars of night
-In the vastness of the night—Drink, brothers, drink!
-Drink, brothers, drink!
-Let us bind the spirit fast;
-With a chain that's sure to last,
-Let us bind it close and fast;
-Let us drink, drink, drink,
-While the chains around us link;
-Let us drink, for we sink
-Like a bubble on the stream,
-On the dark and silent stream—Drink, brothers, drink!
-Drink, brothers, drink!
-Let us make his kingdom vain,
-Let us kill the god of pain—Make his might and kingdom vain;
-Let us drink, drink, drink,
-Till we drive him o'er the brink;
-Let us drink while we sink
-Down forever into sleep
-On the dreamless shore of sleep—Drink, brothers, drink!
-Drink, brothers, drink!
-Let us cease to grieve and sigh;
-Let us keep oblivion by
-For the tear and for the sigh;
-Let us drink, drink, drink,
-Till we cease to sob and think;
-Let us drink till we sink
-All remembrance in the grave,
-In the lethe of the grave—Drink, brothers, drink!", 'source_url' => ''),
-    array('title' => 'Studies in Song/The Launch of the Livadia', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The cordage woven of curses, and the decks
-With mortal hate and mortal peril paven;
-From stem to stern the lines of doom engraven
-That mark for sure inevitable wrecks
-Those sails predestinate, though no storm vex,
-To miss on earth and find in hell their haven.
-
-ii.
-
-Go with her; heaven be dark above her way,
-The gulf beneath her glad and sure of prey,
-And, wheresoe'er her prow be pointed, still
-The winds of heaven have all one evil will
-Conspirant even as hearts of kings to slay
-With mouths of kings to lie and smile and pray,
-And chiefliest his whose wintrier breath makes chill", 'source_url' => ''),
-    array('title' => 'Puck of Pook\'s Hill (Rackham)/Song of the Fifth River', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "When first by Eden Tree,
-The Four Great Rivers ran,
-To each was appointed a Man
-Her Prince and Ruler to be.
-But after this was ordained,(The ancient legends tell),
-There came dark Israel,
-For whom no River remained.
-Then He That is Wholly Just,
-Said to him: ‘Fling on the ground
-A handful of yellow dust,
-And a Fifth Great River shall run,
-Mightier than these Four,
-In secret the Earth around;
-And Her secret evermore,
-Shall be shown to thee and thy Race.’So it was said and done.
-And, deep in the veins of Earth,
-And, fed by a thousand springs
-That comfort the market-place,
-Or sap the power of Kings,
-The Fifth Great River had birth,
-Even as it was foretold—The Secret River of Gold!", 'source_url' => ''),
-    array('title' => 'Welsh Melodies/The Sea Song of Gavran', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Watchye well! The moon is shrouded
-On her bright throne;
-Storms are gathering, stars are clouded,
-Waves make wild moan.'Tis no night of hearth-fires glowing,
-And gay songs and wine-cups flowing;
-But of winds, in darkness blowing,
-O'er seas unknown!
-In the dwellings of our fathers,
-Round the glad blaze,
-Now the festive circle gathers
-With harps and lays;
-Now the rush-strewn halls are ringing,
-Steps are bounding, bards are singing,—Ay! the hour to all is bringing
-Peace, joy, or praise.
-Save to us, our night-watch keeping,
-Storm-winds to brave,
-While the very sea-bird sleeping
-Rests in its cave!
-Think of us when hearths are beaming,
-Think of us when mead is streaming,
-Ye, of whom our souls are dreaming
-On the dark wave!", 'source_url' => ''),
-    array('title' => 'Songs of the Slav/One Melody', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Bad verse at times I write, I know,
-I'm read but little luckily,
-Into a dying flame I blow,
-Though laughs at me nobility.
-At times a silent song I sing.
-If bad the note, forgive me, pray,
-A miner black to work I cling
-From Saturday to Saturday.
-In stormy times, when roaring sounds
-The jam of thought and fantasy,
-In dismal monotone abounds
-For me the selfsame melody.
-On my people's nape 's one dragon ill,
-One fist about their throat is twirled;
-And from my verses one dactyl,
-One sorrow stares into the world.", 'source_url' => ''),
     array('title' => 'The Song of Right and Wrong', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Feast on wine or fast on water
 And your honour shall stand sure,
 God Almighty's son and daughter
@@ -8979,123 +7367,6 @@ When red wine had brought red ruin
 And the death-dance of our times,
 Heaven sent us Soda Water
 As a torment for our crimes.", 'source_url' => ''),
-    array('title' => 'Hand in Hand/A Ballad of an Old Churchyard', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "THEIR narrow houses lie a-row,
-Crumbling and silent at my feet:
-The sound floats to me from below
-Of laughing voices in the street.
-They care no more to clothe or eat,
-They take no heed when tempests blow,
-Safe from all sorrow, all deceit,
-These are the Dead of Long Ago!
-Of their past lives I cannot know,
-Or if their days were sad or sweet,
-And yet they once were glad, I trow,
-With laughing voices in the street.
-For them the years were full and fleet;
-Seems this world now an empty show?
-Or do they rest in calm complete,
-The Dead of Very Long Ago?
-Some lives were checked in fullest flow,
-And some bore all the stress and heat,
-And some were called in youth's first glow
-From laughing voices in the street.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/Disillusioned', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "The bard who could, all men above,
-Inflame my soul with songs of love,
-And, with his verse, inspire
-The craven soul who feared to die,
-With all the glow of chivalry
-And old heroic fire;
-I found him in a beerhouse tap
-Awaking from a gin-born nap,
-With pipe and sloven dress;
-Amusing chums, who fooled his bent,
-With muddy, maudlin sentiment,
-And tipsy foolishness!
-The novelist, whose painting pen
-To legions of fictitious men
-A real existence lends,
-Brain-people whom we rarely fail,
-Whene'er we hear their names, to hail
-As old and welcome friends;
-I found in clumsy, snuffy suit,
-In seedy glove, and blucher boot,
-Uncomfortably big.
-Particularly commonplace,
-With vulgar, coarse, stock-broking face,
-And spectacles and wig.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Troubadour', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Unknown her face and name,
-But this he knew right well,
-The maiden's wailing came
-From out adungeoncell.
-A hapless woman lay
-Within that dungeon grim—That fact, I've heard him say,
-Was quite enough for him.\"I will not sit or lie,
-Or eat or drink, I vow,
-Till thou art free as I,
-Or I as pent as thou.\"Her tears then ceased to flow,
-Her wails no longer rang,
-And tuneful in her woe
-The prisoned maiden sang:\"Oh, stranger, as you play
-I recognise your touch;
-And all that I can say
-Is, thank you very much.\"He seized hisclarionstraight,
-And blew thereat, until
-Awardenoped the gate,\"Oh, what might be your will?\"", 'source_url' => ''),
-    array('title' => 'Lyrical Ballads (1798)/We are seven', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "A simple child, dear brother Jim,
-That lightly draws its breath,
-And feels its life in every limb,
-What should it know of death?
-I met a little cottage girl,
-She was eight years old, she said;
-Her hair was thick with many a curl
-That cluster'd round her head.
-She had a rustic, woodland air,
-And she was wildly clad;
-Her eyes were fair, and very fair,—Her beauty made me glad.", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/A Southern Spring Carol', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "OSpring! O Spring! O Southern Spring!
-What a triumphal song you sing!
-All the valley sings!
-Nor only warblers who have wings;
-All the peach and almond blossom
-Seems young carol from their bosom
-In the form of flowers,
-Wandering every way
-On many a spray,
-Rills in the blue day,
-Very bird-notes in a spray,
-Filling all the valley.
-And I deem that, as they dally
-In the summer light intense,
-In the deep Italian blue,
-A subtle spirit influence
-May re-enchant them to a dew
-Of melody pure-hearted,
-Hither and thither parted,
-From the bosom of the birds,", 'source_url' => ''),
-    array('title' => 'The Seasons (Thomson)/Spring', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "COME, gentle
-Spring, æthereal Mildness, come;
-And from the bosom of yon dropping cloud,
-While music wakes around, veil'd in a shower
-Of shadowing roses, on our plains descend!
-OHartford, fitted, or to shine in courts5
-With unaffected grace, or walk the plain
-With innocence and meditation join'd
-In soft assemblage, listen to my song,
-Which thy own Season paints! when Nature all
-Is blooming, and benevolent like thee.10
-Andsee where surly
-Winterpasses off,
-Far to the north and calls his ruffian blasts:
-His blasts obey and quit the howling hill,
-The shatter'd forest, and the ravag'd vale;
-While softer gales succeed, at whose kind touch,15
-Disolving snows in livid torrents lost,
-The mountains lift their green heads to the sky.
-Asyet the trembling year is unconfirm'd,
-And
-Winteroft at eve resumes the breeze,
-Chills the pale morn, and bids his driving sleets20
-Deform the day delightless; so that scarce", 'source_url' => ''),
     array('title' => 'Gillespies Beach Beginnings', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "When miners walked the beaches
 Of this rugged coast of ours,
 And faced the scourge of sandflies,
@@ -9112,72 +7383,6 @@ But the mining dwindled right away,
 The township lost its pub,
 And down the years the settlement
 Was swallowed by the scrub.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Dodging the Draft at Harvard', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Oh, how I'd hate to go into the army,
-Oh, how I'd rather remain at home.
-That's why I am here today,
-Working hard to get an A,
-We're dodging the draft,
-We're dodging the draft,
-We're dodging the draft at Harvard.
-Some day you may have to go to Korea.
-Send us a souvenir if you can .
-While you are out destroying life,
-We'll be back home enjoying life.
-It's great to be an essential man.
-Some are too old to get into the army.
-Some guys the army won 't even take.
-But we happily confess
-That the draft board says: 2
-S.
-We're dodging the draft,
-We're dodging the draft,
-We're dodging the draft at Harvard.
-Some day you may have to go to Korea.
-You may be leaving before too long.
-But our draft board, influential men,
-Insists we're all essential men,
-And who are we to say they're wrong?
-Entangling alliances
-With all the arts and sciences
-Will keep us home where we belong.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Take Me for a Walk', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Take me for a walk
-That's all I ask of you
-A simple walk, perhaps a talk,
-Exchanging points of view
-An occasional quiet little stroll
-Rejuvenates the soul
-Not too energetic[alt: Nothing too athletic]Merely peripatetic
-Millionaires can't measure
-What a simple pleasure -- means.
-They just don't have a glimmer
-Riding in their limou -- sines.
-If they got out the lead
-And tried to walk instead
-They'd gladly throw their calendars away
-And say:
-Just take me for a walk with you
-To -Day.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Lobachevsky', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Has friend in Petropavlovsk,
-Whose friend somehow
-Is solving now
-The problem in Dnepropetrovsk.
-And when his work is done —Haha! — begins the fun:
-From Dnepropetrovsk to Petropavlovsk,
-By way of Iliysk and Novorossiysk,
-To Alexandrovsk to Akmolinsk
-To Tomsk to Omsk to Pinsk to Minsk
-To me thenewwill run,
-Yes, to me the news will run.
-And then I write
-By morning, night,
-And afternoon,
-And pretty soon
-My name in Dnepropetrovsk is cursed,
-When he finds out I publish first.
-And who made me a big success and brought me wealth and fame?
-Nicolai Ivanovich Lobachevsky is his name.
-Hi!
-Nicolai Ivanovich Lobach —", 'source_url' => ''),
     array('title' => 'Love Is like a Violin', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Love is like a Violin,
 Withit'stones grave or gay,
 Caprices the artist may play,
@@ -9194,259 +7399,6 @@ In the passion that lies in a fool's Paradise,
 All the songs for an hour we may prize,
 But there's none like the one.
 And that voice call to me.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/The Sorcerer\'s Song', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "OH! my name is
-John Wellington Wells—I'm a dealer in magic and spells,
-In blessings and curses,
-And ever filled purses,
-In prophecies, witches and knells!
-If you want a proud foe to \"make tracks\"—If you'd melt a rich uncle in wax—You've but to look in
-On our resident Djinn,
-Number seventy, Simmery Axe
-We've a first class assortment of magic;
-And for raising a posthumous shade
-With effects that are comic or tragic,
-There's no cheaper house in the trade", 'source_url' => ''),
-    array('title' => 'Odes on Several Subjects (Akenside)/Ode 2', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "But lo, on this deserted coast
-How faint the light! how thick the air!
-Lo, arm'd with whirlwind, hail and frost,
-Fierce winter desolates the year,
-The fields resign their chearful bloom;
-No more the breezes waft perfume,
-No more the warbling waters roll:
-Desarts of snow fatigue the eye,
-Black storms involve the louring sky,
-And gloomy damps oppress the soul.
-Now thro' the town promiscuous throngs
-Urge the warm bowl and ruddy fire;
-Harmonious dances, festive songs,
-To charm the midnight hours conspire.
-While mute and shrinking with her fears,
-Each blast the cottage-matron hears
-As o'er the hearth she sits alone:
-At morn her bridegroom went abroad,
-The night is dark and deep the road;
-She sighs and wishes him at home.", 'source_url' => ''),
-    array('title' => 'Iolanthe/Act II', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When all night long a chap remains
-On sentry-go, to chase monotony
-He exercises of his brains,
-That is, assuming that he's got any.
-Though never nurtured in the lap
-Of luxury, yet I admonish you,
-I am an intellectual chap,
-And think of things that would astonish you.
-I often think it's comical—Fal, lal, la!
-How Nature always does contrive—Fal, lal, la!
-That every boy and every gal,
-That's born into the world alive,
-Is either a little Liberal,
-Or else a little Conservative!
-Fal, lal, la!
-When in that house M.
-P. s divide,
-If they've a brain and cerebellum, too,
-They've got to leave that brain outside,
-And vote just as their leaders tell 'em to.
-But then the prospect of a lot
-Of dull M.
-P. s in close proximity,
-All thinking for themselves, is what
-No man can face with equanimity.
-Then let's rejoice with loud Fal lal—Fal lal la!
-That Nature wisely does contrive—Fal lal la!
-That every boy and every gal
-That's born into the world alive,
-Is either a little Liberal,
-Or else a little Conservative!
-Fal lal la!", 'source_url' => ''),
-    array('title' => 'John Masefield/John Masefield', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "Men do not heed the rungs by which men climb
-Those glittering steps, those milestones upon Time,
-Those tombstones of dead selves, those hours of birth,
-Those moments of the soul in years of earth
-They mark the height achieved, the main result,
-The power of freedom in the perished cult,
-The power of boredom in the dead man's deeds,
-Not the bright moments of the sprinkled seeds.
-
-(from \"Biography\")", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/When a Merry Maiden Marries', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "WHEN a merry maiden marries,
-Sorrow goes and pleasure tarries;
-Every sound becomes a song,
-All is right and nothing's wrong!
-From to-day and ever after
-Let your tears be tears of laughter—Every sigh that finds a vent
-Be a sigh of sweet content!
-When you marry merry maiden,
-Then the air with love is laden;
-Every flower is a rose,
-Every goose becomes a swan,
-Every kind of trouble goes
-Where the last year's snows have gone!
-Sunlight takes the place of shade
-When you marry merry maid!", 'source_url' => ''),
-    array('title' => 'Welsh Melodies/Caswallon\'s Triumph', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Fromthe glowing southern regions,
-Where the sun-god makes his dwelling,
-Came the Roman's crested legions
-O'er the deep, round Britain swelling.
-The wave grew dazzling as he pass'd,
-With light from spear and helmet cast;
-And sounds in every rushing blast
-Of a conqueror's march were telling.
-But his eagle's royal pinion,
-Bowing earth beneath its glory,
-Could not shadow with dominion
-Our wild seas and mountains hoary!
-Back from their cloudy realm it flies,
-To float in light through softer skies;
-Oh! chainless winds of heaven arise!
-Bear a vanquish'd world the story!
-Lords of earth! to Rome returning,
-Tell how Britain combat wages,
-How Caswallon's soul is burning
-When the storm of battle rages!
-And ye that shrine high deeds in song,
-O holy and immortal throng!
-The brightness of his name prolong,
-As a torch to stream through ages!", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/Workingmen, Unite!', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Shall we still be slaves and work for wages?
-It is outrageous—has been for ages;
-This earth by right belongs to toilers,
-And not to spoilers of liberty.
-The master class is small,
-But they have lots of \"gall.\"When we unite to gain our right,
-Itthey resist we'll use our might;
-There is no middle ground
-This fight must be one round
-To victory, for liberty,
-Our class is marching on!
-Workingmen, unite!
-We must put up a fight,
-To make us free from slavery
-And capitalistic tyranny;", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/Captain Reece', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "He was adored by all his men,
-For worthy
-Captain Reece, R.
-N.,
-Did all that lay within him to
-Promote the comfort of his crew.
-If ever they were dull or sad,
-Their captain danced to them like mad,
-Or told, to make the time pass by,
-Droll legends of his infancy.
-A feather bed had every man,
-Warm slippers and hot-water can,
-Brown Windsor from the captain's store,
-A valet, too, to every four.
-Did they with thirst in summer burn?
-Lo, seltzogenesat every turn,
-And on all very sultry days
-Cream ices handed round on trays.
-Then currant wine and ginger pops
-Stood handily on all the \"tops;\"And, also, with amusement rife,
-A \"Zoetrope, or Wheel of Life.\"New volumes came across the sea
-From
-Mister Mudie'slibraree;
-The Timesand
-Saturday Review
-Beguiled the leisure of the crew.
-Kind-hearted
-Captain Reece, R.
-N.,
-Was quite devoted to his men;
-In point of fact, good
-Captain Reece,
-Beatified
-The Mantelpiece.", 'source_url' => ''),
-    array('title' => 'The Way of a Virgin/John and Joan', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "There was a Maid the other Day,
-Which in her Master's Chamber lay;
-As Maidens they must not refuse,
-In Yeomens Houses thus they use
-In a Truckle-bed to lye,
-Or another standing by:
-Her Master and her Dame,
-Said she shou'd do the same.
-This Maid cou'd neither rest nor Sleep,
-When that she heard the Bed to crack;
-Her Master Captive busie was,
-Her Dame cry'd out, you hurt my Back
-Oh Husband you do me wrong,
-You've lain so hard my Breast upon;
-You are such another Man,
-You'd have me do more than I can:
-Tush Master, then says
-Joan,
-Pray let my Dame alone;
-What a devilish Squalling you keep,
-That I can neither rest nor Sleep.", 'source_url' => ''),
-    array('title' => 'The Way of a Virgin/Oh Mother, Roger with his Kisses', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Oh Mother,
-Rogerwith his Kisses
-Almost stops my Breath, I vow;
-Why does he gripe my Hand to pieces,
-And yet he says he loves me too?
-Tell me, Mother, pray now do!
-Pray now do, pray now do,
-Tell me, Mother, pray now do,
-Pray now, pray now, pray now do,
-What Roger means when he does so?
-For never stir I long to know.
-Nay more, the naughty Man beside it,
-Something in my Mouth he put;
-I call'd him Beast, and try'd to Bite it,
-But for my Life I cannot do't;
-Tell me, Mother, pray now do!
-Pray now do, pray now do,
-Pray now do, pray now do,
-Tell me, Mother, pray now do,
-Pray now, pray now, pray now do,
-What Roger means when he does so?
-For never stir I long to know.
-He sets me in his Lap whole Hours,
-Where I feel I know not what;
-Something I never felt in yours,
-Pray tell me Mother what is that?
-Tell me Mother what is that?
-For never stir I long to know.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/The Old Dope Peddler', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When the shades of night are falling,
-Comes a fellow everyone knows.
-It's the old dope peddler,
-Spreading joy wherever he goes.
-Every evening you will find him,
-Around our neighborhood.
-It's the old dope peddler,
-Doing well by doing good.
-He gives the kids free samples,
-Because he knows full well
-That today's young innocent faces
-Will be tomorrow's clientele.
-Here's a cure for all your troubles,
-Here's an end to all distress.
-It's the old dope peddler
-With his powdered happiness.", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Finch and Dench', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Frederick Fin--ch
-Never would flin--ch
-Even in a pin--ch
-Never gave an in--ch
-Ev'rything was a cin--ch--ch
-For Freddie Fin--ch, Fin--ch--ch
-Freddie Fin--ch.(Alt. : Fin--dee--din--ch)Deborah Den--ch
-Was a cool wen--ch
-Sitting on a ben--ch
-She would often clen--ch
-A book that was all in Fren--ch--ch
-Did Debbie Den--ch, Den--ch--ch,
-Debbie Den--ch.(Alt.: Den--dee--den--ch)Finch saw Den--ch
-Reading her Fren--ch
-Thought he'd try to wren--ch
-Debbie from her ben--ch
-He brought a bun--ch
-Of flowers to lun--ch
-She was pleased as pun--ch
-And I have a hun--ch
-The two of them are now in a clin--ch--ch
-Den--ch
-And
-Fin--ch, Fin--ch--ch ,
-Freddie Fin--ch.(Alt.: Fin--dee--din--chor
-Dench and Fin--ch)", 'source_url' => ''),
     array('title' => 'May (Mácha)', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The lake, hid where the thicket reared.
 Expressed its grief in a muffled sound,
 Where banks entwined it all around;
@@ -9478,21 +7430,6 @@ A maiden rests beneath a tree,
 Gazing where the lake and banks match might
 And past them, far as the eye can see.
 Beneath the hill, the lake shows blue,", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/At a Pantomime', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "A hoary flowing wig his weird
-Unearthly cranium caps,
-He hangs a long benevolent beard
-On a pair of empty chaps.
-To smooth his ghastly features down
-The actor's art he cribs,
-A long and a flowing padded gown
-Bedecks his rattling ribs.
-He cries, \"Go on—begin, begin,
-Turn on the light of lime—I'm dressed for jolly Old Christmas, in
-A favourite pantomime!\"The curtain's up—the stage all black—Time and the year nigh sped—Time as an advertising quack—The Old Year nearly dead.
-The wand of Time is waved and lo,
-Revealed Old Christmas stands,
-And little children chuckle and crow,
-And laugh and clap their hands.", 'source_url' => ''),
     array('title' => 'The Magic Pudding', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "\"I've got a stick to walk with.
 I've got a mind to think with.
 I've got a voice to talk with.
@@ -9509,28 +7446,6 @@ Observe my doleful-plight.
 For here am I without a crumb
 To satisfy a raging tum
 O what an oversight!\"", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/Haunted', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "HAUNTED? Aye, in a social way,
-By a body of ghosts in dread array:
-But no conventional spectres they—Appalling, grim, and tricky:
-I quail at mine as I'd never quail
-At a fine traditional spectre pale,
-With a turnip head and a ghostly wail,
-And a splash of blood on the dicky!
-Mine are horrible, social ghosts,
-Speeches and women and guests and hosts,
-Weddings and morning calls and toasts,
-In every bad variety:
-Ghosts who hover about the grave
-Of all that's manly, free, and brave:
-You'll find their names on thearchitrave
-Of that charnel-house, Society.
-Black Monday—black as its school-room ink—With its dismal boys that snivel and think
-Of its nauseous messes to eat and drink,
-And its frozen tank to wash in.
-That was the first that brought me grief
-And made me weep, till I sought relief
-In an emblematical handkerchief,
-To choke such baby bosh in.", 'source_url' => ''),
     array('title' => 'Faery Magic', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "I knowa little twisted path
 That climbs toward the skies,
 To where the elves have hatched a plot
@@ -9604,20 +7519,6 @@ When peace shall over all the earth
 Its ancient spendors fling,
 And the whole world give back the song
 Which now the angels sing.", 'source_url' => ''),
-    array('title' => 'Songs of the Workers (15th edition)/Farewell, Frank!', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "You've fought your fight, a long good night
-Is all that we can say.
-Sleep on, sleep on, your work is done
-Brave fighter for the Day.
-Kind Mother Earth who gave you birth
-Receives you to her breast.
-For us the Fight, for you the night,
-The night of well earned rest,
-No more you'll feel the cling of steel,
-You've burst the prison bars,
-You gave your life in this our strife,
-Brave conqueror of stars.
-Sleep on, sleep on, your work is done
-Sleep on, sleep on, sleep on.", 'source_url' => ''),
     array('title' => 'The Ballad of that P.N.', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The shades of night had fallen at last,
 When through the house a shadow passed,
 That once had been the
@@ -9644,72 +7545,6 @@ The accents of the angry Dan --\"Tell me,
 John See, and tell me quick
 Did not ye pay your shares to Crick
 Did ye?\"", 'source_url' => ''),
-    array('title' => 'Songs of Action/The Song of the Bow', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "What of the bow?
-The bow was made in England:
-Of true wood, of yew-wood,
-The wood of English bows;
-So men who are free
-Love the old yew-tree
-And the land where the yew-tree grows.
-What of the cord?
-The cord was made in England:
-A rough cord, a tough cord,
-A cord that bowmen love;
-And so we will sing
-Of the hempen string
-And the land where the cord was wove.
-What of the shaft?
-The shaft was cut in England:
-A long shaft, a strong shaft,
-Barbed and trim and true;
-So we'll drink all together
-To the grey goose-feather
-And the land where the grey goose flew.
-What of the mark?
-Ah, seek it not in England,
-A bold mark, our old mark
-Is waiting over-sea.
-When the strings harp in chorus,
-And the lion flag is o'er us,
-It is there that our mark will be.
-What of the men?
-The men were bred in England:
-The bowmen--the yeomen,
-The lads of dale and fell.
-Here's to you--and to you!
-To the hearts that are true
-And the land where the true hearts dwell.", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/Susanna Moodie', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "The banner of old England flows
-Triumphant on the breeze;
-A sign of terror to our foes
-The metier of the seas—A thousand heroes bore it,
-In the battle fields of old;
-All nations quailed before it
-Defended by the bold—
-
-—
-
-Brave Edward and his gallant sons,
-Beneath its shadow bled;
-And lion-hearted Britons
-That flag to glory led
-The sword of Kings defended,
-When hostile foes were near;
-The sheet whose colors blended
-Memorials proud and dear—
-
-—
-
-The history of a nation
-Is blazoned on its page;
-A brief and bright relation
-Sent down from age to age.
-Bright banner of our native land
-Bold hearts are knit to thee;
-A fearless free determined band
-Thy champions yet shall be!—
-
-—", 'source_url' => ''),
     array('title' => 'Morning Song (Field)', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "The eastern sky is streaked with red,
 The weary night is done,
 And from his distant ocean bed
@@ -9794,55 +7629,6 @@ You can't escape she's in your memory.
 By morning night and noon.
 She will leave you and then come back again,
 A pretty girl is just like a pretty tune.", 'source_url' => ''),
-    array('title' => 'Foggerty\'s Fairy and Other Tales/Maxwell and I', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Scher.
-One morning early when I sought my bower
-Without spec-taterjust tocull-a-flower,
-I found my cavalier astride the wall,
-And in the glass entangled, cloak and all.
-And then I heard the wretched youth, alas!
-Casting some strong reflections on the glass;
-And, after having to perdition booked it,
-He firstunhooked his cloak, and then—he hooked it!
-Zo.
-You did not see his face!
-Scher.
-Alas! he fled
-Ere I could make remarks upon that head;
-But as I scanned the footsteps in the mould
-With eager curiosity, behold
-I found—", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Be Prepared', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Be prepared!
-That's the Boy Scouts' marching song.
-Be prepared!
-As through life you march along.
-Be prepared to hold your liquor pretty well,
-Don't write naughty words on walls if you can't spell.
-Be prepared!
-To hide that pack of cigarettes.
-Don't make book,
-If you cannot cover bets.
-Keep those reefers hidden where you're sure
-That they will not be found
-And be careful not to smoke them
-When the scoutmaster's around,
-For he only will insist that they be shared.
-Be prepared!
-Be prepared!
-That's the Boy Scouts' solemn creed.
-Be prepared!
-And be clean in word and deed.
-Don't solicit for your sister, that's not nice,
-Unless you get a good percentage of her price.
-Be prepared!
-And be careful not to do
-Your good deeds
-When there's no one watching you.
-If you're looking for adventure
-Of a new and different kind,
-And you come across a Girl Scout
-Who is similarly inclined,
-Don't be nervous, don't be flustered, don't be scared.
-Be prepared!", 'source_url' => ''),
     array('title' => 'Song Bird and Flower', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "I.
 
 In the forest deep a flower was growing,
@@ -9870,31 +7656,6 @@ Vex'd the gentle spirit which adored;—\"O'er a thousand forests I've been flyi
 To a thousand flowers that call me lord!\"Like the pliant grass in heavy showers,
 Sank the flowret then with many a tear,—\"Thou,\" she cried, \"hast sought a thousand flowers,
 I were most happy with one song bird here.\"", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/The Vatican Rag', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "First you get down on your knees
-Fiddle with your rosaries
-Bow your head with great respect
-And genuflect, genuflect, genuflect!
-Do whatever steps you want if
-You have cleared them with the pontiff
-Everybody say his own
-Kyrie eleison
-Doin' the Vatican Rag.
-Get in line in that processional
-Step into that small confessional
-There the guy who's got religion'll
-Tell you if your sin's original.
-If it is, try playin' it safer
-Drink the wine and chew the wafer
-Two, four, six, eight
-Time to transubstantiate.
-So get down upon your knees
-Fiddle with your rosaries
-Bow your head with great respect
-And genuflect, genuflect, genuflect!
-Make a cross on your abdomen
-When in Rome do like a Roman
-Ave Maria, gee it's good to see ya
-Gettin' ecstatic an'Sorta dramatic an'Doin' the Vatican Rag.", 'source_url' => ''),
     array('title' => 'Yiddle, On Your Fiddle, Play Some Ragtime', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Ev'ryone was singing, dancing, springing,
 At a wedding yesterday.
 Yiddle on his fiddle played some ragtime,
@@ -9930,186 +7691,6 @@ Yiddle, don't you stop,
 If you do, I'll drop,
 For I just can't make any eyes shut up,
 Yiddle on your fiddle, play some ragtime.\"", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/General John', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "General Johnwas a soldier tried,
-A chief of warlike dons;
-A haughty stride and a withering pride
-Were
-Major-General John's.
-A sneer would play on his martial phiz,
-Superior birth to show;\"Pish!\" was a favourite word of his,
-And he often said \"Ho! ho!\"Full-Private Jamesdescribed might be,
-As a man of a mournful mind;
-No characteristic trait had he
-Of any distinctive kind.
-From the ranks, one day, cried
-Private James,\"Oh!
-Major-General John,
-I've doubts of our respective names,
-My mournful mind upon.\"A glimmering thought occurs to me,(Its source I can't unearth)But I've a kind of notion we
-Were cruelly changed at birth\"I've a strange idea, each other's names
-That we have each got on.
-Such things have been,\" said
-Private James.\"They have!\" sneered
-General John.\"My
-General John, I swear upon
-My oath I think 'tis so—\"\"Pish!\" proudly sneered his
-General John,
-And he also said, \"Ho! ho!\"", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/John Daniel Logan', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Two secret shrines there are for me:
-The one a wayside calvary,
-Low-canopied by fir and pine
-And thither oft I steal away,
-Kneel penitent & pray
-Christ grants forgiveness, free, divine;
-And Mary Virgin, grace benign;
-And John his tender charity.
-O welcome wayside calvary,
-O calm, secluded shrine,
-O sweet retreat of mine,
-Whose holy peace brings blissful eucrasy!
-
-————
-
-Another shrine for me there is,
-Recessed, inviolate, within
-The ruby chamber of my Love’s pure heart;
-And only I, her devoter, I wis,
-May duly enter in,
-And supplicate & worship there apart.
-Before her dear remembered Image now,
-Unworthy worshiper, I bow:
-Her winsome graces are my Creed;
-Her low, meek speech, my Litany:
-Her tender thoughts, my Rosary
-And her 'Absolvo te,' my strength—for holier deed
-O Heart of Mine, O Heart of Mine,
-Whos secret chamber is my constant shrine!", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/Sleep on!', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "FEAR no unlicensed entry,
-Heed no bombastic talk,
-While guards the British Sentry
-Pall Mall and Birdcage Walk.
-Let European thunders
-Occasion no alarms,
-Though diplomatic blunders
-May cause a cry \"To arms!\"Sleep on, ye pale civilians;
-All thunder-clouds defy:
-On Europe's countless millions
-The Sentry keeps his eye!
-Should foreign-born rapscallions
-In London dare to show
-Their overgrown battalions,
-Be sure I'll let you know.
-Should Russians or Norwegians
-Pollute our favoured clime
-With rough barbaric legions,
-I'll mention it in time.
-So sleep in peace, civilians,
-The Continent defy;
-While on its countless millions
-The Sentry keeps his eye!", 'source_url' => ''),
-    array('title' => 'Songs and Lyrics (Lehrer)/Without an S', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Without an S -- A nest would be a net.
-Without an S -- The west would just be wet.
-What happiness!
-That pest could be a pet,
-Without an S.
-Without an S -- A spin would be a pin.
-Without an S -- Your skin would be your kin.
-And I confess
-That sin is really in,
-Without an S.
-A spine would then be a pine,
-And swine would turn to wine,
-A stick would be a tick.
-When you were sick,
-You wouldn't feel sick,
-You'd only feelick!
-Without an S -- A slap would be a lap.
-Without an S -- A strap would be a trap.
-Your hands can't clasp,
-No, they can only clap,
-Without an S.
-A scar would then be a car,
-A star would turn to tar,
-A mast would be a mat.
-Try running fast,
-You couldn't be fast,
-You'd only be fat!
-Without an S -- A ship would be a hip.
-Without an S -- A slip would be a lip.
-When you undress,
-A strip would be a trip,
-Without an S.", 'source_url' => ''),
-    array('title' => 'Songs of Love and Rebellion/Love\'s letter', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Longingly
-Wistfully,
-Sweetheart, I gaze,
-Through the gathering haze,
-Into the night
-For the vanished light
-Of your soft, clear eyes;
-The dream-light,
-The love-light,
-For the light of your beautiful eyes.
-Away
-And afar,
-Where the bright seas roll
-Round the Happiness Isle,
-And all things smile,
-I send my soul
-To kneel at your feet
-In the gardens sweet,
-Where wistarias twine
-With the jessamine vine,
-In a land where life is all divine.
-Lotus
-And poppy,
-Honey and dew,
-Make I of these a magical brew,
-Quaff it, and wander in dreamland with you;
-Wander away, dear, never to grieve,
-In the wonderful land of The-make-believe.", 'source_url' => ''),
-    array('title' => 'Hymns for Childhood/The Birds', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Others no varied song may pour,
-May boast no eagle-plume to soar,
-No tints of light may wear;
-Yet, know, our Heavenly Father guides
-The least of these, and well provides
-For each, with tenderest care.
-Shall He not thenthyguardian be?
-Will not his aid extend tothee?
-Oh! safely may'st thou rest!—Trust in his love, and e'en should pain,
-Should sorrow tempt thee to complain,
-Know, what He wills is best!", 'source_url' => ''),
-    array('title' => 'Body of This Death/Chanson un peu naïve', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "What body can be ploughed,
-Sown, and broken yearly?
-She would not die, she vowed,
-But she has, nearly.
-Sing, heart sing;
-Call and carol clearly.
-And, since she could not die,
-Care would be a feather,
-A film over the eye
-Of two that lie together.
-Fly, song, fly,
-Break your little tether.
-So from strength concealed
-She makes her pretty boast:
-Plain is a furrow healed
-And she may love you most.
-Cry, song, cry,
-And hear your crying lost.", 'source_url' => ''),
-    array('title' => 'Studies in Song/Six Years Old', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Your feet stand fast, your lit smiles lighten,
-That might rear flowers from snows.
-You came when winds unleashed were snarling
-Behind the frost-bound hours,
-A snow-bird sturdier than the starling,
-A storm-bird fledged for showers,
-That spring might smile to find you, darling,
-First born of all the flowers.
-Could love make worthy things of worthless,
-My song were worth an ear:
-Its note should make the days most mirthless
-The merriest of the year,
-And wake to birth all buds yet birthless
-To keep your birthday, dear.", 'source_url' => ''),
     array('title' => 'Uncle Jim’s Baptist Revival Hymn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Solo.—Sin’s rooster’s crowed, Ole Mahster’s riz,
 De sleepin’-time is pas’;
 Wake up dem lazy Baptissis,
@@ -10142,53 +7723,6 @@ Lord, peerten de hoein’ fas’,
 Yea, Lord, hab mussy on de Baptis’ patch,
 Dey’s mightily in de grass, grass,
 Dey’s mightily in de grass.", 'source_url' => ''),
-    array('title' => 'Lyrical Ballads (1798)/Anecdote for Fathers', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "My thoughts on former pleasures ran;
-I thought of Kilve's delightful shore,
-My pleasant home, when spring began,
-A long, long year before.
-A day it was when I could bear
-To think, and think, and think again;
-With so much happiness to spare,
-I could not feel a pain.
-My boy was by my side, so slim
-And graceful in his rustic dress!
-And oftentimes I talked to him,
-In very idleness.
-The young lambs ran a pretty race;
-The morning sun shone bright and warm;\"Kilve,\" said I, \"was a pleasant place,\"And so is Liswyn farm.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/Willow Waly', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "He.
-PRITHEE, pretty maiden—prithee, tell me true(Hey, but I'm doleful, willow, willow waly!)Have you e'er a lover a-dangling after you?
-Hey, willow waly O!
-I fain would discover
-If you have a lover?
-Hey, willow waly O!
-She.
-Gentle sir, my heart is frolicsome and free—(Hey, but he's doleful, willow, willow waly!)Nobody I care for comes a-courting me—Hey, willow waly O!
-Nobody I care for
-Comes a-courting—therefore,
-Hey, willow waly O!", 'source_url' => ''),
-    array('title' => 'Puck of Pook\'s Hill (Rackham)/A Tree Song', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Of all the trees that grow so fair,
-Old England to adorn,
-Greater are none beneath the Sun,
-Than Oak, and Ash, and Thorn.
-Sing Oak, and Ash, and Thorn, good Sirs(All of a Midsummer morn)!
-Surely we sing no little thing,
-In Oak, and Ash, and Thorn!
-Oak of the Clay lived many a day,
-Or ever Æneas began;
-Ash of the Loam was a lady at home,
-When Brut was an outlaw man;
-Thorn of the Down saw New Troy Town(From which was London born);
-Witness hereby the ancientry
-Of Oak, and Ash, and Thorn!
-Yew that is old in churchyard mould,
-He breedeth a mighty bow;
-Alder for shoes do wise men choose,
-And beech for cups also.
-But when ye have killed, and your bowl is spilled,
-And your shoes are clean outworn,
-Back ye must speed for all that ye need,
-To Oak, and Ash, and Thorn!", 'source_url' => ''),
     array('title' => 'On and Onward', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "GES Kluang, We're Comrades All
 As Members Let Us Serve
 The School That Taught Our Childhood Days
@@ -10209,18 +7743,6 @@ On And Onward, School And Town For Aye
 Lyrics: C. D. Westwood
 Air:
 Land of Hope and Glory", 'source_url' => ''),
-    array('title' => 'Hymns for Childhood/The Thunder Storm', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Deep, fiery clouds o'ercast the sky,
-Dead stillness reigns in air,
-There is not e'en a breeze, on high
-The gossamer to bear.
-The woods are hushed, the waves at rest,
-The lake is dark and still,
-Reflecting on its shadowy breast,
-Each form of rock and hill.
-The lime-leaf waves not in the grove,
-Nor rose-tree in the bower;
-The birds have ceased their songs of love,
-Awed by the threatening hour.", 'source_url' => ''),
     array('title' => 'The Song of Quoodle', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "They haven't got no noses,
 The fallen sons of Eve;
 Even the smell of roses
@@ -10250,78 +7772,6 @@ They haven't got no noses,
 They haven't got no noses,
 And goodness only knowses
 The Noselessness of Man.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Bishop and the Busman', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "At first the busman smiled,
-And rather liked the fun—He merely smiled, that
-Hebrewchild,
-And said, \"Eccentric one!\"And gay young dogs would wait
-To see the bus go by(These gay young dogs in striking togs)To hear the Bishop cry:—\"Observe his grisly beard
-His race it clearly shows,
-He sticks no fork in ham or pork—Observe, my friends, his nose.\"\"His name is
-Hash Baz Ben,
-And
-Jedediah, too,
-And
-Solomonand
-Zabulon—This bus-directing Jew.\"But though at first amused,
-Yet after seven years,
-This Hebrew child got awful riled,
-And busted into tears.
-He really almost feared
-To leave his poor abode,
-His nose, and name, and beard became
-A byword on that road.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Bishop of Rum-ti-Foo', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "When first good
-Bishop Petercame(For
-Peterwas that Bishop's name),
-To humour them, he did the same
-As they of Rum-ti-Foo.
-His flock, I've often heard him tell,(His name was
-Peter) loved him well,
-And summoned by the sound of bell,
-In crowds together came.\"Oh, massa, why you go away?
-Oh,
-Massa Peter, please to stay.\"(They called him
-Peter, people say,
-Because it was his name.)He told them all good boys to be,
-And sailed away across the sea,
-At
-London Bridgethat Bishop he
-Arrived one Tuesday night—And as that night he homeward strode
-To his Pan-Anglican abode,
-He passed along the
-Borough Road
-And saw a gruesome sight.
-He saw a crowd assembled round
-A person dancing on the ground,
-Who straight began to leap and bound
-With all his might and main.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Rival Curates', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "LIST while the poet trolls
-Of
-Mr. Clayton Hooper,
-Who had a cure of souls
-At Spiffton-extra-Sooper
-He lived on curds and whey,
-And daily sang their praises,
-And then he'd go and play
-With buttercups and daisies.
-Wildcroquêt
-Hooperbanned,
-And all the sports of
-Mammon,
-He warred withcribbage, and
-Heexorcisedbackgammon.
-His helmet was a glance
-That spoke of holy gladness;
-A saintly smile his lance,
-His shield a tear of sadness.
-His
-Vicarsmiled to see
-This armour on him buckled:
-With pardonable glee
-He blessed himself and chuckled.\"In mildness to abound
-My curate's sole design is,
-In all the country round
-There's none so mild as mine is!\"", 'source_url' => ''),
     array('title' => 'The Song of the Sufferer', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "Hisdrink it is Saline Pyretic,
 He longs, but he shall not eat,
 His soul is convulsed with emetic,
@@ -10334,82 +7784,6 @@ For the doctor has harrowed his being,
 And of medicine wondrous the might is;
 He suffers in agony, seeing
 He is prey to acute tonsilitis.", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/John McCrae', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "In Flanders fields the poppies grow
-Between the crosses, row on row
-That mark our place: and in the sky
-The larks still bravely singing, fly
-Scarce heard amid the guns below.
-We are the Dead. Short days ago
-We lived, felt dawn, saw sunset glow,
-Loved, and were loved, and now we lie
-In Flanders fields.
-Take up our quarrel with the foe:
-To you from failing hands we throw
-The Torch: be yours to hold it high!
-If ye break faith with us who die
-We shall not sleep, though poppies grow
-In Flanders fields.", 'source_url' => ''),
-    array('title' => 'Songs of Russia/The Prisoner’s Dream', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "A darksome night of winter,
-Dead silence without end!
-Where are you, my beloved,
-My brave and faithful friend?
-Your image, pure and lovely,
-In spite of bolt and bar,
-Before me comes; your fond, clear glance
-Shines on me like a star.
-The long, long years of parting,
-With grief and longing rife,
-The hand weighed down by bondage,
-Pains of a shattered life—Not all could dim that image,
-Your sweet head, golden bright;
-Still o’er my thoughts it reigneth,
-Unchanged its magic might.
-In this cold grave, I, living,
-Am buried from the sun;
-Monotonously, mournfully,
-The years pass, one by one.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/The Humane Mikado', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "My object all sublime
-I shall achieve in time—To let the punishment fit the crime—The punishment fit the crime;
-And make each prisoner pent
-Unwilling represent
-A source of innocent merriment,
-Of innocent merriment!
-All prosy dull society sinners,
-Who chatter and bleat and bore,
-Are sent to hear sermons
-From mystical Germans
-Who preach from ten to four,
-The amateur tenor, whose vocal villanies
-All desire to shirk,
-Shall, during off-hours,
-Exhibit his powers
-To Madame Tussaud's waxwork.
-The lady who dies a chemical yellow,
-Or stains her grey hair puce.
-Or pinches her figger,
-Is blacked like a nigger
-With permanent walnut juice.
-The idiot who, in railway carriages,
-Scribbles on window panes.
-We only suffer
-To ride on a buffer
-In Parliamentary trains.
-My object all sublime
-I shall achieve in time—To let the punishment fit the crime—The punishment fit the crime;", 'source_url' => ''),
-    array('title' => 'A Sheaf Gleaned in French Fields/Notes', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "'Thou poor leaf, so sear and frail,
-Sport of every wanton gale,
-Whence and whither dost thou fly,
-Through this bleak autumnal sky?
-On a noble oak I grew,
-Green, and broad, and fair to view;
-But the Monarch of the shade
-By the tempest low was laid.
-From that time I wander o'er
-Wood and valley, hill and moor,
-Wheresoe'er the wind is blowing,
-Nothing caring, nothing knowing:
-Thither go I, whither goes,
-Glory's laurel, Beauty's rose.'", 'source_url' => ''),
     array('title' => 'The Boy Land Boomer', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Chapter 1 Dick Arbuckle's Discovery
 Chapter 2 Dick on a Runaway
 Chapter 3 A Cave and a Cave-in
@@ -10487,120 +7861,6 @@ Fearless as our sires of yore,
 We’ll not leave the field of battle
 Till we’ve ransomed Baltimore.
 So let the war guns, &c.", 'source_url' => ''),
-    array('title' => 'Woman Triumphant/Women During the Middle Ages', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "\"Wenn die Blumen aus dem Grase dringen,
-Gleich als lachten sie hinauf zur Sonne
-Des Morgens früh an einem Maientag,
-Und die kleinen Vöglein lieblich singen
-Ihre schönsten Weisen, welche Wonne
-Böt' wohl die Welt, die mehr ergötzen mag,
-Ist's doch wie im Himmelreiche.
-Fragt ihr, was sich dem yergleiche,
-So sag' ich was viel wohler noch
-Des öftern meinen Augen tat,
-Und immer tut, erschau ich's noch:
-Denkt ein edles schönes Fräulein schreite
-Wohlgekleidet und bekränzt hernieder
-Unter Leuten froh sich zu ergehen,
-Hochgemut im höfischen Geleite.
-Züchtig um sich blickend und durch Anmut glänzend,
-Wie Sonne unter Sternen anzusehen.
-Welche Wonne käme gleich
-Solchen Weibes Huldgestalt?
-Der Mai mit alien Wundergaben
-Kann doch nichts so wonnigliches haben
-Als ihren minniglichen Leib.
-Wir lassen alle Blumen steh'n
-Und blicken nach dem werten Weib.\"", 'source_url' => ''),
-    array('title' => 'The Little office of the Blessed Virgin Mary/Matins', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The Lord, Whom earth, and air, and sea
-With one adoring voice resound;
-Who rules them all in majesty;
-In Mary's heart a cloister found.
-Lo! in a humble virgin's womb
-Overshadowed by almighty power,
-He Whom the stars, and sun, and moon,
-Each serve in their appointed hour.
-O Mother blest, to whom was given
-Within thy compass to contain
-The Architect of earth and heaven,
-Whose hands the universe sustain!
-To thee was sent an angel down;
-In thee the Spirit was enshrined;", 'source_url' => ''),
-    array('title' => 'The Glamorgan Gazette/24 August 1894/Summer Is—', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Light and hearty, gay and joyous
-Always singing through the day,
-Soft and pretty, smiling ever,
-Whilst the summer floats away.
-Wild and gentle are thy zephyrs,
-Breath of what's thy blossomed lair,
-Nursing nature in your jewell'd
-Heaving bosom of the year.
-Flowers blooming, flora's gaudy
-In her cloak of fairest green,
-Silver music ripples dancing
-On the brook with sunny gleam.
-Music giving mellow echoes,
-Wafted from thy matron sphere,
-Nature's teaching offsprings sweetly
-Sing the pleasures of the year.
-Evening coolness harbour beauty
-Softly bright in verdant gloom,
-Heavens radiant starlight kissing
-What doth lie beyond the tomb.
-Every moment has her pleasure,
-Every creature gives its song;
-Every gift is but some treasure
-Left whilst summer floats along.", 'source_url' => ''),
-    array('title' => 'Songs of a Savoyard/The Duke and the Duchess', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "The Duke.
-SMALL titles and orders
-For Mayors and Recorders
-I get—and they're highly delighted.
-M.
-P. s baronetted,
-Sham Colonels gazetted,
-And second-rate Aldermen knighted.
-Foundation-stone laying
-I find very paying.
-It adds a large sum to my makings.
-At charity dinners
-The best of speech-spinners,
-I get ten per cent. on the takings!
-The Duchess.
-I present any lady
-Whose conduct is shady
-Or smacking of doubtful propriety;
-When Virtue would quash her,
-I take and whitewash her
-And launch her in first-rate society.", 'source_url' => ''),
-    array('title' => 'Old Valentines/VII', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "\"Still had she gaz'd; but midst the tide
-Two angel forms were seen to glide,
-The Genii of the stream:
-Their scaly armour's Tyrian hue
-Thro' richest purple to the view
-Betray'd a golden gleam.\"The hapless Nymph with wonder saw:
-A whisker first and then a claw,
-With many an ardent wish,
-She stretched in vain to reach the prize.
-What female heart can gold despise?
-What Cat's averse to fish?", 'source_url' => ''),
-    array('title' => 'A Sheaf Gleaned in French Fields/Rhyme (Amédée Pommier)', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Rhyme'sthe tiniest humming-bird
-Startled at any sound that's heard,
-It flies away, and on my word
-Seems subject to vertigo;
-But you may make the wild thing tame,
-And prompt obedience from it claim,
-If Molière should be your name,
-Or you be Victor Hugo.
-As a prisoner left alone,
-Upon his own resources thrown,
-In a dungeon dank of stone,
-Easy finds it to entice
-Upon his shoulder, lap or hand,
-Thanks to forced leisure, patience planned,
-Spider or lizard, and command
-Out to peer the timid mice,
-So by long effort, time and will,
-Is obtained at last the skill
-With confidence and trust to fill
-Rhyme, the bird so shy before;", 'source_url' => ''),
     array('title' => 'Mingle my dust with the burning brand...', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Mingle my dust with the burning brand,
 Scatter it free to the sky
 Fling it wide on the ocean's sand,
@@ -10613,147 +7873,6 @@ Let it mingle with desert sand,
 And the waves of a tropic sea,
 When the roaring surge sweeps o'er the strand
 And the ocean winds shout free.", 'source_url' => ''),
-    array('title' => 'The Little office of the Blessed Virgin Mary/Vespers', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Break the captives' fetters,
-Light on blindness pour;
-All our ills expelling,
-Every bliss implore.
-Show thyself a Mother;
-Offer Him our sighs,
-Who for us Incarnate
-Did not thee despise.
-Virgin of all virgins!
-To thy shelter take us:
-Gentlest of the gentle!
-Chaste and gentle make us.
-Still, as on we journey,
-Help our weak endeavor,
-Till with thee and Jesus
-We rejoice for ever.
-Through the highest heaven,
-To the almighty Three,
-Father, Son, and Spirit,
-One same glory be. Amen.", 'source_url' => ''),
-    array('title' => 'The Little office of the Blessed Virgin Mary/Lauds', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "OQueen of all the virgin choir,
-Enthroned above the starry sky,
-Who with thy bosom's milk didst feed
-Thine own Creator, Lord most high.
-What man had lost in hapless Eve,
-Thy sacred womb to man restores;
-Thou to the wretched here beneath
-Hast open'd heaven's eternal doors.
-Hail, O refulgent Hall of light!
-Hail, Gate august of heaven's high King!
-Through thee redeemed to endless life,
-Thy praise let all the nations sing.
-O Jesu! born of Virgin bright,
-Immortal glory be to Thee;", 'source_url' => ''),
-    array('title' => 'Lyrical Ballads (1798)/Lines written in early spring', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "Through primrose-tufts, in that sweet bower,
-The periwinkle trail'd its wreathes;
-And 'tis my faith that every flower
-Enjoys the air it breathes.
-The birds around me hopp'd and play'd;
-Their thoughts I cannot measure,
-But the least motion which they made,
-It seem'd a thrill of pleasure.
-The budding twigs spread out their fan,
-To catch the breezy air;
-And I must think, do all I can,
-That there was pleasure there.
-If I these thoughts may not prevent,
-If such be of my creed the plan,
-Have I not reason to lament
-What man has made of man?", 'source_url' => ''),
-    array('title' => 'Scenes in my Native Land/The Newport Tower', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Dark, lonely Tower, amid yon Eden-isle,
-Which, as a gem, fair Narragansett wears
-Upon her heaving breast, thou lift'st thy head,
-A mystery and paradox, to mock
-The curious throng.
-Say, reared the plundering hand
-Of the fierce buccaneer thy massy walls,
-A treasure-fortress for his blood-stained gold?
-Or wrought the beings of an earlier race
-To form thy circle, while in wonder gazed
-The painted Indian?
-Fancy spreads her wing
-Around thy time-scathed brow, and deeply tints
-Her fairy-scroll, while hoar Antiquity
-In silence frowns upon the aimless flight.
-
-Thou wilt not show the secret of thy birth!
-Nor do I know why we need question thee
-So strictly on that point; save that the creed
-Of Yankee people is, that through the toil
-Of questioning, there cometh light, and gain
-Of knowledge to the mind.
-We see thou art", 'source_url' => ''),
-    array('title' => 'Canadian Singers and Their Songs/Arthur L. Phelps', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Shy, amorous,
-The brown-haired dryads of the apple trees
-I saw this day.
-Shy were they in among the blowing blossoms;
-Their white knees
-Hidden by blossom tapestries
-The wind had woven, weaving cunningly.
-Yet their arms and faces,
-And shoulders bloomy pink, by swaying spray
-I saw, and their long glances
-In the sunny garden places
-Where the sunlight dances,
-Held me in sweet trances;
-While they begged me come to play,
-Bathe with them in blossoms,
-On a white spring day!", 'source_url' => ''),
-    array('title' => 'Martin Pippin in the Apple Orchard/Prologue II', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "'A-floating, a-floating, what saw I a-floating?
-Fairy ships rocking with pink sails and white
-Smoothly as swans on a river of light
-Saw I a-floating?
-No, it was apple-bloom, rosy and fair,
-Softly obeying the nod of the air
-I saw a-floating.
-A-floating, a-floating, what saw I a-floating?
-White clouds at eventide blown to and fro
-Lightly as bubbles the cherubim blow,
-Saw I a-floating?
-No, it was pretty girls gowned like a flower
-Blown in a ring round their own apple-bower
-I saw a-floating.
-Or was it my dream, my dream only–who knows?–As frail as a snowflake, as flushed as a rose,
-I saw a-floating?
-A-floating, a-floating, what saw I a-floating?'", 'source_url' => ''),
-    array('title' => 'Willie was a wanton wag (1823)/The jolly miller', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "There was a jolly miller once
-Liv'd on the river Dee,
-He danc'd and he sang from morn till night,
-No lark so blithe as he.
-And ay the burden of his song
-For ever us'd to be,
-I care for nobody, no not I,
-If nobody cares for me.
-I live by my mill, God bless her,
-She's kindred, child and wife;
-I would not change my station
-For any other in life.
-No lawyer, surgeon, or doctor,
-E'er had a groat from me.
-I care for nobody, no not I,
-If nobody cares for me.
-When spring begins its merry career,
-Oh how his heart grows gay;", 'source_url' => ''),
-    array('title' => 'The Maclise Portrait-Gallery/Thomas Moore', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "\"While in the parlour I delayed.
-Till they their persons had array'd,
-A dapper volume caught my eye,
-That on the window chanc'd to lie;
-A book's a friend—I always choose
-To turn its pages and peruse:—It prov'd those poems known to fame
-For praising every cyprian dame;
-The bantlings of a dapper youth,
-Renown'd for gratitude and truth;
-A little pest, hight Tommy Moore,
-Who hopp'd and skipp'd our country o'er;
-Who sipp'd our tea and lived on sops,
-Revell'd on syllabubs and slops,
-And when his brain, of cobweb fine,
-Was fuddled with five drops of wine,
-Would all his puny loves rehearse,
-And many a maid debauch—in verse.\"[2]", 'source_url' => ''),
     array('title' => 'The Light Princess', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "\"As a world that has no well,
 Darting bright in forest dell;
 As a world without the gleam
@@ -10782,66 +7901,6 @@ Let, I pray, one thought of me
 Spring, a little well, in thee;
 Lest thy loveless soul be found
 Like a dry and thirsty ground.\"", 'source_url' => ''),
-    array('title' => 'Songs of Love and Rebellion/Heart to heart', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Come sign to me some olden song,
-Some tune that will recall
-The golden days of childhood,
-My mother's face, and all.
-Some sweet, old-fashioned, simple air,
-Forever fresh and young;
-Some melody long handed down,
-By mother lips long sung.
-The song that rose at morning,
-When the world was clear and bright,
-And poured in magic music
-From the mocker's throat at night.
-The low, ethereal harmony,
-The crooning, soft refrain,
-That mother used, in years gone by,
-To soothe the aching brain.
-The song that seemed to softly float,
-From soul-lands far above,
-When mother played the prelude
-To the deathless hymn of love.
-Some olden, golden, lovelit song,
-Forever fresh and young;
-Some melody long handed down,
-By mother lips long sung.", 'source_url' => ''),
-    array('title' => 'Songs of the Slav/A Red Blossom', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "In a dark window, in a gray flower-pot,
-Frowned a rough and thorny cactus.
-Once on a morning
-Red was the chalice that burst from the stalk,
-Red was the blossom.
-Came to us once a poet whose view differed,
-Who adored fragrant and gorgeous roses.
-In sounding distichs
-Praised the rose and proudly censured
-That ruddy blossom.
-There are rough souls that have trod life's path alone,
-Thorns and prickles enveloped them entire.
-What did their hearts hold?
-Bloomed they but once and bloomed they at night, look!
-Red was the blossom.", 'source_url' => ''),
-    array('title' => 'The "Bab" Ballads/The Folly of Brown', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "It left him quiet, calm, and cool,
-Though hardly knowing what a crown was—You can't imagine what a fool
-Poor rich, uneducated
-Brownwas!
-He scouted all who wished to come
-And give him monetary schooling;
-And I propose to give you some
-Idea of his insensate fooling.
-I formed a company or two—(Of course I don't know what the rest meant,
-Iformed them solely with a view
-To help him to a sound investment).
-Their objects were—their only cares—To justify their Boards in showing
-A handsome dividend on shares,
-And keep their good promoter going.
-But no—the lout prefers his brass,
-Though sharesat par
-I freely proffer:
-Yes—will it be believed?—the ass
-Declines, with thanks, my well-meant offer!
-He added, with a bumpkin's grin,(A weakly intellect denoting)He'd rather not invest it in
-A company of my promoting!", 'source_url' => ''),
     array('title' => 'When I Lost You', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "[1st verse:]The roses each one
 Met with the sun
 Sweetheart when I met you
@@ -10923,44 +7982,6 @@ What is man without their aid?
 To protect them is a pleasure;
 I’ve a heart that’s not afraid.
 To arms, etc.", 'source_url' => ''),
-    array('title' => 'Voices of the Night/Hymn to the Night', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Άσπασίη, τρίλλιστοςI heardthe trailing garments of the Night
-Sweep through her marble halls!
-I saw her sable skirts all fringed with light
-From the celestial walls!
-I felt her presence, by its spell of might,
-Stoop o'er me from above;
-The calm, majestic presence of the Night,
-As of the one I love.
-I heard the sounds of sorrow and delight,
-The manifold, soft chimes,
-That fill the haunted chambers of the Night,
-Like some old poet's rhymes.
-From the cool cisterns of the midnight air
-My spirit drank repose;
-The fountain of perpetual peace flows there,—From those deep cisterns flows.
-O holy Night! from thee I learn to bear
-What man has borne before!
-Thou layest thy finger on the lips of Care,
-And they complain no more.
-Peace! Peace! Orestes-like I breathe this prayer!
-Descend with broad-winged flight,
-The welcome, the thrice-prayed for, the most fair,
-The best-beloved Night!", 'source_url' => ''),
-    array('title' => 'Evening Songs (1920)/6', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "What charm is there in love for us,
-My God, and why we love it?
-The world would all dissolve in it
-And lives all in love of it.
-The little cloud sails through the sky
-As though love’s message drove it;
-The little bird that sleeps in twigs
-Is dreaming only of it.
-And here, too, on the earth the man,
-While death his head does covet,
-He weeps, rejoices, longs and lives
-And dies for the sake of it.
-Indeed, the heaven’s angel choir
-With their harps’ music prove it—What would they sing, if not allowed
-To play and to sing of it!", 'source_url' => ''),
     array('title' => 'Ye Faithful, Come Rejoice and Sing', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Ye faithful, come rejoice and sing,
 To Bethlehem your praises bring ;
 Behold the new-born angels King :
@@ -11011,26 +8032,6 @@ Now in flesh appearing,
 O come, let us adore Him,
 O come, let us adore Him,
 O come, let us adore Him, Christ the Lord.", 'source_url' => ''),
-    array('title' => 'Gesta Romanorum Vol. II (1871)/Of feminine Subtlety', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Deeply as did ever one,
-In the Muses' Helicon.
-Many times he hath been seen
-With the faëries on the green,
-And to them his pipe did sound,
-As they danced in a round;
-Mickle solace would they make him,
-And at midnight often take him,
-And convey him from his room
-To a field of yellow broom,
-Or into the meadows where
-Mints perfume the gentle air,
-And where Flora spreads her treasure,
-There they would begin their measure.
-If it chanced night's sable shrouds
-Muffled Cynthia in her clouds,
-Safely home they then would see him,
-And from brakes and quagmires free him.
-There are few such swains as he
-Now-a-days for harmony[1].'", 'source_url' => ''),
     array('title' => 'The Church in the Wildwood (unsourced)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "There’s a church in the valley by the wildwood,
 No lovelier spot in the dale;
 No place is so dear to my childhood,
@@ -11055,37 +8056,6 @@ When day fades away into night,
 I would fain from this spot of my childhood
 Wing my way to the mansions of light.
 Refrain", 'source_url' => ''),
-    array('title' => 'Greece from the Coming of the Hellenes to AD. 14/X', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "“Many the forms of woe and fear
-And shuddering pain the earth doth bear;
-And in the ocean's wide embrace
-Swarm myriad shapes of monstrous race.
-With warnings close to dazzled eyes
-Dread meteors shoot athwart the skies:
-Foreboding birds and beasts can speak
-What wrath the hurricanes will wreak.
-But who can tell what heights of crime
-Man's hardened soul will dare to climb,
-Or passion in a woman's breast
-By no controlling awe suppressed,
-Passion that, harbouring still with pain,
-Brings all things deadly in her train?”", 'source_url' => ''),
-    array('title' => 'Evening Songs (1920)/25', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "The scorching heat of noonday sun
-Is my love’s blazing passion;
-The night—fair shadow of the day—Thy love’s sweet moderation.
-Thou hast set fire within my breast,
-Earth’s centre’s heat assuming,
-But that fire, unnursed by Thy love,
-Will die, itself consuming.
-I dreamt of banquets with Thy love
-And have but crumbs collected;
-What wonder, then, if only grief
-Is in my face reflected.
-The heart, indeed, can suffer much,
-Oppressed by love’s great hunger,
-And whether I am day or night
-I now can guess no longer.’Tis written thus. The day and night
-Proceed, each other missing—But as the evening’s dusk arrives,
-They meet, each other kissing.", 'source_url' => ''),
     array('title' => 'One Blood Strain', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Now autumn comes and summer goes,
 And rises in my heart again,
 As witchfire glimmers through a pool,
@@ -11107,108 +8077,6 @@ When summer goes and autumn comes
 To paint the leaves with sombre fires,
 I feel, like throbs of distant drums,
 The urge of distant nameless sires.", 'source_url' => ''),
-    array('title' => 'The Seasons (Thomson)/Winter', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "SEE,
-Wintercomes, to rule the varied year,
-Sullen, and sad, with all his rising train;
-Vapours, and
-Clouds, and
-Storms. Be these my theme,
-These! that exalt the soul to solemn thought,
-And heavenly musing. Welcome, kindred glooms!5
-Cogenial horrors, hail! with frequent foot,
-Pleas'd have I, in my chearful morn of life,
-When nurs'd by careless solitude I liv'd.
-And sung of Nature with unceasing joy,
-Pleas'd have I wander'd thro' your rough domain;10
-Trod the pure virgin-snows, myself as pure;
-Heard the winds roar, and the big torrent burst;
-Or seen the deep fermenting tempest brew'd,
-In the grim evening-sky. Thus pass'd the time,
-Till thro' the lucid chambers of the south15
-Look'd out the joyous
-Spring, look'd out, and smil'd.
-Tothee, the patron of her first essay,
-The Muse, OWilmington! renews her song.
-Since has she rounded the revolving year:
-Skim'd the gay Spring; on eagle-pinions borne,20
-Attempted thro' the summer-blaze to rise;
-Then swept o'er Autumn with the shadowy gale;", 'source_url' => ''),
-    array('title' => 'Moral Pieces, in Prose and Verse/To a Young Lady', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "And, fair one, when the hues that paint
-The youthful cheek, grow dim and faint,
-And when the voice of softest tone,
-Must falter in its final moan,
-And nought remain of life or grace,
-But what the eye in tears must trace,
-The pious soul from error freed,
-The thought that wak'd the virtuous deed,
-Shall rise above the closing tomb,
-Shall bloom where blight can never come.", 'source_url' => ''),
-    array('title' => 'Old Castles/Carlisle Castle', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "“How fair amid the depth of Summer green
-Spread forth thy walls, Carlisle! Thy castled heights
-Abrupt and lofty: thy Cathedral dome
-Majestic and alone; thy beauteous bridge
-Spanning the Eden, where the angler sits
-Patient so long, and marks the browsing sheep
-Like sprinkled snow amid the verdant vales.
-Old Time hath hung upon thy misty walls
-Legends of festal and of warlike deeds–King Arthur’s wassail cup; the battle axe
-Of the wild Danish sea-kings; the fierce beak
-Of Rome’s victorious eagle: Pictish spear
-And Scottish claymore in confusion mixed
-With England’s clothyard arrow. Every helm
-And dinted cuirass hath some stirring tale–Yet here thou sitt’st as meekly innocent
-As though thine eager lip had never quaffed
-
-Mrs.
-Lydia Sigourney.", 'source_url' => ''),
-    array('title' => 'Enamels and Cameos/The Blackbird', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "A bird from yonder branch at dawn
-Is trilling forth a joyful note,
-Or hopping o’er the frozen lawn,
-In yellow boots and ebon coat.
-It is the blackbird credulous.
-Little of calendar knows he,
-Whose soul, with sunbeams luminous,
-Sings April to the snows that be.
-Rain sweeps in torrents unrepressed.
-The Arve makes dull the Rhone with mire.
-The pleasant hall retains its guest
-In goodly cheer before the fire.
-The mountains have their ermine on,
-Each one a mighty magistrate,
-And hold grave conference upon
-A case of Winter lasting late.
-The bird dries well his wing, and long,
-Despite the rains, the mists that roll,
-Insists upon his little song,
-Believes in Spring with all his soul.
-He softly chides the slumberous morn
-For dallying so long abed,
-And bids the shivering flower forlorn
-Be bold, and raise aloft its head;
-Behind the dark sees day that smiles,
-Even as behind the Holy Rod,
-When bare the altar, dim the aisles,
-The child of faith beholds his God.
-He trusts to Nature’s purpose high,
-Sure of her laws for here and now.
-Who laughs at thy philosophy,
-Dear blackbird, is less wise than thou!", 'source_url' => ''),
-    array('title' => 'The Real Mother Goose/Sing a Song of Sixpence', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Sing a song of sixpence,
-A pocket full of rye;
-Four-and-twenty blackbirds
-Baked in a pie!
-When the pie was opened
-The birds began to sing;
-Was not that a dainty dish
-To set before the king?
-The king was in his countinghouse,
-Counting out his money;
-The queen was in the parlor,
-Eating bread and honey.
-The maid was in the garden,
-Hanging out the clothes;
-When down came a blackbird
-And snapped off her nose.", 'source_url' => ''),
     array('title' => 'Assemble, Ye Faithful', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "1.
 Assemble, ye faithful,
 Haste with exultation
@@ -11266,75 +8134,6 @@ All ye hosts of angels,
 Sing praise all ye nations of the earth.
 Hallelujah! Hallelujah!
 Chorus.", 'source_url' => ''),
-    array('title' => 'Songs of Love and Rebellion/To my sister', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "You were so fond, so proud, so true,
-It did not seem Death dared touch you;
-That he could lay his cold, white hand
-Upon a form so pure and grand;
-That he could pass earth's ugly things
-And pitilessly break your wings.
-And then you faced him with the smile
-That made us love you all the while;
-The old brave smile, you learned to know,
-There, in the homeland, long ago;
-And, dear, you pleaded not to die,
-But he refused to pass you by.
-He swept like lightning from above,
-An eagle on a helpless dove;
-And, as his talons clutched you 'round,
-You fluttered, dove-like, to the ground;
-More beautiful in your despair
-Than anything in earth or air.
-In breathless, strange, unbroken sleep,
-He closed your eyes, so clear and deep;
-He clasped in his your trembling hand,
-And led you to an unknown land;
-He wreathed your brow with poppies red,
-And crowned you queen among the dead.
-The great stars gleam, the roses wave
-In silence o'er your ivied grave:
-Asleep, amid our loved and best,
-You in eternal slumber rest;
-But, as the stars live in the dew,
-So lives in love the soul of you.", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/Flower to Flower', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Who seem to be born
-Out of all he is,
-Who love to be born,
-And to die for this.
-Flowers for remembrance,
-Flowers for truth;
-Thoughts of the angel of
-Innocent youth;
-Dews of the morning
-Over their mirth,
-Softly awaking
-From sleep in earth;
-Sweet resurrection,
-A holy birth!
-Red for renouncement,
-Green is for hope,
-White for humility,
-Flowers who droop;
-Pale for his purity;
-Fair they link,
-Leaning a hand to us,
-Ere we sink.
-Azure for infinite
-Heaven's embrace,
-Tender and true
-Celestial grace;
-Red for the heart's blood
-Of Christ our Lord;", 'source_url' => ''),
-    array('title' => 'Evening Songs (1920)/45', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "The day and night went each their way-The day, as Judas, traitor,
-The night, so fair, so beautiful,
-That none can ever hate her.
-The little stars shine in the sky,
-The moon comes with her pallor,
-And in the forest chats the dove,
-The fair and tender caller.
-The heart confesses to the heart
-With thoughts in distance sailing,
-And longing lips thirst for a kiss,
-From burning passion thrilling.", 'source_url' => ''),
     array('title' => 'How Far From Home', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I hear the rising tempest moan,
 My failing limbs have weary grown,
 The flowers are shut, the streams are dried,
@@ -11359,165 +8158,6 @@ Methinks e'en now its bursting beams
 The radiance from thy casement streams;
 No more I shed the pilgrim's tear,
 I hear thy voice, my home is near.", 'source_url' => ''),
-    array('title' => 'Ambarvalia/Burbidge/O Time, dull Time, go faster', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "O Time, dull Time, go faster,1 have not found my rest,
-I am not with my Master,
-Unsanctified, unblest!
-I roam in sin and error,
-In grief and pain I roam,
-I mourn, I am in terror,
-My heart is not at home.
-O patience, restless spirit!
-Resist not, nor repine;
-My peace thou shalt inherit,
-The promises are thine!
-If thou with sin and weakness
-No more wouldst walk below,
-Be patient, and learn meekness,
-And thou shalt be let go.", 'source_url' => ''),
-    array('title' => 'Ambarvalia/Burbidge/Hymn to the Holy Spirit', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Roots which in their dusty bosoms
-Hid an age of golden days,
-Stirring, with a cloud of blossoms
-Clothe their bareness for Thy praise.
-
-III.
-
-Sometimes like a morning sun,
-On the dazzled soul Thou breakest,
-Heaven at once on earth begun!
-Sometimes like a star appearing,
-Seen and lost as earth-winds blow,
-Wishing, hoping, thinking, fearing,
-Thou hast saved us ere we know.
-
-IV.
-
-To the sinner in his sin;
-Thou to spirits humbly seeking,
-Answerest by a voice within;
-Happier souls, like fruit-trees leading
-Ordered branches o'er the wall,
-Find in Thee the solace needing,
-Shower or sunshine, Thou art all!", 'source_url' => ''),
-    array('title' => 'Studies in Song/The Emperor\'s Progress', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "His lovely life with all its heaven to be.
-And whoso reads the name inscribed or hears
-Feels his own heart a frozen well of tears,
-Child, for deep dread and fearful pity of thee
-Whom God would not let rather die than see
-The incumbent horror of impending years.
-
-ii.
-
-No less than kinglike, art no more in sooth
-For all thy grace and lordliness of youth,
-The crown that bids men's branded foreheads bow
-Much more has branded and bowed down thy brow
-And gnawn upon it as with fire or tooth
-Of steel or snake so sorely, that the truth
-Seems here to bear false witness. Is it thou,", 'source_url' => ''),
-    array('title' => 'Songs of the Springtides/Thalassius', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "THALASSIUS.
-
-Uponthe flowery forefront of the year,
-One wandering by the grey-green April sea
-Found on a reach of shingle and shallower sand
-Inlaid with starrier glimmering jewellery
-Left for the sun's love and the light wind's cheer
-Along the foam-flowered strand
-Breeze-brightened, something nearer sea than land
-Though the last shoreward blossom-fringe was near,
-A babe asleep with flower-soft face that gleamed
-To sun and seaward as it laughed and dreamed,
-Too sure of either love for either's fear,
-Albeit so birdlike slight and light, it seemed", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/God\'s Child', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "Hewanders round the garden wild,
-I hear him singing sweet;
-I know it is my fairy child,
-I hear his dancing feet.
-Birds low warble in the nest,
-Leaves murmur merrily;
-My boy is leaning on the breast
-Of God most tranquilly.
-He gazes in deep eyes Divine,
-With innocent clear eyes;
-He is God's baby more than mine
-The Father is all-wise.
-Carol, my darling! laugh and leap!
-For art thou not God's own? …… Ah wildly, wildly must I weep… God hath destroyed His son!", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/Only a Little Child', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Onlya little child!
-Stone cold upon a bed!
-Is it for him you wail so wild,
-As though the very world were dead?
-Arise, arise!
-Threaten not the tranquil skies!
-Do not all things die?'Tis but a faded flower!
-Dear lives exhale perpetually
-With every fleeting hour.
-Rachael for ever weeps her little ones;
-For ever Rizpah mourneth her slain sons.
-Arise, arise!
-Threaten not the tranquil skies!
-Only a little child!
-Long generations pass:
-Behold them flash a moment wild
-With stormlight, a pale headlong mass", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/Music and the Child', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Anorgan-player comes rarely round
-To our lone moorland place;
-My darling at the welcome sound
-Runs with laughter in his face
-To the nursery window, hailing,
-With melodious mirth unfailing,
-The sunburnt, black-bearded man,
-Who greets him in Italian.
-Then he brings and sets a chair,
-Humming over every air,
-Feigns to turn a handle deftly,
-Feigns to talk Italian swiftly,
-Fair in little blouse of blue,
-Sweet of heart and form and hue.", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/"That they all may be One"', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Whene'erthere comes a little child,
-My darling comes with him;
-Whene'er I hear a birdie wild
-Who sings his merry whim,
-Mine sings with him:
-If a low strain of music sails
-Among melodious hills and dales,
-When a white lamb or kitten leaps,
-Or star, or vernal flower peeps,
-When rainbow dews are pulsing joy,
-Or sunny waves, or leaflets toy,
-Then he who sleeps
-Softly wakes within my heart;
-With a kiss from him I start;
-He lays his head upon my breast,
-Tho' I may not see my guest,
-Dear bosom-guest!
-In all that's pure and fair and good,
-I feel the spring-time of thy blood,
-Hear thy whispered accents flow
-To lighten woe,", 'source_url' => ''),
-    array('title' => 'Martin Pippin in the Apple Orchard/Prologue I', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "'The green leaf dances now,
-The green leaf dances now,
-The green leaf with its tilted wings
-Dances on the bough,
-And every rustling air
-Says, I've caught you, caught you,
-Leaf with tilted wings,
-Caught you in a snare!
-Whose snare? Spring's,
-That bound you to the bough
-Where you dance now,
-Dance, but cannot fly,
-For all your tilted wings
-Pointing to the sky:
-Where like martins you would dart
-But for Spring's delicious art
-That caught you to the bough,
-Caught, yet left you free
-To dance if not to fly–oh, see!
-As you are dancing now,
-Dancing on the bough,
-Dancing on the bough,
-Dancing with your tilted wings
-On the apple-bough.'", 'source_url' => ''),
     array('title' => 'On Eastnor Knoll', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Silent are the woods, and the dim green boughs are
 Hushed in the twilight: yonder, in the path through
 The apple orchard, is a tired plough-boy
@@ -11548,25 +8188,6 @@ The moon in irised clouds withdrawn.
 Lacking (who knows?) a cloud, a tree,
 A streamlet's purl, the ocean's roar
 From Nature's multidinous store—Imperfect were the melody!", 'source_url' => ''),
-    array('title' => 'Scenes in my Native Land/The Charter-Oak, at Hartford', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "Glorious
-Patriarch of the West!
-Often have mine ears been blest
-With some tale from traveller wight,
-Of thy majesty and might,
-Rearing high, on column proud,
-Massy verdure toward the cloud,
-While thy giant branches throw
-Coolness o'er the vales below.
-Humbler rank, indeed, is mine,
-Yet I boast a kindred line,
-And though Nature spared to set
-On my head thy coronet,
-Still, from history's scroll I claim
-Somewhat of an honored name;
-So, I venture, kingly tree,
-Thus to bow myself to thee.
-Once there came, in days of yore,
-A minion from the mother shore,", 'source_url' => ''),
     array('title' => 'Ode to Leven-Water', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "On Leven's baulks, while free to rove,
 And tune the rural pipe to love;
 I envied not the happiest swain
@@ -11622,36 +8243,6 @@ Although he cannot speak
 I'll vainly, vainly seek
 A better friend than old dog Tray.
 Chorus", 'source_url' => ''),
-    array('title' => 'Moral Pieces, in Prose and Verse/An Emblem', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "I'VE seen a drop of morning dew,
-Like some fair gem serene,
-That sparkled on a verdant bough
-All clad in summer green.
-The rising sun absorb'd the tear,
-And drank it as it shone;
-The winds of winter cleft the bough,
-It moulder'd and was gone.
-The drop of dew is like the bloom
-And morning of our span:
-The bough that wither'd in the blast
-Is like the life of man.", 'source_url' => ''),
-    array('title' => 'The Sad Years/An Old Proverb', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Andin a thousand years
-It will be all the same,
-Whether or no
-Women's tears flow,
-Or battles take us
-To save or to break us,
-Or man against man
-Advance but a span;
-Hideous in anger,
-Tame in death's languor,
-Shouting and crying,
-Sobbing and dying,
-On the red fields of war;
-Calling on those afar,
-Mother and child and wife
-There in the midst of strife.
-God, the earth shakes with it!
-Down in the hellish pit,", 'source_url' => ''),
     array('title' => 'Nelly Was a Lady', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "1.
 Down on de Mississippi floating,
 Long time I trabble on de way,
@@ -11712,31 +8303,6 @@ Oh, peaceful hour of Summer Noon!
 Life has its midnight slumber;
 Has it no noonday rest for us,
 When cares shall cease to cumber?", 'source_url' => ''),
-    array('title' => 'The Secret Glory/3, 4', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "In Soar's sweet valley David preached;
-His Gospel accents so beguiled
-The savage Britons, that they turned
-Their fiercest cries to music mild.
-In Soar's sweet valley Cybi taught
-To haughty Prince the Holy Law,
-The way to Heaven he showed, and then
-The subject tribes inspired with awe.
-In Soar's sweet valley still the song
-Of Phil'mel sounds and checks alarms.
-But when shall I once more renew
-Those heavenly hours in Gladys' arms?\"", 'source_url' => ''),
-    array('title' => 'Tower of Ivory/The Reed-Player', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "The Song of Songs it was, strange wrought
-Beyond the heather hills
-From memories and dreams, and taught
-By shepherd women who had caught
-Its lilt from mountain rills.
-The beating of a heart I heard
-In that forlorn sweet air,
-The singing of a distant bird,
-A sigh, a softly uttered word
-And echoed laughter there.\"Play me a song of Death,\" I whispered then.
-He raised his hollow reed as one who longs
-To turn to dreams, and smiled, and played again
-The Song of Songs.", 'source_url' => ''),
     array('title' => 'The Two Streams', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Behold the rocky wall
 That down its sloping sides
 Pours the swift rain-drops, blending, as they fall,
@@ -11755,42 +8321,6 @@ And, as a moment turns its slender rill,
 Each widening torrent bends, --From the same cradle's side,
 From the same mother's knee, --One to long darkness and the frozen tide,
 One to the Peaceful Sea!", 'source_url' => ''),
-    array('title' => 'Hillsboro People/Noctes Ambrosianæ', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "From Hemlock Mountain's barren crest
-The roaring gale flies down the west
-And drifts the snow on Redmount's breast
-In hollows dark with pine.
-Full in its path from hill to hill
-There stands, beside a ruined mill,
-A lonely house, above whose sill
-A brace of candles shine.
-And there an ancient bachelor
-And maiden sister, full three-score,
-Sit all forgetful of the roar
-Of wind and mountain stream;
-Forgot the wind, forgot the snow,
-What magic airs about them blow?
-They read, in wondering voices low,
-The Midsummer Night's Dream!
-And, reading, past their frozen hill
-In charmèd woods they range at will
-And hear the horns of Oberon shrill
-Above the plunging Tam;—Yea, long beyond the cock's first crow
-In dreams they walk where windflowers blow;
-Late do they dream, and liker grow
-To Charles and Mary Lamb.", 'source_url' => ''),
-    array('title' => 'Hymns for Childhood/The Sky Lark—Child\'s Morning Hymn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The
-Sky-lark, when the dews of morn
-Hang tremulous on flower and thorn,
-And violets round his nest exhale
-Their fragrance on the early gale,
-To the first sunbeam spreads his wings,
-Buoyant with joy, and soars, and sings.
-He rests not on the leafy spray,
-To warble his exulting lay,
-But high above the morning cloud
-Mounts in triumphant freedom proud,
-And swells, when nearest to the sky,
-His notes of sweetest ecstacy.", 'source_url' => ''),
     array('title' => 'A late lark twitters from the quiet skies', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "A late lark twitters from the quiet skies;
 And from the west,
 Where the sun, his day's work ended,
@@ -11811,137 +8341,6 @@ Some late lark singing,
 Let me be gathered to the quiet west,
 The sundown splendid and serene,
 Death.", 'source_url' => ''),
-    array('title' => 'Curious Myths of the Middle Ages (1876)/Swan-Maidens', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "“Seven times, on snowy pinions, circle round
-The Delian shores, and skim along the ground:
-The vocal birds, the favourites of the Nine,
-In strains melodious hail the birth divine.
-Oft as they carol on resounding wings,
-To soothe Latona’s pangs, as many strings
-Apollo fitted to the warbling lyre
-In aftertimes; but ere the sacred choir
-Of circling swans another concert sung,
-In melting notes, the power immortal sprung
-To glorious birth[5].”", 'source_url' => ''),
-    array('title' => 'Responsibilities/The Hour-Glass—1912', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "And all day long they cry, 'Come hither, Fool.'
-
-[The Fool goes close to him.
-
-Or else it's, 'Fool, be gone.'
-
-[The Fool goes further off.
-
-Or, 'Fool, stand there.'
-
-[The Fool straightens himself up.
-
-Or, 'Fool, go sit in the corner.'
-
-[The Fool sits in the corner.
-
-And all the while
-What were they all but fools before I came?
-What are they now, but mirrors that seem men,
-Because of my image? Fool, hold up your head.
-
-[Fool does so.
-
-What foolish stories they have told of the ghosts
-That fumbled with the clothes upon the bed,
-Or creaked and shuffled in the corridor,
-Or else, if they were pious bred,
-Of angels from the skies,", 'source_url' => ''),
-    array('title' => 'Flower Fables/The Frost King', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Brighter shone the golden shadows;
-On the cool wind softly came
-The low, sweet tones of happy flowers,
-Singing little Violet's name.'Mong the green trees was it whispered,
-And the bright waves bore it on
-To the lonely forest flowers,
-Where the glad news had not gone.
-Thus the Frost-King lost his kingdom,
-And his power to harm and blight.
-Violet conquered, and his cold heart
-Warmed with music, love, and light;
-And his fair home, once so dreary,
-Gay with lovely Elves and flowers,
-Brought a joy that never faded
-Through the long bright summer hours.
-Thus, by Violet's magic power,
-All dark shadows passed away,
-And o'er the home of happy flowers
-The golden light for ever lay.
-Thus the Fairy mission ended,
-And all Flower-Land was taught
-The \"Power of Love,\" by gentle deeds
-That little Violet wrought.", 'source_url' => ''),
-    array('title' => 'A Little Child\'s Monument/Lead me where the Lily blows', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Friend, you tell me of a valley
-Where the pure white lily blows,
-In a shadowy woodland alley;
-Lead me to their summer snows!
-Oh, lead me where the lily blows!
-I would wear it in my life,
-Weary of world-soil and strife.
-Lead me where the lily blows.
-Angels planted in my garden,
-A vain pleasance of ill weeds,
-One white Lily, and the Warden
-With sweet air from heaven feeds.
-Ah! one night my lily died,
-And I mourned him night and day;\"For the bosom of My Bride,\"The Lord saith, \"he was borne away.\"Then I wandered through the world
-To find the flower-de-luce I lost,
-And my wings will ne'er be furled,
-Summer-poised, or tempest-tost,", 'source_url' => ''),
-    array('title' => 'Flower Fables/Lily-Bell and Thistledown', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "\"Awake! awake! for the earliest gleam
-Of golden sunlight shines
-On the rippling waves, that brightly flow
-Beneath the flowering vines.
-Awake! awake! for the low, sweet chant
-Of the wild-birds' morning hymn
-Comes floating by on the fragrant air,
-Through the forest cool and dim;
-Then spread each wing,
-And work, and sing,
-Through the long, bright sunny hours;
-O'er the pleasant earth
-We journey forth,
-For a day among the flowers.\"Awake! awake! for the summer wind
-Hath bidden the blossoms unclose,
-Hath opened the violet's soft blue eye,
-And wakened the sleeping rose.
-And lightly they wave on their slender stems
-Fragrant, and fresh, and fair,
-Waiting for us, as we singing come
-To gather our honey-dew there.
-Then spread each wing,
-And work, and sing,", 'source_url' => ''),
-    array('title' => 'Hillsboro People/Salem Hills to Ellis Island', 'author' => '', 'year' => '', 'category' => 'Drinking songs', 'lyrics' => "SALEM HILLS TO ELLIS ISLANDI
-
-A single sleighbell, tinkling down
-The virgin road that skirts the wood,
-Makes poignant to the lonely town
-Its silence and its solitude.
-A single taper's feeble flare
-Makes darker by its lonely light
-The cold and empty farmsteads square
-That blackly loom to left and right;
-And she who sews, by that dim flame,
-The patient quilt spread on her knees,
-Hears from her heirloom quilting-frame
-The frolic of forgotten bees.
-Yea, all the dying village thrills
-With echoes of its cheerful past,
-The golden days of Salem Hills;
-Its only golden days? Its last?", 'source_url' => ''),
-    array('title' => 'Cornhuskers/Falltime', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Canada thistle blue and flimmering larkspur blue,
-
-Tomatoes shining in the October sun with red hearts,
-
-Shining five and six in a row on a wooden fence,
-
-Why do you keep wishes on your faces all day long,
-
-Wishes like women with half-forgotten lovers going to new cities?
-
-What is there for you in the birds, the birds, the birds, crying down on the north wind in September, acres of birds spotting the air going south?", 'source_url' => ''),
     array('title' => 'Slave sale poster, 1829', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "TO BE SOLD & LETBY PUBLIC AUCTION,
 On MONDAY the 18th of MAY, 1829
 UNDER THE TREES
@@ -11974,17 +8373,6 @@ Fine Rice, Gram, Paddy, Books, Muslins,
 Needles, Pins, Ribbons, &c. &c.
 
 BLUCHER,", 'source_url' => ''),
-    array('title' => 'Cornhuskers/Testament', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "to the graveyard and to lay away all, the head, the
-
-feet, the hands, all: I know there is something left
-
-people eat the clover over my graveand if any yellow
-
-hair or any blue smoke of flowers is good enough to grow
-
-over melet the dirty-fisted children of the shanty
-
-too much and the people who have too little and I chose", 'source_url' => 'https://en.wikisource.org/wiki/Cornhuskers/Testament'),
     array('title' => 'Tidings of the Saviour\'s birth.', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "2.
 See a beauteous angel soaring
 In the bright celestial blaze,
@@ -21442,5 +17830,1206 @@ Behold yourself
 The while, he beheld but morsels of himself, and--like
 other men--admired them as if they were the fabric of reality
 and not the gingerly scissored swatches of one awareness.", 'source_url' => 'https://gutendex.com/books/62900'),
+    array('title' => 'After the trumps are sounded...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "After the trumps are sounded
+Over the fading world
+After the drums are silent
+And the lastmost flag is furled,
+May we enjoy what we long for
+A boon that we sinners may tell
+The most that we have to hope for
+A comfortable berth in Hell.", 'source_url' => 'https://en.wikisource.org/wiki/After_the_trumps_are_sounded...'),
+    array('title' => 'Ballad (Hood; "It was not in the Winter")', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "It was not in the Winter
+   Our loving lot was cast;
+It was the Time of Roses,—
+   We plucked them as we passed!
+
+That churlish season never frown'd
+   On early lovers yet:—
+Oh, no—the world was newly crown'd
+   With flowers when first we met!
+
+'Twas twilight, and I bade you go,
+   But still you held me fast;
+It was the Time of Roses,—
+   We pluck'd them as we pass'd.—
+
+What else could peer thy glowing cheek,
+   That tears began to stud?
+And when I ask'd the like of Love,
+   You snatched a damask bud;
+
+And oped it to the dainty core,
+   Still glowing to the last.—
+It was the Time of Roses,—
+   We plucked them as we pass'd!", 'source_url' => 'https://en.wikisource.org/wiki/Ballad_(Hood;_"It_was_not_in_the_Winter")'),
+    array('title' => 'The Ballad of G.R. Dibbs', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "This is the story of G.R.D.,
+Who went on a mission across the sea
+To borrow some money for you and me.
+
+This G. R. Dibbs was a stalwart man
+Who was built on a most extensive plan,
+And a regular staunch Republican.
+
+But he fell in the hands of the Tory crew
+Who said, \"It's a shame that a man like you
+Should teach Australia this nasty view.
+
+\"From her mother's side she should ne'er be gone,
+And she ought to be glad to be smiled upon,
+And proud to be known as our hanger-on.\"
+
+And G. R. Dibbs, he went off his peg
+At the swells who came for his smiles to beg
+And the Prince of Wales -- who was pulling his leg
+
+And he told them all when the wine had flown,
+\"The Australian has got no land of his own,
+His home is England, and there alone.\"
+
+So he strutted along with the titled band
+And he sold the pride of his native land
+For a bow and a smile and a shake of the hand.
+
+And the Tory drummers they sit and call:
+\"Send over your leaders great and small;
+For the price is low, and we'll buy them all
+
+\"With a tinsel title, a tawdry star
+Of a lower grade than our titles are,
+And a puff at a prince's big cigar.\"
+
+And the Tories laugh till they crack their ribs
+When they think how they purchased G. R. Dibbs.", 'source_url' => 'https://en.wikisource.org/wiki/The_Ballad_of_G.R._Dibbs'),
+    array('title' => 'The Ballad of M.T. Nutt and His Dog', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Honourable M. T. Nutt
+About the bush did jog.
+Till, passing by a settler's hut,
+He stopped and bought a dog.
+
+Then started homewards full of hope,
+Alas, that hopes should fail!
+The dog pulled back and took the rope
+Beneath the horse's tail.
+
+The Horse remarked, \"I would be soft
+Such liberties to stand!\"
+\"Oh dog,\" he said, \"Go up aloft,
+Young man, go on the land!\"", 'source_url' => 'https://en.wikisource.org/wiki/The_Ballad_of_M.T._Nutt_and_His_Dog'),
+    array('title' => 'A Ballade of Theatricals', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Though all the critics' canons grow--
+Far seedier than the actors' own--
+Although the cottage-door's too low--
+Although the fairy's twenty stone--
+Although, just like the telephone,
+She comes by wire and not by wings,
+Though all the mechanism's known--
+Believe me, there are real things.
+
+Yes, real people--even so--
+Even in a theatre, truth is known,
+Though the agnostic will not know,
+And though the gnostic will not own,
+There is a thing called skin and bone,
+And many a man that struts and sings
+Has been as stony-broke as stone . . .
+Believe me, there are real things
+
+There is an hour when all men go;
+An hour when man is all alone.
+When idle minstrels in a row
+Went down with all the bugles blown--
+When brass and hymn and drum went down,
+Down in death's throat with thunderings--
+Ah, though the unreal things have grown,
+Believe me, there are real things.
+
+     ENVOY.
+
+Prince, though your hair is not your own
+And half your face held on by strings,
+And if you sat, you'd smash your throne--
+--Believe me, there are real things.", 'source_url' => 'https://en.wikisource.org/wiki/A_Ballade_of_Theatricals'),
+    array('title' => 'The Mountains of California (Howard)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Grass and the rains and snow,
+   Trumpet and tribal drum;
+Across my crests the people go
+   Over my peaks the people come.
+Girt with the pelts of lion and hare.
+   Plodding with oxen wains,
+Climbing the steeps on a Spanish mare,
+   Soaring in aeroplanes.
+Men with their hates and their ires,
+   Men with their loves and their lust
+Still shall I reign when their spires
+   And their castles tumble to dust.", 'source_url' => 'https://en.wikisource.org/wiki/The_Mountains_of_California_(Howard)'),
+    array('title' => 'Old Faro Bill was a man of might...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Old Faro Bill was a man of might
+  In the days when the West was young,
+He drank a gallon of booze each night—
+   The toughest galoot unhung!
+Oh, some men shrink at the sight of blood!
+   Bill roomed in a cougar's lair
+And for tobacco he carried a cud
+   Of Mexican prickly pear!
+Old Faro came of a wolfish breed,
+   When he was a suckling child
+He laughed at the marahuana weed
+   For he said that is was too mild.
+Old Faro he was a buffalo
+   When it came to rough-and-tumble,
+He laid the toughest battlers low
+   With never a miss or fumble.
+Some men stammer and halt and pause
+   At the sight of lover's moons,
+But Faro married a hundred squaws
+   And a couple of octaroons.", 'source_url' => 'https://en.wikisource.org/wiki/Old_Faro_Bill_was_a_man_of_might...'),
+    array('title' => 'Rebel souls from the falling dark...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Rebel souls from the falling dark,
+   What are the crowns you gain?
+The quenching night of a dungeon stark
+   And the brine of the rusty chain.
+The taunt and the tang of the bitter blood,
+   And the grim of the grisly bars,
+The friar's chant and the hangman's hood—
+   And a star amid the stars!", 'source_url' => 'https://en.wikisource.org/wiki/Rebel_souls_from_the_falling_dark...'),
+    array('title' => 'A sappe ther wos and that a crumbe manne...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "A sappe ther wos and that a crumbe manne
+Whoe from the timee that he firs beganne
+To jazzen oute he lopved rapery,
+And many a damsel sat himme on his knee.
+As far as goeth manne he had wente,
+And many a virgin's gude name hadde bente.
+Betimes among the dames of seventeen,
+And jazzen all the nighte at Racine.
+To Philadelphia hadde been alsoe
+Ageyne another trull in Chicagoe.
+And many a damsel hadde proved fickle,
+\"Gude sirs,\" quote, \"A maiden for an ickle
+\"Her pantys taken down for any manne,
+\"I hode you sirs, ageyne the whole damn clanne.\"
+And forthwith bought a ticket to New Yorke
+Because Hisse wife expected ther the storke.", 'source_url' => 'https://en.wikisource.org/wiki/A_sappe_ther_wos_and_that_a_crumbe_manne...'),
+    array('title' => 'Scarlet and gold are the stars tonight...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Scarlet and gold are the stars tonight,
+   The river runs silver below the bridge—
+But the hour shall come when the dawn grows white
+   Over the eastern ridge.
+
+Your face is a dim white flower of night,
+   In your arms unheeded the hours fall—
+But the dawn makes hearts grow strange and light,
+   And the far lands call.", 'source_url' => 'https://en.wikisource.org/wiki/Scarlet_and_gold_are_the_stars_tonight...'),
+    array('title' => 'The Shores of Amerikay', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I'm bidding farewell to the land of my youth
+And the home that I love so well
+And the mountains grand of my own native land
+I'm bidding them all farewell
+With an aching heart I'll bid them adieu
+For tomorrow we sail far away
+O'er the raging foam, to seek a home
+On the shores of Amerikay
+
+It's not for the want of employment I'm going
+It's not for the want of fame
+For fortune bright to shine over me
+And give me a glorious name
+It's not for the want of employment I'm going
+O'er the dreary and stormy sea
+But to seek a home for my own true love
+On the shores of Amerikay
+
+And when I am bidding my last farewell
+The tears like rain will fall
+To think of my friends in my own native land
+And my home back in old Ireland so small
+But if I'm to die on a far foreign shore
+And be buried so far, far away
+No fond mother's tears will be shed o'er my grave
+On the shores of Amerikay", 'source_url' => 'https://en.wikisource.org/wiki/The_Shores_of_Amerikay'),
+    array('title' => 'To the Contended', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Bide by the fluted iron walls
+   Take ye a serving wench to wife;
+Drown in the pot the bugle's calls,
+   Trade your spear for a peddler's knife.
+   Turn to the vendor's paltry strife,
+      Gird ye round with doors and bars
+   Safely snore in the lap of Life—
+      I must follow the restless stars.
+
+Wait at the doors of your master's halls
+   —For the faithful server, boards are rife—
+Make no oath when the whip-lash falls—
+   Hark to the counsel of your wife;
+   Trade your harp for a peddler's fife.
+      But gods, the spray and the plunging spars!
+Here is my heart—in the heart of Life
+      And I must follow the restless stars
+
+                       Envoi
+King, there are stallions in golden stalls,
+   But bars of sapphire are only bars!
+Bide in peace in the high safe halls—
+   I must follow the restless stars.", 'source_url' => 'https://en.wikisource.org/wiki/To_the_Contended'),
+    array('title' => 'We are the duckers of crosses...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We are the duckers of crosses,
+   We are the swingers of swings.
+We count our gains and our losses
+   In all of the fourth rate rings.
+We are the bums and the slackers
+   Swiggers of Ancient Crow.
+Yet the fans pay sixteen smackers
+   To see us knocked for a row.
+Bout losers and bout forsakers
+   They hand us a-many slams,
+For we are the set-ups and fakers,
+   We are the fourth-rate hams!
+We are the takers of slams and blips!
+   Jester and ring-side clown!
+But sometimes we go with our trunks on our hips
+   And jerk us a title down!
+Taking bout that champs are shying,
+   Where the ring gong clangs and thrums
+Where the swining mitts are flying—
+   We are the fourth-rate bums!", 'source_url' => 'https://en.wikisource.org/wiki/We_are_the_duckers_of_crosses...'),
+    array('title' => 'Hail, Pomona, Hail', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Hail Pomona, Hail!
+We, thy sons and daughters, sing
+Praises of thy name,
+Praises of thy fame,
+Till the heav’ns above shall ring:
+To the name of Pomona,
+Alma Mater, hail to thee;
+To the spirit true of the White and Blue,
+All hail Pomona, hail!", 'source_url' => 'https://en.wikisource.org/wiki/Hail,_Pomona,_Hail'),
+    array('title' => 'The Valiant Soldiers', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "WE are the valiant soldiers who've 'listed for the war;
+      We are fighting for the Union, we are fighting for the law;
+      We can shoot a rebel farther than a white man ever saw,
+      As we go marching on.
+
+
+      Chorus.--
+      Glory, glory, hallelujah! Glory, glory, hallelujah!
+      Glory, glory, hallelujah, as we go marching on.
+
+
+      Look there above the center, where the flag is waving bright;
+      We are going out of slavery, we are bound for freedom's light;
+      We mean to show Jeff Davis how the Africans can fight,
+      As we go marching on.--Chorus.
+
+
+      We are done with hoeing cotton, we are done with hoeing corn;
+      We are colored Yankee soldiers as sure as you are born.
+      When massa hears us shouting, he will think 'tis Gabriel's horn,
+      As we go marching on.--Chorus.
+
+
+      They will have to pay us wages, the wages of their sin;
+      They will have to bow their foreheads to their colored kith and kin;
+      They will have to give us house-room, or the roof will tumble in,
+      As we go marching on.--Chorus.
+
+
+      We hear the proclamation, massa, hush it as you will;
+      The birds will sing it to us, hopping on the cotton hill;
+      The possum up the gum tree couldn't keep it still,
+      As he went climbing on.--Chorus.
+
+
+      Father Abraham has spoken, and the message has been sent;
+      The prison doors have opened, and out the prisoners went
+      To join the sable army of African descent,
+      As we go marching on.--Chorus.", 'source_url' => 'https://en.wikisource.org/wiki/The_Valiant_Soldiers'),
+    array('title' => 'The angel Gabriel from heaven came', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The angel Gabriel from heaven came,
+His wings as drifted snow, his eyes as flame,
+All hail, said he, thou lowly maiden Mary!
+Most highly favoured Lady, Gloria!
+
+For know a blessed mother thou shalt be,
+All generations laud and honour thee,
+Thy son shall be Emmanuel by seers foretold,
+Most highly...
+
+Then gentle Mary meekly bowed her head,
+\"To me be as it pleaseth God,\" she said,
+\"my soul shall laud and magnify his holy Name.\"
+Most highly...
+
+Of her, Emmanuel, the Christ, was born
+in Bethlehem, all on a Christmas morn,
+and Christian folk throughout the world will ever say,
+Most highly...", 'source_url' => 'https://en.wikisource.org/wiki/The_angel_Gabriel_from_heaven_came'),
+    array('title' => 'A Carol (Kipling)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Our Lord Who did the Ox command
+  To kneel to Judah's King,
+He binds His frost upon the land
+  To ripen it for Spring --
+To ripen it for Spring, good sirs,
+  According to His Word.
+Which well must be as ye can see --
+  And who shall judge the Lord?
+
+When we poor fenmen skate the ice
+  Or shiver on the wold,
+We hear the cry of a single tree
+  That breaks her heart in the cold --
+That breaks her heart in the cold, good sirs,
+  And rendeth by the board.
+Which well must be as ye can see --
+  And who shall judge the Lord?
+
+Her wood is crazed and little worth
+  Excepting as to burn,
+That we may warm and make our mirth
+  Until the Spring return --
+Until the Spring return, good sirs,
+  When Christians walk abroad;
+When well must be as ye can see --
+  And who shall judge the Lord?
+
+God bless the master of this house,
+  And all who sleep therein!
+And guard the fens from pirate folk,
+  And keep us all from sin,
+To walk in honesty, good sirs,
+  Of thought and deed and word!
+Which shall befriend our latter end....
+  And who shall judge the Lord?", 'source_url' => 'https://en.wikisource.org/wiki/A_Carol_(Kipling)'),
+    array('title' => 'Deck the Halls', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Deck the hall with boughs of holly,
+Fa la la la la la la la la.
+'Tis the season to be jolly,
+Fa la la la la la la la la.
+Fill the meadcup, drain the barrel,
+Fa la la la la la la la la.
+Troul the ancient Christmas carol,
+Fa la la la la la la la la.
+
+See the flowing bowl before us,
+Fa la la la la la la la la.
+Strike the harp and join the chorus.
+Fa la la la la la la la la.
+Follow me in merry measure,
+Fa la la la la la la la la.
+While I sing of beauty's treasure,
+Fa la la la la la la la la.
+
+Fast away the old year passes,
+Fa la la la la la la la la.
+Hail the new, ye lads and lasses!
+Fa la la la la la la la la.
+Laughing, quaffing all together,
+Fa la la la la la la la la.
+Heedless of the wind and weather,
+Fa la la la la la la la la.", 'source_url' => 'https://en.wikisource.org/wiki/Deck_the_Halls'),
+    array('title' => 'The First Nowell', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "1. The first Nowell the angels did say
+Was to certain poor shepherds in fields as they lay;
+In fields where they lay, keeping their sheep,
+On a cold winter's night that was so deep:
+
+Nowell, Nowell, Nowell, Nowell,
+Born is the King of Israel.
+
+2. They lookèd up and saw a star,
+Shining in the east, beyond them far:
+And to the earth it gave great light,
+And so it continued both day and night:
+
+3. And by the light of that same star,
+Three Wise Men came from country far;
+To seek for a King was their intent,
+And to follow the star whersoever it went:
+
+4. This star drew nigh to the north-west;
+O'er Bethlehem it took its rest;
+And there it did both stop and stay
+Right over the place where Jesus lay:
+
+5. Then entered in those Wise Men three,
+Fell reverently upon their knee,
+And offered there in his presence,
+Their gold and myrrh and frankincense:
+
+6. Then let us all with one accord
+Sing praises to our heavenly Lord
+That hath made heaven and earth of nought,
+And with his blood mankind hath bought:", 'source_url' => 'https://en.wikisource.org/wiki/The_First_Nowell'),
+    array('title' => 'Gesu Bambino', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When blossoms flowered 'mid the snows upon a winter night
+Was born the Child the Christmas Rose, The King of Love and Light
+The angels sang, the shepherds sang, The grateful earth rejoiced
+And at His blessed birth the stars Their exultation voiced.
+
+O Come let us adore Him,
+O come let us adore Him
+O come let us adore Him,
+Christ the Lord.
+
+Again the heart with rapture glows to greet the holy night
+that gave the world its Christmas Rose, its king of Love and Light
+Let ev'ry voice acclaim His name, The grateful chorus swell
+From paradise to earth He came that we with Him might dwell
+
+O come let us adore him
+O come let us adore Him
+O come let us adore Him,
+Christ the Lord.
+
+Ah! O come let us adore Him
+Ah! Adore Him, Christ, the Lord.
+O come, O come
+O come let us adore Him
+Let us adore Him
+Christ, the Lord.", 'source_url' => 'https://en.wikisource.org/wiki/Gesu_Bambino'),
+    array('title' => 'No Room at the Inn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "No room in the inn for the travelers weary,
+Though hungry and thirsty and footsore they be;
+The children of David, in David's own city,
+They come to enrol at the Caesar's decree.
+
+No place but the stable for Joseph and Mary,
+Although they are own'd of the true royal line;
+They turn from the inn, from its warmth and its plenty,
+To rest for the night with the asses and kine.
+
+Oh, had the host known, though the inn was o'er crowded,
+Who sought in his hostel for shelter and rest,
+The fairest guest chamber had been for the strangers,
+And he had provided for them of his best!
+
+For in the rude stable, where stars were all shining,
+The Lord of the Angels took up His abode,
+The Babe in the manger so calmly reposing,
+Was Israel's Messiah, the dear Son of God.
+
+We join with the angels in giving God glory;
+From Christmas to Christmas the story repeat
+How Jesus was laid a fair Babe in the manger,
+And hasten with shepherds to kneel at His Feet.
+
+All glory, all glory to God in the highest!
+All glory to Jesus f r His lowly birth!
+With hearts full of joy we re-echo with gladness,
+Good will be to men, and sweet peace upon earth.", 'source_url' => 'https://en.wikisource.org/wiki/No_Room_at_the_Inn'),
+    array('title' => 'Mulligan\'s Shanty', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Things is just the same as ever
+   On the outer Never-Never,
+And you look to find the stock of liquor scanty;
+   But we found things worse than ordin'ry,
+   And in fact a bit extraordin'ry,
+When myself and Bill the Pinker struck the shanty.
+   “Shanty?” says you. “What shanty?”
+   Why, Mulligan's shanty!
+
+   I says “Whisky”; Bill says “Brandy”;
+   But there wasn't either handy,
+For the boss was out of liquor in that line.
+   “Well, I'll try a rum,” says Billy.
+   “Got no rum,” he answers, chilly,
+“But I'll recommend a decent drop o' tine.”
+   “Tine?” says Bill; “what tine?”
+   “Why, turpentine!”
+
+   “Blow me blue!” says Bill the Pinker,
+   “Can't yer give us a deep-sinker?
+Ain't yer got a cask o' beer behind the screen?”
+   Bill was getting pretty cranky,
+   But there wasn't any swanky.
+Says the landlord, “Why not try a drop o' sene?”
+   “Sene?” says Bill; “what sene?”
+   “Why, kerosene!”
+
+   Well, we wouldn't spend a tanner,
+   But the boss's pleasant manner
+All our cursing couldn't easily demolish.
+   Says he, “Strike me perpendic'lar
+   But you beggars are partic'lar,
+Why, the squatter in the parlour's drinking polish!”
+   “Polish?” says Bill; “what polish?”
+   “Why, furniture-polish!”", 'source_url' => 'https://en.wikisource.org/wiki/Mulligan\'s_Shanty'),
+    array('title' => 'The Song of Roland', 'author' => 'Open Library:OL6623910MInternet Archive:songsofroland00chesuoftWikidata item:Q123735489English Wikisource:90152', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Ma io senti’ sonare un alto corno,
+Tanto ch’ avrebbe ogni tuon fatto fioco,
+Che, contra sè la sua via seguitando,
+Dirizzò gli occhi miei tutti ad un loco:
+Dopo la dolorosa rotta, quando
+Carlo Magno perdè la santa gesta,
+Non sonò sì terribilmente Orlando.
+
+Inferno: xxxi., 12–18.", 'source_url' => 'https://en.wikisource.org/wiki/The_Song_of_Roland'),
+    array('title' => 'The Canadian Soldiers\' Song Book', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "010—Hello My Dearie. 
+011—I Shall See You To-Night. 
+012—Every Little While. 
+013—Let the Great Big World Keep Turning. 
+014—A Bachelor Gay. 
+015—Have a Heart. 
+016—Can't You See I Mean You. 
+017—Luana Lou. 
+018—Beware of Chu Chin Chow. 
+019—Some Sort of Somebody. 
+020—Wonderful Girl—Wonderful Boy. 
+021—Would You Believe It 
+022—Think of Me. 
+023—I Didn't Know the Way To. 
+024—Have You Forgotten. 
+025—Little Miss Melody. 
+026—Love Will Find a Way. 
+027—Where Did That One Go To 
+028—For Me and My Gal. 
+029—Three Hundred and Sixty-Five Days. 
+030—Fancy You Fancying Me. 
+031—Down Texas Way. 
+032—That Dear Old Home of Mine. 
+033—Some Day I'll Make You Love Me. 
+034—I Like the Place Where the Peaches Grow.", 'source_url' => 'https://en.wikisource.org/wiki/The_Canadian_Soldiers\'_Song_Book'),
+    array('title' => 'A Cradle Song (Blake, 1794)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "A Cradle Song
+
+Sleep, Sleep, beauty bright,
+Dreaming o'er the joys of night;
+Sleep, Sleep; in thy sleep
+Little sorrows sit & weep.
+
+Sweet Babe, in thy face
+Soft desires I can trace,
+Secret joys and secret smiles,
+Little pretty infant wiles.
+
+As thy softest limbs I feel,
+Smiles as of the morning steal
+O’er thy cheek & o’er thy breast
+Where thy little heart doth rest.
+
+O, the cunning wiles that creep
+In thy little heart asleep.
+When thy little heart doth wake,
+Then the dreadful lightnings break.
+
+From thy cheek & from thy eye
+O'er the youthful harvests nigh
+Infant wiles & infant smiles
+Heaven & Earth of peace beguiles.", 'source_url' => 'https://en.wikisource.org/wiki/A_Cradle_Song_(Blake,_1794)'),
+    array('title' => 'Songs and Sonnets (Coleman)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Within my garden, on the southern side,
+ Where warm and strong the sun's battalions fall,
+ The lilies grow superbly white and tall,
+The mignonette and phlox spread far and wide;
+The roses there are my perpetual pride,
+ The ivy riots laughing up the wall,
+ And all my flower-loves, both great and small,
+A daily feast of loveliness provide.
+
+And deep within the garden of my heart,
+ Upon that side where thou art wont to shine—
+And something of thy sweetness to impart—
+ There sprang these little wandering songs of mine;
+I know not if they show thee what thou art,
+ But any worthiness they have is thine.", 'source_url' => 'https://en.wikisource.org/wiki/Songs_and_Sonnets_(Coleman)'),
+    array('title' => 'Tommy Thumb\'s Song Book (1815)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "To Nurse Lovechild
+Artificial Memory for Infants
+The Features
+Baby Bunting
+Baby on the Tree Top
+Patty Cake
+Penny a-Day
+London Bells
+London Bridge
+Tom Thumb and Nurse
+Robin and Bobbin
+End Matter", 'source_url' => 'https://en.wikisource.org/wiki/Tommy_Thumb\'s_Song_Book_(1815)'),
+    array('title' => 'Song of the Sailor Boy', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Cheer up, cheer up, my mother dear!
+Ah! Why do you sit and weep?
+Do you think that he who guards me here,
+Forsakes me on the deep?
+Let hope and faith light up your glance,
+When you see our ship set sail;
+Look, look at her now, and see her dance;
+Oh! Why do you turn so pale?
+There's an English flag, and an English crew;
+So, mother, be proud of your boy in blue.
+
+Ah! Wonder not that, next to thee,
+I love the galloping wave;
+'Tis the first of coursers, bold and free -
+And fit to carry the brave.
+It may bear me on to a dark lee-shore,
+To sink with a gallant band;
+But early or late - here's a heart for my fate,
+Let it come on the sea or the land.
+The storm and the battle shall find me true,
+So, mother, be proud of your boy in blue.
+
+And if the breakers kill our ship,
+And your boy goes down in the foam,
+Be sure the last breath on his lip
+Was a prayer for those at home.
+But come, cheer up! methinks I heard
+A voice in the anchor chain,
+That whispered, like a fairy bird,
+\"The Ship will come again.\"
+God bless thee, mother, adieu, adieu!
+But never weep for your boy in blue.", 'source_url' => 'https://en.wikisource.org/wiki/Song_of_the_Sailor_Boy'),
+    array('title' => 'Patriotic Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Rise, rise, mountain and valley men,
+Bald sire and beardless son each come in order;
+True loyal patriots, muster and rally, men;
+Drive the invader clear over the border,
+Down from the mountain steep, up from the valley deep,
+Come from the city, the town and the village,
+Let every loyal heart in the strife take a part,
+Rescue our country from rapine and pillage.
+Rise, rise, &c.
+
+Men of the Valley, descendants of heroes,
+Heroes whom Washington honored & trusted,
+Heirs of the fame and the hills of your fathers,
+Men who have never been daunted or worsted;
+Long, like all true men, we cherished the Union,
+Long did we strive for our country’s salvation;
+Now when our very existence is threatened,
+Rush to the rescue without hesitation.
+Rise, rise, &c.
+
+Say shall we suffer the ruthless invader
+O’er our fair Valley to marshal his legions,
+Loud calls Virginia, let every man aid her,
+Aid her, and thus show his truth and allegiance.
+Hark to the battle-cry, rush on to victory,
+Banished for ever be party and faction,
+Let every loyal man rush to be in the van,
+Led by the dauntless, the conqueror Jackson.
+Rise, rise, &c.
+
+June 30th, 1862.", 'source_url' => 'https://en.wikisource.org/wiki/Patriotic_Song'),
+    array('title' => 'Greek National Anthem (unknown translation)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Σε γνωρίζω από την κόψη
+Του σπαθιού την τρομερή,
+Σε γνωρίζω από την όψη
+Που με βιά μετράει τη γη.
+Απ' τα κόκκαλα βγαλμένη
+Των Ελλήνων τα ιερά
+Και σαν πρώτα ανδρειωμένη
+Χαίρε, ω χαίρε Ελευθεριά!
+Και σαν πρώτα ανδρειωμένη
+Χαίρε, ω χαίρε Ελευθεριά!
+Και σαν πρώτα ανδρειωμένη
+Χαίρε, ω χαίρε Ελευθεριά!", 'source_url' => 'https://en.wikisource.org/wiki/Greek_National_Anthem_(unknown_translation)'),
+    array('title' => 'Namibia, Land of the Brave', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Namibia land of the brave
+Freedom fight we have won
+Glory to their bravery
+Whose blood waters our freedom.
+
+We give our love and loyalty
+Together in unity
+Contrasting beautiful Namibia
+Namibia our country
+
+Beloved land
+of savannahs
+Hold high the banner of liberty
+
+Chorus:
+Namibia our country
+Namibia motherland
+We love thee", 'source_url' => 'https://en.wikisource.org/wiki/Namibia,_Land_of_the_Brave'),
+    array('title' => 'Irish Lullaby', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I'd rock my own sweet childie to rest
+     in a cradle of gold on a bough of de willow,
+to the shoheen ho of the wind of the west
+     and the lulla lo of the soft sea billow.
+
+     Sleep, baby dear.
+     Sleep, without fear.
+     Mother is here beside your pillow.
+        
+     Sleep, baby dear.
+     Sleep, without fear.
+     Mother is here beside your pillow.
+
+I'd put my own sweet childie to sleep
+     in a silver boat on the beautiful river,
+where a shoheen ho whisper the white cascades,
+     and a lulla lo the green flags shiver.
+
+     Sleep, baby dear.
+     Sleep, without fear.
+     Mother is here with you for ever.
+
+     Sleep, baby dear.
+     Sleep, without fear.
+     Mother is here with you for ever.", 'source_url' => 'https://en.wikisource.org/wiki/Irish_Lullaby'),
+    array('title' => 'A Cradle Song (Colum)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "O, men from the fields!
+Come softly within.
+Tread softly, softly,
+O! men, coming in.
+
+Mavourneen is going
+From me and from you,
+To Mary, the Mother,
+Whose mantle is blue!
+
+From reek of the smoke
+And cold of the floor,
+And peering of things
+Across the half-door.
+
+O men from the fields!
+Soft, softly come thro'.
+Mary puts round him 
+Her mantle of blue.", 'source_url' => 'https://en.wikisource.org/wiki/A_Cradle_Song_(Colum)'),
+    array('title' => 'The Hand That Rocks the Cradle', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Blessings on the hand of women!
+Angels guard its strength and grace,
+In the palace, cottage, hovel,
+Oh, no matter where the place;
+Would that never storms assailed it,
+Rainbows ever gently curled;
+For the hand that rocks the cradle
+Is the hand that rules the world.
+
+Infancy's the tender fountain,
+Power may with beauty flow,
+Mother's first to guide the streamlets,
+From them souls unresting grow—
+Grow on for the good or evil,
+Sunshine streamed or evil hurled;
+For the hand that rocks the cradle
+Is the hand that rules the world.
+
+Woman, how divine your mission
+Here upon our natal sod!
+Keep, oh, keep the young heart open
+Always to the breath of God!
+All true trophies of the ages
+Are from mother-love impearled;
+For the hand that rocks the cradle
+Is the hand that rules the world.
+
+Blessings on the hand of women!
+Fathers, sons, and daughters cry,
+And the sacred song is mingled
+With the worship in the sky—
+Mingles where no tempest darkens,
+Rainbows evermore are hurled;
+For the hand that rocks the cradle
+Is the hand that rules the world.", 'source_url' => 'https://en.wikisource.org/wiki/The_Hand_That_Rocks_the_Cradle'),
+    array('title' => 'The Countess Kathleen and Various Legends and Lyrics', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "To the Rose upon the Rood of Time 
+Fergus and the Druid 
+Cuchulain's Fight with the Sea 
+The Rose of the World 
+The Rose of Peace 
+The Rose of Battle 
+A Faery Song 
+The Lake Isle of Innisfree 
+A Cradle Song 
+The Pity of Love 
+The Sorrow of Love 
+When You Are Old 
+The White Birds 
+A Dream of Death 
+The Countess Cathleen in Paradise 
+Who Goes with Fergus? 
+The Man who Dreamed of Faeryland 
+The Dedication to a Book of Stories Selected from the Irish Novelists 
+The Lamentation of the Old Pensioner 
+The Ballad of Father Gilligan 
+The Two Trees 
+To Some I Have Talked with by the Fire 
+To Ireland in the Coming Times", 'source_url' => 'https://en.wikisource.org/wiki/The_Countess_Kathleen_and_Various_Legends_and_Lyrics'),
+    array('title' => 'Cecily Parsley\'s Nursery Rhymes', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "THREE blind mice, three blind mice, 
+See how they run! 
+They all run after the farmer's wife, 
+And she cut off their tails with a carving knife, 
+Did you ever see such a thing in your life 
+As three blind mice!", 'source_url' => 'https://en.wikisource.org/wiki/Cecily_Parsley\'s_Nursery_Rhymes'),
+    array('title' => 'Nursery Rhymes (c. 1880)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Large 16mo. Full-page Pictures, elegantly
+printed in Oil Colors.
+My Mother. 
+Baby.
+Jack the Giant-Killer. 
+Nursery Rhymes. 
+Punch and Judy. 
+Our Domestic Pets. 
+Little Red Riding Hood. 
+Old Mother Hubbard.", 'source_url' => 'https://en.wikisource.org/wiki/Nursery_Rhymes_(c._1880)'),
+    array('title' => 'When the voices of children are heard on the green', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "* * * 
+
+When the voices of children are heard on the green,
+And whisperings are in the dale,
+The [desires del.] days of my youth rise fresh in my mind,
+My face turns green & pale.
+
+Then come home, my children, the sun is gone down
+And the dews of night arise;
+Your spring & your day are wasted in play,
+And your winter & night in disguise.", 'source_url' => 'https://en.wikisource.org/wiki/When_the_voices_of_children_are_heard_on_the_green'),
+    array('title' => 'L’Arbre fee de Bourlemont', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Now what has kept your leaves so green,
+  Arbre Fée de Bourlemont?
+The children's tears! They brought each grief,
+  And you did comfort them and cheer
+  Their bruisèd hearts, and steal a tear
+    That, healèd, rose a leaf.
+
+And what has built you up so strong,
+  Arbre Fée de Bourlemont?
+The children's love! They've loved you long
+  Ten hundred years, in sooth,
+They've nourished you with praise and song,
+And warmed your heart and kept it young—
+  A thousand years of youth!
+
+Bide always green in our young hearts,
+  Arbre Fée de Bourlemont!
+And we shall always youthful be,
+  Not heeding Time his flight;
+And when, in exile wand'ring, we
+Shall fainting yearn for glimpse of thee,
+  O, rise upon our sight!", 'source_url' => 'https://en.wikisource.org/wiki/L’Arbre_fee_de_Bourlemont'),
+    array('title' => 'Irish Love-Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Would God I were the tender apple blossom
+That floats and falls from off the twisted bough
+To lie and faint within your silken bosom
+Within your silken bosom as that does now.
+
+Or would I were a little burnish'd apple
+For you to pluck me, gliding by so cold
+While sun and shade your robe of lawn will dapple
+Your robe of lawn, and your hair's spun gold.
+
+Yea, would to God I were among the roses
+That lean to kiss you as you float between
+While on the lowest branch a bud uncloses
+A bud uncloses, to touch you, queen.
+
+Nay, since you will not love, would I were growing
+A happy daisy, in the garden path
+That so your silver foot might press me going
+Might press me going even unto death.", 'source_url' => 'https://en.wikisource.org/wiki/Irish_Love-Song'),
+    array('title' => 'The Golden Violet with its Tales of Romance and Chivalry and Other Poems', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "And beneath was piled up mound of stones
+  Whence a rude grey cross arose
+'And lo' said the ancient servitor
+  'It is here thy father is laid.'
+Ballad of Sir Walter Manny p.230", 'source_url' => 'https://en.wikisource.org/wiki/The_Golden_Violet_with_its_Tales_of_Romance_and_Chivalry_and_Other_Poems'),
+    array('title' => 'An Old Song Re-sung', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I saw a ship a-sailing, a-sailing, a-sailing,
+With emeralds and rubies and sapphires in her hold;
+And a bosun in a blue coat bawling at the railing,
+Piping through a silver call that had a chain of gold;
+The summer wind was failing and the tall ship rolled.
+
+I saw a ship a-steering, a-steering, a-steering,
+With roses in red thread worked upon her sails;
+With sacks of purple amethysts, the spoils of buccaneering,
+Skins of musky yellow wine, and silks in bales,
+Her merry men were cheering, hauling on the brails.
+
+I saw a ship a-sinking, a-sinking, a-sinking,
+With glittering sea-water splashing on her decks,
+With seamen in her spirit-room singing songs and drinking,
+Pulling claret bottles down, and knocking off the necks,
+The broken glass was chinking as she sank among the wrecks.
+Hyde Park Mansions.", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_Re-sung'),
+    array('title' => 'The social and moral elevation of our working classes', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "\"There is a voice within me,
+ And 'tis so sweet a voice,
+That its soft lispings win me,
+ Till tears start in my eyes.
+
+Deep from my soul it springeth,
+ Like hidden melody;
+And evermore it singeth
+ This song of songs to me.
+
+This world is full of beauty,
+ As other worlds above;
+And if we did our duty,
+ It might be full of love.\"", 'source_url' => 'https://en.wikisource.org/wiki/The_social_and_moral_elevation_of_our_working_classes'),
+    array('title' => 'Impromptu. To Kate Carol', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When from your gems of thought I turn 
+To those pure orbs, your heart to learn, 
+I scarce know which to prize most high — 
+The bright i-dea, or the bright dear-eye.", 'source_url' => 'https://en.wikisource.org/wiki/Impromptu._To_Kate_Carol'),
+    array('title' => 'Chant to Sirius', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "What nights retard thee, O Sirius !
+Thy light is as a spear,
+And thou penetratest them
+As a warrior that stabbeth his foe
+Even to the center of his life.
+Thy rays reach farther than the gulfs;
+They form a bridge thereover
+That shall endure till the links of the universe
+Are unfastened, and drop apart,
+And all the gulfs are one,
+Dissevered by suns no longer.
+
+How strong art thou in thy place !
+Thou stridest thine orbit,
+And the darkness shakes beneath thee,
+As a road that is trodden by an army.
+Thou art a god
+In thy temple that is hollowed with light
+In the night of infinitude,
+And whose floor is the lower void;
+Thy worlds are as priests and ministers therein.
+Thou furrowest space,
+Even as an husbandman,
+And sowest it with alien seed;
+It beareth alien fruits,
+And these are thy testimony,
+Even as the crops of his fields
+Are the testimony of an husbandman.", 'source_url' => 'https://en.wikisource.org/wiki/Chant_to_Sirius'),
+    array('title' => 'Hunting Song (Scott)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Waken, lords and ladies gay,
+On the mountain dawns the day,
+All the jolly chase is here,
+With hawk, and horse, and hunting-spear!
+Hounds are in their couples yelling,
+Hawks are whistling, horns are knelling,
+Merrily, merrily, mingle they,
+\"Waken, lords and ladies gay.\"
+
+Waken, lords and ladies gay,
+The mist has left the mountain grey,
+Springlets in the dawn are steaming,
+Diamonds on the brake are gleaming:
+And foresters have busy been,
+To track the buck in thicket green;
+Now we come to chant our lay,
+\"Waken, lords and ladies gay.\"
+
+Waken, lords and ladies gay,
+To the greenwood haste away;
+We can show you where he lies,
+Fleet of foot, and tall of size;
+We can show the marks he made,
+When 'gainst the oak his antlers fray'd;
+You shall see him brought to bay,
+\"Waken, lords and ladies gay.\"
+
+Louder, louder chant the lay,
+Waken, lords and ladies gay!
+Tell them youth, and mirth, and glee,
+Run a course as well as we;
+Time, stern huntsman! who can baulk,
+Stanch as hound, and fleet as hawk:
+Think of this, and rise with day,
+Gentle lords and ladies gay.", 'source_url' => 'https://en.wikisource.org/wiki/Hunting_Song_(Scott)'),
+    array('title' => 'The \'Old, Old Song\'', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When all the world is young, lad,
+      And all the trees are green;
+And every goose a swan, lad,
+      And every girl a queen;
+Then hey for boot and horse, lad,
+      And round the world away;
+Young blood must have its course, lad,
+      And every dog his day.
+
+When all the world is old, lad,
+      And all the trees are brown;
+And all the sport is stale, lad,
+      And all the wheels run down;
+Creep home and take your place there,
+      The spent and maimed among;
+God grant you find one face there
+      You loved when all was young.", 'source_url' => 'https://en.wikisource.org/wiki/The_\'Old,_Old_Song\''),
+    array('title' => 'An Old Song (Bunner)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Love, I have wandered a weary way, 
+A weary way for thee. 
+The East is wan with the smile of the day—
+Open thy door to me! 
+
+My hair is wet with the dew of the night 
+That falls from the cedar-tree; 
+The shadows are dark; but the East is light—
+Open thy door to me! 
+
+The stones of the road have bruised my feet—
+The hours till morn are three—
+Thou that hast spikenard precious sweet. 
+Open thy door to me! 
+
+Stay not thy hand upon the lock, 
+Nor thy fingers on the key. 
+In the breeze before morn the tree-tops rock- 
+Open thy door to me! 
+
+My love is the fairest, the only one, 
+The choice of her house is she—
+The height of the heaven hath seen the sun—
+Open thy door to me! 
+
+The holy kiss of my lips aud thine 
+Shall the sun have grace to see?
+The hours foregone of the night are nine—
+Open thy door to me!", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_(Bunner)'),
+    array('title' => 'If We Were on Our Honeymoon', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "TIB. One morning last May I remember I thought for a stroll I would go.
+YVETTE. And it happened you see that the same thought struck me, 'Twas telepathy did it you know.
+
+TIB. I said I will walk to the railway,
+YVETTE. And the railway seemed calling to, me
+TIB. Irresistibly drawn I walked on, on and on,
+Led by some power that I could not see.
+
+YVETTE. At last we both came to the railway,
+TIB. And then face to face, dear we met.
+You smiled oh so sweetly,
+YVETTE. You doffed your hat neatly and said.
+\"Bonjour Mainzelle Yvette.\"
+
+BOTH. When All at once a train rushed by and left us standing in despair
+TIB. You on the right side,
+YVETTE. You on the left,
+TIB. I on the left side,
+YVETTE. I on the right.
+BOTH. Feeling so foolish and lonely quite.
+
+YVETTE. And I thought,
+TIB. What did you think dear?
+YVETTE. Thought how much nicer it would be.
+If that train carried you dear and I
+
+BOTH. On a happy bridal trip a groom and bride.
+Spooning honey mooning side by side,
+YVETTE. Then the bell with it's brazen ding-dong-dong
+would ring out like a sweet wedding song.
+BOTH. And the Puffing of the engine would be like a merry tune,
+If we were on our honeymoon.", 'source_url' => 'https://en.wikisource.org/wiki/If_We_Were_on_Our_Honeymoon'),
+    array('title' => 'Grim Tales', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Will you just send me
+a card to say if you
+have any of these, &
+if so which? In
+great haste E. Nesbit
+                    P.T.O.
+
+Songs of the Maid   Skrine
+The Rosetree of Hildesheim  Weston
+Songs without answer  Putnam
+Songs of love & death  Armour
+A Trip to Fairyland  Morgan
+Arrows of Song
+The Pilgrim  Jewitt
+Flamma Vestalis  Mason
+Scintilloe Carminis  Almy", 'source_url' => 'https://en.wikisource.org/wiki/Grim_Tales'),
+    array('title' => 'Allan Quatermain', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I Inscribe this Book of Adventure 
+
+to my son, 
+
+ARTHUR JOHN RIDER HAGGARD, 
+
+in the hope that in days to come 
+
+he, and many other boys whom I shall never know, may, in 
+
+the acts and thoughts of 
+
+ALLAN QUATERMAIN AND HIS COMPANIONS. 
+
+as herein recorded, find something 
+
+to help him and them to reach to what, with Sir Henry 
+
+Curtis, I hold to be the highest rank whereto 
+
+we can attain—the state and 
+
+dignity of 
+
+ENGLISH GENTLEMEN.", 'source_url' => 'https://en.wikisource.org/wiki/Allan_Quatermain'),
+    array('title' => 'The Screens of Life', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We are but phantoms on the screen of life,
+     The reel itself is very far away;
+And farther, in the cosmic Hollywood,
+     The actors play.
+
+The phantoms on the screen are moving fast,
+     So fast that they can neither think nor see;
+But they are wondering whether like the past
+     Or worse or better will the future be.
+
+I know, at least, whatever be the gains
+     Or losses as we speed away,
+That still for thee and me remains 
+     A thought of yesterday.", 'source_url' => 'https://en.wikisource.org/wiki/The_Screens_of_Life'),
+    array('title' => 'There was an Old Sailor of Compton', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "* * *
+
+ There was an Old Sailor of Compton, 
+ Whose vessel a rock it once bump'd on; 
+ The shock was so great, 
+ that it damaged the pate, 
+ Of that singular Sailor of Compton. 
+
+ <Publ. 1846>", 'source_url' => 'https://en.wikisource.org/wiki/There_was_an_Old_Sailor_of_Compton'),
+    array('title' => 'The Sailor (Wodehouse)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The vessel may shake like a jelly,
+The tempest may ruffle the sea;
+The oil from the engines be smelly,
+But, bless you, that don't affect me.
+Such details are quite to my liking,
+They cause me no worry or pain,
+I feel like an up-to-date Viking,
+Whatever the state of the main.
+
+I know that full many a man 'll
+Turn green when the anchor is weighed,
+And assume in the chops of the Channel
+Some even more curious shade;
+Such words as “a ground swell” or “leeward,”
+If you whisper them soft in his ear,
+Will make him call out for the steward,
+Explaining he feels rather queer.
+
+Some find that their systems are shaken
+If men in their presence should speak
+Of the merits of oysters or bacon,
+Or succulent bubble-and-squeak.
+If you mention whipped cream in their hearing,
+Small pleasure their faces will show;
+You notice their backs disappearing
+En route for the cabin below.
+
+Myself, be the sea smooth or rougher,
+From these sorts of woes I’m exempt.
+I think of the people who suffer
+With pity that's mixed with contempt.
+And I owe my immunity merely
+(A fact I’ve not mentioned before)
+To avoiding the ocean severely:
+I spend all my life on the shore.", 'source_url' => 'https://en.wikisource.org/wiki/The_Sailor_(Wodehouse)'),
+    array('title' => 'Proposed expedition to explore Ellesmere land, northwest of Baffin Bay', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "His Excellency Baron von SAURMA-JELTSCH
+Ambassador Extraordinary and Plenipotentiary of the German Empire. 
+His Excellency J. A. W. GRIP 
+Envoy Extraordinary and Minister Plenipotentiary of Sweden and Norway. 
+Hon. J. R. HAWLEY
+U. S. Senator. 
+Hon. GARDINER G. HUBBARD
+President National Geographic Society.
+Prof. OTIS T. MASON 
+President Anthropological Society. 
+Major J. W. POWELL 
+Director U. S. Geological Survey. 
+Mr. HENRY GANNETT 
+Chief Topographer U. S. Geological Survey. 
+Mr. W. J. McGEE 
+Ethnologist in charge American Bureau of Ethnology. 
+Prof. MARK W. HARRINGTON 
+Chief U. S. Weather Bureau. 
+Commander C. D. SIGSBEE
+Chief Hydrographic Office, U. S. Navy. 
+Prof. W. H. DALL 
+Smithsonian Institution. 
+Mr. B. A. COLONNA
+Assistant in charge of office U. S. Coast and Geodetic Survey. 
+Dr. R. R. GURLEY
+U. S. Fish Commission.
+Hon. THOMAS P. MORGAN 
+Ex-Commissioner of the District of Columbia.", 'source_url' => 'https://en.wikisource.org/wiki/Proposed_expedition_to_explore_Ellesmere_land,_northwest_of_Baffin_Bay'),
+    array('title' => 'A Song of the Republic', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Sons of the South, awake! arise!
+Sons of the South, and do.
+Banish from under your bonny skies
+Those old-world errors and wrongs and lies.
+Making a hell in a Paradise
+That belongs to your sons and you.
+
+Sons of the South, make choice between
+(Sons of the South, choose true),
+The Land of Morn and the Land of E'en,
+The Old Dead Tree and the Young Tree Green,
+The Land that belongs to the lord and the Queen,
+And the Land that belongs to you.
+
+Sons of the South, your time will come –
+Sons of the South, 'tis near –
+The \"Signs of the Times\", in their language dumb,
+Fortell it, and ominous whispers hum
+Like sullen sounds of a distant drum,
+In the ominous atmosphere.
+
+Sons of the South, aroused at last!
+Sons of the South are few!
+But your ranks grow longer and deeper fast,
+And ye shall swell to an army vast,
+And free from the wrongs of the North and Past
+The land that belongs to you.", 'source_url' => 'https://en.wikisource.org/wiki/A_Song_of_the_Republic'),
+    array('title' => 'A Sunrise Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Young palmer sun, that to these shining sands
+      Pourest thy pilgrim’s tale, discoursing still
+Thy silver passages of sacred lands,
+      With news of Sepulchre and Dolorous Hill,
+
+Canst thou be he that, yester-sunset warm,
+      Purple with Paynim rage and wrack desire,
+Dashed ravening out of a dusty lair of Storm,
+      Harried the west, and set the world on fire?
+
+Hast thou perchance repented, Saracen Sun?
+      Wilt warm the world with peace and dove-desire?
+Or wilt thou, ere this very day be done,
+      Blaze Saladin still, with unforgiving fire?", 'source_url' => 'https://en.wikisource.org/wiki/A_Sunrise_Song'),
 );
 ?>
