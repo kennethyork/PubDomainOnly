@@ -19070,5 +19070,24 @@ This is a disambiguation page. It lists works that share the same title. If an a
 \"Over the hills and far away\", a poem by Josephine Daskam Bacon
 \"Over the Hills and Far Away\", a poem by Dinah Maria Craik
 \"Over the Hills and Far Away\", a poem by Eugene Field", 'source_url' => 'https://en.wikisource.org/wiki/Over_the_Hills_and_Far_Away'),
+    array('title' => 'Amazing Grace (4-verse version)', 'author' => 'John Newton', 'year' => '1779', 'category' => 'Hymns', 'lyrics' => "Amazing grace! (how sweet the sound!)
+That saved a wretch like me!
+I once was lost, but now am found,
+Was blind, but now I see.
+
+'Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear,
+The hour I first believed!
+
+Through many dangers, toils, and snares
+I have already come;
+'Tis grace has brought me safe thus far,
+And grace will lead me home.
+
+The earth shall soon dissolve like snow,
+The sun forbear to shine;
+But God, who call'd me here below,
+Will be for ever mine.", 'source_url' => 'https://en.wikisource.org/wiki/Olney_Hymns_(1840)/Book_1/Hymn_41'),
 );
 ?>
