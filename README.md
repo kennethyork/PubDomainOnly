@@ -1,13 +1,14 @@
 # Public Domain Lyrics Database
 
-**5,563 public domain songs** with full lyrics, artist, and year metadata.
+**1,517 verified public domain songs** with full lyrics, metadata, and source URLs.
 
 ## What's Included
 
-- **5,563 songs** - all published 1928 or earlier (US public domain)
+- **1,517 songs** - all published 1928 or earlier (US public domain)
 - **Full lyrics** with proper line breaks and stanza formatting
-- **Artist/Author** and **Year** metadata for each song
-- **Categories**: Folk songs, Hymns, Sea songs, Patriotic songs, Spirituals, Ballads, Love songs, Drinking songs, Children's songs, Christmas carols, Work songs
+- **Artist/Author**, **Year**, and **Category** metadata for each song
+- **Source URLs** linking to original Wikisource/Project Gutenberg entries
+- **Verified clean** - no book excerpts, no prose, no duplicates
 
 ## Data Format
 
@@ -16,7 +17,7 @@ Each entry contains:
 {
   "title": "Song Title",
   "author": "Artist Name",
-  "year": "1905",
+  "year": "1850",
   "category": "Folk songs",
   "lyrics": "Full lyrics text...",
   "source_url": "https://source.url"
@@ -33,9 +34,25 @@ Each entry contains:
 
 All songs are from:
 - **Wikisource** (en.wikisource.org) - Primary source
-- **Project Gutenberg** - Additional songs and ballads
+- **Project Gutenberg** (gutenberg.org) - Additional songs
 
 All content is verified public domain in the United States.
+
+## Categories
+
+| Category | Est. Count |
+|----------|------------|
+| Hymns | ~400 |
+| Folk songs | ~350 |
+| Work songs | ~150 |
+| Sea songs | ~120 |
+| Patriotic songs | ~100 |
+| Spirituals | ~80 |
+| Love songs | ~70 |
+| Children's songs | ~60 |
+| Ballads | ~50 |
+| Christmas carols | ~40 |
+| Drinking songs | ~30 |
 
 ## Usage
 
@@ -49,7 +66,7 @@ fetch('lyrics_data.json')
   .then(r => r.json())
   .then(songs => {
     songs.forEach(song => {
-      console.log(`${song.title} by ${song.author} (${song.year})`);
+      console.log(`${song.title} by ${song.author}`);
     });
   });
 ```
@@ -58,29 +75,6 @@ fetch('lyrics_data.json')
 
 All songs are in the **public domain** in the United States. No rights reserved.
 
-## Categories
-
-| Category | Count |
-|----------|-------|
-| Folk songs | ~1,500 |
-| Hymns | ~1,200 |
-| Sea songs | ~600 |
-| Patriotic songs | ~500 |
-| Spirituals | ~400 |
-| Ballads | ~350 |
-| Love songs | ~300 |
-| Drinking songs | ~250 |
-| Work songs | ~200 |
-| Children's songs | ~150 |
-| Christmas carols | ~100 |
-
-## Contributing
-
-This is a static database. To add songs:
-1. Verify the song was published before 1929
-2. Verify it's actually a song/lyrics (not prose or poetry)
-3. Include artist and year metadata when available
-
 ## Disclaimer
 
-All lyrics in this database are verified public domain. Sources include Wikisource and Project Gutenberg. Year data is extracted automatically and may be inaccurate - verify before critical use.
+Year data is approximate (based on category). Verify before critical use. Source URLs provided when available.
