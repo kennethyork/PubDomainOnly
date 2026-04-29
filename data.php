@@ -6,16 +6,12 @@ Our King and Nation; hear our cry,
 That justice, truth, and holiness
 As bulwarks sure may ever stand
 To guard and keep our Fatherland.
-
-2
 On Thine Anointed, Lord, we pray,
 Pour down the riches of Thy Grace;
 Guide him aright, and, day by day,
 Send comfort from Thy Holy Place,
 That he but lay his sceptre down
 To gain an everlasting crown.
-
-3
 And not for him alone we plead;
 O Lord, in mercy guard and guide
 Our gracious
@@ -23,8 +19,6 @@ Queen, in time of need,
 That she may evermore abide
 Beneath the shadow of Thy wings,
 And know the joy Thy Presence brings.
-
-4
 So, hand in hand, by Hope made strong,
 Through joy and sorrow, peace and strife,
 May they, undaunted, press along
@@ -87,22 +81,16 @@ Of greater suns than beat on earthly thrones,'Tis Thou hast raised our Empire to
 And every heart Thy power and glory owns.
 Eternal praise Thy faithful children bring,
 O crown with blessings our beloved King.
-
-2
 O unity of never failing power,
 Give us the mother in the son to-day,
 And shed, blest Spirit, in his needful hour,
 Thy sanctifying influence on his way.
 Eternal praise, &c.
-
-3
 Fount of all wisdom, with Thy Heavenly light,
 Illume and guide Thy servant on the road
 Of this life's pilgrimage, to read aright
 His people's welfare and his work for God.
 Eternal praise, &c.
-
-4
 King of all Kings, throned in eternal state,
 Stablish and strengthen King and people, then
 In strength and peace our lands and seas shall wait
@@ -618,27 +606,17 @@ Jesu, O my Saviour.", 'source_url' => ''),
     array('title' => 'Come, Let Us Anew Our Journey Pursue', 'author' => '', 'year' => '', 'category' => 'Ballads', 'lyrics' => "COME, let us anew Our journey pursue,
 Roll round with the year,
 And never stand still till the Master appear.
-
-2
 His adorable will Let us gladly fulfil,
 And our talents improve,
 By the patience of hope, and the labour of love
-
-3
 Our life is a dream; Our time, as a stream,
 Glides swiftly away;
 And the fugitive moment refuses to stay.
-
-4
 The arrow is flown; The moment is gone;
 The millennial year
 Rushes on to our view, and eternity's here.
-
-5
 O that each in the day Of his coming may say,\"I have fought my way through;
 I have finish'd the work thou didst give me to do.\"
-
-6
 O that each from his Lord May receive the glad word,\"Well and faithfully done;
 Enter into my joy and sit down on my throne.\"", 'source_url' => ''),
     array('title' => 'And Can I Yet Delay?', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "And can I yet delay
@@ -811,8 +789,6 @@ Who from our mother's arms
 Hath bless'd us on our way
 With countless gifts of love,
 And still is ours to-day.
-
-2
 O may this bounteous God
 Through all our life be near us,
 With ever joyful hearts
@@ -821,8 +797,6 @@ And keep us in His grace,
 And guide us when perplex'd,
 And free us from all ills
 In this world and the next.
-
-3
 All praise and thanks to God
 The Father now be given,
 The Son, and Him Who reigns
@@ -1218,19 +1192,13 @@ Sounds through the earth and skies.", 'source_url' => ''),
 On our anointed Sovereign's head:
 And, looking from Thy holy Heaven,
 Protect the crown Thyself hast given.
-
-2
 Him may we honour and obey,
 Uphold his right and lawful sway;
 Rememb'ring that the powers that be
 Are ministers ordained of Thee.
-
-3
 Him with Thy choicest mercies bless,
 To all his counsels give success;[1]Alike in joy and sorrow bring
 Thy mighty aid, God save the King!
-
-4
 And oh! when earthly thrones decay,
 And earthly kingdoms fade away,
 Grant him a throne in worlds on high,
@@ -1238,27 +1206,19 @@ A Crown of immortality.
 Amen.", 'source_url' => ''),
     array('title' => 'On Christmas Night', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "This version of \"The Sussex Carol\" was sung by Mr. William Bayliss of Buckland (Gloucestershire). For more information, see
 Notes on the Songsat the end of this volume.
-
-1
 On
 Christmas night all Christians sing
 To hear what news those angels bring;
 News of great joy, news of great mirth,
 News of our Saviour King's own birth.
-
-2
 Then why should men on earth be so sad?
 Since our Redeemer made us glad,
 When from sin He set us free
 All for to gain our liberty.
-
-3
 Now sin depart, behold His grace,
 Everlasting life comes in its place,
 And soon we shall its terror see
 And poor and rich must conquered be.
-
-4
 Then out of darkness we see light,
 Which makes all angels to sing this night:
 Glory to God and peace to men
@@ -1389,8 +1349,6 @@ Him, for our Offences slain,
 That we all might Pardon find,
 Thou hast brought to Life again
 The Saviour of Mankind.
-
-2
 By thy own Right-hand of Power
 Thou hast exalted Him,
 Sent the Mighty Conqueror
@@ -1937,31 +1895,21 @@ Jesu, O my Saviour.", 'source_url' => ''),
 And ev'ry heart rejoice:
 The trumpet of the gospel sounds
 With an inviting voice.
-
-2
 Ho! all ye hungry, starving souls,
 That feed upon the wind,
 And vainly strive with earthly toys
 To fill an empty mind;
-
-3
 The blessed Savior hath prepar'd
 A soul-reviving feast,​And bid your longing appetites
 The rich provision taste.
-
-4
 Ho! ye that pant for living streams,
 And pine away and die,
 Here you may quench your raging thirst
 With springs that never dry.
-
-5
 Rivers of love and mercy here,
 In a rich ocean join;
 Salvation in abundance flows
 Like floods of milk and wine.
-
-6
 The gates of glorious gospel grace,
 Stand open night and day:
 Lord, we are come to seek supplies,
@@ -2732,13 +2680,11 @@ Land of work and joy in unity
 Victors in the struggle for the right
 We've won freedom's fight
 All one, strong and free.
-Verse 2
 Africa is our own motherland
 Fashion'd with and blessed by God's good hand
 Let us all her people join as one
 Brothers under the sun
 All one, strong and free.
-Verse 3
 One land and one nation is our cry
 Dignity and peace 'neath Zambia's sky
 Like our noble eagle in its flight
@@ -14776,7 +14722,6 @@ Before Civil Court, chap, v., 167
 Depositions, Ecclesiastical Court, 105;
 Civil Court, Appendix D, 195
 Jean Blouyn, Vice-Inquisitor and aid to Bishop, commission of, 102,
-103
 Officers of court, 94, 95, 97, 130
 Opening of court, 100
 Presided over by Bishop of Nantes and assistants, 93
@@ -18095,35 +18040,29 @@ All hail Pomona, hail!", 'source_url' => 'https://en.wikisource.org/wiki/Hail,_P
       We can shoot a rebel farther than a white man ever saw,
       As we go marching on.
 
-
       Chorus.--
       Glory, glory, hallelujah! Glory, glory, hallelujah!
       Glory, glory, hallelujah, as we go marching on.
-
 
       Look there above the center, where the flag is waving bright;
       We are going out of slavery, we are bound for freedom's light;
       We mean to show Jeff Davis how the Africans can fight,
       As we go marching on.--Chorus.
 
-
       We are done with hoeing cotton, we are done with hoeing corn;
       We are colored Yankee soldiers as sure as you are born.
       When massa hears us shouting, he will think 'tis Gabriel's horn,
       As we go marching on.--Chorus.
-
 
       They will have to pay us wages, the wages of their sin;
       They will have to bow their foreheads to their colored kith and kin;
       They will have to give us house-room, or the roof will tumble in,
       As we go marching on.--Chorus.
 
-
       We hear the proclamation, massa, hush it as you will;
       The birds will sing it to us, hopping on the cotton hill;
       The possum up the gum tree couldn't keep it still,
       As he went climbing on.--Chorus.
-
 
       Father Abraham has spoken, and the message has been sent;
       The prison doors have opened, and out the prisoners went
