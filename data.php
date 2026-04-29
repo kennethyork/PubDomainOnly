@@ -19031,8 +19031,8 @@ Hast thou perchance repented, Saracen Sun?
       Wilt warm the world with peace and dove-desire?
 Or wilt thou, ere this very day be done,
       Blaze Saladin still, with unforgiving fire?", 'source_url' => 'https://en.wikisource.org/wiki/A_Sunrise_Song'),
-    array('title' => 'Amazing Grace', 'author' => 'John Newton', 'year' => '1779', 'category' => 'Hymns', 'lyrics' => "Amazing grace! how sweet the sound,
-  That saved a wretch; like me!
+    array('title' => 'Amazing Grace', 'author' => 'John Newton', 'year' => '1779', 'category' => 'Hymns', 'lyrics' => "Amazing grace! (how sweet the sound!)
+  That saved a wretch like me!
 I once was lost, but now am found,
   Was blind, but now I see.
 
@@ -19043,22 +19043,28 @@ How precious did that grace appear
   The hour I first believed!
 
 3
-The Lord hath promised good to me,
+Through many dangers, toils, and snares
+  I have already come;
+'Tis grace has brought me safe thus far,
+  And grace will lead me home.
+
+4
+The Lord has promised good to me,
   His word my hope secures;
 He will my shield and portion be
   As long as life endures.
 
-4
-When we've been there ten thousand years,
-  Bright shining as the sun,
-We've no less days to sing God's praise
-  Than when we first begun.
+5
+Yes, when this flesh and heart shall fail,
+  And mortal life shall cease,
+I shall possess, within the veil,
+  A life of joy and peace.
 
-7
-When we've been there ten thousand years,
-  Bright shining as the sun,
-We've no less days to sing God's praise
-  Than when we first begun.", 'source_url' => 'https://en.wikisource.org/wiki/Olney_Hymns_(1840)/Book_1/Hymn_41'),
+6
+The earth shall soon dissolve like snow,
+  The sun forbear to shine;
+But God, who call'd me here below,
+  Will be for ever mine.", 'source_url' => 'https://en.wikisource.org/wiki/Olney_Hymns_(1840)/Book_1/Hymn_41'),
     array('title' => 'Waltzing Matilda', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "←Waltzing Matilda (1895)lyrics by Banjo Paterson, composed by Christina Macpherson→information about this editionrelated portals: Australian poetry, Song lyrics, Sheet musicsister projects: Wikipedia article, Commons category, Wikidata item
 Folk song by Banjo Paterson, written in 1895, widely considered Australia's national song. It tells the story of an itinerant worker (a \"swagman\") making a drink of tea at a bush camp and stealing a sheep to eat. When police officers come to arrest him, he drowns himself in a small watering hole (a \"billabong\").
 Tune for \"Waltzing Matilda\" (help | file info or download)
