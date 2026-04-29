@@ -17830,7 +17830,7 @@ Behold yourself
 The while, he beheld but morsels of himself, and--like
 other men--admired them as if they were the fabric of reality
 and not the gingerly scissored swatches of one awareness.", 'source_url' => 'https://gutendex.com/books/62900'),
-    array('title' => 'After the trumps are sounded...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "After the trumps are sounded
+    array('title' => 'After the trumps are sounded...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "After the trumps are sounded
 Over the fading world
 After the drums are silent
 And the lastmost flag is furled,
@@ -17838,7 +17838,7 @@ May we enjoy what we long for
 A boon that we sinners may tell
 The most that we have to hope for
 A comfortable berth in Hell.", 'source_url' => 'https://en.wikisource.org/wiki/After_the_trumps_are_sounded...'),
-    array('title' => 'Ballad (Hood; "It was not in the Winter")', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "It was not in the Winter
+    array('title' => 'Ballad (Hood; "It was not in the Winter")', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "It was not in the Winter
    Our loving lot was cast;
 It was the Time of Roses,—
    We plucked them as we passed!
@@ -17862,7 +17862,7 @@ And oped it to the dainty core,
    Still glowing to the last.—
 It was the Time of Roses,—
    We plucked them as we pass'd!", 'source_url' => 'https://en.wikisource.org/wiki/Ballad_(Hood;_"It_was_not_in_the_Winter")'),
-    array('title' => 'The Ballad of G.R. Dibbs', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "This is the story of G.R.D.,
+    array('title' => 'The Ballad of G.R. Dibbs', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "This is the story of G.R.D.,
 Who went on a mission across the sea
 To borrow some money for you and me.
 
@@ -17900,7 +17900,7 @@ And a puff at a prince's big cigar.\"
 
 And the Tories laugh till they crack their ribs
 When they think how they purchased G. R. Dibbs.", 'source_url' => 'https://en.wikisource.org/wiki/The_Ballad_of_G.R._Dibbs'),
-    array('title' => 'The Ballad of M.T. Nutt and His Dog', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Honourable M. T. Nutt
+    array('title' => 'The Ballad of M.T. Nutt and His Dog', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The Honourable M. T. Nutt
 About the bush did jog.
 Till, passing by a settler's hut,
 He stopped and bought a dog.
@@ -17914,7 +17914,7 @@ The Horse remarked, \"I would be soft
 Such liberties to stand!\"
 \"Oh dog,\" he said, \"Go up aloft,
 Young man, go on the land!\"", 'source_url' => 'https://en.wikisource.org/wiki/The_Ballad_of_M.T._Nutt_and_His_Dog'),
-    array('title' => 'A Ballade of Theatricals', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Though all the critics' canons grow--
+    array('title' => 'A Ballade of Theatricals', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Though all the critics' canons grow--
 Far seedier than the actors' own--
 Although the cottage-door's too low--
 Although the fairy's twenty stone--
@@ -17947,7 +17947,7 @@ Prince, though your hair is not your own
 And half your face held on by strings,
 And if you sat, you'd smash your throne--
 --Believe me, there are real things.", 'source_url' => 'https://en.wikisource.org/wiki/A_Ballade_of_Theatricals'),
-    array('title' => 'The Mountains of California (Howard)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Grass and the rains and snow,
+    array('title' => 'The Mountains of California (Howard)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Grass and the rains and snow,
    Trumpet and tribal drum;
 Across my crests the people go
    Over my peaks the people come.
@@ -17959,7 +17959,7 @@ Men with their hates and their ires,
    Men with their loves and their lust
 Still shall I reign when their spires
    And their castles tumble to dust.", 'source_url' => 'https://en.wikisource.org/wiki/The_Mountains_of_California_(Howard)'),
-    array('title' => 'Old Faro Bill was a man of might...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Old Faro Bill was a man of might
+    array('title' => 'Old Faro Bill was a man of might...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Old Faro Bill was a man of might
   In the days when the West was young,
 He drank a gallon of booze each night—
    The toughest galoot unhung!
@@ -17979,7 +17979,7 @@ Some men stammer and halt and pause
    At the sight of lover's moons,
 But Faro married a hundred squaws
    And a couple of octaroons.", 'source_url' => 'https://en.wikisource.org/wiki/Old_Faro_Bill_was_a_man_of_might...'),
-    array('title' => 'Rebel souls from the falling dark...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Rebel souls from the falling dark,
+    array('title' => 'Rebel souls from the falling dark...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Rebel souls from the falling dark,
    What are the crowns you gain?
 The quenching night of a dungeon stark
    And the brine of the rusty chain.
@@ -17987,7 +17987,7 @@ The taunt and the tang of the bitter blood,
    And the grim of the grisly bars,
 The friar's chant and the hangman's hood—
    And a star amid the stars!", 'source_url' => 'https://en.wikisource.org/wiki/Rebel_souls_from_the_falling_dark...'),
-    array('title' => 'A sappe ther wos and that a crumbe manne...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "A sappe ther wos and that a crumbe manne
+    array('title' => 'A sappe ther wos and that a crumbe manne...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "A sappe ther wos and that a crumbe manne
 Whoe from the timee that he firs beganne
 To jazzen oute he lopved rapery,
 And many a damsel sat himme on his knee.
@@ -18003,7 +18003,7 @@ And many a damsel hadde proved fickle,
 \"I hode you sirs, ageyne the whole damn clanne.\"
 And forthwith bought a ticket to New Yorke
 Because Hisse wife expected ther the storke.", 'source_url' => 'https://en.wikisource.org/wiki/A_sappe_ther_wos_and_that_a_crumbe_manne...'),
-    array('title' => 'Scarlet and gold are the stars tonight...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Scarlet and gold are the stars tonight,
+    array('title' => 'Scarlet and gold are the stars tonight...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Scarlet and gold are the stars tonight,
    The river runs silver below the bridge—
 But the hour shall come when the dawn grows white
    Over the eastern ridge.
@@ -18012,7 +18012,7 @@ Your face is a dim white flower of night,
    In your arms unheeded the hours fall—
 But the dawn makes hearts grow strange and light,
    And the far lands call.", 'source_url' => 'https://en.wikisource.org/wiki/Scarlet_and_gold_are_the_stars_tonight...'),
-    array('title' => 'The Shores of Amerikay', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I'm bidding farewell to the land of my youth
+    array('title' => 'The Shores of Amerikay', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I'm bidding farewell to the land of my youth
 And the home that I love so well
 And the mountains grand of my own native land
 I'm bidding them all farewell
@@ -18038,7 +18038,7 @@ But if I'm to die on a far foreign shore
 And be buried so far, far away
 No fond mother's tears will be shed o'er my grave
 On the shores of Amerikay", 'source_url' => 'https://en.wikisource.org/wiki/The_Shores_of_Amerikay'),
-    array('title' => 'To the Contended', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Bide by the fluted iron walls
+    array('title' => 'To the Contended', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Bide by the fluted iron walls
    Take ye a serving wench to wife;
 Drown in the pot the bugle's calls,
    Trade your spear for a peddler's knife.
@@ -18061,7 +18061,7 @@ King, there are stallions in golden stalls,
    But bars of sapphire are only bars!
 Bide in peace in the high safe halls—
    I must follow the restless stars.", 'source_url' => 'https://en.wikisource.org/wiki/To_the_Contended'),
-    array('title' => 'We are the duckers of crosses...', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We are the duckers of crosses,
+    array('title' => 'We are the duckers of crosses...', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "We are the duckers of crosses,
    We are the swingers of swings.
 We count our gains and our losses
    In all of the fourth rate rings.
@@ -18081,7 +18081,7 @@ Taking bout that champs are shying,
    Where the ring gong clangs and thrums
 Where the swining mitts are flying—
    We are the fourth-rate bums!", 'source_url' => 'https://en.wikisource.org/wiki/We_are_the_duckers_of_crosses...'),
-    array('title' => 'Hail, Pomona, Hail', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Hail Pomona, Hail!
+    array('title' => 'Hail, Pomona, Hail', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Hail Pomona, Hail!
 We, thy sons and daughters, sing
 Praises of thy name,
 Praises of thy fame,
@@ -18090,7 +18090,7 @@ To the name of Pomona,
 Alma Mater, hail to thee;
 To the spirit true of the White and Blue,
 All hail Pomona, hail!", 'source_url' => 'https://en.wikisource.org/wiki/Hail,_Pomona,_Hail'),
-    array('title' => 'The Valiant Soldiers', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "WE are the valiant soldiers who've 'listed for the war;
+    array('title' => 'The Valiant Soldiers', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "WE are the valiant soldiers who've 'listed for the war;
       We are fighting for the Union, we are fighting for the law;
       We can shoot a rebel farther than a white man ever saw,
       As we go marching on.
@@ -18129,7 +18129,7 @@ All hail Pomona, hail!", 'source_url' => 'https://en.wikisource.org/wiki/Hail,_P
       The prison doors have opened, and out the prisoners went
       To join the sable army of African descent,
       As we go marching on.--Chorus.", 'source_url' => 'https://en.wikisource.org/wiki/The_Valiant_Soldiers'),
-    array('title' => 'The angel Gabriel from heaven came', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The angel Gabriel from heaven came,
+    array('title' => 'The angel Gabriel from heaven came', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The angel Gabriel from heaven came,
 His wings as drifted snow, his eyes as flame,
 All hail, said he, thou lowly maiden Mary!
 Most highly favoured Lady, Gloria!
@@ -18148,7 +18148,7 @@ Of her, Emmanuel, the Christ, was born
 in Bethlehem, all on a Christmas morn,
 and Christian folk throughout the world will ever say,
 Most highly...", 'source_url' => 'https://en.wikisource.org/wiki/The_angel_Gabriel_from_heaven_came'),
-    array('title' => 'A Carol (Kipling)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Our Lord Who did the Ox command
+    array('title' => 'A Carol (Kipling)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Our Lord Who did the Ox command
   To kneel to Judah's King,
 He binds His frost upon the land
   To ripen it for Spring --
@@ -18183,7 +18183,7 @@ To walk in honesty, good sirs,
   Of thought and deed and word!
 Which shall befriend our latter end....
   And who shall judge the Lord?", 'source_url' => 'https://en.wikisource.org/wiki/A_Carol_(Kipling)'),
-    array('title' => 'Deck the Halls', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Deck the hall with boughs of holly,
+    array('title' => 'Deck the Halls', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Deck the hall with boughs of holly,
 Fa la la la la la la la la.
 'Tis the season to be jolly,
 Fa la la la la la la la la.
@@ -18209,7 +18209,7 @@ Laughing, quaffing all together,
 Fa la la la la la la la la.
 Heedless of the wind and weather,
 Fa la la la la la la la la.", 'source_url' => 'https://en.wikisource.org/wiki/Deck_the_Halls'),
-    array('title' => 'The First Nowell', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "1. The first Nowell the angels did say
+    array('title' => 'The First Nowell', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "1. The first Nowell the angels did say
 Was to certain poor shepherds in fields as they lay;
 In fields where they lay, keeping their sheep,
 On a cold winter's night that was so deep:
@@ -18241,7 +18241,7 @@ Their gold and myrrh and frankincense:
 Sing praises to our heavenly Lord
 That hath made heaven and earth of nought,
 And with his blood mankind hath bought:", 'source_url' => 'https://en.wikisource.org/wiki/The_First_Nowell'),
-    array('title' => 'Gesu Bambino', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When blossoms flowered 'mid the snows upon a winter night
+    array('title' => 'Gesu Bambino', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "When blossoms flowered 'mid the snows upon a winter night
 Was born the Child the Christmas Rose, The King of Love and Light
 The angels sang, the shepherds sang, The grateful earth rejoiced
 And at His blessed birth the stars Their exultation voiced.
@@ -18267,7 +18267,7 @@ O come, O come
 O come let us adore Him
 Let us adore Him
 Christ, the Lord.", 'source_url' => 'https://en.wikisource.org/wiki/Gesu_Bambino'),
-    array('title' => 'No Room at the Inn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "No room in the inn for the travelers weary,
+    array('title' => 'No Room at the Inn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "No room in the inn for the travelers weary,
 Though hungry and thirsty and footsore they be;
 The children of David, in David's own city,
 They come to enrol at the Caesar's decree.
@@ -18296,7 +18296,7 @@ All glory, all glory to God in the highest!
 All glory to Jesus f r His lowly birth!
 With hearts full of joy we re-echo with gladness,
 Good will be to men, and sweet peace upon earth.", 'source_url' => 'https://en.wikisource.org/wiki/No_Room_at_the_Inn'),
-    array('title' => 'Mulligan\'s Shanty', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Things is just the same as ever
+    array('title' => 'Mulligan\'s Shanty', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Things is just the same as ever
    On the outer Never-Never,
 And you look to find the stock of liquor scanty;
    But we found things worse than ordin'ry,
@@ -18331,7 +18331,7 @@ All our cursing couldn't easily demolish.
 Why, the squatter in the parlour's drinking polish!”
    “Polish?” says Bill; “what polish?”
    “Why, furniture-polish!”", 'source_url' => 'https://en.wikisource.org/wiki/Mulligan\'s_Shanty'),
-    array('title' => 'The Song of Roland', 'author' => 'Open Library:OL6623910MInternet Archive:songsofroland00chesuoftWikidata item:Q123735489English Wikisource:90152', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Ma io senti’ sonare un alto corno,
+    array('title' => 'The Song of Roland', 'author' => 'Open Library:OL6623910MInternet Archive:songsofroland00chesuoftWikidata item:Q123735489English Wikisource:90152', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Ma io senti’ sonare un alto corno,
 Tanto ch’ avrebbe ogni tuon fatto fioco,
 Che, contra sè la sua via seguitando,
 Dirizzò gli occhi miei tutti ad un loco:
@@ -18340,7 +18340,7 @@ Carlo Magno perdè la santa gesta,
 Non sonò sì terribilmente Orlando.
 
 Inferno: xxxi., 12–18.", 'source_url' => 'https://en.wikisource.org/wiki/The_Song_of_Roland'),
-    array('title' => 'The Canadian Soldiers\' Song Book', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "010—Hello My Dearie. 
+    array('title' => 'The Canadian Soldiers\' Song Book', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "010—Hello My Dearie. 
 011—I Shall See You To-Night. 
 012—Every Little While. 
 013—Let the Great Big World Keep Turning. 
@@ -18365,7 +18365,7 @@ Inferno: xxxi., 12–18.", 'source_url' => 'https://en.wikisource.org/wiki/The_S
 032—That Dear Old Home of Mine. 
 033—Some Day I'll Make You Love Me. 
 034—I Like the Place Where the Peaches Grow.", 'source_url' => 'https://en.wikisource.org/wiki/The_Canadian_Soldiers\'_Song_Book'),
-    array('title' => 'A Cradle Song (Blake, 1794)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "A Cradle Song
+    array('title' => 'A Cradle Song (Blake, 1794)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "A Cradle Song
 
 Sleep, Sleep, beauty bright,
 Dreaming o'er the joys of night;
@@ -18391,7 +18391,7 @@ From thy cheek & from thy eye
 O'er the youthful harvests nigh
 Infant wiles & infant smiles
 Heaven & Earth of peace beguiles.", 'source_url' => 'https://en.wikisource.org/wiki/A_Cradle_Song_(Blake,_1794)'),
-    array('title' => 'Songs and Sonnets (Coleman)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Within my garden, on the southern side,
+    array('title' => 'Songs and Sonnets (Coleman)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Within my garden, on the southern side,
  Where warm and strong the sun's battalions fall,
  The lilies grow superbly white and tall,
 The mignonette and phlox spread far and wide;
@@ -18406,7 +18406,7 @@ And something of thy sweetness to impart—
  There sprang these little wandering songs of mine;
 I know not if they show thee what thou art,
  But any worthiness they have is thine.", 'source_url' => 'https://en.wikisource.org/wiki/Songs_and_Sonnets_(Coleman)'),
-    array('title' => 'Tommy Thumb\'s Song Book (1815)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "To Nurse Lovechild
+    array('title' => 'Tommy Thumb\'s Song Book (1815)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "To Nurse Lovechild
 Artificial Memory for Infants
 The Features
 Baby Bunting
@@ -18418,7 +18418,7 @@ London Bridge
 Tom Thumb and Nurse
 Robin and Bobbin
 End Matter", 'source_url' => 'https://en.wikisource.org/wiki/Tommy_Thumb\'s_Song_Book_(1815)'),
-    array('title' => 'Song of the Sailor Boy', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Cheer up, cheer up, my mother dear!
+    array('title' => 'Song of the Sailor Boy', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Cheer up, cheer up, my mother dear!
 Ah! Why do you sit and weep?
 Do you think that he who guards me here,
 Forsakes me on the deep?
@@ -18450,7 +18450,7 @@ That whispered, like a fairy bird,
 \"The Ship will come again.\"
 God bless thee, mother, adieu, adieu!
 But never weep for your boy in blue.", 'source_url' => 'https://en.wikisource.org/wiki/Song_of_the_Sailor_Boy'),
-    array('title' => 'Patriotic Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Rise, rise, mountain and valley men,
+    array('title' => 'Patriotic Song', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Rise, rise, mountain and valley men,
 Bald sire and beardless son each come in order;
 True loyal patriots, muster and rally, men;
 Drive the invader clear over the border,
@@ -18481,7 +18481,7 @@ Led by the dauntless, the conqueror Jackson.
 Rise, rise, &c.
 
 June 30th, 1862.", 'source_url' => 'https://en.wikisource.org/wiki/Patriotic_Song'),
-    array('title' => 'Greek National Anthem (unknown translation)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Σε γνωρίζω από την κόψη
+    array('title' => 'Greek National Anthem (unknown translation)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Σε γνωρίζω από την κόψη
 Του σπαθιού την τρομερή,
 Σε γνωρίζω από την όψη
 Που με βιά μετράει τη γη.
@@ -18493,7 +18493,7 @@ June 30th, 1862.", 'source_url' => 'https://en.wikisource.org/wiki/Patriotic_Son
 Χαίρε, ω χαίρε Ελευθεριά!
 Και σαν πρώτα ανδρειωμένη
 Χαίρε, ω χαίρε Ελευθεριά!", 'source_url' => 'https://en.wikisource.org/wiki/Greek_National_Anthem_(unknown_translation)'),
-    array('title' => 'Namibia, Land of the Brave', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Namibia land of the brave
+    array('title' => 'Namibia, Land of the Brave', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Namibia land of the brave
 Freedom fight we have won
 Glory to their bravery
 Whose blood waters our freedom.
@@ -18511,7 +18511,7 @@ Chorus:
 Namibia our country
 Namibia motherland
 We love thee", 'source_url' => 'https://en.wikisource.org/wiki/Namibia,_Land_of_the_Brave'),
-    array('title' => 'Irish Lullaby', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I'd rock my own sweet childie to rest
+    array('title' => 'Irish Lullaby', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I'd rock my own sweet childie to rest
      in a cradle of gold on a bough of de willow,
 to the shoheen ho of the wind of the west
      and the lulla lo of the soft sea billow.
@@ -18536,7 +18536,7 @@ where a shoheen ho whisper the white cascades,
      Sleep, baby dear.
      Sleep, without fear.
      Mother is here with you for ever.", 'source_url' => 'https://en.wikisource.org/wiki/Irish_Lullaby'),
-    array('title' => 'A Cradle Song (Colum)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "O, men from the fields!
+    array('title' => 'A Cradle Song (Colum)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "O, men from the fields!
 Come softly within.
 Tread softly, softly,
 O! men, coming in.
@@ -18555,7 +18555,7 @@ O men from the fields!
 Soft, softly come thro'.
 Mary puts round him 
 Her mantle of blue.", 'source_url' => 'https://en.wikisource.org/wiki/A_Cradle_Song_(Colum)'),
-    array('title' => 'The Hand That Rocks the Cradle', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Blessings on the hand of women!
+    array('title' => 'The Hand That Rocks the Cradle', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Blessings on the hand of women!
 Angels guard its strength and grace,
 In the palace, cottage, hovel,
 Oh, no matter where the place;
@@ -18590,7 +18590,7 @@ Mingles where no tempest darkens,
 Rainbows evermore are hurled;
 For the hand that rocks the cradle
 Is the hand that rules the world.", 'source_url' => 'https://en.wikisource.org/wiki/The_Hand_That_Rocks_the_Cradle'),
-    array('title' => 'The Countess Kathleen and Various Legends and Lyrics', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "To the Rose upon the Rood of Time 
+    array('title' => 'The Countess Kathleen and Various Legends and Lyrics', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "To the Rose upon the Rood of Time 
 Fergus and the Druid 
 Cuchulain's Fight with the Sea 
 The Rose of the World 
@@ -18613,13 +18613,13 @@ The Ballad of Father Gilligan
 The Two Trees 
 To Some I Have Talked with by the Fire 
 To Ireland in the Coming Times", 'source_url' => 'https://en.wikisource.org/wiki/The_Countess_Kathleen_and_Various_Legends_and_Lyrics'),
-    array('title' => 'Cecily Parsley\'s Nursery Rhymes', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "THREE blind mice, three blind mice, 
+    array('title' => 'Cecily Parsley\'s Nursery Rhymes', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "THREE blind mice, three blind mice, 
 See how they run! 
 They all run after the farmer's wife, 
 And she cut off their tails with a carving knife, 
 Did you ever see such a thing in your life 
 As three blind mice!", 'source_url' => 'https://en.wikisource.org/wiki/Cecily_Parsley\'s_Nursery_Rhymes'),
-    array('title' => 'Nursery Rhymes (c. 1880)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Large 16mo. Full-page Pictures, elegantly
+    array('title' => 'Nursery Rhymes (c. 1880)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Large 16mo. Full-page Pictures, elegantly
 printed in Oil Colors.
 My Mother. 
 Baby.
@@ -18629,7 +18629,7 @@ Punch and Judy.
 Our Domestic Pets. 
 Little Red Riding Hood. 
 Old Mother Hubbard.", 'source_url' => 'https://en.wikisource.org/wiki/Nursery_Rhymes_(c._1880)'),
-    array('title' => 'When the voices of children are heard on the green', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "* * * 
+    array('title' => 'When the voices of children are heard on the green', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "* * * 
 
 When the voices of children are heard on the green,
 And whisperings are in the dale,
@@ -18640,7 +18640,7 @@ Then come home, my children, the sun is gone down
 And the dews of night arise;
 Your spring & your day are wasted in play,
 And your winter & night in disguise.", 'source_url' => 'https://en.wikisource.org/wiki/When_the_voices_of_children_are_heard_on_the_green'),
-    array('title' => 'L’Arbre fee de Bourlemont', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Now what has kept your leaves so green,
+    array('title' => 'L’Arbre fee de Bourlemont', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Now what has kept your leaves so green,
   Arbre Fée de Bourlemont?
 The children's tears! They brought each grief,
   And you did comfort them and cheer
@@ -18662,7 +18662,7 @@ And we shall always youthful be,
 And when, in exile wand'ring, we
 Shall fainting yearn for glimpse of thee,
   O, rise upon our sight!", 'source_url' => 'https://en.wikisource.org/wiki/L’Arbre_fee_de_Bourlemont'),
-    array('title' => 'Irish Love-Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Would God I were the tender apple blossom
+    array('title' => 'Irish Love-Song', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Would God I were the tender apple blossom
 That floats and falls from off the twisted bough
 To lie and faint within your silken bosom
 Within your silken bosom as that does now.
@@ -18681,12 +18681,12 @@ Nay, since you will not love, would I were growing
 A happy daisy, in the garden path
 That so your silver foot might press me going
 Might press me going even unto death.", 'source_url' => 'https://en.wikisource.org/wiki/Irish_Love-Song'),
-    array('title' => 'The Golden Violet with its Tales of Romance and Chivalry and Other Poems', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "And beneath was piled up mound of stones
+    array('title' => 'The Golden Violet with its Tales of Romance and Chivalry and Other Poems', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "And beneath was piled up mound of stones
   Whence a rude grey cross arose
 'And lo' said the ancient servitor
   'It is here thy father is laid.'
 Ballad of Sir Walter Manny p.230", 'source_url' => 'https://en.wikisource.org/wiki/The_Golden_Violet_with_its_Tales_of_Romance_and_Chivalry_and_Other_Poems'),
-    array('title' => 'An Old Song Re-sung', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I saw a ship a-sailing, a-sailing, a-sailing,
+    array('title' => 'An Old Song Re-sung', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I saw a ship a-sailing, a-sailing, a-sailing,
 With emeralds and rubies and sapphires in her hold;
 And a bosun in a blue coat bawling at the railing,
 Piping through a silver call that had a chain of gold;
@@ -18704,7 +18704,7 @@ With seamen in her spirit-room singing songs and drinking,
 Pulling claret bottles down, and knocking off the necks,
 The broken glass was chinking as she sank among the wrecks.
 Hyde Park Mansions.", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_Re-sung'),
-    array('title' => 'The social and moral elevation of our working classes', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "\"There is a voice within me,
+    array('title' => 'The social and moral elevation of our working classes', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "\"There is a voice within me,
  And 'tis so sweet a voice,
 That its soft lispings win me,
  Till tears start in my eyes.
@@ -18718,11 +18718,11 @@ This world is full of beauty,
  As other worlds above;
 And if we did our duty,
  It might be full of love.\"", 'source_url' => 'https://en.wikisource.org/wiki/The_social_and_moral_elevation_of_our_working_classes'),
-    array('title' => 'Impromptu. To Kate Carol', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When from your gems of thought I turn 
+    array('title' => 'Impromptu. To Kate Carol', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "When from your gems of thought I turn 
 To those pure orbs, your heart to learn, 
 I scarce know which to prize most high — 
 The bright i-dea, or the bright dear-eye.", 'source_url' => 'https://en.wikisource.org/wiki/Impromptu._To_Kate_Carol'),
-    array('title' => 'Chant to Sirius', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "What nights retard thee, O Sirius !
+    array('title' => 'Chant to Sirius', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "What nights retard thee, O Sirius !
 Thy light is as a spear,
 And thou penetratest them
 As a warrior that stabbeth his foe
@@ -18750,7 +18750,7 @@ It beareth alien fruits,
 And these are thy testimony,
 Even as the crops of his fields
 Are the testimony of an husbandman.", 'source_url' => 'https://en.wikisource.org/wiki/Chant_to_Sirius'),
-    array('title' => 'Hunting Song (Scott)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Waken, lords and ladies gay,
+    array('title' => 'Hunting Song (Scott)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Waken, lords and ladies gay,
 On the mountain dawns the day,
 All the jolly chase is here,
 With hawk, and horse, and hunting-spear!
@@ -18785,7 +18785,7 @@ Time, stern huntsman! who can baulk,
 Stanch as hound, and fleet as hawk:
 Think of this, and rise with day,
 Gentle lords and ladies gay.", 'source_url' => 'https://en.wikisource.org/wiki/Hunting_Song_(Scott)'),
-    array('title' => 'The \'Old, Old Song\'', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "When all the world is young, lad,
+    array('title' => 'The \'Old, Old Song\'', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "When all the world is young, lad,
       And all the trees are green;
 And every goose a swan, lad,
       And every girl a queen;
@@ -18802,7 +18802,7 @@ Creep home and take your place there,
       The spent and maimed among;
 God grant you find one face there
       You loved when all was young.", 'source_url' => 'https://en.wikisource.org/wiki/The_\'Old,_Old_Song\''),
-    array('title' => 'An Old Song (Bunner)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Love, I have wandered a weary way, 
+    array('title' => 'An Old Song (Bunner)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Love, I have wandered a weary way, 
 A weary way for thee. 
 The East is wan with the smile of the day—
 Open thy door to me! 
@@ -18831,7 +18831,7 @@ The holy kiss of my lips aud thine
 Shall the sun have grace to see?
 The hours foregone of the night are nine—
 Open thy door to me!", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_(Bunner)'),
-    array('title' => 'If We Were on Our Honeymoon', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "TIB. One morning last May I remember I thought for a stroll I would go.
+    array('title' => 'If We Were on Our Honeymoon', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "TIB. One morning last May I remember I thought for a stroll I would go.
 YVETTE. And it happened you see that the same thought struck me, 'Twas telepathy did it you know.
 
 TIB. I said I will walk to the railway,
@@ -18863,7 +18863,7 @@ YVETTE. Then the bell with it's brazen ding-dong-dong
 would ring out like a sweet wedding song.
 BOTH. And the Puffing of the engine would be like a merry tune,
 If we were on our honeymoon.", 'source_url' => 'https://en.wikisource.org/wiki/If_We_Were_on_Our_Honeymoon'),
-    array('title' => 'Grim Tales', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Will you just send me
+    array('title' => 'Grim Tales', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Will you just send me
 a card to say if you
 have any of these, &
 if so which? In
@@ -18879,7 +18879,7 @@ Arrows of Song
 The Pilgrim  Jewitt
 Flamma Vestalis  Mason
 Scintilloe Carminis  Almy", 'source_url' => 'https://en.wikisource.org/wiki/Grim_Tales'),
-    array('title' => 'Allan Quatermain', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I Inscribe this Book of Adventure 
+    array('title' => 'Allan Quatermain', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I Inscribe this Book of Adventure 
 
 to my son, 
 
@@ -18904,7 +18904,7 @@ we can attain—the state and
 dignity of 
 
 ENGLISH GENTLEMEN.", 'source_url' => 'https://en.wikisource.org/wiki/Allan_Quatermain'),
-    array('title' => 'The Screens of Life', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We are but phantoms on the screen of life,
+    array('title' => 'The Screens of Life', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "We are but phantoms on the screen of life,
      The reel itself is very far away;
 And farther, in the cosmic Hollywood,
      The actors play.
@@ -18918,7 +18918,7 @@ I know, at least, whatever be the gains
      Or losses as we speed away,
 That still for thee and me remains 
      A thought of yesterday.", 'source_url' => 'https://en.wikisource.org/wiki/The_Screens_of_Life'),
-    array('title' => 'There was an Old Sailor of Compton', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "* * *
+    array('title' => 'There was an Old Sailor of Compton', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "* * *
 
  There was an Old Sailor of Compton, 
  Whose vessel a rock it once bump'd on; 
@@ -18927,7 +18927,7 @@ That still for thee and me remains
  Of that singular Sailor of Compton. 
 
  <Publ. 1846>", 'source_url' => 'https://en.wikisource.org/wiki/There_was_an_Old_Sailor_of_Compton'),
-    array('title' => 'The Sailor (Wodehouse)', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The vessel may shake like a jelly,
+    array('title' => 'The Sailor (Wodehouse)', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The vessel may shake like a jelly,
 The tempest may ruffle the sea;
 The oil from the engines be smelly,
 But, bless you, that don't affect me.
@@ -18962,7 +18962,7 @@ And I owe my immunity merely
 (A fact I’ve not mentioned before)
 To avoiding the ocean severely:
 I spend all my life on the shore.", 'source_url' => 'https://en.wikisource.org/wiki/The_Sailor_(Wodehouse)'),
-    array('title' => 'Proposed expedition to explore Ellesmere land, northwest of Baffin Bay', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "His Excellency Baron von SAURMA-JELTSCH
+    array('title' => 'Proposed expedition to explore Ellesmere land, northwest of Baffin Bay', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "His Excellency Baron von SAURMA-JELTSCH
 Ambassador Extraordinary and Plenipotentiary of the German Empire. 
 His Excellency J. A. W. GRIP 
 Envoy Extraordinary and Minister Plenipotentiary of Sweden and Norway. 
@@ -18990,7 +18990,7 @@ Dr. R. R. GURLEY
 U. S. Fish Commission.
 Hon. THOMAS P. MORGAN 
 Ex-Commissioner of the District of Columbia.", 'source_url' => 'https://en.wikisource.org/wiki/Proposed_expedition_to_explore_Ellesmere_land,_northwest_of_Baffin_Bay'),
-    array('title' => 'A Song of the Republic', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Sons of the South, awake! arise!
+    array('title' => 'A Song of the Republic', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Sons of the South, awake! arise!
 Sons of the South, and do.
 Banish from under your bonny skies
 Those old-world errors and wrongs and lies.
@@ -19017,7 +19017,7 @@ But your ranks grow longer and deeper fast,
 And ye shall swell to an army vast,
 And free from the wrongs of the North and Past
 The land that belongs to you.", 'source_url' => 'https://en.wikisource.org/wiki/A_Song_of_the_Republic'),
-    array('title' => 'A Sunrise Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Young palmer sun, that to these shining sands
+    array('title' => 'A Sunrise Song', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Young palmer sun, that to these shining sands
       Pourest thy pilgrim’s tale, discoursing still
 Thy silver passages of sacred lands,
       With news of Sepulchre and Dolorous Hill,
@@ -19031,5 +19031,27 @@ Hast thou perchance repented, Saracen Sun?
       Wilt warm the world with peace and dove-desire?
 Or wilt thou, ere this very day be done,
       Blaze Saladin still, with unforgiving fire?", 'source_url' => 'https://en.wikisource.org/wiki/A_Sunrise_Song'),
+    array('title' => 'Amazing Grace', 'author' => 'John Newton', 'year' => '1779', 'category' => 'Hymns', 'lyrics' => "Amazing grace! how sweet the sound,
+  That saved a wretch; like me!
+I once was lost, but now am found,
+  Was blind, but now I see.
+
+2
+'Twas grace that taught my heart to fear,
+  And grace my fears relieved;
+How precious did that grace appear
+  The hour I first believed!
+
+3
+The Lord hath promised good to me,
+  His word my hope secures;
+He will my shield and portion be
+  As long as life endures.
+
+4
+When we've been there ten thousand years,
+  Bright shining as the sun,
+We've no less days to sing God's praise
+  Than when we first begun.", 'source_url' => 'https://en.wikisource.org/wiki/Olney_Hymns_(1840)/Book_1/Hymn_41'),
 );
 ?>
