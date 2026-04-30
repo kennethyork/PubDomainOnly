@@ -607,33 +607,6 @@ This work is in thepublic domainin the
 United Statesbecause it was published before January 1, 1931.
 
 This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => ''),
-    array('title' => 'Hail Queen of Heaven, the Ocean Star', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Hail, Queen of Heav'n, the ocean Star,
-Guide of the wand'rer here below!
-Thrown on life's surge we claim thy care,
-Save us from peril and from woe.
-Mother of Christ, Star of the sea,
-Pray for the wanderer, pray for me
-
-O gentle, chaste, and spotless Maid,
-We sinners make our prayers through thee
-Remind thy Son that He has paid
-The price of our iniquity.
-Virgin most pure, Star of the sea,
-Pray for the sinner, pray for me.
-
-Sojourners in this vale of tears,
-O thee, blest Advocate, we cry,
-Pity our sorrows, calm our fears,
-And soothe with hope our misery.
-Refuge in grief, Star of the sea,
-Pray for the mourner, pray for me.
-
-And while to Him who reigns above,
-In Godhead One, in Persons Three,
-The source of life, of grace, of love,
-Homage we pay on bended knee;
-Do thou, bright Queen, Star of the sea.
-Pray for thy children, pray for me", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hail,_Queen_of_Heaven'),
     array('title' => 'Let Jubil-Trumpets Blow', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Let Jubil-Trumpets blow & hearts in Raptures flow
 Our beloved One lies inyemanger lownor Heav'n brighter Sun than Mary's lap can Showth'Alpha & great O—th'allincirling
 O.
@@ -1044,25 +1017,6 @@ Ah, no!—the Angel's Queen
 Man's mother still will be,
 And thou, upon thy throne,
 Will keep thy love for me", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Sing,_Sing,_ye_Angel_Bands'),
-    array('title' => 'God of mercy, let us run', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Godof mercy let us run
-Where yon fount of sorrow flows,
-Pondering sweetly one by one,
-Jesu's wounds and Mary's woes.
-
-Ah! those tears our Lady shed,
-Enough to drown a world of sin;
-Tears that Jesu's sorrows fed,
-Peace and pardon well may win.
-
-His five wounds a very home
-For our prayers and praises prove;
-And our Lady's woes become
-Endless joys in Heaven above.
-
-Jesu who for us didst die,
-All on Thee our love we pour;
-And in the Holy Trinity
-Worship Thee for evermore.", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hymn_to_the_Sacred_Wounds_of_Jesus'),
     array('title' => 'The Banks of Sweet Primroses (Such)', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "AS I walked one mid-summer morning
 To view the fields and take the air,
 Down by the banks of sweet primroses,
@@ -1343,25 +1297,6 @@ By love above all height we rise,
 And share the everlasting throne.
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/The_Great_Archangel%27s_Trump'),
-    array('title' => 'Summae Deus clementiae', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Godof mercy let us run
-Where yon fount of sorrow flows,
-Pondering sweetly one by one,
-Jesu's wounds and Mary's woes.
-
-Ah! those tears our Lady shed,
-Enough to drown a world of sin;
-Tears that Jesu's sorrows fed,
-Peace and pardon well may win.
-
-His five wounds a very home
-For our prayers and praises prove;
-And our Lady's woes become
-Endless joys in Heaven above.
-
-Jesu who for us didst die,
-All on Thee our love we pour;
-And in the Holy Trinity
-Worship Thee for evermore.", 'source_url' => ''),
     array('title' => 'Te Redemptoris Dominique nostri', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Motherof our Lord and Saviour,
 First in beauty as in power,​Glory of the Christian nations,
 Ready help in trouble's hour.
@@ -1988,33 +1923,6 @@ On our flesh too long has fed the raven,
 We've too long been the vulture's prey.
 But now farewell the spirit craven,
 The dawn brings in a brighter day.", 'source_url' => 'https://en.wikisource.org/wiki/The_Internationale'),
-    array('title' => 'Bye Bye Blackbird', 'author' => '', 'year' => '1860', 'category' => 'Spirituals', 'lyrics' => "[Verse 1]Blackbird, blackbird,
-Singing the blues all day
-Right outside of my door.
-Blackbird, blackbird,
-Why do you sit and say,\"There's no sunshine in store\"?
-All through the winter you hung around,
-Now I begin to feel homeward bound.
-Blackbird, blackbird, got to be on my way,
-Where there's sunshine galore.[Chorus]Pack up all my care and woe,
-Here I go singing low\"Bye Bye Blackbird\"Where's somebody waits for me,
-Sugar is sweet, so is she,
-Bye Bye Blackbird.
-No one here can love and understand me,
-Oh! What hard luck stories they all hand me.
-Make my bed and light the light,
-I'll arrive late tonight.
-Blackbird, Bye Bye.[Verse 2]Bluebird, bluebird,
-Calling me far away,
-I've been longing for you.
-Bluebird, bluebird,
-What do I hear you say, (Alternative:
-This is my lucky day,)\"Skies are turning to blue\"? (Alternative:
-Skies are turning to blue.)I'm like a flower that's fading here,
-Where ev'ry hour is one long tear.
-Bluebird, bluebird,
-This is my lucky day,
-Now my dreams will come true. repeat [Chorus]", 'source_url' => ''),
     array('title' => 'Dorando (Berlin)', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "[1st verse:]I feel-a much-a bad like anything
 All the night I nunga canna sleep
 It's a my pizon Pasquale
@@ -2726,57 +2634,6 @@ Are like a mother's kisses
 That protect us and support us
 Against the insults of fate.
 CHORUS", 'source_url' => ''),
-    array('title' => 'Nellie Dean', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "By the old mill stream I'm dreaming, Nellie Dean;
-Dreaming of your bright eyes gleaming, Nellie Dean.
-As they used to fondly glow
-When we sat there long ago
-List'ning to the waters flow, Nellie Dean.
-I can hear the robins singing, Nellie Dean;
-Sweetest recollections bringing, Nellie Dean.
-And they seem to sing of you
-With your tender eyes of blue,
-For I know they miss you too, Nellie Dean.
-CHORUS:
-There's an old mill by the stream, Nellie Dean,
-Where we used to sit and dream, Nellie Dean.
-And the waters as they flow
-Seem to murmur sweet and low,
-You're my heart's desire; I love you, Nellie Dean.
-I recall the day we parted, Nellie Dean;
-How you trembled broken-hearted, Nellie Dean.
-And you pinned a rose of red
-On my coat of blue and said
-That a soldier boy you'd wed, Nellie Dean.
-All the world seems sad and lonely, Nellie Dean;
-For I love you and you only, Nellie Dean.
-And I wonder if on high
-You still love me, if you sigh
-For the happy days gone by, Nellie Dean.
-Chorus", 'source_url' => ''),
-    array('title' => 'What Child Is This?', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "What Child is this who, laid to rest
-On Mary’s lap is sleeping?
-Whom angels greet with anthems sweet,
-While shepherds watch are keeping?
-This, this is Christ the King,
-Whom shepherds guard and angels sing;
-Haste, haste, to bring Him laud,
-The Babe, the Son of Mary.
-Why lies He in such mean estate,
-Where ox and ass are feeding?
-Good Christians, fear, for sinners here
-The silent Word is pleading.
-Nails, spear shall pierce Him through,
-The cross be borne for me, for you.
-Hail, hail the Word made flesh,
-The Babe, the Son of Mary.
-So bring Him incense, gold and myrrh,
-Come peasant, king to own Him;
-The King of kings salvation brings,
-Let loving hearts enthrone Him.
-Raise, raise a song on high,
-The virgin sings her lullaby.
-Joy, joy for Christ is born,
-The Babe, the Son of Mary.", 'source_url' => ''),
     array('title' => 'Ode to Newfoundland', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "National anthem of the Dominion of Newfoundland from 1904 to 1949; provincial anthem of Newfoundland and Labrador since 1980. The tune was composed by
 Hubert Parry. Traditionally only the first and last verses are sung.
 
@@ -3603,38 +3460,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'On the Resurrection Morning', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "On the resurrection morning,
-Soul and body meet again,
-No more sorrow, no more weeping,
-No more pain.
-Here awhile they must be parted,
-And the flesh its Sabbath keep,
-Waiting in a holy stillness,
-Wrapped in sleep.
-For a while the wearied body
-Lies with feet toward the morn;
-Till the last and brightest Easter
-Day be born.
-But the soul in contemplation,
-Utters earnest prayer and strong,
-Bursting at the resurrection
-Into song.
-Soul and body reunited
-Thenceforth nothing shall divide,
-Waking up in Christ’s own likeness
-Satisfied.
-O the beauty, O the gladness
-Of that resurrection day,
-Which shall not through endless ages
-Pass away!
-On that happy Easter morning
-All the graves their dead restore,
-Father, mother, sister, brother,
-Meet once more.
-To that brightest of all meetings
-Bring us, Jesus Christ, at last,
-By thy cross, through death and judgment,
-Holding fast.", 'source_url' => ''),
     array('title' => 'O Thou, the Eternal Son of God', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "O Thou, the eternal Son of God,
 The Lamb, for sinners slain,
 We worship, while Thy head is bowed
@@ -4814,66 +4639,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Bonny Birdy', 'author' => '', 'year' => '1850', 'category' => 'Ballads', 'lyrics' => "Jamieson-Brown MS., fol. 42; Jamieson's Popular Ballads, I. 162.
-
-Jamieson, in printing this ballad, gave the
-husband the name Lord Randal, made many
-changes, and introduced several stanzas, \"to
-fill up chasms.\" But the chasms, such as
-they are, are easily leapt by the imagination, and Jamieson's interpolations are mere
-bridges of carpenter's work. The admirably
-effective burden is taken into the story at
-stanza 11. As Jamieson remoulds the ballad,
-it is no burden, but a part of the dialogue
-throughout.
-
-The main part of the action is the same as
-in 'Little Musgrave.' The superior lyrical
-quality of the Scottish ballad makes up for its
-inferiority as a story, so that on the whole it
-cannot be prized much lower than the noble
-English ballad.
-
-Cunningham has rewritten the ballad in his
-own style, pretending, as often, to have known
-another recited copy: 'Sir Hugh,' Songs of
-Scotland, II, 130.
-
-The burden stands thus in the manuscript after the first stanza:", 'source_url' => ''),
-    array('title' => 'Willie Macintosh', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "'TURN, Willie Macintosh,
-Turn, I bid you;
-Gin ye burn Auchindown,
-Huntly will head you.''Head me or hang me,
-That canna fley me;
-I'll burn Auchendown
-Ere the life lea me.'Coming down Deeside,
-In a clear morning,
-Auchindown was in flame,
-Ere the cock-crawing.
-But coming oer Cairn Croom,
-And looking down, man,
-I saw Willie Macintosh
-Burn Auchindown, man,'Bonny Willie Macintosh,
-Whare left ye your men?''I left them in the Stapler,
-But they'll never come hame.''Bonny Willie Macintosh,
-Whare now is your men?''I left them in the Stapler,
-Sleeping in their sheen.'", 'source_url' => ''),
-    array('title' => 'Bessy Bell and Mary Gray', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "OBESSIE BELLand Mary Gray,
-They war twa bonnie lasses;
-They bigget a bower on yon burn-brae,
-And theekit it oer wi rashes.
-They theekit it oer wi rashes green,
-They theekit it oer wi heather;
-But the pest cam frae the burrows-town,
-And slew them baith thegither.
-They thought to lye in Methven kirk-yard,
-Amang their noble kin;
-But they maun lye in Stronach haugh,
-To biek forenent the sin.
-And Bessy Bell and Mary Gray,
-They war twa bonnie lasses;
-They biggit a bower on yon burn-brae,
-And theekit it oer wi rashes.", 'source_url' => ''),
     array('title' => 'PD-old', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "This category is populated by {{PD-old}}.
 
 Works in this category were published before January 1, 1931, and are in thepublic domainworldwide because the author died at least 100 years ago.
@@ -5162,22 +4927,6 @@ Vomiting his poison out
 On the bread & on the wine.
 So I turn’d into a sty
 And laid me down among the swine.", 'source_url' => ''),
-    array('title' => 'A fairy skipd upon my knee', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "* * *A fairy skipd upon my knee
-Singing & dancing merrily
-I said Thou thing of patches rings
-Pins Necklaces & such like things
-Disguiser of the Female Form
-Thou paltry gilded poisnous worm
-Weeping he fell upon my thigh
-And thus in tears did soft reply
-Knowest thou not O Fairies Lord
-How much by us Contemnd Abhorrd
-Whatever hides the Female form
-That cannot bear the Mental storm
-Therefore in Pity still we give
-Our lives to make the Female live
-And what would turn into disease
-We turn to what will joy & please[1]", 'source_url' => ''),
     array('title' => 'To Helen', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Helen, thy beauty is to me
 Like those Nicean barks of yore,
 That gently, o'er a perfumed sea,
@@ -5917,38 +5666,6 @@ That the fatherland may live for ever,
 Free and powerful,
 Honored and firm.
 We are the scouts of the fatherland.\"", 'source_url' => ''),
-    array('title' => 'Now the Day Is Over (The Lutheran Hymnal)', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Now the day is over,
-Night is drawing nigh,
-Shadows of the evening
-Steal across the sky.
-Now the darkness gathers,
-Stars begin to peep,
-Birds, and beasts and flowers
-Soon will be asleep.
-Jesus, give the weary
-Calm and sweet repose;
-With Thy tenderest blessing
-May mine eyelids close.
-Grant to little children
-Visions bright of Thee;
-Guard the sailors tossing
-On the deep, blue sea.
-Comfort those who suffer,
-Watching late in pain;
-Those who plan some evil
-From their sin restrain.
-Through the long night watches
-May Thine angels spread
-Their white wings above me,
-Watching round my bed.
-When the morning wakens,
-Then may I arise
-Pure, and fresh, and sinless
-In Thy holy eyes.
-Glory to the Father,
-Glory to the Son,
-And to Thee, blest Spirit,
-While all ages run.", 'source_url' => ''),
     array('title' => 'Christ Among the Cattle', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "\"Think what a price to pay,
 Faces so bright and gay,
 Just for a hat!
@@ -6112,37 +5829,6 @@ Plate 23— Naval Signal Flags
 Plate 24— Maritime Signals
 Plate 25— Signal Flags of Commercial Shipping
 Plate 26— Signal Flags of Ships", 'source_url' => ''),
-    array('title' => 'Scraps of Hibernian Ballads', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "'When moonlight falls on wave and wimple,
-And silvers every circling dimple,
-That onward, onward sails:
-When fragrant hawthorns wild and simple
-Lend perfume to the gales,
-And the pale moon in heaven abiding,
-O'er midnight mists and mountains riding,
-Shines on the river, smoothly gliding
-Through quiet dales,'I wander there in solitude,
-Charmed by the chiming music rude
-Of streams that fret and flow.
-For by that eddying stream SHE stood,
-On such a night I trow:
-For HER the thorn its breath was lending,
-On this same tide HER eye was bending,
-And with its voice HER voice was blending
-Long, long ago.
-Wild stream! I walk by thee once more,
-I see thy hawthorns dim and hoar,
-I hear thy waters moan,
-And night-winds sigh from shore to shore,
-With hushed and hollow tone;
-But breezes on their light way winging,
-And all thy waters heedless singing,
-No more to me are gladness bringing—I am alone.'Years after years, their swift way keeping,
-Like sere leaves down thy current sweeping,
-Are lost for aye, and sped—And Death the wintry soil is heaping
-As fast as flowers are shed.
-And she who wandered by my side,
-And breathed enchantment o'er thy tide,
-That makes thee still my friend and guide—And she is dead.'", 'source_url' => ''),
     array('title' => 'School Mates', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Mem'ry strays, to other days,
 When I was small,
 A little maid, with hair in braid,
@@ -6490,41 +6176,6 @@ Vex'd the gentle spirit which adored;—\"O'er a thousand forests I've been flyi
 To a thousand flowers that call me lord!\"Like the pliant grass in heavy showers,
 Sank the flowret then with many a tear,—\"Thou,\" she cried, \"hast sought a thousand flowers,
 I were most happy with one song bird here.\"", 'source_url' => ''),
-    array('title' => 'Yiddle, On Your Fiddle, Play Some Ragtime', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Ev'ryone was singing, dancing, springing,
-At a wedding yesterday.
-Yiddle on his fiddle played some ragtime,
-And when Sadie heard him play,
-She jumped up and looked him in the eyes.
-Yiddle swelled his chest way out,
-Ev'ryone was taken by surprise,
-When they heard Sadie shout:
-
-\"Yiddle, in the middle of your fiddle, play some ragtime;
-Get busy, I'm dizzy, I'm feeling two years young,
-Mine choc'late baby, if you'll maybe play for Sadie,
-Some more ragtime;
-Yiddle, don't you stop,
-If you do, I'll drop,
-For I just can't make any eyes shut up,
-Yiddle on your fiddle, play some ragtime.\"
-
-At the supper table Sadie thought
-Yiddle must have flew he coop.
-She looked all around, but could not find him
-Till she heard him drinking soup.
-Sadie waited till they served the fish,
-Then she jumped upon the floor,
-Put a quarter night on Yiddle's dish
-And yelled to him once more:
-
-\"Yiddle, in the middle of your fiddle, play some ragtime;
-Get busy, I'm dizzy, I'm feeling two years young,
-Mine choc'late baby, if you'll maybe play for Sadie,
-Some more ragtime;
-Yiddle, don't you stop,
-If you do, I'll drop,
-For I just can't make any eyes shut up,
-Yiddle on your fiddle, play some ragtime.\"", 'source_url' => 'https://en.wikisource.org/wiki/Yiddle,_On_Your_Fiddle,_Play_Some_Ragtime'),
     array('title' => 'Uncle Jim’s Baptist Revival Hymn', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Solo.—Sin’s rooster’s crowed, Ole Mahster’s riz,
 De sleepin’-time is pas’;
 Wake up dem lazy Baptissis,
@@ -6946,34 +6597,6 @@ Ghostly it grows, and darker, the burning
 Fades into smoke, and now the gusty oaks are
 A silent army of phantoms thronging
 A land of shadows.", 'source_url' => ''),
-    array('title' => 'Ode to Leven-Water', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "On Leven's baulks, while free to rove,
-And tune the rural pipe to love;
-I envied not the happiest swain
-That ever trod th' Arcadian plain.
-Pure stream! in whose transparent waters
-My youthful limbs I wont to lave;
-No torrents stain thy limpid source;
-No rocks impede thy dimpling course,
-That sweetly warbles o'er its bd,
-With white, round polish'd pebbles spread.
-While, lightly pois'd, the scaly brood
-In myriads cleave thy crystal flood;
-The springing trout in speckled pride;
-The salmon, monarch of the tide;
-The ruthless pike, intent on war;
-The silver eel, and mottled par.
-Devolving from thy parent lake,
-A charming maze the waters make,
-By bow'rs of birch, and groves of pine,
-And hedges flow'r'd with eglantine.
-Still on thy banks so gayly green,
-May num'rous herds and flocks be seen,
-And lasses chanting o'er the pail,
-And shepherds piping in the dale,
-And ancient faith that knows no guile,
-And industry imbrown'd with toil
-And hearts resolv'd, and hands prepar'd
-The blessings they enjoy to guard.", 'source_url' => ''),
     array('title' => 'Old Dog Tray', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "1.
 The morn of life is past,
 And evening comes at last;
@@ -7001,35 +6624,6 @@ Although he cannot speak
 I'll vainly, vainly seek
 A better friend than old dog Tray.
 Chorus", 'source_url' => ''),
-    array('title' => 'Nelly Was a Lady', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "1.
-Down on de Mississippi floating,
-Long time I trabble on de way,
-All night de cotton-wood a toting,
-Sing for my true-lub all de day.
-Chorus:(2 times)Nelly was a Lady
-Last night she died,
-Toll de bell for lubly Nell
-My dark Virginny bride.2.
-Now I’m unhappy and I’m weeping,
-Can’t tote de cotton-wood no more;
-Last night, while Nelly was a sleeping,
-Death came a knockin at the door.
-Chorus:3.
-When I saw my Nelly in de morning,
-Smile till she open’d up her eyes,
-Seem’d like de light ob day a dawning,
-Jist ’fore de sun begin to rise.
-Chorus:4.
-Close by de margin ob de water,
-Whar de lone weeping willow grows,
-Dar lib’d Virginny’s lubly daughter;
-Dar she in death may find repose.
-Chorus:5.
-Down in de meadow mong de clober,
-Walk wid my Nelly by my side;
-Now all dem happy days am ober,
-Farewell my dark Virginny bride.
-Chorus:", 'source_url' => ''),
     array('title' => 'Noonday Rest', 'author' => '', 'year' => '1860', 'category' => 'Spirituals', 'lyrics' => "Calmer than midnight's deepest hush
 Is the sun-bright Summer nooning,
 With its cloudy shadows seeking rest,
@@ -7561,13 +7155,6 @@ Uh pe  an je nug  ish pe ming
 E zhe we zhe yun gid wah,
 Mah noo  moon zhug
 Nin guh  oo ge mah we min.", 'source_url' => 'https://gutendex.com/books/33128'),
-    array('title' => 'By thy return, sweet hour of prayer.', 'author' => 'Anonymous', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "2 Sweet hour of prayer! sweet hour of prayer!
-Thy wings shall my petition bear,
-To him whose truth and faithfulness,
-Engage the waiting soul to bless;
-And since he bids me seek his face,
-Believe his word, and trust his grace,
-I'll cast on him my every care,", 'source_url' => 'https://gutendex.com/books/33128'),
     array('title' => 'Hood.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Since graves may not their dead containe,
 Nor in their peacefull sleepes remaine,
 But triumphes and great showes must use them,
@@ -7600,16 +7187,6 @@ And howe his men were slayne,
 And Gye was go safe hem froo ;
 He defyed _Mahounde_, and _Apolyne_,
 _Jubiter_, _Astarol_, and ALCARON also.”", 'source_url' => 'https://gutendex.com/books/56926'),
-    array('title' => 'Oh fine Arthur of Bradley, oh, &c.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Arthur had got him a lass,
-A bonnier never was ; {361}
-The chief youths of the parish
-Came dancing of the morris ;
-With country lasses trounsing,
-And lusty lads bounsing,
-Jumping with mickle pride,
-And each his wench by his side ;
-They all were fine and gay,
-For the honour of Arthur of Bradley,", 'source_url' => 'https://gutendex.com/books/56926'),
     array('title' => 'Oh fine, &c.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Richard he did lead it,
 And Margery did tread it,
 Francis followed them,
@@ -8032,14 +7609,6 @@ If e’er you pen’d a grateful lay,
 Such usage fair in this good town,
 We’ve met from age and youth, sirs,
 Accept our grateful thanks, and own", 'source_url' => 'https://gutendex.com/books/53156'),
-    array('title' => 'In the Lass of Cockerton.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Now would the Gods but deign to hear,
-An artless lover’s prayer;
-This lovely nymph ’bove all I’d ask,
-And scorn each other care;
-True happiness I’d then possess,
-Her love to share alone;
-No mortals know what pleasures flow,
-With the lass of Cockerton.", 'source_url' => 'https://gutendex.com/books/53156'),
     array('title' => 'Are roaring company.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Come, landlady, fill us a bumper,
 And take no thought for the shot,
 It’s a sin, as I hope to be saved,
@@ -8088,26 +7657,6 @@ He himself would _Negro_ turn,
 And for such a dresse would slight
 His gorgeous attire of light;
 Eclipses he would count a blisse,", 'source_url' => 'https://gutendex.com/books/60454'),
-    array('title' => 'To see his own shape dance in both your eyes.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Sweet Babe! my prayer shall end with thee,
-(Oh may it prove a Prophecy!)
-May all the channels in thy veynes
-Expresse the severall noble straines,
-From whence they flow; sweet _Sydney’s_ wit,
-But not the sad, sweet fate of it;
-The last great _Pembroke’s_ learning, sage
-_Burleigh’s_ both wisdome and his age;
-Thy Grandsires honest heart expresse", 'source_url' => 'https://gutendex.com/books/60454'),
-    array('title' => 'In the Fruition, as Desire.', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "When I have got the fruit of pain,
-Possession makes me poore again,
-Expected formes and shapes unknown,
-Whet and make sharp tentation;
-Sense is too niggardly for Bliss,
-And payes me dully with what is;
-But fancy’s liberall, and gives all
-That can within her vastnesse fall;
-Vaile therefore still, while I divine
-The Treasure of this hidden Mine,
-And make Imagination tell", 'source_url' => 'https://gutendex.com/books/60454'),
     array('title' => 'Then she’s onely mine.', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "To the Platonick that applies
 His clear addresses onely to the mind;
 The body but a Temple signifies,
@@ -8162,15 +7711,6 @@ From her dear Love disjoyn’d;
 When Death in courtesie decreed,
 To make the fair his prize,
 And by one cruelty her freed", 'source_url' => 'https://gutendex.com/books/60454'),
-    array('title' => 'Of what we are forbid to know.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Fond humane nature that will try [p. 118.]
-To sound th’ Abiss of Destiny!
-Alas! what profit can arise
-From those forbidden scrutinies,
-When Oracles what they foretel
-In such Ænigma’s still conceal,
-That self indulging man still makes
-Of deepest truths most sad mistakes!
-Or could our frailty comprehend", 'source_url' => 'https://gutendex.com/books/60454'),
     array('title' => 'But providence that governs all.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Reason wherewith kind Heav’n has blest
 His creature man above the rest,
 Will teach humanity to know
@@ -8487,14 +8027,6 @@ Vow, if she's to be had, they'll have her;
 And daft John Bull, that bleth'ring cull,
 About the nymph sets up his chatter;
 O bonnie Lizzie Liberty!", 'source_url' => 'https://gutendex.com/books/40048'),
-    array('title' => 'Whack, fal, &c.', 'author' => 'Various', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "'Aye, aye,' says Carr, 'aw ken them weel,
-Tyek them out o' my seet!
-Away wi' them to Mr. Scott,
-And keep them there a' neet.'
-Says Walton, 'Will ye hear me speak?'
-Says Tommy, 'Go you to the devil!'
-'Wye, wye,' says Walton, 'never mind,
-But surely this is damn'd uncivil.'", 'source_url' => 'https://gutendex.com/books/40048'),
     array('title' => 'And fand him varry kind:', 'author' => 'Various', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Says he, 'Young men, I'll treat ye weel,
 Tho' here against your mind.'
 'O Sir,' said they, 'you're very good,
@@ -8596,13 +8128,6 @@ And shook his head se grey, man;
 At his reet hand was Buggy Jack,
 With his hat-brim se broad, man;
 And on his left was Bill the Black,", 'source_url' => 'https://gutendex.com/books/40048'),
-    array('title' => 'Rom ti iddity, &c.', 'author' => 'Various', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "The Hawk, the Northumberland Star,
-An' the Magdalen's banners wav'd sweet, man;
-But the Chieftain astonish'd them all,
-With his braw Highland lads dress'd sae neat, man;
-The Nelson appear'd in true blue,
-(There canny host Simpson belangs, man,)
-An' Petrie walk'd close alangside", 'source_url' => 'https://gutendex.com/books/40048'),
     array('title' => 'He plays a knavish part.', 'author' => 'Various', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Now, from Hibernia's fertile shore
 The thund'ring champion comes,
 His country's wrongs for to deplore,
@@ -9465,14 +8990,6 @@ As wretchedly I rove;
 And oh! when sorrow’s cup I drink
 All bitter though it be,
 How sweet t’will be for me to think", 'source_url' => 'https://gutendex.com/books/50878'),
-    array('title' => 'Comin’ thro’ the Rye.', 'author' => 'Various', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Gin a body meet a body,
-Comin’ thro’ the rye;
-Gin a body kiss a body,
-Need a body cry?
-Ilka lassie has her laddie,
-Nane they say ha’e I;
-Yet a’ the lads they smile at me,
-And what the waur am I?", 'source_url' => 'https://gutendex.com/books/50878'),
     array('title' => 'We Met by Chance.', 'author' => 'Various', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "When evening brings the twilight hour,
 I pass a lonely spot,
 Where oft she comes to cull the flower,
@@ -10032,17 +9549,6 @@ And the false heresiarch,
 The spells of wicked women,
 And the wizard's arts inhuman,
 And every knowledge, old and fresh,", 'source_url' => 'https://gutendex.com/books/14232'),
-    array('title' => 'And good for all manner of store.', 'author' => 'Graves, Alfred Perceval', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "A few true comrades I next would seek
-To mingle with me in prayer,
-Men of wisdom, submissive, meek;
-Their number I now declare,
-Four times three and three times four,
-For every want expedient,
-Sixes two within God's Church door,
-To north and south obedient;
-Twelve to mingle their voices with mine
-At prayer, whate'er the weather,
-To Him Who bids His dear sun shine", 'source_url' => 'https://gutendex.com/books/14232'),
     array('title' => 'By Aaron and Moses.', 'author' => 'Graves, Alfred Perceval', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "Male and female,
 The days that are seven,
 The stars of heaven,
@@ -10144,14 +9650,6 @@ And with her tresses dried,
 And given them, from her store
 Of spikenard, cool relief,
 And kissed them o'er and o'er", 'source_url' => 'https://gutendex.com/books/14232'),
-    array('title' => 'In penitential grief.', 'author' => 'Graves, Alfred Perceval', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Therefore her joy begins,
-Her prayer is heard in heaven;
-Though many are her sins,
-They all shall be forgiven!\"
-Scant mercy he receives
-Whose love for God is small;
-But he whom God forgives
-The most, loves most of all.", 'source_url' => 'https://gutendex.com/books/14232'),
     array('title' => 'Who thus bespake them on the mountain crest:', 'author' => 'Graves, Alfred Perceval', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "\"Why stand ye, men of Galilee,
 So sadly gazing on the skies?
 For this same Jesus, whom ye see
@@ -10207,14 +9705,6 @@ No hour-glass running golden sands,
 Only a horologe forlorn
 Set against a cross of thorn,
 And cold and stern the current seemed", 'source_url' => 'https://gutendex.com/books/14232'),
-    array('title' => 'With tears that horologe forlorn.', 'author' => 'Graves, Alfred Perceval', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "And all my moments by its dust
-I measure now with prayerful trust,
-And though my courage oft turns weak,
-Fresh comfort from that cross I seek;
-In wistful hope I yet may wake
-To find the thorn in blossom break,
-And from life's shivered glass behold
-My being's sands ebb forth in gold.", 'source_url' => 'https://gutendex.com/books/14232'),
     array('title' => 'Supremely sung or spoken.', 'author' => 'Graves, Alfred Perceval', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "But O, our darling in his joyful dance
 Tottered death-pale beneath the withering north,
 Into a kinder clime, most blessed chance,
@@ -10229,22 +9719,6 @@ Remained to mar our morrow;
 Yea, every fear had flown, lest, welladay!
 The headlong heats or winter's piercing power
 Should light afresh upon our radiant flower", 'source_url' => 'https://gutendex.com/books/14232'),
-    array('title' => 'Upon our suffering child.', 'author' => 'Graves, Alfred Perceval', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Though Earth's physicians all in vain
-Have urged their utmost skill,
-Yet to our prayers O make it plain
-That Thou canst succour still;
-Yea! through the midnight watches drear,
-And all the weary day,
-O be Thy Good Physician near
-Our stricken one to stay;
-That evermore as we succeed
-In service at his side,
-Each office of our darling's need
-His heavenly hands may guide;
-Till o'er his tempest bed of pain,
-His cry of perishing thrill
-The Saviour's arm go forth again,
-The Saviour's \"Peace! be still.\"", 'source_url' => 'https://gutendex.com/books/14232'),
     array('title' => 'Our children from our care.', 'author' => 'Graves, Alfred Perceval', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "Yet, O Good Shepherd, lead us back,
 Our lamb upon Thy breast,
 Safely along the narrow track,
@@ -10435,20 +9909,6 @@ Be thy love with love requited;
 Let me learn its depths indeed,
 While on thee my soul doth feed;
 Let me, here so richly blest,", 'source_url' => 'https://gutendex.com/books/46041'),
-    array('title' => 'Hour of prayer.', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Sweet hour of prayer! sweet hour of prayer,
-That calls me from a world of care,
-And bids me at my Father’s throne,
-Make all my wants and wishes known!
-In seasons of distress and grief,
-My soul has often found relief,
-And oft escaped the tempter’s snare,", 'source_url' => 'https://gutendex.com/books/46041'),
-    array('title' => 'And wait for thee, sweet hour of prayer.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "3 Sweet hour of prayer! sweet hour of prayer!
-Thy wings shall my petition bear
-To him whose truth and faithfulness
-Engage the waiting soul to bless;
-And since he bids me seek his face,
-Believe his word and trust his grace,
-I’ll cast on him my every care,", 'source_url' => 'https://gutendex.com/books/46041'),
     array('title' => 'And gather here to pray.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "2 O, blesséd is the hour
 That lifts our hearts on high!
 Like sunlight when the tempests lower,
@@ -10551,13 +10011,6 @@ And heavenly peace be won!
 We know not what the path may be
 As yet by us untrod;
 But we can trust our all to thee,", 'source_url' => 'https://gutendex.com/books/46041'),
-    array('title' => 'Rest, weary heart.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Rest, weary heart,
-From all thy silent griefs, and secret pain,
-Thy profitless regrets, and longings vain;
-Wisdom and love have ordered all the past,
-All shall be blessedness and light at last;
-Cast off the cares that have so long opprest;
-Rest, sweetly rest!", 'source_url' => 'https://gutendex.com/books/46041'),
     array('title' => 'For heavén is my home.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "2 A pilgrim long I’ve wandered here;
 But, with a steadfast eye,
 I see a rest reserved for me,
@@ -10715,13 +10168,6 @@ Shall we e’er forget the sadness,
 And the clouds that hung so dim,
 When our hearts are filled with gladness,
 And our tears are dried by him?", 'source_url' => 'https://gutendex.com/books/46041'),
-    array('title' => 'She dying gave it me.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "2 Ah! well do I remember those
-Whose name these records bear;
-Who round the hearth-stone used to close,
-After the evening prayer,
-And tell of what those pages said,
-In terms my heart would thrill!
-Though they are with the silent dead,", 'source_url' => 'https://gutendex.com/books/46041'),
     array('title' => 'The shadows on our souls.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "3 Slowly the rays of daylight fade;
 So fade within our heart
 The hopes in earthly love and joy,
@@ -11156,17 +10602,6 @@ passwords to                                         38
 purification of its site                             14
 rules of conduct while it is abuilding               15
 worship in                                           42", 'source_url' => 'https://gutendex.com/books/20299'),
-    array('title' => 'LAKA—', 'author' => 'Emerson, Nathaniel Bright', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "a block of wood her special symbol      20, 23
-adulatory prayer to                         18
-a friend of the Pele family                 24
-_aumakua_ of the _hula_                     23
-compared with the gods of classic Greece    24
-emanation origin                            48
-epithets and appellations of                24
-invoked as god of wildwood growths          24
-special god of the _hula_                   24
-versus Kapo                                 47
-wreathing her emblem                        34", 'source_url' => 'https://gutendex.com/books/20299'),
     array('title' => 'Joy.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Quetzalcoatli, XI, 3; XIV, 6. Proper name.
 Quetzalcocox, VII, 6; VIII, 7. The pheasant.
 Queyamica, III, 8. For _quenamican_, how there?
@@ -11238,13 +10673,6 @@ With all thair power at thair syde;
 Presumeand on their strenth and pryde,
 Without all feir or ony aw,
 Richt bauldie battil did abyde,", 'source_url' => 'https://gutendex.com/books/1054'),
-    array('title' => 'This is the sum, sae I conclude.', 'author' => 'Lang, Andrew', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "But yet a bonnie while abide,
-And I sall mak thee cleirly ken
-What slaughter was on ilkay syde,
-Of Lowland and of Highland men,
-Wha for thair awin haif evir bene;
-These lazie lowns micht weil be spared,
-Chased like deers into their dens,", 'source_url' => 'https://gutendex.com/books/1054'),
     array('title' => 'And gat their wages for reward.', 'author' => 'Lang, Andrew', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Malcomtosh, of the clan heid-cheif,
 Macklean with his grit hauchty heid,
 With all thair succour and relief,
@@ -11339,13 +10767,6 @@ Endure, as ye shall see;
 And, or we go, a bedde or two
 I can provyde anone;
 For, in my mynde, of all mankynde                                215", 'source_url' => 'https://gutendex.com/books/45940'),
-    array('title' => 'The best that ever I knewe.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Be mery and glad, be no more sad,
-The case is chaunged newe;
-For it were ruthe, that, for your truthe,
-Ye sholde have cause to rewe.                                  320
-Be nat dismayed; whatsoever I sayd
-To you, whan I began;
-I wyll nat to the grene wode go,", 'source_url' => 'https://gutendex.com/books/45940'),
     array('title' => 'AUTHOR.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Here may ye se, that women be
 In love, meke, kynde, and stable;                              350
 Late[306] never man reprove them than,
@@ -11769,14 +11190,6 @@ Their fame did sound so passingly,
 That it did pierce the starry sky,
 And throughout all the world did flye
 To every princes realme.", 'source_url' => 'https://gutendex.com/books/7535'),
-    array('title' => 'An a wot he kissd her tenderly.', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "\"O hae you tane a bonny bride?
-An hae you quite forsaken me?
-An hae ye quite forgotten her
-That gae you life an liberty? \"
-She's lookit oer her left shoulder
-To hide the tears stood in her ee;
-\"Now fare thee well, Young Bicham,\" she says,
-\"I'll strive to think nae mair on thee.\"", 'source_url' => 'https://gutendex.com/books/7535'),
     array('title' => 'Of brave Lord Willoughbey.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Then quoth the Spanish general,
 Come let us march away,
 I fear we shall be spoiled all
@@ -11844,22 +11257,6 @@ her Calving, having no Calf that year.'--Holme's _Armoury_, 1688.
 10.5: 'crap,' top.
 10.6: 'dight,' freely, readily.
 15.1-4: Cp. _Clerk Sanders_, 15.]", 'source_url' => 'https://gutendex.com/books/20469'),
-    array('title' => 'They were twa luvers deare.', 'author' => 'Sidgwick, Frank', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "4.1: 'rede,' advise.
-4.3: 'nut-browne' here = dusky, not fair; cp.:--
-'In the old age black was not counted fair.'
---Shakespeare, _Sonnet_ CXXVII.
-8.4: 'fadge,' _lit._ a thick cake; here figuratively for the thick-set
-'nut-browne bride.'
-17.3: 'yae tift,' [at] every puff.
-19.2: 'stean,' stone.
-19.3: 'cleading,' clothing.
-19.4: 'skinkled,' glittered.
-24.3,4: _i.e._ I was born fair.
-26.4: 'wood-wroth,' raging mad.
-29, 30: This conclusion to a tragic tale of true-love is common to
-many ballads; see _Fair Margaret and Sweet William_ and especially
-_Lord Lovel_.
-30.1: 'threw,' intertwined.]", 'source_url' => 'https://gutendex.com/books/20469'),
     array('title' => 'He is a bannisshed man.', 'author' => 'Sidgwick, Frank', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "2.
 I say not nay, bat that all day
 It is bothe writ and sayde
@@ -12091,13 +11488,6 @@ All utterly decayed;
 But, nevertheless, right good witness
 In this case might be laid,
 That they love true, and continue,", 'source_url' => 'https://gutendex.com/books/9405'),
-    array('title' => 'She loved but him alone.', 'author' => 'Edwards, George Wharton', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Then between us let us discuss
-What was all the manere
-Between them two: we will also
-Tell all the pain, and fere,
-That she was in. Now I begin,
-So that ye me answere;
-Wherefore, all ye, that present be", 'source_url' => 'https://gutendex.com/books/9405'),
     array('title' => 'Nor drink, beer, ale, nor wine.', 'author' => 'Edwards, George Wharton', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "No shetes clean, to lie between,
 Made of thread and twine;
 None other house, but leaves and boughs,
@@ -12428,23 +11818,6 @@ With thrice-great Hermes, or unsphere
 The spirit of Plato, to unfold
 What worlds or what vast regions hold
 The immortal mind that hath forsook", 'source_url' => 'https://gutendex.com/books/19221'),
-    array('title' => 'Ennobled hath the buskin\'d stage.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "But, O sad Virgin, that thy power
-Might raise Musaeus from his bower,
-Or bid the soul of Orpheus sing
-Such notes as, warbled to the string,
-Drew iron tears down Pluto's cheek
-And made Hell grant what Love did seek!
-Or call up him that left half-told
-The story of Cambuscan bold,
-Of Camball, and of Algarsife,
-And who had Canace to wife
-That own'd the virtuous ring and glass;
-And of the wondrous horse of brass
-On which the Tartar king did ride;
-And if aught else great bards beside
-In sage and solemn tunes have sung
-Of tourneys, and of trophies hung,
-Of forests, and enchantments drear,", 'source_url' => 'https://gutendex.com/books/19221'),
     array('title' => 'Where more is meant than meets the ear.', 'author' => '', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "Thus, Night, oft see me in thy pale career,
 Till civil-suited Morn appear,
 Not trick'd and frounced as she was wont
@@ -12616,29 +11989,6 @@ And Jock his Sunday coat;
 And mak their shoon as black as slaes,
 Their hose as white as snaw;
 It's a' to please my ain gudeman,", 'source_url' => 'https://gutendex.com/books/19221'),
-    array('title' => 'For he\'s been long awa.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "There's twa fat hens upo' the coop
-Been fed this month and mair;
-Mak haste and thraw their necks about,
-That Colin weel may fare;
-And spread the table neat and clean,
-Gar ilka thing look braw,
-For wha can tell how Colin fared
-When he was far awa?", 'source_url' => 'https://gutendex.com/books/19221'),
-    array('title' => 'But minds me o\' my Jean.', 'author' => '', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "O blaw ye westlin winds, blaw saft
-Amang the leafy trees;
-Wi' balmy gale, frae hill and dale
-Bring hame the laden bees;
-And bring the lassie back to me
-That's aye sae neat and clean;
-Ae smile o' her wad banish care,", 'source_url' => 'https://gutendex.com/books/19221'),
-    array('title' => 'Sae charming is my Jean.', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "What sighs and vows amang the knowes
-Hae pass'd atween us twa!
-How fond to meet, how wae to part
-That night she gaed awa!
-The Powers aboon can only ken
-To whom the heart is seen,
-That nane can be sae dear to me
-As my sweet lovely Jean!", 'source_url' => 'https://gutendex.com/books/19221'),
     array('title' => 'His silver-winding way:', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Ah happy hills! ah pleasing shade!
 Ah fields beloved in vain!
 Where once my careless childhood stray'd,
@@ -13542,13 +12892,6 @@ And gave him to the cat,
 And, with a stern, triumphant look,
 She watched him clawed and cleft,
 And with some blotting paper took", 'source_url' => 'https://gutendex.com/books/50310'),
-    array('title' => 'That noisome urchin played.', 'author' => 'Carryl, Guy Wetmore', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "He played with care \"The Maiden's Prayer;\"
-He played \"God Save the Queen,\"
-\"Die Wacht am Rhein,\" and \"Auld Lang Syne,\"
-And \"Wearing of the Green:\"
-With futile toots, and brutal toots,
-And shrill chromatic scales,
-And utterly inutile toots,", 'source_url' => 'https://gutendex.com/books/50310'),
     array('title' => 'To slumber he was prone.', 'author' => 'Carryl, Guy Wetmore', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "One day outside his shop he put
 A pig he meant to stuff,
 And carefully around each foot
@@ -14159,14 +13502,6 @@ Though the fog be dark around us,
 And the storm blow high and loud,
 We will whistle down the wild wind,
 And laugh beneath the cloud!", 'source_url' => 'https://gutendex.com/books/9580'),
-    array('title' => 'Than in working out our lot.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Hurrah! hurrah! the west-wind
-Comes freshening down the bay,
-The rising sails are filling;
-Give way, my lads, give way!
-Leave the coward landsman clinging
-To the dull earth, like a weed;
-The stars of heaven shall guide us,
-The breath of heaven shall speed!", 'source_url' => 'https://gutendex.com/books/9580'),
     array('title' => 'Tropic fruits and sweets.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Cheerly, on the axe of labor,
 Let the sunbeams dance,
 Better than the flash of sabre
@@ -14351,18 +13686,6 @@ When the stormwind on the bowers
 Wreaks its wicked will,
 When the frost paints lying flowers,
 How should I be still?", 'source_url' => 'https://gutendex.com/books/6859'),
-    array('title' => 'On a willow-bough suspended.', 'author' => 'Rosenfeld, Morris', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Gone that dream so fair and fleeting!
-Yet behold: thou dreamst anew!
-Hark! a _new_ May gives thee greeting
-From afar. Dost hear it, Jew?
-Weep no more, altho' with sorrows
-Bow'd e'en to the grave: I see
-Happier years and brighter morrows,
-Dawning, Israel, for thee!
-Hear'st thou not the promise ring
-Where, like doves on silver wing,
-Thronging cherubs sweetly sing
-Newmade songs of what shall be?", 'source_url' => 'https://gutendex.com/books/6859'),
     array('title' => 'The anguish of its own peculiar smart.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Remembering others, as I have to-day,
 In their great sorrows, let me live alway
 Not for myself alone, but have a part,
@@ -14746,19 +14069,6 @@ And mild reproach of hunger looked;
 The horned patriarch of the sheep,
 Like Egypt's Amun roused from sleep,
 Shook his sage head with gesture mute,", 'source_url' => 'https://gutendex.com/books/9574'),
-    array('title' => 'Of wood against the chimney-back,--', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "The oaken log, green, huge, and thick,
-And on its top the stout back-stick;
-The knotty forestick laid apart,
-And filled between with curious art
-The ragged brush; then, hovering near,
-We watched the first red blaze appear,
-Heard the sharp crackle, caught the gleam
-On whitewashed wall and sagging beam,
-Until the old, rude-furnished room
-Burst, flower-like, into rosy bloom;
-While radiant with a mimic flame
-Outside the sparkling drift became,
-And through the bare-boughed lilac-tree", 'source_url' => 'https://gutendex.com/books/9574'),
     array('title' => 'Our own warm hearth seemed blazing free.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "The crane and pendent trammels showed,
 The Turks' heads on the andirons glowed;
 While childish fancy, prompt to tell
@@ -15463,14 +14773,6 @@ Still struggles in the Age's breast
 With deepening agony of quest
 The old entreaty: 'Art thou He,
 Or look we for the Christ to be?'", 'source_url' => 'https://gutendex.com/books/9574'),
-    array('title' => 'The soul is lost that\'s saved alone.', 'author' => 'Whittier, John Greenleaf', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Not on one favored forehead fell
-Of old the fire-tongued miracle,
-But flamed o'er all the thronging host
-The baptism of the Holy Ghost;
-Heart answers heart: in one desire
-The blending lines of prayer aspire;
-'Where, in my name, meet two or three,'
-Our Lord hath said, 'I there will be!'", 'source_url' => 'https://gutendex.com/books/9574'),
     array('title' => 'That to be saved is only this,--', 'author' => 'Whittier, John Greenleaf', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Salvation from our selfishness,
 From more than elemental fire,
 The soul's unsanetified desire,
@@ -15500,14 +14802,6 @@ Rang ever bells so wild and fleet
 The music of the winter street?
 Was ever yet a sound by half
 So merry as you school-boy's laugh?", 'source_url' => 'https://gutendex.com/books/9574'),
-    array('title' => 'Of sad, beseeching eyes, full of remorse and pain.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "The glad song falters to a wail,
-The harping sinks to low lament;
-Before the still unlifted veil
-I see the crowned foreheads bent,
-Making more sweet the heavenly air,
-With breathings of unselfish prayer;
-And a Voice saith: \"O Pity which is pain,
-O Love that weeps, fill up my sufferings which remain!", 'source_url' => 'https://gutendex.com/books/9574'),
     array('title' => 'Stood the Master with his school.', 'author' => 'Whittier, John Greenleaf', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Over sails that not in vain
 Wooed the west-wind's steady strain,
 Line of coast that low and far
@@ -15554,14 +14848,6 @@ Falls from above the white supernal light
 We read the mystic characters aright,
 And life informs the silent portraiture,
 Until we pause at last, awe-held, before", 'source_url' => 'https://gutendex.com/books/9574'),
-    array('title' => 'Nature\'s and Duty\'s, never are at odds.', 'author' => 'Whittier, John Greenleaf', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "What asks our Father of His children, save
-Justice and mercy and humility,
-A reasonable service of good deeds,
-Pure living, tenderness to human needs,
-Reverence and trust, and prayer for light to see
-The Master's footprints in our daily ways?
-No knotted scourge nor sacrificial knife,
-But the calm beauty of an ordered life", 'source_url' => 'https://gutendex.com/books/9574'),
     array('title' => 'Ida_.', 'author' => 'Whittier, John Greenleaf', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Weary of jangling noises never stilled,
 The skeptic's sneer, the bigot's hate, the din
 Of clashing texts, the webs of creed men spin
@@ -17121,38 +16407,6 @@ London Bridge
 Tom Thumb and Nurse
 Robin and Bobbin
 End Matter", 'source_url' => 'https://en.wikisource.org/wiki/Tommy_Thumb\'s_Song_Book_(1815)'),
-    array('title' => 'Song of the Sailor Boy', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Cheer up, cheer up, my mother dear!
-Ah! Why do you sit and weep?
-Do you think that he who guards me here,
-Forsakes me on the deep?
-Let hope and faith light up your glance,
-When you see our ship set sail;
-Look, look at her now, and see her dance;
-Oh! Why do you turn so pale?
-There's an English flag, and an English crew;
-So, mother, be proud of your boy in blue.
-
-Ah! Wonder not that, next to thee,
-I love the galloping wave;
-'Tis the first of coursers, bold and free -
-And fit to carry the brave.
-It may bear me on to a dark lee-shore,
-To sink with a gallant band;
-But early or late - here's a heart for my fate,
-Let it come on the sea or the land.
-The storm and the battle shall find me true,
-So, mother, be proud of your boy in blue.
-
-And if the breakers kill our ship,
-And your boy goes down in the foam,
-Be sure the last breath on his lip
-Was a prayer for those at home.
-But come, cheer up! methinks I heard
-A voice in the anchor chain,
-That whispered, like a fairy bird,
-\"The Ship will come again.\"
-God bless thee, mother, adieu, adieu!
-But never weep for your boy in blue.", 'source_url' => 'https://en.wikisource.org/wiki/Song_of_the_Sailor_Boy'),
     array('title' => 'Patriotic Song', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Rise, rise, mountain and valley men,
 Bald sire and beardless son each come in order;
 True loyal patriots, muster and rally, men;
@@ -17377,24 +16631,6 @@ Might press me going even unto death.", 'source_url' => 'https://en.wikisource.o
 'And lo' said the ancient servitor
   'It is here thy father is laid.'
 Ballad of Sir Walter Manny p.230", 'source_url' => 'https://en.wikisource.org/wiki/The_Golden_Violet_with_its_Tales_of_Romance_and_Chivalry_and_Other_Poems'),
-    array('title' => 'An Old Song Re-sung', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "I saw a ship a-sailing, a-sailing, a-sailing,
-With emeralds and rubies and sapphires in her hold;
-And a bosun in a blue coat bawling at the railing,
-Piping through a silver call that had a chain of gold;
-The summer wind was failing and the tall ship rolled.
-
-I saw a ship a-steering, a-steering, a-steering,
-With roses in red thread worked upon her sails;
-With sacks of purple amethysts, the spoils of buccaneering,
-Skins of musky yellow wine, and silks in bales,
-Her merry men were cheering, hauling on the brails.
-
-I saw a ship a-sinking, a-sinking, a-sinking,
-With glittering sea-water splashing on her decks,
-With seamen in her spirit-room singing songs and drinking,
-Pulling claret bottles down, and knocking off the necks,
-The broken glass was chinking as she sank among the wrecks.
-Hyde Park Mansions.", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_Re-sung'),
     array('title' => 'The social and moral elevation of our working classes', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "\"There is a voice within me,
  And 'tis so sweet a voice,
 That its soft lispings win me,
@@ -17522,38 +16758,6 @@ The holy kiss of my lips aud thine
 Shall the sun have grace to see?
 The hours foregone of the night are nine—
 Open thy door to me!", 'source_url' => 'https://en.wikisource.org/wiki/An_Old_Song_(Bunner)'),
-    array('title' => 'If We Were on Our Honeymoon', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "TIB. One morning last May I remember I thought for a stroll I would go.
-YVETTE. And it happened you see that the same thought struck me, 'Twas telepathy did it you know.
-
-TIB. I said I will walk to the railway,
-YVETTE. And the railway seemed calling to, me
-TIB. Irresistibly drawn I walked on, on and on,
-Led by some power that I could not see.
-
-YVETTE. At last we both came to the railway,
-TIB. And then face to face, dear we met.
-You smiled oh so sweetly,
-YVETTE. You doffed your hat neatly and said.
-\"Bonjour Mainzelle Yvette.\"
-
-BOTH. When All at once a train rushed by and left us standing in despair
-TIB. You on the right side,
-YVETTE. You on the left,
-TIB. I on the left side,
-YVETTE. I on the right.
-BOTH. Feeling so foolish and lonely quite.
-
-YVETTE. And I thought,
-TIB. What did you think dear?
-YVETTE. Thought how much nicer it would be.
-If that train carried you dear and I
-
-BOTH. On a happy bridal trip a groom and bride.
-Spooning honey mooning side by side,
-YVETTE. Then the bell with it's brazen ding-dong-dong
-would ring out like a sweet wedding song.
-BOTH. And the Puffing of the engine would be like a merry tune,
-If we were on our honeymoon.", 'source_url' => 'https://en.wikisource.org/wiki/If_We_Were_on_Our_Honeymoon'),
     array('title' => 'Grim Tales', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Will you just send me
 a card to say if you
 have any of these, &
@@ -17618,41 +16822,6 @@ That still for thee and me remains
  Of that singular Sailor of Compton. 
 
  <Publ. 1846>", 'source_url' => 'https://en.wikisource.org/wiki/There_was_an_Old_Sailor_of_Compton'),
-    array('title' => 'The Sailor (Wodehouse)', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "The vessel may shake like a jelly,
-The tempest may ruffle the sea;
-The oil from the engines be smelly,
-But, bless you, that don't affect me.
-Such details are quite to my liking,
-They cause me no worry or pain,
-I feel like an up-to-date Viking,
-Whatever the state of the main.
-
-I know that full many a man 'll
-Turn green when the anchor is weighed,
-And assume in the chops of the Channel
-Some even more curious shade;
-Such words as “a ground swell” or “leeward,”
-If you whisper them soft in his ear,
-Will make him call out for the steward,
-Explaining he feels rather queer.
-
-Some find that their systems are shaken
-If men in their presence should speak
-Of the merits of oysters or bacon,
-Or succulent bubble-and-squeak.
-If you mention whipped cream in their hearing,
-Small pleasure their faces will show;
-You notice their backs disappearing
-En route for the cabin below.
-
-Myself, be the sea smooth or rougher,
-From these sorts of woes I’m exempt.
-I think of the people who suffer
-With pity that's mixed with contempt.
-And I owe my immunity merely
-(A fact I’ve not mentioned before)
-To avoiding the ocean severely:
-I spend all my life on the shore.", 'source_url' => 'https://en.wikisource.org/wiki/The_Sailor_(Wodehouse)'),
     array('title' => 'Proposed expedition to explore Ellesmere land, northwest of Baffin Bay', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "His Excellency Baron von SAURMA-JELTSCH
 Ambassador Extraordinary and Plenipotentiary of the German Empire. 
 His Excellency J. A. W. GRIP 
