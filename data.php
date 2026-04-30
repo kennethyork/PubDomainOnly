@@ -2677,33 +2677,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Random work', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Balantyne Press
-BALLANTYNE, HANSON AND CO.
-EDINBURGH AND LONDON
-
-MEMBER OF THE SOCIÉTÉ ASIATIQUE OF PARIS.
-
-LONDON:
-TRÜBNER & CO.,
-LUDGATE HILL.1882.[All rights reserved.]
-
-IN GRATEFUL ACKNOWLEDGMENT OF HIS
-
-UNWEARIED SERVICES AS A STUDENT AND INTERPRETER
-
-OF THE FAITHS AND WISDOM OF INDIA,
-
-This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Random'),
     array('title' => 'The Star-Spangled Banner', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "National anthem of the United States, by a Congressional resolution on March 3, 1931. It uses the words of the poem
 Defence of Fort Mc
 Henryby
@@ -3451,29 +3424,6 @@ And wrap the Saviour's changeless love
 A mantle round your breast.5 So shall you share the wealth,
 That earth may ne'er despoil,
 And the blest gospel's saving health.", 'source_url' => ''),
-    array('title' => 'Learning', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Come, come with emulative strife,
-To learn the way, the truth, and life,
-Which Jesus is in one;
-In all sound doctrine he proceeds,5
-From Alpha to Omega leads,
-E'en Spirit, Sire, and Son.
-Sure of th'exceeding great reward,
-Midst all your learning learn the Lord —This was thy doctrine, Paul;10
-And this thy lecture shou'd persuade,
-Tho' thou hadst more of human aid,
-Than thy blest brethren all.
-Humanity's a charming thing,
-And every science of the ring,15
-Good is the classic lore;
-For these are helps along the road,
-That leads to Zion's blest abode,
-And heav'nly muse's store.
-But greater still in each respect,20
-He that communicates direct
-The tutor of the soul;
-Who without pain, degrees or parts,
-While he illuminates our hearts,
-Can teach at once the whole.", 'source_url' => 'https://en.wikisource.org/wiki/The_Great_Learning'),
     array('title' => 'Prudence', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "O best oeconomist of life,
 Tho' all the passions were at strife;
 Yet thou, fair Prudence, could'st assuage
@@ -5186,333 +5136,6 @@ Bibliothèque nationale de France.[4]
 
 The id. loc. gov site initially used a fairly lightweight
 Pythonprogram to serve linked data.[5]", 'source_url' => 'https://en.wikisource.org/wiki/Author:Eleanor_Vere_Boyle'),
-    array('title' => 'Ralph in the Switch Tower', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Second book in the
-Railroad seriesof the Stratemeyer Syndicate
-
-Made in the United States of America
-
-RALPH QUICKLY AND DEFTLY ATTENDED TO THE CALL FOR SEVERAL SWITCHES.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Five Children and It', 'author' => '', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "Author of “The Treasure-seekers,\"“The Would-be-goods,\" etc.
-
-NEW YORKDODD, MEAD & COMPANY1905
-
-Copyright, 1905, by
-Dodd, Mead and Company
-Published October, 1905
-
-My Lamb, you are so very small,
-You have not learned to read at all;
-Yet never a printed book withstands
-The urgence of your dimpled hands.
-So, though this book is for yourself,
-Let mother keep it on the shelf
-Till you can read. O days that pass,
-That day will come too soon, alas!
-
-Parts of this story have appeared inthe
-Strand Magazineunder the title of\"THE PSAMMEAD.\"
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Emily of New Moon', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "“Anne’s House of Dreams,” “Rainbow Valley,” “Rilla of Ingleside,” “Kilmeny of the Orchard,” etc.
-
-Published by arrangement with Frederick A Stokes Company
-
-Second printing, July 26, 1923 (before publication).
-
-Printed in the United States of America
-
-ALLOA, SCOTLANDIN RECOGNITION OFA LONG AND STIMULATING FRIENDSHIP
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1942, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 83 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Tom Swift and His Airship', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Third book in the
-Tom Swiftseries.
-
-AUTHOR OF \"TOM SWIFT AND HIS MOTOR-CYCLE,\" \"TOM SWIFT AND HISMOTOR BOAT,\" \"TOM SWIFT AND HIS SUBMARINE BOAT,\" ETC.
-
-Made in the United States of America
-
-STRAIGHT AT THE TOWER RUSHED THE RED CLOUD, AND HIT IT A GLANCING BLOW.
-
-Tom Swift and His Airship
-Page53.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Bobbsey Twins', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Book 1 in the
-Bobbsey Twinsseries
-
-AUTHOR OF \"THE BOBBSEY TWINS IN THE COUNTRY.\"\"THE BOBBSEY TWINS AT THE SEASHORE,\" ETC.
-
-THE KITE WENT UP INTO THE AIR AND SNOOP WITH IT.—P. 177.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Secret Garden', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "\"IT SEEMED SCARCELY BEARABLE TO LEAVE SUCH DELIGHTFULNESS\"—Page 231
-
-\"The Shuttle,\" \"The Making of a Marchioness,\" \"The Methods of Lady  Walderhurst,\" \"That Lass o' Lowries,\" \"Through One Administration,\" \"Little Lord Fauntleroy,\" \"A Lady of Quality,\"etc.
-
-NEW YORKFREDERICK A. STOKES COMPANYPUBLISHERS
-
-Copyright, 1911, by
-Frances Hodgson Burnett
-
-Copyright, 1910, 1911, by
-The Phillips Publishing Co.
-
-All rights reserved, including that of translation into foreign languages, including the Scandinavian.
-
-Printed in the United States of America.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Voyages of Doctor Dolittle', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Winner of the 1923
-Newbery Medal.
-
-THEPOPSIPETELPICTURE-HISTORY OFKING JONG THINKALOT
-
-THEPOPSIPETELPICTURE-HISTORY OFKING JONG THINKALOT
-
-All rights reserved, including that of translationinto foreign languages
-
-Printed in the United States of America
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1947, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 78 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Bunny Brown and His Sister Sue on Grandpa\'s Farm', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Second book in the
-Bunny Brownseries.
-
-AUTHOR OFTHE BUNNY BROWN SERIES, THE BOBBSEYTWINS SERIES, THE OUTDOOR GIRLSSERIES, ETC.
-
-Made in the United States of America
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Bunny_Brown_and_His_Sister_Sue_on_Grandpa%27s_Farm'),
-    array('title' => 'Tom Swift and His Motor Cycle', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "First book in the
-Tom Swiftseries
-
-So quickly did the man appear that Tom was almost upon him in an instant.
-
-AUTHOR OF \"TOM SWIFT AND HIS MOTOR BOAT,\" \"TOM SWIFT AND HIS AIR-SHIP,\" \"TOM SWIFT AND HIS SUBMARINE BOAT,\" ETC.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Air Service Boys over the Rhine', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Third book in the
-Air Service Boysseries
-
-Author of \"Air Service Boys Flying for France,\"\"Air Service Boys Over the Enemy's Lines,\" etc.
-
-THE WORLD SYNDICATE PUBLISHING CO.
-CLEVELANDNEW YORK
-
-Copyright, 1919, by
-GEORGE SULLY & COMPANY
-
-Press of
-THE COMMERCIAL BOOKBINDING CO.
-Cleveland
-
-BLOWING UP THE GERMAN MUNITION FACTORY.
-
-AIR SERVICE BOYS OVER THE RHINE
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Betty Gordon in Washington', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Second book in the
-Betty Gordonseries
-
-Strange Adventures in a Great City
-
-Author of \"Betty Gordon at Bramble Farm,\"\"Betty Gordon in the Land of Oil,\"\"The Ruth Fielding Series,\" Etc.
-
-NEW YORKCUPPLES & LEON COMPANYPUBLISHERS
-
-\"YOU'RE NOT UNCLE DICK!\" SHE GASPED ACCUSINGLY.
-
-\"Betty Gordon in Washington.\"Page 97
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Little Lord Fauntleroy', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "This transcription is of the first edition in book form, the work having previously been serialised in
-St. Nicholas Magazinefrom November 1885 to October 1886.
-
-with liveliest recollection and appreciation of her father's kindness and courtesy, also for giving me an opportunity to pay a small tribute to a very winsome lady
-
-\"'ARE YOU THE EARL?' SAID CEDRIC. 'I'M YOUR GRANDSON. I'M LORD FAUNTLEROY.'\"
-
-NEW-YORKCHARLES SCRIBNER'S SONS1886
-
-Copyright, 1886, by
-Charles Scribner's Sons.
-
-Chapters(not listed in original)
-
-FROM DRAWINGS BY REGINALD B. BIRCH.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Czechoslovak fairy tales', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "WITH ILLUSTRATIONS AND DECORATIONSBYJAN MATULKA
-
-NEW YORKHARCOURT, BRACE AND COMPANY
-
-COPYRIGHT, 1919, BYPARKER FILLMORE
-
-PRINTED IN THE U. S. A. BYTHE QUINN & BODEN COMPANYRAHWAY. N. J.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1972, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 53 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Real Mother Goose', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "From
-The Real Mother Goose
-Copyright 1916 by
-Rand Mc
-Nally & Company
-All rights reserved
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1971, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 54 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Understood Betsy', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "[An audiobook is available at
-Librivox]
-
-DOROTHY CANFIELDAuthor of \"The Bent Twig,\" etc.
-
-NEW YORKHENRY HOLT AND COMPANY1917
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1958, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 67 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Ralph of the Roundhouse', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "First Book in the
-Railroad seriesof the Stratemeyer Syndicate
-
-Made in the United States of America
-
-RALPH STEPPED OVER HIS RECUMBENT COMPANION AND PLACED HIS HAND ON THE LEVER.—P. 42.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'White Fang', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "This novel was first serialized in
-The Outing Magazinein May through October of 1906.
-
-\"The whole pack on haunches, with noses pointed skyward, was howling its hunger cry.\"
-
-AUTHOR OF \"THE CALL OF THE WILD,\" \"THESEA WOLF,\" ETC., ETC.
-
-New York
-THE MACMILLAN COMPANYLONDON: MACMILLAN & CO.,
-Ltd.1906
-
-Copyright, 1905,
-By JACK LONDON.
-
-Copyright, 1906,
-By THE OUTING PUBLISHING COMPANY.
-
-Copyright, 1906,
-By THE MACMILLAN COMPANY.
-
-Set up and electrotyped. Published October, 1906.
-
-Norwoord Press
-J.
-S. Cushing & Co. — Berwick & Smith Co.
-Norwood, Mass., U.
-S.
-A.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Betty Gordon in the Land of Oil', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "The Farm That Was Worth a
-Fortune
-
-Author of \"Betty Gordon at Bramble Farm,\"\"Betty Gordon in Washington,\" \"The
-Ruth Fielding Series,\" Etc.
-
-NEW YORKCUPPLES & LEON COMPANYPUBLISHERS
-
-CLOVER TOOK THE BIT BETWEEN HER TEETH AND BEGAN TO RUN.\"Betty Gordon in the Land of Oil.\"Page 100
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'As I Was Walking', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "As I was walking,
 Thyme sweet to my nose,
 Green grasshoppers talking,
@@ -5752,28 +5375,6 @@ He met a pilgrim shadow—\"Shadow,\" said he,\"Where can it be—This land of E
 Of the Moon,
 Down the Valley of the Shadow,
 Ride, boldly ride,\"The shade replied,—\"If you seek for Eldorado!\"", 'source_url' => ''),
-    array('title' => 'The First Half of the Seventeenth Century', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Volume 7 of Periods of European Literature Series
-
-CHALMERS PROFESSOR OF ENGLISH LITERATURE
-
-​Preface
-Chapter 1:  Holland - Verse and Prose.
-Chapter 2:  Holland - Drama.
-Chapter 3:  English Drama.
-Chapter 4:  English Poetry.
-Chapter 5:  English Prose.
-Chapter 6:  French Verse and Prose.
-Chapter 7:  French Drama.
-Chapter 8:  Italy and Germany.
-Chapter 9:  Conclusion.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1960, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 65 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Henry Fielding', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "English novelist, playwright, journalist and poet;  best known for his rich, earthy humour and satirical prowess, and as the author of the novel
 Tom Jones. Used pseudonym \"Scriblerus Secundus\". Brother of
 Sarah Fielding.
@@ -5788,19 +5389,6 @@ Some or all works by this author were published before January 1, 1931, and are 
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author:Henry_Fielding'),
-    array('title' => 'Tristan und Isolde (Wagner)', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "This English translation published anonymously in 1890.
-
-FRED RULLMAN, INC., NEW YORK, N. Y.
-
-Table of Contents(not listed in original)
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Merman & Mermaid', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "(Ocean's Bottom, Curious Denizens)
 
 Copyright 1914 by E. E. Harder, Chicago, Ill.
@@ -5819,86 +5407,6 @@ This work may be in thepublic domainin countries and areas with longer native co
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Merman'),
-    array('title' => 'The Southern Literary Messenger', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Content exists for this periodical, though at this stage it is not specifically organised beyond a basic hierarchy.
-
-The pages listed below are an automatically generated listing.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Educational Screen', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "United States periodical about film, cinema and audiovisual media in education. Merged with
-Audio-Visual Guideto form
-The Educational Screen and Audio-Visual Guide.
-
-Absorbed
-Moving Picture Age, in January 1923,
-Visual Education, in January 1925 and
-Visual Instruction Newsin April 1932.
-
-Some or all works listed in this portal are in thepublic domainin the
-United Statesbecause they were published before January 1, 1931.
-
-These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:The_Educational_Screen'),
-    array('title' => 'The American Printer', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The American Printeris a periodical, published from 1885 to 1958. It was originally called
-The American Bookmaker. From 1897 it was called
-The Printer and Bookmaker. In 1900 it was called
-The American Printer and Bookmaker. From 1900 it was called
-The American Printer. In 1902,
-The Western Printermerged into
-The American Printer. In 1906,
-The International Printermerged into
-The American Printer. In 1915,
-The Master Printermerged into
-The American Printer.
-
-Some or all works listed in this portal are in thepublic domainin the
-United Statesbecause they were published before January 1, 1931.
-
-These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:The_American_Printer'),
-    array('title' => 'Printing Times and Lithographer', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "The Printing Times and Lithographeris a periodical, published from January1875 to July 1891; it replaced
-The Printing Timesand
-The Lithographer. It was published by
-Charles William Henry Wyman
-
-Some or all works listed in this portal are in thepublic domainin the
-United Statesbecause they were published before January 1, 1931.
-
-These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Portal:Printing_Times_and_Lithographer'),
-    array('title' => 'The Atlantic Monthly', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The Atlantic(formerly known as
-The Atlantic Monthly) is an American magazine founded in Boston in 1857.
-
-Volumes issued after 1930 may not be in the public domain.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Tatler (New York)', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "New York magazine focusing on theatre and film. Unrelated to the British fashion magazine
-Tatler.
-
-Some or all works listed in this portal are in thepublic domainin the
-United Statesbecause they were published before January 1, 1931.
-
-These works may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Daughter to that good Earl, once President', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Daughter to that good Earl, once President
 Of
 Englands
@@ -5939,24 +5447,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Psychology of Religion', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "LITTLE BLUE BOOK NO. 446
-Edited by E. Aldeman-Julius
-
-HALDEMAN-JULIUS PUBLICATIONS,
-GIRARD, KANSAS
-
-Copyright,
-Haldeman-Julius Company
-
-PRINTED IN THE UNITED STATES OF AMERICA
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1955, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 70 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Five Blind Men and an Elephant', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "I.
 
 IT was six men of Indostan
@@ -5991,49 +5481,6 @@ Thirdapproached the animal,
 And happening to take
 The squirming trunk within his hands,
 Thus boldly up and spake:", 'source_url' => ''),
-    array('title' => 'Sanskrit Grammar', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "A description of the
-Sanskrit languageof the Indian subcontinent.
-
-Including both the Classical Language, andthe older Dialects, of Veda and Brahmana
-
-Late Professor of Sanskrit in Yale University, Knight of the Prussian Order
-Pour le Mérite, Corresponding Member of the Académie des Inscrip-tions et Belles-Lettres of the Institute of France, etc., Editor-in-Chief of
-The Century Dictionary, an Encyclopedic
-Lexicon of the English Language
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Latin for beginners', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Key and Manual
-Not in the original
-
-The
-Teachers' Manualis also available here, as is akey to the exercises at Wikibooks
-
-“LENTULUS AD VILLAM SUAM PROPERAVIT”(See page 207)
-
-PROFESSOR IN THE MICHIGAN STATE NORMAL COLLEGE
-
-BOSTON • NEW YORK • CHICAGO • LONDONATLANTA . DALLAS . COLUMBUS • SAN FRANCISCO
-
-COPYRIGHT, 1909, 1911, BY BENJAMIN L. D'OOGE
-
-GINN AND COMPANY • PROPRIETORS • BOSTON • U.
-S.
-A.
-
-QUI • ME • NON • SOLUM • DICENDA
-
-PART I. THE PRONUNCIATION OF LATIN
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1940, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 85 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'The Philological Museum, vol. 2', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "The first volume of
 The Philological Museumappeared in 1831, but lasted only six volumes. Volume 2, published in 1833, is notable for Connop Thirlwall's masterly paper \"On the Irony of Sophocles\", which pioneered the concept of dramatic irony.
 
@@ -6047,32 +5494,6 @@ This work was published before January 1, 1931, and is in thepublic domainworldw
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Philological_Museum/Volume_2'),
-    array('title' => 'The Grammar of English Grammars', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Current Wikisource text based on the sixth edition; the scan referred to is of the tenth edition. See also
-Table of Contents.
-
-METHODICALLY AMANGED AND AMPLY ILLUSTRATED;
-
-FORMS OF CORRECTING AND OF PARSING, IMPROPRIETIES FOR CORRECTION, EXAMPLES FOR PARSING, QUESTIONS FOR EXAMINATION, EXERCISES FOR WRITING, OBSERVATIONS FOR THE ADVANCED STUDENT, DECISIONS AND PROOFS FOR THE SETTLEMENT OF DISPUTED POINTS, OCCASIONAL STRICTURES AND DEFENCES, AN EXHIBITION OF THE SEVERAL METHODS OF ANALYSIS,
-
-PERTAINING SEPARATELY TO THE FOUR PARTS OF GRAMMAR.
-
-By GOOLD BROWN,
-AUTHOR OF THE INSTITUTES OF ENGLISH GRAMMAR, THE FIRST LINES OF ENGLISH GRAMMAR, ETC.
-
-\"So let great authors have their due, that Time, who is the author of authors, be not deprived of his due, which is, farther and farther to discover truth.\"—Lord Bacon.
-
-TENTH EDITION—REVISED AND IMPROVED.
-
-BY GOOLD BROWN,
-In the Clerk's Office of the District Court of the District of Massachusetts
-
-TROW'SPRINTING AND BOOKBINDING Co.,205-213
-East12th STNEW YORK
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'The Sign Language: A Manual of Signs', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Second edition; First edition was published in 1910.
 
 Being a descriptive vocabulary of signs used by the Deaf of the United States and Canada
@@ -6097,120 +5518,6 @@ The longest-living author of this work died in 1933, so this work is in thepubli
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/The_Sign_Language'),
-    array('title' => 'The Mathematical Principles of Natural Philosophy', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The first \"American\" edition of
-Philosophiae Naturalis Principia Mathematica. Edited by
-N. W. Chittenden.
-
-TRANSLATED INTO ENGLISH BY ANDREW MOTTE.
-
-With a Portrait taken from the Bust in the Royal Observatory at Greenwich.
-
-FIRST AMERICAN EDITION, CAREFULLY REVISED AND CORRECTED,
-
-WITH A LIFE OF THE AUTHOR, BY N. W. CHITTENDEN, M. A., &c.
-
-PUBLISHED BY DANIEL ADEE, 45 LIBERTY STREET.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Life of the Spider', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Originally published in French in
-Souvenirs entomologiques(1879–1909)
-
-TRANSLATED BYAlexander Teixeira de Mattos
-FELLOW OF THE ZOOLOGICAL SOCIETY OF LONDONWith a Preface by
-Maurice Maeterlinck
-
-BLUE RIBBON BOOKS, INC.
-NEW YORK CITY
-
-Copyright, 1912
-By
-DODD, MEAD AND COMPANY
-
-PRINTED AND BOUND BY THE CORNWALL PRESS, INC., FORBLUE RIBBON BOOKS, INC., 386 FOURTH AVE., NEW YORK CITY
-
-Printed in the United States of America
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1949, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 76 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'news', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "This is the category forscience and technology.
-
-You can also browse through all articles in this category alphabetically.
-
-From Wikinews, the free news source you can write.
-
-This category has the following 58 subcategories, out of 58 total.
-
-The following 200 pages are in this category, out of 2,105 total.
-
-The following 2 files are in this category, out of 2 total.", 'source_url' => 'https://en.wikisource.org/wiki/The_Illustrated_London_News'),
-    array('title' => 'Geological Society of London', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "The Geological Society of London publish selected papers since 1811. The title of their publications varied over time.
-
-1st series, 1811-1821, volumes 1 to 5;2nd series, 1822-1824, volume 1 (three parts)
-
-2nd series, 1822-1856, volumes 2 to 7
-
-Volume 1, part 1 to volume 4, part 3, 1834-1845
-
-Volume 1, part 1 to volume 126, part 4, 1845-1971
-
-Quarterly Journal of the Geological Society of London, transcription projects
-
-Vol. 9•Vol. 21•Vol. 22•Vol. 23•Vol. 24•Vol. 25•Vol. 26•Vol. 27•Vol. 28•Vol. 29•Vol. 31•Vol. 32•Vol. 33•Vol. 34•Vol. 35
-
-From 1988, Journal of the Geological Society, London.", 'source_url' => ''),
-    array('title' => 'Algebraic relations between certain infinite products', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Published in the Proceedings of the London Mathematical Society, vol. XVIII, no. 2, records for 13 March 1919.
-
-The paper contains a small typographical error: in the second equation for
-G(x){\\displaystyle \\scriptstyle {G(x)}}the first progression operator should be in the denominator.
-
-G(x)=1+11−x+x4(1−x)(1−x2)+x9(1−x)(1−x2)(1−x3)+…=1(1−x)(1−x6)(1−x11)…×1(1−x4)(1−x9)(1−x14)…,{\\displaystyle {\\begin{aligned}\\scriptstyle {G(x)}&\\scriptstyle {=1+{\\frac {1}{1-x}}+{\\frac {x^{4}}{(1-x)(1-x^{2})}}+{\\frac {x^{9}}{(1-x)(1-x^{2})(1-x^{3})}}+\\ldots }\\\\&\\scriptstyle {={\\frac {1}{(1-x)(1-x^{6})(1-x^{11})}}\\ldots \\times {\\frac {1}{(1-x^{4})(1-x^{9})(1-x^{14})\\ldots }},}\\end{aligned}}}
-
-H(x)=1+x21−x+x6(1−x)(1−x2)+x12(1−x)(1−x2)(1−x3)+…=1(1−x2)(1−x7)(1−x12)…×1(1−x3)(1−x8)(1−x13)….{\\displaystyle {\\begin{aligned}\\scriptstyle {H(x)}&\\scriptstyle {=1+{\\frac {x^{2}}{1-x}}+{\\frac {x^{6}}{(1-x)(1-x^{2})}}+{\\frac {x^{12}}{(1-x)(1-x^{2})(1-x^{3})}}+\\ldots }\\\\&\\scriptstyle {={\\frac {1}{(1-x^{2})(1-x^{7})(1-x^{12})\\ldots }}\\times {\\frac {1}{(1-x^{3})(1-x^{8})(1-x^{13})\\ldots }}.}\\end{aligned}}}
-
-Simpler proofs were afterwards found by Prof. Rogers and myself[2].
-
-H(x){G(x)}11−x2
-G(x){H(x)}11=1+11x{G(x)H(x)}6{\\displaystyle \\scriptstyle {H(x)\\{G(x)\\}^{11}-x^{2}G(x)\\{H(x)\\}^{11}=1+11x\\{G(x)H(x)\\}^{6}}}.
-
-H(x)G(x11)−x2
-G(x)H(x11)=1{\\displaystyle \\scriptstyle {H(x)G(x^{11})-x^{2}G(x)H(x^{11})=1}}.
-
-Each of these formulæ is the simplest of a large class.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Calculus Made Easy', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "one or more chapters are available in a spoken word format.
-
-BEING A VERY-SIMPLEST INTRODUCTION TOTHOSE BEAUTIFUL METHODS OF RECKONINGWHICH ARE GENERALLY CALLED BY THETERRIFYING NAMES OF THE
-
-MACMILLAN AND CO., LIMITEDST. MARTIN’S STREET, LONDON1914
-
-LONDON • BOMBAY • CALCUTTAMELBOURNE
-
-NEW YORK • BOSTON • CHICAGODALLAS • SAN FRANCISCO
-
-First Edition 1910.
-Reprinted 1911 (twice), 1912, 1913.
-Second Edition 1914.
-
-Thesurprising success of this work has led the author to add a considerable number of worked examples and exercises. Advantage has also been taken to enlarge certain parts where experience showed that further explanations would be useful.
-
-The author acknowledges with gratitude many valuable suggestions and letters received from teachers, students, and—critics.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Lives of Saints', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Agents for the sale of the Early English Text Society's Publications.
 
 A Set of Sermons on Saints' Days formerly observed by the English Church,
@@ -6257,70 +5564,6 @@ The longest-living author of this work died in 1961, so this work is in thepubli
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Bohemia%27s_claim_for_freedom'),
-    array('title' => 'Wikinews', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "This is the category fortelevision.
-
-You can also browse through all articles in this category alphabetically.
-
-From Wikinews, the free news source you can write.
-
-A news broadcast in
-California,
-US, 2015.(Image:
-U.
-S. Army Corps of Engineers
-Sacramento
-District)
-
-This category has the following 24 subcategories, out of 24 total.
-
-The following 200 pages are in this category, out of 479 total.
-
-This category contains only the following file.", 'source_url' => 'https://en.wikisource.org/wiki/Crowdsourcing_and_Open_Access:_Collaborative_Techniques_for_Disseminating_Legal_Materials_and_Scholarship'),
-    array('title' => 'Commons gallery', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Medion TV-Tuner for DVB-T/TV/FM
-
-Medion TV-Tuner for DVB-T/TV/FM
-
-Overview of Remote controller of Apple TV
-
-TV screens in a dispatch center for Nevada Highway Patrol
-
-Samsung television 8000 controller
-
-Teleprompter at television studio
-
-Moviebird 52 foot telescopic camera
-
-Panasonic digital television camera
-
-Okinawa Television headquarters
-
-Ishikawa Television Broadcasting
-
-Ho Chi Minh City Television Headquarters
-
-WDR-Studio, Düsseldorf, Germany
-
-WDR-Studio, Düsseldorf, Germany
-
-WDR-Archivhaus, Cologne, Germany
-
-WDR-Studio, Düsseldorf, Germany", 'source_url' => 'https://en.wikisource.org/wiki/Creative_Commons_Attribution-ShareAlike_3.0_Unported'),
-    array('title' => 'Baseball Joe on the School Nine', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Book 2 in the
-Baseball Joeseries
-
-AUTHOR OF\"BASEBALL JOE OF THE SILVER STARS.\" \"THERIVAL PITCHERS,\" \"A QUARTER-BACK'S PLUCK.\"\"BATTING TO WIN.\" ETC.
-
-THE NEXT MOMENT THE HORSEHIDE WENT SPEEDING TOWARD THE PLATE.
-Baseball Joe on the School Nine
-Page200
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Mike', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "P. G. WODEHOUSEAUTHOR OF \"THE GOLD BAT,\" \"A PREFECT'SUNCLE\" ETC.
 
 CONTAINING TWELVE FULL PAGE ILLUSTRATIONS
@@ -6353,22 +5596,6 @@ These works may be in thepublic domainin countries and areas with longer native 
 
 Public domain
 Public domainfalsefalse", 'source_url' => 'https://en.wikisource.org/wiki/Author:Lester_Chadwick'),
-    array('title' => 'Sex', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "Published 1922. See talk page for difficulties.
-
-AVOIDED SUBJECTS DISCUSSED IN PLAIN ENGLISH
-
-SOCIAL CULTURE PUBLICATIONS151 FIFTH AVENUE   ·   NEW YORK
-
-Copyright, 1922
-SOCIAL CULTURE PUBLICATIONSMANUFACTURED IN U. S. A.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Modern and contemporary Czech art', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "MODERN ANDCONTEMPORARYCZECH ART
 
 BYANTONÍN MATĚJČEKANDZDENĚK WIRTH
@@ -6571,75 +5798,6 @@ Attribution 4.0 Internationallicense, which allows free use, distribution, and c
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Atlantic Monthly', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "The Atlantic(formerly known as
-The Atlantic Monthly) is an American magazine founded in Boston in 1857.
-
-Volumes issued after 1930 may not be in the public domain.
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Century', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "The Century Magazine was first published in the United States in 1881 by The Century Company of New York City as a successor to Scribner's Monthly Magazine. It ceased publication in 1930.
-
-(For volumes prior to vol. 23, see
-Scribner's Monthly)
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Pictorial Key to the Tarot', 'author' => '', 'year' => '1850', 'category' => 'Patriotic songs', 'lyrics' => "Being Fragments of a Secret
-Tradition under the Veilof Divination
-
-With 78 Plates, illustrating the Greater and Lesser Arcana, from designs by
-Pamela Colman Smith.
-
-LONDONWILLIAM RIDER & SON LIMITED1922
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-The longest-living author of this work died in 1951, so this work is in thepublic domainin countries and areas where the copyright term is the author'slife plus 74 years or less. This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Mind and the Brain', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "one or more chapters are available in a spoken word format.
-Audio files from
-Libri
-Vox. org
-
-Directeur du Laboratoire de Psychologieà la Sorbonne
-
-BEING THE AUTHORISED TRANSLATION OF
-
-KEGAN PAUL, TRENCH, TRÜBNER & CO. LTD
-
-DRYDEN HOUSE, GERRARD STREET, W.
-
-Printed by
-Ballantyne, Hanson& Co.
-
-This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse
-
-This work is in thepublic domainin the
-United Statesbecause it was published before January 1, 1931.
-
-This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Gypsy Sorcery and Fortune Telling', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "1891 book on the ritualistic practices of the
 Roma.
 
@@ -6670,31 +5828,6 @@ in grateful remembrance of their generous hospitality,
 and unfailing kindness and courtesy, by
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'Gaiman v. McFarlane', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "NEIL GAIMAN and MARVELS AND MIRACLES, LLC,
-Plaintiffs-Appellees/Cross-Appellants,
-
-TODD MCFARLANE, et al.,
-Defendants-Appellants/Cross-Appellees.
-
-United States Court of Appeals,
-Seventh Circuit.
-
-ARGUED JANUARY 5, 2004
-DECIDED FEBRUARY 24, 2004
-
-Appeals from the United States District Courtfor the Western District of Wisconsin.
-No. 02-C-48—John C. Shabaz, Judge.
-
-Before POSNER, KANNE, and ROVNER,
-Circuit Judges.
-
-This work is in thepublic domainin the United States because it isa workof the
-United Statesfederalgovernment(see17 U.
-S.
-C. 105).
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
@@ -7320,65 +6453,6 @@ A maiden rests beneath a tree,
 Gazing where the lake and banks match might
 And past them, far as the eye can see.
 Beneath the hill, the lake shows blue,", 'source_url' => ''),
-    array('title' => 'The Magic Pudding', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "\"I've got a stick to walk with.
-I've got a mind to think with.
-I've got a voice to talk with.
-I've got an eye to wink with.
-I've lots of teeth to eat with,
-A brand new hat to bow with,
-A pair of fists to beat with,
-A rage to have a row with.
-No joy it brings
-To have indeed
-A lot of things
-One does not need.
-Observe my doleful-plight.
-For here am I without a crumb
-To satisfy a raging tum
-O what an oversight!\"", 'source_url' => ''),
-    array('title' => 'Faery Magic', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "I knowa little twisted path
-That climbs toward the skies,
-To where the elves have hatched a plot
-To trick the worldly wise.
-There, seven tapered poplar-trees,
-Like leafy minarets,
-Weave their leaves against the sky
-In changing silhouettes.
-The solemn-eyed and sceptical,
-See only seven trees,
-Whose crooning song and leafy laugh\"Can only be the breeze.\"But we who love the faery ways,
-Know that here arrayed,
-Are seven faery princesses,
-In leafy masquerade.", 'source_url' => ''),
-    array('title' => 'The Merry Men and Other Tales and Fables', 'author' => '', 'year' => '1850', 'category' => 'Ballads', 'lyrics' => "An Inland Voyage.
-Edinburgh: Picturesque Notes.
-Travels with a Donkey.
-Virginibus Puerisque.
-Familiar Studies of Men and Books.
-New Arabian Nights.
-Treasure Island.
-The Silverado Squatters.
-A Child's Garden of Verses.
-Prince Otto.
-The Strange Case of Dr. Jekyll and Mr. Hyde.
-Kidnapped.
-The Merry Men.
-Underwoods.
-Memories and Portraits.
-The Black Arrow.
-The Master of Ballantrae.
-Father Damien: An Open Letter.
-Ballads.
-Across the Plains.
-Island Nights Entertainments.
-A Footnote to History.
-Catriona.
-Weir of Hermiston.
-Vailima Letters.
-Fables.
-Songs of Travel.
-St. Ives.
-In the South Seas", 'source_url' => ''),
     array('title' => 'It Came upon a Midnight Clear (unsourced)', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "It came upon a midnight clear,
 That glorious song of old,
 From angels bending near the earth
@@ -7763,34 +6837,6 @@ Let it mingle with desert sand,
 And the waves of a tropic sea,
 When the roaring surge sweeps o'er the strand
 And the ocean winds shout free.", 'source_url' => ''),
-    array('title' => 'The Light Princess', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "\"As a world that has no well,
-Darting bright in forest dell;
-As a world without the gleam
-Of the downward-going stream;
-As a world without the glance
-Of the ocean's fair expanse;
-As a world where never rain
-Glittered on the sunny plain;--Such, my heart, thy world would be, if no love did flow in thee.
-As a world without the sound
-Of the rivulets underground;
-Or the bubbling of the spring
-Out of darkness wandering;
-Or the mighty rush and flowing
-Of the river's downward going;
-Or the music-showers that drop
-On the outspread beech's top;
-Or the ocean's mighty voice,
-When his lifted waves rejoice;--Such, my soul, thy world would be, if no love did sing in thee.
-Lady, keep thy world's delight;
-Keep the waters in thy sight.
-Love hath made me strong to go,
-For thy sake, to realms below,
-Where the water's shine and hum
-Through the darkness never come;
-Let, I pray, one thought of me
-Spring, a little well, in thee;
-Lest thy loveless soul be found
-Like a dry and thirsty ground.\"", 'source_url' => ''),
     array('title' => 'When I Lost You', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "[1st verse:]The roses each one
 Met with the sun
 Sweetheart when I met you
@@ -8060,24 +7106,6 @@ Ghostly it grows, and darker, the burning
 Fades into smoke, and now the gusty oaks are
 A silent army of phantoms thronging
 A land of shadows.", 'source_url' => ''),
-    array('title' => 'The Butterfly (Smith)', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "O wonderful and wingèd flower,
-That hoverest in the garden-close,
-Finding, in mazes of the rose,
-The rapture of a summer hour !
-O symbol of Impermanence,
-Thou art a word of Beauty's tongue,
-A word that in her song is sung,
-Appealing to the inner sense.
-Of that high mystic harmony
-All lovely things are notes and words—The growth of flowers, the flight of birds,
-The figured Signs, the foam-wrought sea,
-The whitening gold of sudden dawn,
-The sunset's garnet afterglow,
-The cumulus, the noonlit snow,
-The moon in irised clouds withdrawn.
-Lacking (who knows?) a cloud, a tree,
-A streamlet's purl, the ocean's roar
-From Nature's multidinous store—Imperfect were the melody!", 'source_url' => ''),
     array('title' => 'Ode to Leven-Water', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "On Leven's baulks, while free to rove,
 And tune the rural pipe to love;
 I envied not the happiest swain
