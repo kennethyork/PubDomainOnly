@@ -5241,28 +5241,6 @@ The longest-living author of this work died in 1942, so this work is in thepubli
 
 Public domain
 Public domainfalsefalse", 'source_url' => ''),
-    array('title' => 'The Railway Children', 'author' => '', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "originally serialised in
-The London Magazineduring 1905 and later published in book form in the same year, and the first illustrated edition published in 1906. It has been adapted for the screen several times, of which the 1970 film version is the best known.
-
-author of \"the phœnix and the carpet,\" etc.
-
-New York
-THE MACMILLAN COMPANYLONDON: MACMILLAN & CO.,
-Ltd.1905
-
-Set up and electrotyped. Published,1905.
-
-Norwood Press
-J.
-S. Cushing & Co.—Berwick & Smith Co.
-Norwood, Mass., U.
-S.
-A.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.
-
-Public domain
-Public domainfalsefalse", 'source_url' => ''),
     array('title' => 'Tom Swift and His Airship', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Third book in the
 Tom Swiftseries.
 
