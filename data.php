@@ -1858,39 +1858,6 @@ And sound, with all thy saints below,
 The depths of love divine.
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_Holy_Ghost,_Our_Hearts_Inspire'),
-    array('title' => 'Salve cordis gaudium', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Hail my soul's true Comforterhail my Iesuhail my heart's Inflamer dearhail my Iesustill my life's defender nearhail my Iesuhail my sweetest Iesu.
-
-AThousand times I think on thee.
-Come sweet Spouse to me.
-A Thousand times I wish for thee:
-Come sweet Spouse to me.
-A Thousand times I cry to thee;
-Come sweet Spouse to me.
-Come my sweetest Spouse to me.
-
-Heavenly Pastures me afford;
-I new Life shall gain:
-Drop the Milk of thy puré Word,
-My Lips shall then be[1]fain.
-Immerse me in thy Bowels Lord,
-Hope shall spring again:
-Life of Love shall bloom amain.
-
-No sweet Taste can Vie with thee,
-Sweet delicious Love.
-No sweet Smell comes near to thee,
-Sweet Perfume of Love.
-None for Mildness like to thee
-Lov's sweet Lamb and Dove.
-Jesusweetest, sweet of Love.
-
-I am Cold, Inflame thou me
-Heavenly Lover.
-I am Sick, oh! Comfort me
-My Creator.
-Ah! I Die, give Life to me,
-O my Saviour,
-Jesu, O my Saviour.", 'source_url' => ''),
     array('title' => 'Let Every Mortal Ear Attend', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Let ev'ry mortal ear attend.
 And ev'ry heart rejoice:
 The trumpet of the gospel sounds
