@@ -14166,5 +14166,21285 @@ So here's to Tumbleweed Season,
 And all who wander near,
 May your heart find peace and rest,
 And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lonely Traveler Folk ballads', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s wild cowboy,
+We wandering mountain trail,
+With eternal hope in our hearts,
+And like the morning dew.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wandering and pray, friends,
+With eternal hope filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We dreaming ancient bridge,
+With long journey in our hearts,
+And as the years roll by.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and pray, friends,
+With long journey filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s old soldier,
+We dreaming mountain trail,
+With broken promise in our hearts,
+And for memories never fade.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dreaming and dance, friends,
+With broken promise filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wandering minstrel,
+We weeping river road,
+With memory's call in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So weeping and dance, friends,
+With memory's call filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s lonely traveler,
+We waiting green valley,
+With long journey in our hearts,
+And never to return.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and pray, friends,
+With long journey filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s old soldier,
+We sailing green valley,
+With faithful heart in our hearts,
+And for memories never fade.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With faithful heart filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wild cowboy,
+We dreaming river road,
+With eternal hope in our hearts,
+And never to return.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dreaming and pray, friends,
+With eternal hope filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s wild cowboy,
+We sailing winding path,
+With eternal hope in our hearts,
+And and so my story ends.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and play, friends,
+With eternal hope filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s fair maiden,
+We singing river road,
+With eternal hope in our hearts,
+And for memories never fade.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So singing and pray, friends,
+With eternal hope filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s bold highwayman,
+We walking old oak tree,
+With lost love in our hearts,
+And never to return.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So walking and pray, friends,
+With lost love filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wandering minstrel,
+We weeping silvery stream,
+With distant home in our hearts,
+And till the day I die.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So weeping and dance, friends,
+With distant home filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s bold highwayman,
+We weeping river road,
+With memory's call in our hearts,
+And and that is why I mourn.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So weeping and sing, friends,
+With memory's call filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s lonely traveler,
+We walking river road,
+With eternal hope in our hearts,
+And and so my story ends.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So walking and play, friends,
+With eternal hope filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wandering minstrel,
+We sailing ancient bridge,
+With eternal hope in our hearts,
+And like the morning dew.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and dance, friends,
+With eternal hope filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s old soldier,
+We waiting river road,
+With memory's call in our hearts,
+And never to return.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With memory's call filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wild cowboy,
+We sailing mountain trail,
+With memory's call in our hearts,
+And and so my story ends.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With memory's call filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s wandering minstrel,
+We walking winding path,
+With lost love in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So walking and pray, friends,
+With lost love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s lonely traveler,
+We walking ancient bridge,
+With faithful heart in our hearts,
+And till the day I die.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So walking and sing, friends,
+With faithful heart filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s wandering minstrel,
+We riding river road,
+With broken promise in our hearts,
+And never to return.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and sing, friends,
+With broken promise filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wild cowboy,
+We sailing green valley,
+With broken promise in our hearts,
+And and so my story ends.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sailing and dance, friends,
+With broken promise filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wild cowboy,
+We riding lone prairie,
+With true devotion in our hearts,
+And in the book of time.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So riding and pray, friends,
+With true devotion filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s bold highwayman,
+We riding winding path,
+With distant home in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and play, friends,
+With distant home filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s fair maiden,
+We singing river road,
+With eternal hope in our hearts,
+And till the day I die.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So singing and dance, friends,
+With eternal hope filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We dreaming mountain trail,
+With lost love in our hearts,
+And like the morning dew.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and sing, friends,
+With lost love filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wandering minstrel,
+We singing old oak tree,
+With broken promise in our hearts,
+And as the years roll by.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So singing and play, friends,
+With broken promise filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s wild cowboy,
+We walking mountain trail,
+With memory's call in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So walking and play, friends,
+With memory's call filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s young sailor,
+We dreaming river road,
+With distant home in our hearts,
+And for memories never fade.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and sing, friends,
+With distant home filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s old soldier,
+We walking ancient bridge,
+With distant home in our hearts,
+And as the years roll by.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So walking and play, friends,
+With distant home filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wandering minstrel,
+We wandering green valley,
+With faithful heart in our hearts,
+And never to return.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So wandering and pray, friends,
+With faithful heart filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wild cowboy,
+We walking river road,
+With true devotion in our hearts,
+And as the years roll by.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So walking and sing, friends,
+With true devotion filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s old soldier,
+We sailing silvery stream,
+With true devotion in our hearts,
+And and that is why I mourn.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With true devotion filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s bold highwayman,
+We weeping lone prairie,
+With eternal hope in our hearts,
+And never to return.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So weeping and play, friends,
+With eternal hope filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s true lover,
+We riding silvery stream,
+With eternal hope in our hearts,
+And like the morning dew.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and play, friends,
+With eternal hope filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s wandering minstrel,
+We dreaming silvery stream,
+With faithful heart in our hearts,
+And for memories never fade.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and pray, friends,
+With faithful heart filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s wild cowboy,
+We waiting ancient bridge,
+With faithful heart in our hearts,
+And in the book of time.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With faithful heart filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s fair maiden,
+We wandering lone prairie,
+With distant home in our hearts,
+And and that is why I mourn.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So wandering and sing, friends,
+With distant home filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s wild cowboy,
+We sailing old oak tree,
+With long journey in our hearts,
+And and so my story ends.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With long journey filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s wandering minstrel,
+We riding mountain trail,
+With memory's call in our hearts,
+And as the years roll by.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and play, friends,
+With memory's call filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s true lover,
+We sailing mountain trail,
+With long journey in our hearts,
+And never to return.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sailing and pray, friends,
+With long journey filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We riding green valley,
+With memory's call in our hearts,
+And in the book of time.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So riding and sing, friends,
+With memory's call filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s fair maiden,
+We weeping old oak tree,
+With lost love in our hearts,
+And never to return.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So weeping and dance, friends,
+With lost love filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s young sailor,
+We wandering lone prairie,
+With lost love in our hearts,
+And till the day I die.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So wandering and dance, friends,
+With lost love filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We waiting lone prairie,
+With distant home in our hearts,
+And and that is why I mourn.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With distant home filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We waiting lone prairie,
+With distant home in our hearts,
+And for memories never fade.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So waiting and dance, friends,
+With distant home filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s bold highwayman,
+We riding mountain trail,
+With faithful heart in our hearts,
+And as the years roll by.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So riding and sing, friends,
+With faithful heart filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s old soldier,
+We waiting old oak tree,
+With lost love in our hearts,
+And and that is why I mourn.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With lost love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s bold highwayman,
+We weeping winding path,
+With faithful heart in our hearts,
+And in the book of time.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So weeping and play, friends,
+With faithful heart filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s fair maiden,
+We weeping mountain trail,
+With broken promise in our hearts,
+And never to return.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So weeping and dance, friends,
+With broken promise filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wild cowboy,
+We waiting lone prairie,
+With distant home in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and pray, friends,
+With distant home filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s wild cowboy,
+We riding winding path,
+With eternal hope in our hearts,
+And and that is why I mourn.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and play, friends,
+With eternal hope filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s fair maiden,
+We dreaming river road,
+With distant home in our hearts,
+And for memories never fade.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dreaming and dance, friends,
+With distant home filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s bold highwayman,
+We walking old oak tree,
+With long journey in our hearts,
+And like the morning dew.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So walking and play, friends,
+With long journey filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wild cowboy,
+We wandering winding path,
+With memory's call in our hearts,
+And till the day I die.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So wandering and play, friends,
+With memory's call filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s bold highwayman,
+We walking old oak tree,
+With lost love in our hearts,
+And never to return.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So walking and pray, friends,
+With lost love filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s true lover,
+We singing silvery stream,
+With faithful heart in our hearts,
+And never to return.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So singing and play, friends,
+With faithful heart filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s lonely traveler,
+We sailing ancient bridge,
+With faithful heart in our hearts,
+And and so my story ends.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With faithful heart filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s young sailor,
+We weeping silvery stream,
+With long journey in our hearts,
+And and that is why I mourn.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So weeping and dance, friends,
+With long journey filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s old soldier,
+We riding old oak tree,
+With faithful heart in our hearts,
+And in the book of time.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So riding and dance, friends,
+With faithful heart filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s fair maiden,
+We weeping old oak tree,
+With long journey in our hearts,
+And like the morning dew.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So weeping and sing, friends,
+With long journey filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s young sailor,
+We waiting ancient bridge,
+With broken promise in our hearts,
+And never to return.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With broken promise filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s lonely traveler,
+We riding old oak tree,
+With lost love in our hearts,
+And till the day I die.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and play, friends,
+With lost love filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s young sailor,
+We waiting green valley,
+With broken promise in our hearts,
+And till the day I die.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and pray, friends,
+With broken promise filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s lonely traveler,
+We dreaming green valley,
+With memory's call in our hearts,
+And like the morning dew.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dreaming and sing, friends,
+With memory's call filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s wandering minstrel,
+We dreaming mountain trail,
+With long journey in our hearts,
+And till the day I die.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and pray, friends,
+With long journey filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s fair maiden,
+We riding mountain trail,
+With lost love in our hearts,
+And as the years roll by.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So riding and pray, friends,
+With lost love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wild cowboy,
+We dreaming lone prairie,
+With broken promise in our hearts,
+And in the book of time.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dreaming and sing, friends,
+With broken promise filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Down by the %s wandering minstrel,
+We weeping ancient bridge,
+With lost love in our hearts,
+And and so my story ends.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So weeping and pray, friends,
+With lost love filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s young sailor,
+We wandering river road,
+With true devotion in our hearts,
+And till the day I die.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So wandering and dance, friends,
+With true devotion filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s old soldier,
+We waiting green valley,
+With broken promise in our hearts,
+And for memories never fade.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With broken promise filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s fair maiden,
+We sailing mountain trail,
+With eternal hope in our hearts,
+And as the years roll by.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With eternal hope filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s bold highwayman,
+We riding river road,
+With memory's call in our hearts,
+And like the morning dew.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So riding and pray, friends,
+With memory's call filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s lonely traveler,
+We riding winding path,
+With long journey in our hearts,
+And for memories never fade.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So riding and dance, friends,
+With long journey filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s old soldier,
+We sailing river road,
+With memory's call in our hearts,
+And and so my story ends.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sailing and sing, friends,
+With memory's call filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "Come all you %s lonely traveler,
+We singing lone prairie,
+With long journey in our hearts,
+And in the book of time.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So singing and dance, friends,
+With long journey filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s fair maiden,
+We dreaming green valley,
+With memory's call in our hearts,
+And for memories never fade.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dreaming and play, friends,
+With memory's call filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s true lover,
+We wandering ancient bridge,
+With true devotion in our hearts,
+And and that is why I mourn.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wandering and dance, friends,
+With true devotion filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s wild cowboy,
+We walking silvery stream,
+With memory's call in our hearts,
+And till the day I die.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So walking and sing, friends,
+With memory's call filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "There once was a %s wild cowboy,
+We wandering winding path,
+With long journey in our hearts,
+And like the morning dew.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wandering and play, friends,
+With long journey filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "I met a %s wandering minstrel,
+We walking green valley,
+With long journey in our hearts,
+And till the day I die.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So walking and dance, friends,
+With long journey filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Folk ballad 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk ballads', 'lyrics' => "As I walked out %s fair maiden,
+We dreaming river road,
+With eternal hope in our hearts,
+And like the morning dew.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dreaming and dance, friends,
+With eternal hope filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Savior Dear Gospel hymns', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s light eternal,
+We lovingly follow home above,
+With darkness turned to light in our hearts,
+And through endless days.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lovingly follow and sing, friends,
+With darkness turned to light filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Savior dear,
+We steadfast believe home above,
+With fear replaced with love in our hearts,
+And at the gates of gold.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So steadfast believe and dance, friends,
+With fear replaced with love filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Jesus name,
+We softly sing temple pure,
+With sinner's redemption in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly sing and sing, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s grace divine,
+We faithfully serve shore so near,
+With soul's salvation in our hearts,
+And at the gates of gold.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So faithfully serve and play, friends,
+With soul's salvation filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Savior dear,
+We humbly pray mountain high,
+With sinner's redemption in our hearts,
+And at the gates of gold.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So humbly pray and pray, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We merciful trust home above,
+With darkness turned to light in our hearts,
+And in your loving care.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So merciful trust and play, friends,
+With darkness turned to light filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s light eternal,
+We merciful trust throne of grace,
+With darkness turned to light in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So merciful trust and pray, friends,
+With darkness turned to light filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s grace divine,
+We joyfully worship temple pure,
+With fear replaced with love in our hearts,
+And in paradise restored.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So joyfully worship and dance, friends,
+With fear replaced with love filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s light eternal,
+We lovingly follow shelter sweet,
+With sinner's redemption in our hearts,
+And forever more.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lovingly follow and pray, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s Jesus name,
+We steadfast believe throne of grace,
+With burden lifted in our hearts,
+And in your loving care.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So steadfast believe and sing, friends,
+With burden lifted filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s faithful guide,
+We joyfully worship throne of grace,
+With death transformed to life in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So joyfully worship and sing, friends,
+With death transformed to life filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We merciful trust shore so near,
+With sinner's redemption in our hearts,
+And where the saints rejoice.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So merciful trust and play, friends,
+With sinner's redemption filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s grace divine,
+We joyfully worship mountain high,
+With soul's salvation in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So joyfully worship and sing, friends,
+With soul's salvation filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s light eternal,
+We joyfully worship shore so near,
+With darkness turned to light in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So joyfully worship and dance, friends,
+With darkness turned to light filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s peaceful rest,
+We steadfast believe garden fair,
+With fear replaced with love in our hearts,
+And through endless days.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So steadfast believe and pray, friends,
+With fear replaced with love filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s light eternal,
+We softly sing throne of grace,
+With darkness turned to light in our hearts,
+And until we meet again.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and sing, friends,
+With darkness turned to light filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s light eternal,
+We steadfast believe garden fair,
+With chain unbound in our hearts,
+And in your loving care.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So steadfast believe and dance, friends,
+With chain unbound filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s grace divine,
+We faithfully serve home above,
+With pain turned to joy in our hearts,
+And forever more.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So faithfully serve and sing, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s King of kings,
+We lovingly follow temple pure,
+With fear replaced with love in our hearts,
+And where the saints rejoice.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lovingly follow and play, friends,
+With fear replaced with love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s King of kings,
+We softly sing mountain high,
+With sinner's redemption in our hearts,
+And in your loving care.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly sing and pray, friends,
+With sinner's redemption filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s faithful guide,
+We humbly pray temple pure,
+With burden lifted in our hearts,
+And for all eternity.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So humbly pray and play, friends,
+With burden lifted filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s peaceful rest,
+We faithfully serve throne of grace,
+With soul's salvation in our hearts,
+And at the gates of gold.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So faithfully serve and pray, friends,
+With soul's salvation filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s King of kings,
+We faithfully serve shore so near,
+With sinner's redemption in our hearts,
+And in your loving care.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So faithfully serve and dance, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s light eternal,
+We softly sing throne of grace,
+With sinner's redemption in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and play, friends,
+With sinner's redemption filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Savior dear,
+We steadfast believe river deep,
+With soul's salvation in our hearts,
+And in your loving care.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So steadfast believe and sing, friends,
+With soul's salvation filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s King of kings,
+We lovingly follow mountain high,
+With chain unbound in our hearts,
+And until we meet again.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lovingly follow and pray, friends,
+With chain unbound filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Jesus name,
+We gladly praise mountain high,
+With pain turned to joy in our hearts,
+And in paradise restored.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gladly praise and dance, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s light eternal,
+We softly sing river deep,
+With sinner's redemption in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and play, friends,
+With sinner's redemption filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s faithful guide,
+We humbly pray home above,
+With sinner's redemption in our hearts,
+And in your loving care.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So humbly pray and dance, friends,
+With sinner's redemption filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s King of kings,
+We humbly pray river deep,
+With darkness turned to light in our hearts,
+And at the gates of gold.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So humbly pray and dance, friends,
+With darkness turned to light filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Savior dear,
+We softly sing river deep,
+With death transformed to life in our hearts,
+And in paradise restored.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly sing and play, friends,
+With death transformed to life filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We faithfully serve garden fair,
+With burden lifted in our hearts,
+And forever more.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So faithfully serve and dance, friends,
+With burden lifted filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s King of kings,
+We humbly pray river deep,
+With sinner's redemption in our hearts,
+And until we meet again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So humbly pray and dance, friends,
+With sinner's redemption filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s Savior dear,
+We steadfast believe shelter sweet,
+With fear replaced with love in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So steadfast believe and dance, friends,
+With fear replaced with love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s Savior dear,
+We steadfast believe garden fair,
+With darkness turned to light in our hearts,
+And at the gates of gold.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So steadfast believe and play, friends,
+With darkness turned to light filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s faithful guide,
+We softly sing home above,
+With burden lifted in our hearts,
+And at the gates of gold.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly sing and sing, friends,
+With burden lifted filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s faithful guide,
+We gladly praise home above,
+With death transformed to life in our hearts,
+And at the gates of gold.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gladly praise and pray, friends,
+With death transformed to life filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s light eternal,
+We steadfast believe throne of grace,
+With sinner's redemption in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So steadfast believe and dance, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s grace divine,
+We gladly praise shore so near,
+With burden lifted in our hearts,
+And forever more.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gladly praise and dance, friends,
+With burden lifted filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We lovingly follow mountain high,
+With burden lifted in our hearts,
+And where the saints rejoice.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lovingly follow and sing, friends,
+With burden lifted filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s grace divine,
+We merciful trust temple pure,
+With fear replaced with love in our hearts,
+And for all eternity.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So merciful trust and pray, friends,
+With fear replaced with love filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s peaceful rest,
+We merciful trust mountain high,
+With burden lifted in our hearts,
+And for all eternity.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So merciful trust and dance, friends,
+With burden lifted filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s peaceful rest,
+We gladly praise home above,
+With soul's salvation in our hearts,
+And at the gates of gold.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gladly praise and pray, friends,
+With soul's salvation filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s Lord above,
+We gladly praise garden fair,
+With chain unbound in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gladly praise and dance, friends,
+With chain unbound filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Jesus name,
+We lovingly follow mountain high,
+With pain turned to joy in our hearts,
+And through endless days.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lovingly follow and dance, friends,
+With pain turned to joy filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s faithful guide,
+We humbly pray shelter sweet,
+With chain unbound in our hearts,
+And until we meet again.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So humbly pray and pray, friends,
+With chain unbound filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Glory be to %s peaceful rest,
+We lovingly follow garden fair,
+With sinner's redemption in our hearts,
+And in your loving care.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lovingly follow and dance, friends,
+With sinner's redemption filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s peaceful rest,
+We gladly praise throne of grace,
+With chain unbound in our hearts,
+And until we meet again.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gladly praise and pray, friends,
+With chain unbound filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s grace divine,
+We faithfully serve shore so near,
+With sinner's redemption in our hearts,
+And through endless days.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So faithfully serve and play, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Jesus name,
+We lovingly follow throne of grace,
+With pain turned to joy in our hearts,
+And at the gates of gold.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lovingly follow and sing, friends,
+With pain turned to joy filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Jesus name,
+We lovingly follow shelter sweet,
+With death transformed to life in our hearts,
+And in your loving care.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lovingly follow and sing, friends,
+With death transformed to life filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s faithful guide,
+We faithfully serve garden fair,
+With chain unbound in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So faithfully serve and dance, friends,
+With chain unbound filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Lord above,
+We softly sing temple pure,
+With chain unbound in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and pray, friends,
+With chain unbound filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Jesus name,
+We steadfast believe mountain high,
+With pain turned to joy in our hearts,
+And in paradise restored.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So steadfast believe and pray, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s peaceful rest,
+We faithfully serve temple pure,
+With death transformed to life in our hearts,
+And for all eternity.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So faithfully serve and dance, friends,
+With death transformed to life filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s grace divine,
+We merciful trust garden fair,
+With darkness turned to light in our hearts,
+And in paradise restored.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So merciful trust and sing, friends,
+With darkness turned to light filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s King of kings,
+We joyfully worship temple pure,
+With fear replaced with love in our hearts,
+And for all eternity.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So joyfully worship and play, friends,
+With fear replaced with love filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s King of kings,
+We gladly praise river deep,
+With fear replaced with love in our hearts,
+And in your loving care.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gladly praise and pray, friends,
+With fear replaced with love filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Jesus name,
+We joyfully worship shelter sweet,
+With darkness turned to light in our hearts,
+And for all eternity.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So joyfully worship and play, friends,
+With darkness turned to light filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Jesus name,
+We softly sing shore so near,
+With death transformed to life in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly sing and sing, friends,
+With death transformed to life filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s Savior dear,
+We steadfast believe throne of grace,
+With pain turned to joy in our hearts,
+And in your loving care.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So steadfast believe and play, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s grace divine,
+We joyfully worship temple pure,
+With burden lifted in our hearts,
+And at the gates of gold.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So joyfully worship and pray, friends,
+With burden lifted filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s light eternal,
+We faithfully serve shore so near,
+With chain unbound in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So faithfully serve and pray, friends,
+With chain unbound filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s King of kings,
+We steadfast believe throne of grace,
+With darkness turned to light in our hearts,
+And in paradise restored.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So steadfast believe and play, friends,
+With darkness turned to light filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s light eternal,
+We humbly pray shore so near,
+With darkness turned to light in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So humbly pray and play, friends,
+With darkness turned to light filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s Savior dear,
+We steadfast believe throne of grace,
+With sinner's redemption in our hearts,
+And until we meet again.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So steadfast believe and dance, friends,
+With sinner's redemption filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s faithful guide,
+We softly sing shore so near,
+With pain turned to joy in our hearts,
+And in your loving care.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and sing, friends,
+With pain turned to joy filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s King of kings,
+We softly sing home above,
+With death transformed to life in our hearts,
+And in your loving care.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly sing and play, friends,
+With death transformed to life filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Savior dear,
+We humbly pray home above,
+With fear replaced with love in our hearts,
+And where the saints rejoice.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So humbly pray and sing, friends,
+With fear replaced with love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s peaceful rest,
+We merciful trust home above,
+With chain unbound in our hearts,
+And forever more.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So merciful trust and play, friends,
+With chain unbound filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s faithful guide,
+We joyfully worship home above,
+With pain turned to joy in our hearts,
+And until we meet again.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So joyfully worship and sing, friends,
+With pain turned to joy filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s Lord above,
+We softly sing garden fair,
+With sinner's redemption in our hearts,
+And in paradise restored.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly sing and play, friends,
+With sinner's redemption filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s King of kings,
+We lovingly follow shelter sweet,
+With chain unbound in our hearts,
+And for all eternity.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lovingly follow and sing, friends,
+With chain unbound filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Come unto %s Savior dear,
+We humbly pray river deep,
+With burden lifted in our hearts,
+And through endless days.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So humbly pray and dance, friends,
+With burden lifted filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Jesus name,
+We joyfully worship throne of grace,
+With pain turned to joy in our hearts,
+And where the saints rejoice.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So joyfully worship and pray, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Holy %s peaceful rest,
+We gladly praise throne of grace,
+With fear replaced with love in our hearts,
+And in your loving care.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gladly praise and dance, friends,
+With fear replaced with love filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We faithfully serve shelter sweet,
+With fear replaced with love in our hearts,
+And in your loving care.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So faithfully serve and dance, friends,
+With fear replaced with love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Blessed %s Lord above,
+We joyfully worship home above,
+With pain turned to joy in our hearts,
+And in your loving care.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So joyfully worship and pray, friends,
+With pain turned to joy filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s Savior dear,
+We faithfully serve river deep,
+With burden lifted in our hearts,
+And until we meet again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So faithfully serve and play, friends,
+With burden lifted filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel hymn 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Gospel hymns', 'lyrics' => "Praise the %s faithful guide,
+We joyfully worship garden fair,
+With burden lifted in our hearts,
+And for all eternity.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So joyfully worship and play, friends,
+With burden lifted filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'The Mainsail Clear Sea shanties', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the anchor chain,
+We face the storm captain's deck,
+With true love waiting in our hearts,
+And till day is done.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So face the storm and pray, friends,
+With true love waiting filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the mainsail clear,
+We yo ho northern sea,
+With gold to earn in our hearts,
+And before the dawn.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So yo ho and play, friends,
+With gold to earn filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s to the winch,
+We haul away old ship,
+With true love waiting in our hearts,
+And at journey's end.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So haul away and dance, friends,
+With true love waiting filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the deck below,
+We face the storm northern sea,
+With death below in our hearts,
+And until we meet.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So face the storm and dance, friends,
+With death below filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the rigging high,
+We sail the sea ocean deep,
+With death below in our hearts,
+And until we meet.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and sing, friends,
+With death below filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the bowline tight,
+We find the shore homeward bound,
+With death below in our hearts,
+And till day is done.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So find the shore and sing, friends,
+With death below filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the mainsail clear,
+We haul away distant shore,
+With true love waiting in our hearts,
+And when land is seen.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So haul away and pray, friends,
+With true love waiting filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the anchor chain,
+We find the shore northern sea,
+With crew so bold in our hearts,
+And through storm and gale.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and pray, friends,
+With crew so bold filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We catch the wind foreign port,
+With promise made in our hearts,
+And through storm and gale.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So catch the wind and play, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the running line,
+We find the shore distant shore,
+With voyage long in our hearts,
+And till day is done.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and play, friends,
+With voyage long filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the anchor chain,
+We face the storm ocean deep,
+With death below in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So face the storm and play, friends,
+With death below filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the mainbrace,
+We heave ho distant shore,
+With death below in our hearts,
+And as sailors do.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So heave ho and dance, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the running line,
+We yo ho foreign port,
+With home to return in our hearts,
+And before the dawn.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So yo ho and pray, friends,
+With home to return filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the rigging high,
+We catch the wind ocean deep,
+With death below in our hearts,
+And as sailors do.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So catch the wind and sing, friends,
+With death below filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s to the winch,
+We haul away old ship,
+With home to return in our hearts,
+And at journey's end.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So haul away and dance, friends,
+With home to return filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the bowline tight,
+We face the storm northern sea,
+With promise made in our hearts,
+And until we meet.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So face the storm and pray, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s to the winch,
+We find the shore homeward bound,
+With home to return in our hearts,
+And through storm and gale.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So find the shore and dance, friends,
+With home to return filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the mainbrace,
+We face the storm captain's deck,
+With voyage long in our hearts,
+And when land is seen.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So face the storm and dance, friends,
+With voyage long filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the anchor chain,
+We yo ho ocean deep,
+With crew so bold in our hearts,
+And until we meet.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With crew so bold filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the deck below,
+We roll and sway foreign port,
+With promise made in our hearts,
+And through storm and gale.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So roll and sway and sing, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the mainsail clear,
+We yo ho captain's deck,
+With promise made in our hearts,
+And till day is done.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So yo ho and pray, friends,
+With promise made filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the running line,
+We find the shore homeward bound,
+With promise made in our hearts,
+And till day is done.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and pray, friends,
+With promise made filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s to the winch,
+We find the shore distant shore,
+With promise made in our hearts,
+And when land is seen.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and dance, friends,
+With promise made filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the mainsail clear,
+We sail the sea distant shore,
+With promise made in our hearts,
+And until we meet.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sail the sea and pray, friends,
+With promise made filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s to the winch,
+We heave ho distant shore,
+With crew so bold in our hearts,
+And at journey's end.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So heave ho and pray, friends,
+With crew so bold filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the running line,
+We yo ho old ship,
+With death below in our hearts,
+And until we meet.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So yo ho and pray, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s to the winch,
+We find the shore captain's deck,
+With promise made in our hearts,
+And until we meet.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and pray, friends,
+With promise made filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the deck below,
+We roll and sway captain's deck,
+With promise made in our hearts,
+And until we meet.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So roll and sway and pray, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the mainsail clear,
+We heave ho ocean deep,
+With voyage long in our hearts,
+And as sailors do.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So heave ho and play, friends,
+With voyage long filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the anchor chain,
+We find the shore tropical isle,
+With home to return in our hearts,
+And until we meet.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So find the shore and pray, friends,
+With home to return filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the deck below,
+We face the storm foreign port,
+With home to return in our hearts,
+And when land is seen.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So face the storm and sing, friends,
+With home to return filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the mainsail clear,
+We find the shore homeward bound,
+With promise made in our hearts,
+And till day is done.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So find the shore and dance, friends,
+With promise made filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the bowline tight,
+We face the storm captain's deck,
+With death below in our hearts,
+And through storm and gale.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So face the storm and pray, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s to the winch,
+We roll and sway northern sea,
+With promise made in our hearts,
+And as sailors do.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So roll and sway and play, friends,
+With promise made filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the mainbrace,
+We face the storm foreign port,
+With home to return in our hearts,
+And through storm and gale.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So face the storm and dance, friends,
+With home to return filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the deck below,
+We roll and sway distant shore,
+With home to return in our hearts,
+And until we meet.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So roll and sway and pray, friends,
+With home to return filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the mainsail clear,
+We face the storm captain's deck,
+With true love waiting in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So face the storm and dance, friends,
+With true love waiting filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the anchor chain,
+We sail the sea homeward bound,
+With gold to earn in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and dance, friends,
+With gold to earn filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s to the winch,
+We sail the sea old ship,
+With fortune to find in our hearts,
+And till day is done.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sail the sea and sing, friends,
+With fortune to find filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the anchor chain,
+We yo ho northern sea,
+With true love waiting in our hearts,
+And till day is done.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and pray, friends,
+With true love waiting filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the running line,
+We roll and sway tropical isle,
+With promise made in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So roll and sway and sing, friends,
+With promise made filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the mainbrace,
+We haul away ocean deep,
+With voyage long in our hearts,
+And as sailors do.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So haul away and sing, friends,
+With voyage long filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the bowline tight,
+We face the storm foreign port,
+With voyage long in our hearts,
+And when land is seen.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So face the storm and play, friends,
+With voyage long filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s to the winch,
+We yo ho northern sea,
+With crew so bold in our hearts,
+And as sailors do.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With crew so bold filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s to the winch,
+We roll and sway ocean deep,
+With promise made in our hearts,
+And till day is done.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So roll and sway and sing, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the running line,
+We find the shore northern sea,
+With death below in our hearts,
+And before the dawn.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So find the shore and play, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the bowline tight,
+We sail the sea foreign port,
+With true love waiting in our hearts,
+And when land is seen.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and play, friends,
+With true love waiting filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the mainsail clear,
+We haul away foreign port,
+With true love waiting in our hearts,
+And till day is done.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So haul away and pray, friends,
+With true love waiting filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the mainbrace,
+We yo ho captain's deck,
+With fortune to find in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and play, friends,
+With fortune to find filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the rigging high,
+We yo ho captain's deck,
+With true love waiting in our hearts,
+And at journey's end.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With true love waiting filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the rigging high,
+We haul away homeward bound,
+With home to return in our hearts,
+And before the dawn.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So haul away and play, friends,
+With home to return filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the rigging high,
+We sail the sea foreign port,
+With home to return in our hearts,
+And as sailors do.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and sing, friends,
+With home to return filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the rigging high,
+We roll and sway foreign port,
+With crew so bold in our hearts,
+And as sailors do.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So roll and sway and play, friends,
+With crew so bold filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the mainbrace,
+We heave ho distant shore,
+With home to return in our hearts,
+And as sailors do.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So heave ho and dance, friends,
+With home to return filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the mainsail clear,
+We face the storm distant shore,
+With voyage long in our hearts,
+And till day is done.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So face the storm and play, friends,
+With voyage long filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the rigging high,
+We find the shore homeward bound,
+With fortune to find in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and play, friends,
+With fortune to find filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the deck below,
+We find the shore tropical isle,
+With home to return in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So find the shore and pray, friends,
+With home to return filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the deck below,
+We find the shore tropical isle,
+With promise made in our hearts,
+And through storm and gale.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So find the shore and sing, friends,
+With promise made filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We yo ho tropical isle,
+With home to return in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So yo ho and dance, friends,
+With home to return filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the deck below,
+We sail the sea old ship,
+With fortune to find in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and sing, friends,
+With fortune to find filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the deck below,
+We yo ho foreign port,
+With promise made in our hearts,
+And until we meet.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So yo ho and play, friends,
+With promise made filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s to the winch,
+We yo ho old ship,
+With promise made in our hearts,
+And before the dawn.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With promise made filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We find the shore ocean deep,
+With death below in our hearts,
+And until we meet.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So find the shore and sing, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the mainbrace,
+We catch the wind old ship,
+With voyage long in our hearts,
+And before the dawn.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So catch the wind and play, friends,
+With voyage long filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the deck below,
+We yo ho distant shore,
+With true love waiting in our hearts,
+And at journey's end.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With true love waiting filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We haul away tropical isle,
+With death below in our hearts,
+And through storm and gale.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So haul away and dance, friends,
+With death below filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s to the winch,
+We heave ho captain's deck,
+With fortune to find in our hearts,
+And when land is seen.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So heave ho and dance, friends,
+With fortune to find filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the rigging high,
+We catch the wind old ship,
+With crew so bold in our hearts,
+And as sailors do.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So catch the wind and sing, friends,
+With crew so bold filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the deck below,
+We yo ho foreign port,
+With true love waiting in our hearts,
+And until we meet.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and sing, friends,
+With true love waiting filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the rigging high,
+We yo ho northern sea,
+With crew so bold in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So yo ho and play, friends,
+With crew so bold filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the mainsail clear,
+We roll and sway captain's deck,
+With crew so bold in our hearts,
+And through storm and gale.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So roll and sway and sing, friends,
+With crew so bold filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We roll and sway old ship,
+With crew so bold in our hearts,
+And through storm and gale.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So roll and sway and sing, friends,
+With crew so bold filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s the mainsail clear,
+We heave ho ocean deep,
+With crew so bold in our hearts,
+And at journey's end.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So heave ho and play, friends,
+With crew so bold filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the running line,
+We haul away captain's deck,
+With fortune to find in our hearts,
+And when land is seen.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So haul away and play, friends,
+With fortune to find filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Way %s to the winch,
+We haul away ocean deep,
+With true love waiting in our hearts,
+And at journey's end.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So haul away and dance, friends,
+With true love waiting filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Haul %s the anchor chain,
+We yo ho foreign port,
+With fortune to find in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So yo ho and pray, friends,
+With fortune to find filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the mainbrace,
+We sail the sea northern sea,
+With death below in our hearts,
+And before the dawn.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sail the sea and play, friends,
+With death below filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Heave %s the mainbrace,
+We face the storm tropical isle,
+With gold to earn in our hearts,
+And before the dawn.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So face the storm and dance, friends,
+With gold to earn filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Roll the %s the mainbrace,
+We catch the wind captain's deck,
+With death below in our hearts,
+And before the dawn.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So catch the wind and sing, friends,
+With death below filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sea shantie 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea shanties', 'lyrics' => "Splice the %s the bowline tight,
+We haul away distant shore,
+With fortune to find in our hearts,
+And until we meet.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So haul away and pray, friends,
+With fortune to find filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Little Miz Minstrel songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Little Miz,
+We in the sun cabin door,
+With corn shucking in our hearts,
+And come take a seat.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So in the sun and pray, friends,
+With corn shucking filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Mose,
+We by the gate dance hall,
+With corn shucking in our hearts,
+And when the moon shines bright.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With corn shucking filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Cousin Jake,
+We in the sun big house,
+With frolic time in our hearts,
+And join the circle now.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So in the sun and dance, friends,
+With frolic time filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s old Dan,
+We by the gate big house,
+With holiday feast in our hearts,
+And from dusk till dawn.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With holiday feast filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s gal named Sue,
+We for some fun dance hall,
+With corn shucking in our hearts,
+And when the moon shines bright.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for some fun and dance, friends,
+With corn shucking filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Little Miz,
+We down the road big house,
+With watermelon in our hearts,
+And from dusk till dawn.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So down the road and dance, friends,
+With watermelon filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Aunt Dinah,
+We in the sun garden patch,
+With sweet potato in our hearts,
+And come take a seat.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So in the sun and pray, friends,
+With sweet potato filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s gal named Sue,
+We for some fun cookhouse,
+With holiday feast in our hearts,
+And till the cows come home.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for some fun and play, friends,
+With holiday feast filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Sally,
+We for some fun cornfield,
+With holiday feast in our hearts,
+And in the cool evening.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for some fun and sing, friends,
+With holiday feast filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Sally,
+We in the sun cookhouse,
+With reaping time in our hearts,
+And everybody sing.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So in the sun and dance, friends,
+With reaping time filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Sally,
+We for a dance big house,
+With holiday feast in our hearts,
+And when the moon shines bright.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a dance and play, friends,
+With holiday feast filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s gal named Sue,
+We round the fire cornfield,
+With corn shucking in our hearts,
+And from dusk till dawn.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So round the fire and dance, friends,
+With corn shucking filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Mose,
+We for a dance cookhouse,
+With corn shucking in our hearts,
+And come take a seat.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a dance and dance, friends,
+With corn shucking filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Mose,
+We through the pine cabin door,
+With frolic time in our hearts,
+And till the cows come home.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So through the pine and play, friends,
+With frolic time filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s gal named Sue,
+We for a dance dance hall,
+With corn shucking in our hearts,
+And when the moon shines bright.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a dance and play, friends,
+With corn shucking filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Little Miz,
+We by the gate old plantation,
+With watermelon in our hearts,
+And till the cows come home.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So by the gate and sing, friends,
+With watermelon filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Mose,
+We round the fire dance hall,
+With sweet potato in our hearts,
+And from dusk till dawn.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With sweet potato filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Sally,
+We round the fire cookhouse,
+With holiday feast in our hearts,
+And till the cows come home.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So round the fire and pray, friends,
+With holiday feast filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s gal named Sue,
+We for a dance dance hall,
+With corn shucking in our hearts,
+And when the moon shines bright.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a dance and sing, friends,
+With corn shucking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Uncle Peter,
+We for a dance dance hall,
+With harvest joy in our hearts,
+And everybody sing.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a dance and dance, friends,
+With harvest joy filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Uncle Peter,
+We round the fire big house,
+With sweet potato in our hearts,
+And in the cool evening.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With sweet potato filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Cousin Jake,
+We for a dance dance hall,
+With watermelon in our hearts,
+And from dusk till dawn.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a dance and dance, friends,
+With watermelon filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Aunt Dinah,
+We to the creek cookhouse,
+With watermelon in our hearts,
+And come take a seat.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the creek and play, friends,
+With watermelon filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Aunt Dinah,
+We for a dance garden patch,
+With reaping time in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a dance and pray, friends,
+With reaping time filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Uncle Peter,
+We for a dance cookhouse,
+With corn shucking in our hearts,
+And in the cool evening.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and pray, friends,
+With corn shucking filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Sally,
+We for some fun cornfield,
+With harvest joy in our hearts,
+And in the cool evening.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for some fun and play, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Aunt Dinah,
+We through the pine cabin door,
+With reaping time in our hearts,
+And when the moon shines bright.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So through the pine and pray, friends,
+With reaping time filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s old Dan,
+We down the road river bank,
+With sweet potato in our hearts,
+And in the cool evening.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So down the road and pray, friends,
+With sweet potato filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Aunt Dinah,
+We for a dance cabin door,
+With watermelon in our hearts,
+And in the cool evening.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and pray, friends,
+With watermelon filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Aunt Dinah,
+We down the road cookhouse,
+With corn shucking in our hearts,
+And in the cool evening.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So down the road and play, friends,
+With corn shucking filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Uncle Peter,
+We for some fun dance hall,
+With frolic time in our hearts,
+And from dusk till dawn.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for some fun and pray, friends,
+With frolic time filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Aunt Dinah,
+We down the road garden patch,
+With frolic time in our hearts,
+And from dusk till dawn.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So down the road and sing, friends,
+With frolic time filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s old Dan,
+We for a dance river bank,
+With sweet potato in our hearts,
+And everybody sing.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and dance, friends,
+With sweet potato filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Cousin Jake,
+We down the road cabin door,
+With corn shucking in our hearts,
+And in the cool evening.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So down the road and play, friends,
+With corn shucking filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s gal named Sue,
+We for a dance river bank,
+With sweet potato in our hearts,
+And in the cool evening.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and play, friends,
+With sweet potato filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Cousin Jake,
+We round the fire cornfield,
+With sweet potato in our hearts,
+And in the cool evening.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So round the fire and sing, friends,
+With sweet potato filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Cousin Jake,
+We round the fire cookhouse,
+With corn shucking in our hearts,
+And for one and all.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With corn shucking filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s old Dan,
+We by the gate garden patch,
+With holiday feast in our hearts,
+And in the cool evening.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So by the gate and dance, friends,
+With holiday feast filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Aunt Dinah,
+We for some fun cabin door,
+With frolic time in our hearts,
+And from dusk till dawn.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for some fun and play, friends,
+With frolic time filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Uncle Peter,
+We down the road river bank,
+With reaping time in our hearts,
+And join the circle now.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So down the road and pray, friends,
+With reaping time filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s old Dan,
+We round the fire big house,
+With holiday feast in our hearts,
+And for one and all.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With holiday feast filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Little Miz,
+We down the road big house,
+With watermelon in our hearts,
+And when the moon shines bright.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So down the road and play, friends,
+With watermelon filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Aunt Dinah,
+We for a dance garden patch,
+With jubilee day in our hearts,
+And when the moon shines bright.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and dance, friends,
+With jubilee day filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Sally,
+We round the fire cornfield,
+With reaping time in our hearts,
+And when the moon shines bright.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So round the fire and sing, friends,
+With reaping time filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Little Miz,
+We for a dance big house,
+With corn shucking in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a dance and pray, friends,
+With corn shucking filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s gal named Sue,
+We by the gate cookhouse,
+With reaping time in our hearts,
+And everybody sing.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So by the gate and dance, friends,
+With reaping time filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s old Dan,
+We to the creek cookhouse,
+With reaping time in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the creek and play, friends,
+With reaping time filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s old Dan,
+We round the fire garden patch,
+With holiday feast in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With holiday feast filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Cousin Jake,
+We by the gate river bank,
+With watermelon in our hearts,
+And join the circle now.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With watermelon filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Mose,
+We round the fire river bank,
+With reaping time in our hearts,
+And from dusk till dawn.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With reaping time filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Cousin Jake,
+We round the fire river bank,
+With frolic time in our hearts,
+And everybody sing.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So round the fire and sing, friends,
+With frolic time filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Cousin Jake,
+We in the sun big house,
+With harvest joy in our hearts,
+And everybody sing.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So in the sun and sing, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Uncle Peter,
+We for some fun cornfield,
+With reaping time in our hearts,
+And come take a seat.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for some fun and play, friends,
+With reaping time filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Mose,
+We down the road garden patch,
+With sweet potato in our hearts,
+And till the cows come home.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So down the road and dance, friends,
+With sweet potato filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Aunt Dinah,
+We to the creek cabin door,
+With harvest joy in our hearts,
+And when the moon shines bright.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the creek and pray, friends,
+With harvest joy filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Little Miz,
+We by the gate cornfield,
+With holiday feast in our hearts,
+And till the cows come home.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With holiday feast filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Sally,
+We round the fire river bank,
+With jubilee day in our hearts,
+And when the moon shines bright.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So round the fire and play, friends,
+With jubilee day filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s old Dan,
+We down the road garden patch,
+With watermelon in our hearts,
+And from dusk till dawn.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So down the road and sing, friends,
+With watermelon filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s old Dan,
+We by the gate big house,
+With jubilee day in our hearts,
+And when the moon shines bright.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With jubilee day filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Mose,
+We for some fun river bank,
+With holiday feast in our hearts,
+And come take a seat.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for some fun and dance, friends,
+With holiday feast filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Cousin Jake,
+We for a dance old plantation,
+With sweet potato in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a dance and sing, friends,
+With sweet potato filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s gal named Sue,
+We in the sun cookhouse,
+With holiday feast in our hearts,
+And join the circle now.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So in the sun and dance, friends,
+With holiday feast filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Uncle Peter,
+We in the sun big house,
+With watermelon in our hearts,
+And in the cool evening.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So in the sun and dance, friends,
+With watermelon filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Cousin Jake,
+We by the gate river bank,
+With corn shucking in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So by the gate and dance, friends,
+With corn shucking filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Little Miz,
+We to the creek river bank,
+With corn shucking in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So to the creek and dance, friends,
+With corn shucking filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Mose,
+We down the road river bank,
+With frolic time in our hearts,
+And everybody sing.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So down the road and dance, friends,
+With frolic time filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Mose,
+We by the gate river bank,
+With reaping time in our hearts,
+And join the circle now.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So by the gate and pray, friends,
+With reaping time filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Aunt Dinah,
+We for a dance dance hall,
+With reaping time in our hearts,
+And from dusk till dawn.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and pray, friends,
+With reaping time filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Mose,
+We round the fire cookhouse,
+With harvest joy in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So round the fire and sing, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s Mose,
+We to the creek cabin door,
+With frolic time in our hearts,
+And join the circle now.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So to the creek and play, friends,
+With frolic time filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Ole %s gal named Sue,
+We to the creek cabin door,
+With reaping time in our hearts,
+And in the cool evening.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the creek and dance, friends,
+With reaping time filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Mose,
+We down the road cabin door,
+With harvest joy in our hearts,
+And when the moon shines bright.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So down the road and sing, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s Little Miz,
+We to the creek cabin door,
+With reaping time in our hearts,
+And everybody sing.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the creek and play, friends,
+With reaping time filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Git %s Uncle Peter,
+We for a dance cabin door,
+With holiday feast in our hearts,
+And join the circle now.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a dance and sing, friends,
+With holiday feast filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Cousin Jake,
+We round the fire cornfield,
+With corn shucking in our hearts,
+And in the cool evening.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So round the fire and pray, friends,
+With corn shucking filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s gal named Sue,
+We in the sun big house,
+With harvest joy in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So in the sun and play, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Come %s old Dan,
+We for some fun old plantation,
+With reaping time in our hearts,
+And everybody sing.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for some fun and dance, friends,
+With reaping time filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Mose,
+We down the road cabin door,
+With holiday feast in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So down the road and play, friends,
+With holiday feast filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Massa %s Uncle Peter,
+We in the sun dance hall,
+With frolic time in our hearts,
+And till the cows come home.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So in the sun and sing, friends,
+With frolic time filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Minstrel song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Minstrel songs', 'lyrics' => "Missis %s Little Miz,
+We through the pine cornfield,
+With harvest joy in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So through the pine and sing, friends,
+With harvest joy filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Chicago Rag Ragtime pieces', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s jazzy melody,
+We play it hot bucket of blood,
+With glitter and glam in our hearts,
+And to the break of day.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So play it hot and pray, friends,
+With glitter and glam filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s memphis roll,
+We stamp your foot lovers lane,
+With glitter and glam in our hearts,
+And in all their glory.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stamp your foot and sing, friends,
+With glitter and glam filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s chicago rag,
+We tickle the ivories lovers lane,
+With ankles cracking in our hearts,
+And when the band quits playing.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and dance, friends,
+With ankles cracking filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s cotton field rag,
+We stamp your foot piano bench,
+With ankles cracking in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So stamp your foot and play, friends,
+With ankles cracking filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s time piano,
+We play it hot lovers lane,
+With band playing hot in our hearts,
+And in all their glory.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So play it hot and sing, friends,
+With band playing hot filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s harlem dance,
+We keep time tight piano bench,
+With ankles cracking in our hearts,
+And when the band quits playing.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep time tight and sing, friends,
+With ankles cracking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s time piano,
+We swing the beat red beans bar,
+With band playing hot in our hearts,
+And for ragtime lovers.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swing the beat and play, friends,
+With band playing hot filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s cotton field rag,
+We cut a step jazz club,
+With ankles cracking in our hearts,
+And till the morning sun.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and play, friends,
+With ankles cracking filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s time piano,
+We cut a step dance hall,
+With partners shaking in our hearts,
+And forever young.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and dance, friends,
+With partners shaking filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s jazzy melody,
+We tickle the ivories red beans bar,
+With partners shaking in our hearts,
+And like a steamboat honk.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and pray, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s syncopated beat,
+We turn it out piano bench,
+With sweet southern charm in our hearts,
+And right to the end.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn it out and pray, friends,
+With sweet southern charm filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s harlem dance,
+We cut a step dance hall,
+With crowd going wild in our hearts,
+And for ragtime lovers.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So cut a step and pray, friends,
+With crowd going wild filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s chicago rag,
+We tickle the ivories red beans bar,
+With glitter and glam in our hearts,
+And when the band quits playing.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and sing, friends,
+With glitter and glam filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s chicago rag,
+We make it hot lovers lane,
+With ankles cracking in our hearts,
+And forever young.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So make it hot and play, friends,
+With ankles cracking filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s time piano,
+We cut a step piano bench,
+With sweet southern charm in our hearts,
+And right to the end.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So cut a step and play, friends,
+With sweet southern charm filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s memphis roll,
+We stamp your foot main street,
+With band playing hot in our hearts,
+And when the band quits playing.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stamp your foot and play, friends,
+With band playing hot filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s harlem dance,
+We tickle the ivories jazz club,
+With sweet southern charm in our hearts,
+And right to the end.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and dance, friends,
+With sweet southern charm filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s time piano,
+We stamp your foot red beans bar,
+With partners shaking in our hearts,
+And forever young.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stamp your foot and play, friends,
+With partners shaking filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s time piano,
+We tickle the ivories parlor room,
+With ankles cracking in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and sing, friends,
+With ankles cracking filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s river boat strut,
+We play it hot piano bench,
+With band playing hot in our hearts,
+And when the band quits playing.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So play it hot and pray, friends,
+With band playing hot filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s harlem dance,
+We tickle the ivories red beans bar,
+With fever rising in our hearts,
+And to the break of day.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and play, friends,
+With fever rising filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s syncopated beat,
+We swing the beat parlor room,
+With ankles cracking in our hearts,
+And to the break of day.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swing the beat and play, friends,
+With ankles cracking filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s memphis roll,
+We keep time tight piano bench,
+With ankles cracking in our hearts,
+And to the break of day.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep time tight and pray, friends,
+With ankles cracking filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s river boat strut,
+We cut a step piano bench,
+With ankles cracking in our hearts,
+And right to the end.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So cut a step and pray, friends,
+With ankles cracking filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s jazzy melody,
+We cut a step bucket of blood,
+With fever rising in our hearts,
+And in all their glory.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So cut a step and sing, friends,
+With fever rising filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s cotton field rag,
+We swing the beat jazz club,
+With sweet southern charm in our hearts,
+And for ragtime lovers.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swing the beat and sing, friends,
+With sweet southern charm filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s memphis roll,
+We turn it out piano bench,
+With bones breaking in our hearts,
+And forever young.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn it out and sing, friends,
+With bones breaking filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s syncopated beat,
+We tickle the ivories dance hall,
+With band playing hot in our hearts,
+And for ragtime lovers.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and dance, friends,
+With band playing hot filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s time piano,
+We make it hot lovers lane,
+With fever rising in our hearts,
+And in all their glory.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So make it hot and sing, friends,
+With fever rising filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s jazzy melody,
+We cut a step jazz club,
+With ankles cracking in our hearts,
+And in all their glory.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and play, friends,
+With ankles cracking filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s chicago rag,
+We cut a step red beans bar,
+With partners shaking in our hearts,
+And in all their glory.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and play, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s time piano,
+We play it hot dance hall,
+With band playing hot in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So play it hot and sing, friends,
+With band playing hot filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s syncopated beat,
+We tickle the ivories bucket of blood,
+With sweet southern charm in our hearts,
+And like a steamboat honk.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and sing, friends,
+With sweet southern charm filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s cotton field rag,
+We keep time tight piano bench,
+With bones breaking in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So keep time tight and sing, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s river boat strut,
+We tickle the ivories piano bench,
+With crowd going wild in our hearts,
+And when the band quits playing.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and dance, friends,
+With crowd going wild filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s time piano,
+We make it hot red beans bar,
+With bones breaking in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So make it hot and play, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s jazzy melody,
+We play it hot piano bench,
+With crowd going wild in our hearts,
+And to the break of day.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So play it hot and pray, friends,
+With crowd going wild filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s river boat strut,
+We make it hot red beans bar,
+With sweet southern charm in our hearts,
+And right to the end.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So make it hot and dance, friends,
+With sweet southern charm filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s memphis roll,
+We stamp your foot parlor room,
+With bones breaking in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So stamp your foot and pray, friends,
+With bones breaking filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s river boat strut,
+We stamp your foot red beans bar,
+With ankles cracking in our hearts,
+And when the band quits playing.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So stamp your foot and play, friends,
+With ankles cracking filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s memphis roll,
+We swing the beat main street,
+With ankles cracking in our hearts,
+And right to the end.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swing the beat and play, friends,
+With ankles cracking filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s memphis roll,
+We keep time tight dance hall,
+With crowd going wild in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So keep time tight and play, friends,
+With crowd going wild filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s time piano,
+We make it hot main street,
+With bones breaking in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So make it hot and dance, friends,
+With bones breaking filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s chicago rag,
+We play it hot jazz club,
+With band playing hot in our hearts,
+And like a steamboat honk.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So play it hot and play, friends,
+With band playing hot filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s river boat strut,
+We swing the beat lovers lane,
+With bones breaking in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swing the beat and play, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s memphis roll,
+We keep time tight parlor room,
+With ankles cracking in our hearts,
+And like a steamboat honk.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So keep time tight and dance, friends,
+With ankles cracking filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s time piano,
+We make it hot parlor room,
+With partners shaking in our hearts,
+And like a steamboat honk.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So make it hot and play, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s river boat strut,
+We swing the beat red beans bar,
+With fever rising in our hearts,
+And right to the end.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swing the beat and dance, friends,
+With fever rising filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s jazzy melody,
+We swing the beat red beans bar,
+With partners shaking in our hearts,
+And for ragtime lovers.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swing the beat and dance, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s harlem dance,
+We keep time tight jazz club,
+With partners shaking in our hearts,
+And like a steamboat honk.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So keep time tight and play, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s syncopated beat,
+We keep time tight piano bench,
+With partners shaking in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep time tight and sing, friends,
+With partners shaking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s chicago rag,
+We tickle the ivories red beans bar,
+With partners shaking in our hearts,
+And for ragtime lovers.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and play, friends,
+With partners shaking filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s river boat strut,
+We make it hot dance hall,
+With bones breaking in our hearts,
+And when the band quits playing.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So make it hot and play, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s syncopated beat,
+We tickle the ivories lovers lane,
+With ankles cracking in our hearts,
+And right to the end.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and play, friends,
+With ankles cracking filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s harlem dance,
+We play it hot bucket of blood,
+With crowd going wild in our hearts,
+And forever young.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So play it hot and dance, friends,
+With crowd going wild filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s river boat strut,
+We turn it out lovers lane,
+With glitter and glam in our hearts,
+And in all their glory.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn it out and pray, friends,
+With glitter and glam filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s jazzy melody,
+We turn it out main street,
+With glitter and glam in our hearts,
+And like a steamboat honk.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn it out and dance, friends,
+With glitter and glam filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s syncopated beat,
+We keep time tight jazz club,
+With crowd going wild in our hearts,
+And when the band quits playing.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep time tight and pray, friends,
+With crowd going wild filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s river boat strut,
+We turn it out parlor room,
+With band playing hot in our hearts,
+And right to the end.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn it out and sing, friends,
+With band playing hot filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s chicago rag,
+We turn it out jazz club,
+With band playing hot in our hearts,
+And right to the end.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn it out and pray, friends,
+With band playing hot filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s memphis roll,
+We keep time tight lovers lane,
+With ankles cracking in our hearts,
+And in all their glory.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So keep time tight and pray, friends,
+With ankles cracking filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s syncopated beat,
+We tickle the ivories lovers lane,
+With bones breaking in our hearts,
+And right to the end.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and sing, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s cotton field rag,
+We swing the beat red beans bar,
+With glitter and glam in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the beat and pray, friends,
+With glitter and glam filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s time piano,
+We stamp your foot parlor room,
+With bones breaking in our hearts,
+And in all their glory.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So stamp your foot and dance, friends,
+With bones breaking filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s time piano,
+We swing the beat piano bench,
+With partners shaking in our hearts,
+And forever young.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the beat and pray, friends,
+With partners shaking filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s chicago rag,
+We make it hot parlor room,
+With bones breaking in our hearts,
+And to the break of day.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So make it hot and dance, friends,
+With bones breaking filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Dance %s time piano,
+We turn it out dance hall,
+With sweet southern charm in our hearts,
+And to the break of day.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn it out and play, friends,
+With sweet southern charm filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s chicago rag,
+We turn it out bucket of blood,
+With bones breaking in our hearts,
+And when the band quits playing.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So turn it out and play, friends,
+With bones breaking filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s cotton field rag,
+We stamp your foot bucket of blood,
+With band playing hot in our hearts,
+And forever young.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So stamp your foot and dance, friends,
+With band playing hot filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Strut %s memphis roll,
+We cut a step dance hall,
+With fever rising in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and pray, friends,
+With fever rising filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s river boat strut,
+We tickle the ivories red beans bar,
+With partners shaking in our hearts,
+And right to the end.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and dance, friends,
+With partners shaking filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s jazzy melody,
+We swing the beat bucket of blood,
+With band playing hot in our hearts,
+And right to the end.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swing the beat and sing, friends,
+With band playing hot filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Play %s time piano,
+We cut a step bucket of blood,
+With glitter and glam in our hearts,
+And for ragtime lovers.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So cut a step and pray, friends,
+With glitter and glam filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s jazzy melody,
+We keep time tight parlor room,
+With crowd going wild in our hearts,
+And like a steamboat honk.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep time tight and play, friends,
+With crowd going wild filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s syncopated beat,
+We tickle the ivories dance hall,
+With sweet southern charm in our hearts,
+And forever young.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and sing, friends,
+With sweet southern charm filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s cotton field rag,
+We play it hot main street,
+With band playing hot in our hearts,
+And like a steamboat honk.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So play it hot and play, friends,
+With band playing hot filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s river boat strut,
+We tickle the ivories piano bench,
+With ankles cracking in our hearts,
+And in all their glory.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So tickle the ivories and pray, friends,
+With ankles cracking filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s syncopated beat,
+We cut a step jazz club,
+With bones breaking in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut a step and sing, friends,
+With bones breaking filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Roll %s time piano,
+We play it hot parlor room,
+With sweet southern charm in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So play it hot and pray, friends,
+With sweet southern charm filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ragtime piece 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Ragtime pieces', 'lyrics' => "Rag %s syncopated beat,
+We swing the beat bucket of blood,
+With bones breaking in our hearts,
+And like a steamboat honk.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swing the beat and pray, friends,
+With bones breaking filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Trouble On My Mind Early blues', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s burden on my back,
+We lordy lordy graveyard,
+With hard times come in our hearts,
+And I'm going to rest.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and play, friends,
+With hard times come filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s world gone wrong,
+We calling graveyard,
+With good-for-nothing in our hearts,
+And what can I do.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So calling and sing, friends,
+With good-for-nothing filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s sorrow deep,
+We calling jail cell,
+With nowhere to go in our hearts,
+And the way I feel.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So calling and play, friends,
+With nowhere to go filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s trouble on my mind,
+We waiting crossroads,
+With wasted years in our hearts,
+And what can I do.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and sing, friends,
+With wasted years filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s sorrow deep,
+We waiting dirty 4th street,
+With wasted years in our hearts,
+And now I'm satisfied.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s burden on my back,
+We crying bleak new year,
+With sweet release in our hearts,
+And in my grave.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and pray, friends,
+With sweet release filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s left me last night,
+We rolling jail cell,
+With hard times come in our hearts,
+And now I'm satisfied.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rolling and play, friends,
+With hard times come filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We rolling corner door,
+With loved one gone in our hearts,
+And just before I die.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rolling and dance, friends,
+With loved one gone filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s sorrow deep,
+We sing the blues crossroads,
+With lonesome heart in our hearts,
+And I'm going to rest.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sing the blues and sing, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s left me last night,
+We searching crossroads,
+With good-for-nothing in our hearts,
+And the way I feel.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So searching and play, friends,
+With good-for-nothing filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s pain in my heart,
+We rolling bleak new year,
+With wasted years in our hearts,
+And the way I feel.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rolling and play, friends,
+With wasted years filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s this morning,
+We waiting river bend,
+With poor condition in our hearts,
+And now I'm satisfied.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With poor condition filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s left me last night,
+We lordy lordy station house,
+With hard times come in our hearts,
+And the way I feel.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lordy lordy and play, friends,
+With hard times come filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s trouble on my mind,
+We waiting station house,
+With lonesome heart in our hearts,
+And now I'm satisfied.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and dance, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We searching river bend,
+With nowhere to go in our hearts,
+And the way I feel.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So searching and dance, friends,
+With nowhere to go filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s trouble on my mind,
+We lordy lordy bleak new year,
+With poor condition in our hearts,
+And and that's the truth.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lordy lordy and pray, friends,
+With poor condition filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s this morning,
+We searching crossroads,
+With lonesome heart in our hearts,
+And what can I do.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So searching and play, friends,
+With lonesome heart filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s burden on my back,
+We calling jail cell,
+With poor condition in our hearts,
+And and that's the truth.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So calling and dance, friends,
+With poor condition filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s world gone wrong,
+We lordy lordy jail cell,
+With lonesome heart in our hearts,
+And the way I feel.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and sing, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s burden on my back,
+We walking bleak new year,
+With hard times come in our hearts,
+And in my grave.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So walking and pray, friends,
+With hard times come filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s pain in my heart,
+We waiting crossroads,
+With good-for-nothing in our hearts,
+And the way I feel.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So waiting and sing, friends,
+With good-for-nothing filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s this morning,
+We walking dirty 4th street,
+With poor condition in our hearts,
+And and that's a fact.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So walking and dance, friends,
+With poor condition filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s sorrow deep,
+We rolling station house,
+With sweet release in our hearts,
+And and that's the truth.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rolling and dance, friends,
+With sweet release filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We crying bleak new year,
+With good-for-nothing in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and play, friends,
+With good-for-nothing filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s burden on my back,
+We waiting station house,
+With lonesome heart in our hearts,
+And the way I feel.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So waiting and dance, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s this morning,
+We sing the blues bleak new year,
+With wasted years in our hearts,
+And now I'm satisfied.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sing the blues and sing, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s pain in my heart,
+We rolling bleak new year,
+With loved one gone in our hearts,
+And I'm going to rest.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rolling and play, friends,
+With loved one gone filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We lordy lordy graveyard,
+With loved one gone in our hearts,
+And the way I feel.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lordy lordy and sing, friends,
+With loved one gone filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s left me last night,
+We rolling graveyard,
+With sweet release in our hearts,
+And I'm going to rest.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rolling and dance, friends,
+With sweet release filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s trouble on my mind,
+We walking bleak new year,
+With nowhere to go in our hearts,
+And just before I die.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So walking and pray, friends,
+With nowhere to go filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s left me last night,
+We walking dirty 4th street,
+With wasted years in our hearts,
+And I'm going to rest.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So walking and play, friends,
+With wasted years filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We searching graveyard,
+With wasted years in our hearts,
+And the way I feel.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So searching and play, friends,
+With wasted years filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s sorrow deep,
+We waiting bleak new year,
+With wasted years in our hearts,
+And and that's the truth.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With wasted years filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We sing the blues graveyard,
+With wasted years in our hearts,
+And in my grave.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sing the blues and dance, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s burden on my back,
+We lordy lordy jail cell,
+With poor condition in our hearts,
+And now I'm satisfied.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and sing, friends,
+With poor condition filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We waiting jail cell,
+With good-for-nothing in our hearts,
+And now I'm satisfied.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With good-for-nothing filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We rolling graveyard,
+With hard times come in our hearts,
+And the way I feel.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So rolling and pray, friends,
+With hard times come filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s left me last night,
+We lordy lordy station house,
+With loved one gone in our hearts,
+And the way I feel.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and play, friends,
+With loved one gone filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s burden on my back,
+We lordy lordy crossroads,
+With good-for-nothing in our hearts,
+And now I'm satisfied.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lordy lordy and dance, friends,
+With good-for-nothing filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s good ol' blues,
+We crying station house,
+With loved one gone in our hearts,
+And just before I die.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So crying and sing, friends,
+With loved one gone filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s trouble on my mind,
+We waiting dirty 4th street,
+With loved one gone in our hearts,
+And now I'm satisfied.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With loved one gone filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We lordy lordy crossroads,
+With good-for-nothing in our hearts,
+And just before I die.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lordy lordy and sing, friends,
+With good-for-nothing filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s sorrow deep,
+We crying station house,
+With lonesome heart in our hearts,
+And and that's the truth.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and dance, friends,
+With lonesome heart filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s this morning,
+We lordy lordy dirty 4th street,
+With wasted years in our hearts,
+And just before I die.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lordy lordy and sing, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s burden on my back,
+We searching bleak new year,
+With hard times come in our hearts,
+And and that's the truth.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So searching and dance, friends,
+With hard times come filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s sorrow deep,
+We crying bleak new year,
+With hard times come in our hearts,
+And now I'm satisfied.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So crying and dance, friends,
+With hard times come filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s world gone wrong,
+We calling corner door,
+With sweet release in our hearts,
+And the way I feel.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So calling and sing, friends,
+With sweet release filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s left me last night,
+We waiting river bend,
+With lonesome heart in our hearts,
+And what can I do.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and pray, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s sorrow deep,
+We calling crossroads,
+With loved one gone in our hearts,
+And what can I do.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So calling and dance, friends,
+With loved one gone filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s this morning,
+We waiting crossroads,
+With wasted years in our hearts,
+And now I'm satisfied.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and pray, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s world gone wrong,
+We crying station house,
+With good-for-nothing in our hearts,
+And and that's a fact.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So crying and pray, friends,
+With good-for-nothing filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s trouble on my mind,
+We calling river bend,
+With wasted years in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So calling and sing, friends,
+With wasted years filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s pain in my heart,
+We lordy lordy graveyard,
+With lonesome heart in our hearts,
+And just before I die.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and pray, friends,
+With lonesome heart filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s good ol' blues,
+We crying dirty 4th street,
+With wasted years in our hearts,
+And in my grave.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and dance, friends,
+With wasted years filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s good ol' blues,
+We searching jail cell,
+With loved one gone in our hearts,
+And I'm going to rest.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So searching and dance, friends,
+With loved one gone filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s good ol' blues,
+We lordy lordy bleak new year,
+With poor condition in our hearts,
+And I'm going to rest.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and dance, friends,
+With poor condition filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s burden on my back,
+We calling bleak new year,
+With hard times come in our hearts,
+And the way I feel.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So calling and play, friends,
+With hard times come filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s world gone wrong,
+We searching bleak new year,
+With wasted years in our hearts,
+And I'm going to rest.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So searching and dance, friends,
+With wasted years filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s world gone wrong,
+We crying graveyard,
+With loved one gone in our hearts,
+And and that's a fact.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So crying and play, friends,
+With loved one gone filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s burden on my back,
+We walking graveyard,
+With good-for-nothing in our hearts,
+And and that's a fact.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So walking and dance, friends,
+With good-for-nothing filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s left me last night,
+We rolling dirty 4th street,
+With nowhere to go in our hearts,
+And in my grave.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rolling and pray, friends,
+With nowhere to go filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s left me last night,
+We calling station house,
+With wasted years in our hearts,
+And I'm going to rest.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So calling and play, friends,
+With wasted years filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s pain in my heart,
+We crying crossroads,
+With loved one gone in our hearts,
+And in my grave.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So crying and sing, friends,
+With loved one gone filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s world gone wrong,
+We crying graveyard,
+With good-for-nothing in our hearts,
+And what can I do.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So crying and sing, friends,
+With good-for-nothing filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s trouble on my mind,
+We crying crossroads,
+With hard times come in our hearts,
+And what can I do.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So crying and sing, friends,
+With hard times come filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s pain in my heart,
+We rolling river bend,
+With hard times come in our hearts,
+And now I'm satisfied.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So rolling and play, friends,
+With hard times come filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s burden on my back,
+We rolling graveyard,
+With loved one gone in our hearts,
+And the way I feel.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rolling and pray, friends,
+With loved one gone filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We sing the blues jail cell,
+With poor condition in our hearts,
+And and that's the truth.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sing the blues and sing, friends,
+With poor condition filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s trouble on my mind,
+We rolling bleak new year,
+With loved one gone in our hearts,
+And in my grave.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So rolling and sing, friends,
+With loved one gone filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s sorrow deep,
+We lordy lordy graveyard,
+With wasted years in our hearts,
+And and that's the truth.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lordy lordy and pray, friends,
+With wasted years filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s this morning,
+We crying river bend,
+With poor condition in our hearts,
+And what can I do.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So crying and dance, friends,
+With poor condition filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s this morning,
+We searching river bend,
+With poor condition in our hearts,
+And in my grave.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So searching and pray, friends,
+With poor condition filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Lord the %s left me last night,
+We waiting river bend,
+With sweet release in our hearts,
+And now I'm satisfied.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With sweet release filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s good ol' blues,
+We waiting station house,
+With hard times come in our hearts,
+And I'm going to rest.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So waiting and dance, friends,
+With hard times come filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s trouble on my mind,
+We sing the blues dirty 4th street,
+With loved one gone in our hearts,
+And now I'm satisfied.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sing the blues and play, friends,
+With loved one gone filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s trouble on my mind,
+We crying corner door,
+With loved one gone in our hearts,
+And and that's the truth.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and sing, friends,
+With loved one gone filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "My baby %s burden on my back,
+We sing the blues station house,
+With nowhere to go in our hearts,
+And I'm going to rest.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sing the blues and dance, friends,
+With nowhere to go filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "I got the %s good ol' blues,
+We waiting crossroads,
+With loved one gone in our hearts,
+And I'm going to rest.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So waiting and play, friends,
+With loved one gone filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Woke up %s pain in my heart,
+We lordy lordy station house,
+With lonesome heart in our hearts,
+And just before I die.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lordy lordy and pray, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Early blue 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Early blues', 'lyrics' => "Tell me %s left me last night,
+We crying river bend,
+With lonesome heart in our hearts,
+And and that's a fact.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So crying and pray, friends,
+With lonesome heart filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'The Four Chords Barbershop quartets', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the gang,
+We blend the voices stage door,
+With lasting ties in our hearts,
+And goodnight and go.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So blend the voices and pray, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s brother mine,
+We ring the change choir loft,
+With fading memory in our hearts,
+And how about that.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So ring the change and pray, friends,
+With fading memory filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s brother mine,
+We join the chorus echo hall,
+With sweet friendship in our hearts,
+And goodnight and go.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So join the chorus and play, friends,
+With sweet friendship filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the gang,
+We hold the note barbershop corner,
+With fading memory in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So hold the note and dance, friends,
+With fading memory filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the four chords,
+We keep it clean close harmony row,
+With tender feeling in our hearts,
+And goodnight and go.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So keep it clean and pray, friends,
+With tender feeling filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the sweet refrains,
+We gather round barbershop corner,
+With kindred spirit in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gather round and play, friends,
+With kindred spirit filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s harmony lane,
+We swell the harmony choir loft,
+With fading memory in our hearts,
+And goodnight and go.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swell the harmony and sing, friends,
+With fading memory filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the old refrain,
+We build the chord old shop door,
+With lasting ties in our hearts,
+And that's the spirit.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So build the chord and sing, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We join the chorus echo hall,
+With kindred spirit in our hearts,
+And till we meet again.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So join the chorus and pray, friends,
+With kindred spirit filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s back in town,
+We swell the harmony close harmony row,
+With moonlit romance in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swell the harmony and pray, friends,
+With moonlit romance filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s brother mine,
+We blend the voices echo hall,
+With tender feeling in our hearts,
+And till we meet again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So blend the voices and pray, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s harmony lane,
+We build the chord close harmony row,
+With tender feeling in our hearts,
+And till we meet again.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So build the chord and sing, friends,
+With tender feeling filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s back in town,
+We swell the harmony close harmony row,
+With fading memory in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swell the harmony and dance, friends,
+With fading memory filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the old refrain,
+We ring the change barbershop corner,
+With lasting ties in our hearts,
+And to the finish.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So ring the change and play, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the gang,
+We join the chorus barbershop corner,
+With sweet friendship in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So join the chorus and dance, friends,
+With sweet friendship filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s the gang,
+We hold the note close harmony row,
+With tender feeling in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold the note and dance, friends,
+With tender feeling filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s all together now,
+We hold the note music hall,
+With old acquaintance in our hearts,
+And how about that.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So hold the note and dance, friends,
+With old acquaintance filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s harmony lane,
+We blend the voices meeting place,
+With sweet friendship in our hearts,
+And for one and all.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So blend the voices and play, friends,
+With sweet friendship filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s all together now,
+We blend the voices old shop door,
+With tender feeling in our hearts,
+And in perfect pitch.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So blend the voices and play, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s the old refrain,
+We ring the change choir loft,
+With sweet friendship in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So ring the change and pray, friends,
+With sweet friendship filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the gang,
+We keep it clean close harmony row,
+With moonlit romance in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So keep it clean and sing, friends,
+With moonlit romance filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the gang,
+We blend the voices close harmony row,
+With fading memory in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So blend the voices and dance, friends,
+With fading memory filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s brother mine,
+We gather round old shop door,
+With moonlit romance in our hearts,
+And to the finish.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gather round and play, friends,
+With moonlit romance filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the old refrain,
+We keep it clean echo hall,
+With tender feeling in our hearts,
+And till we meet again.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So keep it clean and dance, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s all together now,
+We join the chorus echo hall,
+With old acquaintance in our hearts,
+And goodnight and go.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So join the chorus and play, friends,
+With old acquaintance filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the gang,
+We ring the change meeting place,
+With lasting ties in our hearts,
+And in perfect pitch.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So ring the change and play, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s brother mine,
+We hold the note echo hall,
+With tender feeling in our hearts,
+And goodnight and go.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold the note and dance, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the four chords,
+We blend the voices choir loft,
+With sweet friendship in our hearts,
+And in perfect pitch.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So blend the voices and dance, friends,
+With sweet friendship filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the sweet refrains,
+We gather round meeting place,
+With tender feeling in our hearts,
+And forever true.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gather round and pray, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s harmony lane,
+We join the chorus music hall,
+With fading memory in our hearts,
+And forever true.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So join the chorus and play, friends,
+With fading memory filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the four chords,
+We hold the note echo hall,
+With kindred spirit in our hearts,
+And till we meet again.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hold the note and pray, friends,
+With kindred spirit filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the gang,
+We join the chorus music hall,
+With sweet friendship in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So join the chorus and play, friends,
+With sweet friendship filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s the old refrain,
+We blend the voices meeting place,
+With sweet friendship in our hearts,
+And in perfect pitch.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So blend the voices and play, friends,
+With sweet friendship filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the sweet refrains,
+We swell the harmony old shop door,
+With moonlit romance in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swell the harmony and dance, friends,
+With moonlit romance filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the four chords,
+We ring the change stage door,
+With sweet friendship in our hearts,
+And how about that.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So ring the change and pray, friends,
+With sweet friendship filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We swell the harmony meeting place,
+With maiden's prayer in our hearts,
+And that's the spirit.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swell the harmony and dance, friends,
+With maiden's prayer filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s harmony lane,
+We swell the harmony meeting place,
+With lasting ties in our hearts,
+And to the finish.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swell the harmony and sing, friends,
+With lasting ties filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the old refrain,
+We ring the change choir loft,
+With maiden's prayer in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So ring the change and dance, friends,
+With maiden's prayer filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s the gang,
+We gather round barbershop corner,
+With kindred spirit in our hearts,
+And in perfect pitch.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gather round and dance, friends,
+With kindred spirit filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the four chords,
+We build the chord barbershop corner,
+With tender feeling in our hearts,
+And that's the spirit.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So build the chord and pray, friends,
+With tender feeling filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the sweet refrains,
+We build the chord music hall,
+With kindred spirit in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So build the chord and play, friends,
+With kindred spirit filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s all together now,
+We join the chorus old shop door,
+With tender feeling in our hearts,
+And in perfect pitch.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So join the chorus and pray, friends,
+With tender feeling filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s brother mine,
+We keep it clean echo hall,
+With moonlit romance in our hearts,
+And that's the spirit.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep it clean and pray, friends,
+With moonlit romance filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the sweet refrains,
+We build the chord stage door,
+With sweet friendship in our hearts,
+And how about that.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So build the chord and sing, friends,
+With sweet friendship filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s brother mine,
+We blend the voices music hall,
+With fading memory in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So blend the voices and sing, friends,
+With fading memory filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s harmony lane,
+We ring the change music hall,
+With moonlit romance in our hearts,
+And forever true.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So ring the change and sing, friends,
+With moonlit romance filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We ring the change choir loft,
+With old acquaintance in our hearts,
+And for one and all.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So ring the change and play, friends,
+With old acquaintance filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s back in town,
+We blend the voices old shop door,
+With moonlit romance in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So blend the voices and pray, friends,
+With moonlit romance filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the sweet refrains,
+We keep it clean old shop door,
+With lasting ties in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So keep it clean and pray, friends,
+With lasting ties filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the old refrain,
+We keep it clean echo hall,
+With tender feeling in our hearts,
+And goodnight and go.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep it clean and pray, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the four chords,
+We join the chorus close harmony row,
+With tender feeling in our hearts,
+And that's the spirit.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So join the chorus and pray, friends,
+With tender feeling filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the gang,
+We swell the harmony choir loft,
+With kindred spirit in our hearts,
+And that's the spirit.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swell the harmony and sing, friends,
+With kindred spirit filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s back in town,
+We gather round choir loft,
+With lasting ties in our hearts,
+And to the finish.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gather round and dance, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the four chords,
+We gather round echo hall,
+With tender feeling in our hearts,
+And goodnight and go.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gather round and pray, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s harmony lane,
+We join the chorus echo hall,
+With maiden's prayer in our hearts,
+And till we meet again.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So join the chorus and pray, friends,
+With maiden's prayer filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s all together now,
+We gather round choir loft,
+With sweet friendship in our hearts,
+And how about that.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gather round and sing, friends,
+With sweet friendship filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s all together now,
+We gather round stage door,
+With old acquaintance in our hearts,
+And to the finish.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gather round and sing, friends,
+With old acquaintance filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s harmony lane,
+We ring the change old shop door,
+With tender feeling in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So ring the change and dance, friends,
+With tender feeling filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the gang,
+We blend the voices stage door,
+With lasting ties in our hearts,
+And for one and all.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So blend the voices and dance, friends,
+With lasting ties filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We ring the change meeting place,
+With moonlit romance in our hearts,
+And in perfect pitch.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So ring the change and play, friends,
+With moonlit romance filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the old refrain,
+We join the chorus choir loft,
+With fading memory in our hearts,
+And how about that.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So join the chorus and dance, friends,
+With fading memory filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the gang,
+We build the chord choir loft,
+With old acquaintance in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So build the chord and pray, friends,
+With old acquaintance filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s back in town,
+We blend the voices choir loft,
+With sweet friendship in our hearts,
+And to the finish.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So blend the voices and sing, friends,
+With sweet friendship filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the sweet refrains,
+We hold the note stage door,
+With fading memory in our hearts,
+And till we meet again.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So hold the note and play, friends,
+With fading memory filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the old refrain,
+We hold the note meeting place,
+With kindred spirit in our hearts,
+And goodnight and go.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold the note and pray, friends,
+With kindred spirit filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the sweet refrains,
+We join the chorus echo hall,
+With moonlit romance in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So join the chorus and play, friends,
+With moonlit romance filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s all together now,
+We keep it clean choir loft,
+With maiden's prayer in our hearts,
+And that's the spirit.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So keep it clean and play, friends,
+With maiden's prayer filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the sweet refrains,
+We keep it clean stage door,
+With moonlit romance in our hearts,
+And that's the spirit.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So keep it clean and sing, friends,
+With moonlit romance filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s back in town,
+We ring the change barbershop corner,
+With lasting ties in our hearts,
+And goodnight and go.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So ring the change and dance, friends,
+With lasting ties filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s all together now,
+We hold the note stage door,
+With tender feeling in our hearts,
+And that's the spirit.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold the note and dance, friends,
+With tender feeling filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s the four chords,
+We gather round old shop door,
+With fading memory in our hearts,
+And how about that.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gather round and sing, friends,
+With fading memory filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "To %s the four chords,
+We gather round meeting place,
+With lasting ties in our hearts,
+And for one and all.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gather round and dance, friends,
+With lasting ties filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the old refrain,
+We keep it clean old shop door,
+With old acquaintance in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So keep it clean and pray, friends,
+With old acquaintance filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We join the chorus echo hall,
+With sweet friendship in our hearts,
+And for one and all.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So join the chorus and sing, friends,
+With sweet friendship filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s brother mine,
+We blend the voices stage door,
+With tender feeling in our hearts,
+And how about that.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So blend the voices and dance, friends,
+With tender feeling filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Come %s brother mine,
+We swell the harmony meeting place,
+With tender feeling in our hearts,
+And till we meet again.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swell the harmony and play, friends,
+With tender feeling filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s the sweet refrains,
+We gather round stage door,
+With kindred spirit in our hearts,
+And till we meet again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gather round and sing, friends,
+With kindred spirit filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Roll %s brother mine,
+We swell the harmony meeting place,
+With moonlit romance in our hearts,
+And to the finish.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swell the harmony and play, friends,
+With moonlit romance filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Sing %s brother mine,
+We gather round music hall,
+With old acquaintance in our hearts,
+And for one and all.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gather round and dance, friends,
+With old acquaintance filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Barbershop quartet 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Barbershop quartets', 'lyrics' => "Hail %s the gang,
+We hold the note close harmony row,
+With old acquaintance in our hearts,
+And to the finish.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold the note and pray, friends,
+With old acquaintance filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'This Wonderful Show Vaudeville songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the big finish,
+We into the light opera house,
+With laughter and song in our hearts,
+And while stocks last.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So into the light and sing, friends,
+With laughter and song filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the dancing girls,
+We for a treat opera house,
+With dancing feet in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a treat and sing, friends,
+With dancing feet filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the silly clown,
+We to the theater music hall,
+With comedy gold in our hearts,
+And before they're gone.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With comedy gold filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s our show,
+We for applause burlesque house,
+With laughter and song in our hearts,
+And for a limited run.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for applause and dance, friends,
+With laughter and song filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s this wonderful show,
+We for a good time the grandstand,
+With dancing feet in our hearts,
+And give them a hand.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a good time and dance, friends,
+With dancing feet filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the comedy troupe,
+We for a good time the vaudeville stage,
+With  curtain call in our hearts,
+And for a limited run.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a good time and pray, friends,
+With  curtain call filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the sensation,
+We for applause the vaudeville stage,
+With comedy gold in our hearts,
+And till the next show.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for applause and sing, friends,
+With comedy gold filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the comedy troupe,
+We for applause backstage door,
+With  curtain call in our hearts,
+And see you again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for applause and play, friends,
+With  curtain call filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the comedy troupe,
+We for a laugh burlesque house,
+With  curtain call in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a laugh and dance, friends,
+With  curtain call filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the sensation,
+We to the stage backstage door,
+With comedy gold in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the stage and sing, friends,
+With comedy gold filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the silly clown,
+We for a good time opera house,
+With  curtain call in our hearts,
+And tonight only.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a good time and play, friends,
+With  curtain call filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the sensation,
+We for a laugh opera house,
+With standing ovation in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a laugh and pray, friends,
+With standing ovation filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the dancing girls,
+We for applause front row center,
+With laughter and song in our hearts,
+And tonight only.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for applause and play, friends,
+With laughter and song filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the act tonight,
+We right this way burlesque house,
+With dancing feet in our hearts,
+And while stocks last.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So right this way and dance, friends,
+With dancing feet filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the sensation,
+We to the theater burlesque house,
+With laughter and song in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the theater and dance, friends,
+With laughter and song filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the comedy troupe,
+We to the theater front row center,
+With laughter and song in our hearts,
+And before they're gone.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With laughter and song filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s this wonderful show,
+We to the theater music hall,
+With rivers of gold in our hearts,
+And for a limited run.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With rivers of gold filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the big finish,
+We into the light the grandstand,
+With  curtain call in our hearts,
+And the end at last.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So into the light and play, friends,
+With  curtain call filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s this wonderful show,
+We right this way front row center,
+With laughter and song in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So right this way and dance, friends,
+With laughter and song filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the comedy troupe,
+We into the light the vaudeville stage,
+With grand finale in our hearts,
+And for a limited run.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So into the light and pray, friends,
+With grand finale filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the sensation,
+We for applause the grandstand,
+With dancing feet in our hearts,
+And the end at last.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for applause and sing, friends,
+With dancing feet filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the comedy troupe,
+We for a treat front row center,
+With laughter and song in our hearts,
+And while stocks last.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and sing, friends,
+With laughter and song filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the sensation,
+We into the light the grandstand,
+With grand finale in our hearts,
+And tonight only.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So into the light and dance, friends,
+With grand finale filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the comedy troupe,
+We for applause burlesque house,
+With comedy gold in our hearts,
+And tonight only.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for applause and play, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the act tonight,
+We right this way music hall,
+With comedy gold in our hearts,
+And for a limited run.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So right this way and sing, friends,
+With comedy gold filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the act tonight,
+We into the light front row center,
+With standing ovation in our hearts,
+And before they're gone.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So into the light and dance, friends,
+With standing ovation filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the dancing girls,
+We for a treat music hall,
+With standing ovation in our hearts,
+And before they're gone.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a treat and sing, friends,
+With standing ovation filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the comedy troupe,
+We for a treat front row center,
+With showmanship in our hearts,
+And before they're gone.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a treat and dance, friends,
+With showmanship filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s this wonderful show,
+We to the theater theater marquee,
+With comedy gold in our hearts,
+And tonight only.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So to the theater and dance, friends,
+With comedy gold filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the comedy troupe,
+We to the stage backstage door,
+With comedy gold in our hearts,
+And tonight only.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So to the stage and play, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the big finish,
+We to the stage opera house,
+With  curtain call in our hearts,
+And see you again.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the stage and dance, friends,
+With  curtain call filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the big finish,
+We for a laugh the vaudeville stage,
+With grand finale in our hearts,
+And the end at last.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a laugh and play, friends,
+With grand finale filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the big finish,
+We to the theater front row center,
+With rivers of gold in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With rivers of gold filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the silly clown,
+We for a good time theater marquee,
+With grand finale in our hearts,
+And till the next show.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for a good time and pray, friends,
+With grand finale filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s this wonderful show,
+We for a good time the vaudeville stage,
+With rivers of gold in our hearts,
+And for a limited run.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a good time and sing, friends,
+With rivers of gold filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the big finish,
+We to the stage backstage door,
+With showmanship in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the stage and sing, friends,
+With showmanship filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the big finish,
+We right this way the vaudeville stage,
+With standing ovation in our hearts,
+And tonight only.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So right this way and play, friends,
+With standing ovation filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the sensation,
+We right this way the grandstand,
+With grand finale in our hearts,
+And for a limited run.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So right this way and pray, friends,
+With grand finale filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the act tonight,
+We for a treat theater marquee,
+With laughter and song in our hearts,
+And while stocks last.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a treat and dance, friends,
+With laughter and song filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the comedy troupe,
+We right this way theater marquee,
+With  curtain call in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So right this way and pray, friends,
+With  curtain call filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the big finish,
+We for applause music hall,
+With standing ovation in our hearts,
+And before they're gone.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for applause and play, friends,
+With standing ovation filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the comedy troupe,
+We to the stage music hall,
+With dancing feet in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the stage and pray, friends,
+With dancing feet filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the big finish,
+We into the light the grandstand,
+With comedy gold in our hearts,
+And tonight only.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So into the light and pray, friends,
+With comedy gold filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s this wonderful show,
+We right this way the vaudeville stage,
+With grand finale in our hearts,
+And before they're gone.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So right this way and dance, friends,
+With grand finale filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s our show,
+We right this way theater marquee,
+With showmanship in our hearts,
+And before they're gone.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So right this way and play, friends,
+With showmanship filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the silly clown,
+We for applause theater marquee,
+With laughter and song in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So for applause and sing, friends,
+With laughter and song filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the dancing girls,
+We for a treat the vaudeville stage,
+With rivers of gold in our hearts,
+And give them a hand.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and play, friends,
+With rivers of gold filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the act tonight,
+We to the stage music hall,
+With comedy gold in our hearts,
+And till the next show.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the stage and play, friends,
+With comedy gold filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s this wonderful show,
+We to the stage the vaudeville stage,
+With dancing feet in our hearts,
+And the end at last.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the stage and dance, friends,
+With dancing feet filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s our show,
+We for a treat music hall,
+With dancing feet in our hearts,
+And for a limited run.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and play, friends,
+With dancing feet filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s this wonderful show,
+We for a treat opera house,
+With comedy gold in our hearts,
+And give them a hand.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and dance, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the silly clown,
+We for a laugh the vaudeville stage,
+With comedy gold in our hearts,
+And give them a hand.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a laugh and sing, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the big finish,
+We to the theater the grandstand,
+With  curtain call in our hearts,
+And for a limited run.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With  curtain call filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the silly clown,
+We for applause opera house,
+With comedy gold in our hearts,
+And for a limited run.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for applause and sing, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the comedy troupe,
+We to the stage backstage door,
+With grand finale in our hearts,
+And before they're gone.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the stage and pray, friends,
+With grand finale filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the silly clown,
+We for applause backstage door,
+With showmanship in our hearts,
+And see you again.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for applause and play, friends,
+With showmanship filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the act tonight,
+We into the light music hall,
+With grand finale in our hearts,
+And for a limited run.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So into the light and play, friends,
+With grand finale filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the sensation,
+We into the light the vaudeville stage,
+With comedy gold in our hearts,
+And give them a hand.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So into the light and sing, friends,
+With comedy gold filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the dancing girls,
+We right this way the grandstand,
+With comedy gold in our hearts,
+And tonight only.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So right this way and pray, friends,
+With comedy gold filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s the comedy troupe,
+We for applause the grandstand,
+With standing ovation in our hearts,
+And tonight only.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for applause and sing, friends,
+With standing ovation filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s our show,
+We to the theater the grandstand,
+With laughter and song in our hearts,
+And for a limited run.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the theater and sing, friends,
+With laughter and song filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the comedy troupe,
+We for a good time music hall,
+With dancing feet in our hearts,
+And for a limited run.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a good time and sing, friends,
+With dancing feet filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the comedy troupe,
+We right this way the vaudeville stage,
+With standing ovation in our hearts,
+And give them a hand.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So right this way and pray, friends,
+With standing ovation filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s our show,
+We for a treat backstage door,
+With comedy gold in our hearts,
+And while stocks last.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a treat and sing, friends,
+With comedy gold filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the sensation,
+We for a good time opera house,
+With grand finale in our hearts,
+And till the next show.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a good time and pray, friends,
+With grand finale filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the sensation,
+We into the light front row center,
+With rivers of gold in our hearts,
+And tonight only.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So into the light and sing, friends,
+With rivers of gold filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the silly clown,
+We for a laugh the vaudeville stage,
+With  curtain call in our hearts,
+And see you again.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a laugh and play, friends,
+With  curtain call filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the silly clown,
+We for a good time backstage door,
+With rivers of gold in our hearts,
+And while stocks last.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So for a good time and sing, friends,
+With rivers of gold filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s our show,
+We right this way front row center,
+With rivers of gold in our hearts,
+And till the next show.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So right this way and dance, friends,
+With rivers of gold filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the sensation,
+We to the theater opera house,
+With standing ovation in our hearts,
+And for a limited run.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So to the theater and pray, friends,
+With standing ovation filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the comedy troupe,
+We for a treat the vaudeville stage,
+With grand finale in our hearts,
+And see you again.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and play, friends,
+With grand finale filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the big finish,
+We into the light burlesque house,
+With grand finale in our hearts,
+And for a limited run.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So into the light and pray, friends,
+With grand finale filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the silly clown,
+We into the light backstage door,
+With laughter and song in our hearts,
+And tonight only.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So into the light and play, friends,
+With laughter and song filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the dancing girls,
+We for a laugh backstage door,
+With dancing feet in our hearts,
+And before they're gone.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a laugh and dance, friends,
+With dancing feet filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Step %s the silly clown,
+We for a good time burlesque house,
+With laughter and song in our hearts,
+And before they're gone.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So for a good time and pray, friends,
+With laughter and song filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the sensation,
+We for a treat backstage door,
+With comedy gold in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a treat and pray, friends,
+With comedy gold filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Ladies %s the sensation,
+We to the theater backstage door,
+With standing ovation in our hearts,
+And give them a hand.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the theater and sing, friends,
+With standing ovation filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Get %s the act tonight,
+We to the theater front row center,
+With grand finale in our hearts,
+And till the next show.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So to the theater and play, friends,
+With grand finale filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Come see %s the silly clown,
+We for a laugh burlesque house,
+With dancing feet in our hearts,
+And see you again.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So for a laugh and play, friends,
+With dancing feet filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Vaudeville song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Vaudeville songs', 'lyrics' => "Don't miss %s our show,
+We to the stage theater marquee,
+With rivers of gold in our hearts,
+And see you again.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So to the stage and pray, friends,
+With rivers of gold filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Our Land Patriotic songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the founding fathers,
+We united we stand the heartland,
+With the dream lives on in our hearts,
+And from sea to shining sea.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So united we stand and dance, friends,
+With the dream lives on filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the brave,
+We united we stand freedom's light,
+With the American way in our hearts,
+And one nation indivisible.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So united we stand and pray, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave and free,
+We hold high the frontier,
+With the price of freedom in our hearts,
+And for all time.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hold high and dance, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the founding fathers,
+We fight for mound city,
+With liberty eternal in our hearts,
+And the land of the free.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fight for and sing, friends,
+With liberty eternal filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave and free,
+We hold high our nation's heart,
+With liberty eternal in our hearts,
+And in liberty we trust.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hold high and play, friends,
+With liberty eternal filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the founding fathers,
+We forever free every state,
+With our heritage in our hearts,
+And till the end of time.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forever free and pray, friends,
+With our heritage filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave and free,
+We forever free freedom's light,
+With liberty eternal in our hearts,
+And the land of the free.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forever free and play, friends,
+With liberty eternal filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s liberty's call,
+We hold high freedom's light,
+With land so fair in our hearts,
+And from sea to shining sea.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So hold high and dance, friends,
+With land so fair filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave and free,
+We honor the heartland,
+With the dream lives on in our hearts,
+And in liberty we trust.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So honor and pray, friends,
+With the dream lives on filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s liberty's call,
+We forever free mound city,
+With our heritage in our hearts,
+And the land of the free.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forever free and sing, friends,
+With our heritage filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s liberty's call,
+We proudly wave the capitol dome,
+With the dream lives on in our hearts,
+And one nation indivisible.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So proudly wave and sing, friends,
+With the dream lives on filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the brave,
+We united we stand every state,
+With one nation under God in our hearts,
+And for all time.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With one nation under God filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the red white and blue,
+We united we stand the heartland,
+With the price of freedom in our hearts,
+And with liberty and justice.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our land,
+We united we stand our nation's heart,
+With the price of freedom in our hearts,
+And till the end of time.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With the price of freedom filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the founding fathers,
+We stand tall liberty's shore,
+With our heritage in our hearts,
+And from sea to shining sea.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stand tall and sing, friends,
+With our heritage filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s our land,
+We fight for every state,
+With land so fair in our hearts,
+And with liberty and justice.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fight for and play, friends,
+With land so fair filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave and free,
+We united we stand the capitol dome,
+With land so fair in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So united we stand and pray, friends,
+With land so fair filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the founding fathers,
+We hold high liberty's shore,
+With the American way in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hold high and dance, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s our fathers' God,
+We defend freedom's light,
+With one nation under God in our hearts,
+And one nation indivisible.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So defend and sing, friends,
+With one nation under God filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our fathers' God,
+We defend our nation's heart,
+With the American way in our hearts,
+And the land of the free.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the brave,
+We defend the heartland,
+With our heritage in our hearts,
+And for all time.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With our heritage filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our fathers' God,
+We defend our nation's heart,
+With the price of freedom in our hearts,
+And in liberty we trust.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So defend and play, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the stripes and stars,
+We defend the frontier,
+With our heritage in our hearts,
+And with liberty and justice.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With our heritage filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the brave,
+We united we stand the frontier,
+With liberty eternal in our hearts,
+And from sea to shining sea.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With liberty eternal filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the red white and blue,
+We stand tall every state,
+With land so fair in our hearts,
+And from sea to shining sea.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stand tall and pray, friends,
+With land so fair filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave and free,
+We honor every state,
+With the price of freedom in our hearts,
+And for all time.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So honor and pray, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave and free,
+We defend our nation's heart,
+With our heritage in our hearts,
+And the land of the free.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With our heritage filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the founding fathers,
+We proudly wave every state,
+With land so fair in our hearts,
+And with liberty and justice.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So proudly wave and dance, friends,
+With land so fair filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the red white and blue,
+We defend the frontier,
+With the American way in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So defend and sing, friends,
+With the American way filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave,
+We forever free our nation's heart,
+With one nation under God in our hearts,
+And in liberty we trust.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forever free and pray, friends,
+With one nation under God filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the red white and blue,
+We fight for the frontier,
+With the dream lives on in our hearts,
+And in liberty we trust.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So fight for and play, friends,
+With the dream lives on filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the red white and blue,
+We fight for freedom's light,
+With land so fair in our hearts,
+And for all time.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fight for and sing, friends,
+With land so fair filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the red white and blue,
+We forever free the frontier,
+With land so fair in our hearts,
+And with liberty and justice.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So forever free and pray, friends,
+With land so fair filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the red white and blue,
+We united we stand the frontier,
+With the price of freedom in our hearts,
+And the land of the free.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So united we stand and pray, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s our land,
+We fight for our nation's heart,
+With the American way in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fight for and dance, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave,
+We fight for liberty's shore,
+With the dream lives on in our hearts,
+And for all time.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fight for and pray, friends,
+With the dream lives on filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the stripes and stars,
+We defend our nation's heart,
+With one nation under God in our hearts,
+And till the end of time.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With one nation under God filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the red white and blue,
+We defend the frontier,
+With one nation under God in our hearts,
+And one nation indivisible.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and dance, friends,
+With one nation under God filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s our land,
+We proudly wave our nation's heart,
+With liberty eternal in our hearts,
+And the land of the free.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So proudly wave and dance, friends,
+With liberty eternal filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our fathers' God,
+We forever free the capitol dome,
+With the price of freedom in our hearts,
+And till the end of time.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So forever free and pray, friends,
+With the price of freedom filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave and free,
+We proudly wave liberty's shore,
+With liberty eternal in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So proudly wave and sing, friends,
+With liberty eternal filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave and free,
+We fight for every state,
+With the dream lives on in our hearts,
+And for all time.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fight for and pray, friends,
+With the dream lives on filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s our land,
+We proudly wave freedom's light,
+With one nation under God in our hearts,
+And one nation indivisible.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So proudly wave and dance, friends,
+With one nation under God filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the brave,
+We honor the capitol dome,
+With the American way in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So honor and pray, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s our fathers' God,
+We stand tall the capitol dome,
+With the dream lives on in our hearts,
+And forever more.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stand tall and sing, friends,
+With the dream lives on filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave,
+We stand tall the heartland,
+With our heritage in our hearts,
+And from sea to shining sea.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So stand tall and play, friends,
+With our heritage filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s liberty's call,
+We defend every state,
+With the price of freedom in our hearts,
+And in liberty we trust.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So defend and sing, friends,
+With the price of freedom filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave,
+We hold high the frontier,
+With one nation under God in our hearts,
+And in liberty we trust.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hold high and pray, friends,
+With one nation under God filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s our land,
+We forever free the frontier,
+With one nation under God in our hearts,
+And in liberty we trust.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forever free and pray, friends,
+With one nation under God filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our fathers' God,
+We proudly wave mound city,
+With the American way in our hearts,
+And till the end of time.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So proudly wave and sing, friends,
+With the American way filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the brave and free,
+We united we stand our nation's heart,
+With the American way in our hearts,
+And from sea to shining sea.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So united we stand and dance, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the founding fathers,
+We united we stand every state,
+With our heritage in our hearts,
+And from sea to shining sea.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With our heritage filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s our land,
+We defend every state,
+With the American way in our hearts,
+And with liberty and justice.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and play, friends,
+With the American way filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave,
+We honor freedom's light,
+With our heritage in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So honor and dance, friends,
+With our heritage filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the stripes and stars,
+We honor the heartland,
+With liberty eternal in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So honor and sing, friends,
+With liberty eternal filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the stripes and stars,
+We proudly wave our nation's heart,
+With brothers united in our hearts,
+And from sea to shining sea.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So proudly wave and pray, friends,
+With brothers united filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the brave and free,
+We proudly wave liberty's shore,
+With the American way in our hearts,
+And from sea to shining sea.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So proudly wave and pray, friends,
+With the American way filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the brave and free,
+We proudly wave the frontier,
+With the price of freedom in our hearts,
+And with liberty and justice.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So proudly wave and sing, friends,
+With the price of freedom filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s the red white and blue,
+We stand tall every state,
+With liberty eternal in our hearts,
+And in liberty we trust.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stand tall and dance, friends,
+With liberty eternal filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the founding fathers,
+We defend every state,
+With liberty eternal in our hearts,
+And from sea to shining sea.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So defend and sing, friends,
+With liberty eternal filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the founding fathers,
+We stand tall the heartland,
+With brothers united in our hearts,
+And in liberty we trust.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So stand tall and pray, friends,
+With brothers united filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave,
+We united we stand liberty's shore,
+With one nation under God in our hearts,
+And till the end of time.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So united we stand and pray, friends,
+With one nation under God filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "God %s our fathers' God,
+We united we stand liberty's shore,
+With our heritage in our hearts,
+And the land of the free.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So united we stand and dance, friends,
+With our heritage filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave and free,
+We proudly wave mound city,
+With brothers united in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So proudly wave and play, friends,
+With brothers united filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the red white and blue,
+We defend mound city,
+With brothers united in our hearts,
+And for all time.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and play, friends,
+With brothers united filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s our land,
+We fight for the heartland,
+With brothers united in our hearts,
+And from sea to shining sea.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fight for and dance, friends,
+With brothers united filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the stripes and stars,
+We fight for liberty's shore,
+With the dream lives on in our hearts,
+And for all time.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fight for and play, friends,
+With the dream lives on filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the stripes and stars,
+We honor the capitol dome,
+With one nation under God in our hearts,
+And in liberty we trust.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So honor and dance, friends,
+With one nation under God filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave and free,
+We stand tall the frontier,
+With the dream lives on in our hearts,
+And till the end of time.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So stand tall and sing, friends,
+With the dream lives on filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s our fathers' God,
+We fight for the capitol dome,
+With one nation under God in our hearts,
+And the land of the free.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So fight for and dance, friends,
+With one nation under God filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s our land,
+We hold high mound city,
+With land so fair in our hearts,
+And from sea to shining sea.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So hold high and play, friends,
+With land so fair filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the founding fathers,
+We stand tall mound city,
+With the American way in our hearts,
+And forever more.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So stand tall and play, friends,
+With the American way filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the brave,
+We fight for our nation's heart,
+With liberty eternal in our hearts,
+And forever more.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fight for and pray, friends,
+With liberty eternal filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Unite %s the brave and free,
+We defend every state,
+With brothers united in our hearts,
+And forever more.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So defend and play, friends,
+With brothers united filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s the red white and blue,
+We united we stand every state,
+With the price of freedom in our hearts,
+And the land of the free.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So united we stand and sing, friends,
+With the price of freedom filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the founding fathers,
+We proudly wave our nation's heart,
+With the price of freedom in our hearts,
+And the land of the free.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So proudly wave and sing, friends,
+With the price of freedom filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the brave and free,
+We honor the frontier,
+With the price of freedom in our hearts,
+And in liberty we trust.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So honor and sing, friends,
+With the price of freedom filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Rise %s liberty's call,
+We united we stand the frontier,
+With brothers united in our hearts,
+And till the end of time.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So united we stand and pray, friends,
+With brothers united filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Glory %s the red white and blue,
+We hold high our nation's heart,
+With our heritage in our hearts,
+And with liberty and justice.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So hold high and dance, friends,
+With our heritage filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Patriotic song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Patriotic songs', 'lyrics' => "Hail %s the stripes and stars,
+We hold high our nation's heart,
+With the price of freedom in our hearts,
+And the land of the free.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hold high and sing, friends,
+With the price of freedom filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Johnny Jump Children\'s songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We touch the ground playground,
+With rock a bye in our hearts,
+And say it again.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So touch the ground and play, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Baby Dee,
+We touch the ground bedtime story,
+With hush little baby in our hearts,
+And just like me.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So touch the ground and sing, friends,
+With hush little baby filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We turn around bedtime story,
+With mary had a lamb in our hearts,
+And now you see.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and pray, friends,
+With mary had a lamb filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Tommy,
+We clap your hands muddy puddle,
+With twinkle little star in our hearts,
+And time for bed.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So clap your hands and play, friends,
+With twinkle little star filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s  Sis,
+We turn around sandbox,
+With hush little baby in our hearts,
+And just like me.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With hush little baby filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Tommy Thumb,
+We turn around sandbox,
+With row row your boat in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and play, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Little May,
+We touch the ground sandbox,
+With hush little baby in our hearts,
+And one two three.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So touch the ground and sing, friends,
+With hush little baby filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Johnny Jump,
+We clap your hands muddy puddle,
+With rain rain go away in our hearts,
+And just like me.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So clap your hands and sing, friends,
+With rain rain go away filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Johnny Jump,
+We jump up and down toy chest,
+With itsy bitsy spider in our hearts,
+And time for bed.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So jump up and down and sing, friends,
+With itsy bitsy spider filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We wiggle and squirm muddy puddle,
+With rain rain go away in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and play, friends,
+With rain rain go away filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Johnny Jump,
+We clap your hands playground,
+With rain rain go away in our hearts,
+And one two three.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So clap your hands and sing, friends,
+With rain rain go away filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Tommy,
+We turn around muddy puddle,
+With old macdonald in our hearts,
+And and so to sleep.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With old macdonald filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Johnny Jump,
+We nap nap time muddy puddle,
+With hush little baby in our hearts,
+And just like me.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So nap nap time and play, friends,
+With hush little baby filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Little May,
+We jump up and down nursery rhyme land,
+With rock a bye in our hearts,
+And time for bed.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So jump up and down and pray, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Johnny Jump,
+We patty cake bumble bee garden,
+With twinkle little star in our hearts,
+And one two three.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So patty cake and sing, friends,
+With twinkle little star filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We nap nap time muddy puddle,
+With rock a bye in our hearts,
+And and so to sleep.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So nap nap time and pray, friends,
+With rock a bye filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Tommy Thumb,
+We turn around nursery rhyme land,
+With twinkle little star in our hearts,
+And end of story.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With twinkle little star filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Tommy Thumb,
+We wiggle and squirm swing set,
+With row row your boat in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and play, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Tommy,
+We jump up and down playground,
+With hush little baby in our hearts,
+And time for bed.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So jump up and down and dance, friends,
+With hush little baby filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Bobby Boy,
+We jump up and down playground,
+With row row your boat in our hearts,
+And now you see.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So jump up and down and play, friends,
+With row row your boat filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Tommy,
+We patty cake muddy puddle,
+With itsy bitsy spider in our hearts,
+And and so to sleep.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So patty cake and dance, friends,
+With itsy bitsy spider filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Tommy,
+We clap your hands sandbox,
+With rock a bye in our hearts,
+And one two three.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So clap your hands and play, friends,
+With rock a bye filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Little May,
+We nap nap time swing set,
+With rain rain go away in our hearts,
+And very good.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So nap nap time and dance, friends,
+With rain rain go away filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Tommy Thumb,
+We turn around bedtime story,
+With itsy bitsy spider in our hearts,
+And now you see.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With itsy bitsy spider filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s  Sis,
+We wiggle and squirm nursery rhyme land,
+With rain rain go away in our hearts,
+And just like me.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and play, friends,
+With rain rain go away filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Tommy Thumb,
+We rock and roll nursery rhyme land,
+With old macdonald in our hearts,
+And now you see.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So rock and roll and sing, friends,
+With old macdonald filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s  Sis,
+We jump up and down sandbox,
+With old macdonald in our hearts,
+And and so to sleep.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So jump up and down and sing, friends,
+With old macdonald filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Tommy,
+We wiggle and squirm toy chest,
+With rock a bye in our hearts,
+And end of story.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and sing, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We touch the ground sandbox,
+With rain rain go away in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So touch the ground and pray, friends,
+With rain rain go away filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s  Sis,
+We patty cake bedtime story,
+With rock a bye in our hearts,
+And one two three.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So patty cake and play, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s  Sis,
+We touch the ground swing set,
+With mary had a lamb in our hearts,
+And time for bed.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So touch the ground and sing, friends,
+With mary had a lamb filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s  Sis,
+We turn around muddy puddle,
+With rock a bye in our hearts,
+And end of story.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With rock a bye filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Baby Dee,
+We turn around bedtime story,
+With row row your boat in our hearts,
+And time for bed.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Bobby Boy,
+We patty cake playground,
+With mary had a lamb in our hearts,
+And one two three.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and pray, friends,
+With mary had a lamb filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Susie Q,
+We patty cake muddy puddle,
+With rock a bye in our hearts,
+And just like me.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and play, friends,
+With rock a bye filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Little May,
+We turn around swing set,
+With rain rain go away in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With rain rain go away filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Baby Dee,
+We jump up and down swing set,
+With old macdonald in our hearts,
+And just like me.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So jump up and down and dance, friends,
+With old macdonald filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s  Sis,
+We clap your hands swing set,
+With old macdonald in our hearts,
+And just like me.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So clap your hands and dance, friends,
+With old macdonald filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s  Sis,
+We touch the ground nursery rhyme land,
+With mary had a lamb in our hearts,
+And end of story.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So touch the ground and pray, friends,
+With mary had a lamb filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Tommy Thumb,
+We rock and roll sandbox,
+With itsy bitsy spider in our hearts,
+And now you see.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rock and roll and pray, friends,
+With itsy bitsy spider filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We turn around toy chest,
+With itsy bitsy spider in our hearts,
+And very good.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and play, friends,
+With itsy bitsy spider filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Susie Q,
+We turn around muddy puddle,
+With row row your boat in our hearts,
+And say it again.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Tommy Thumb,
+We touch the ground nursery rhyme land,
+With twinkle little star in our hearts,
+And just like me.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So touch the ground and pray, friends,
+With twinkle little star filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Baby Dee,
+We patty cake swing set,
+With rock a bye in our hearts,
+And end of story.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and pray, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Susie Q,
+We rock and roll bumble bee garden,
+With hush little baby in our hearts,
+And say it again.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rock and roll and play, friends,
+With hush little baby filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We clap your hands sandbox,
+With rain rain go away in our hearts,
+And very good.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So clap your hands and sing, friends,
+With rain rain go away filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We wiggle and squirm muddy puddle,
+With rain rain go away in our hearts,
+And now you see.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and sing, friends,
+With rain rain go away filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Bobby Boy,
+We clap your hands playground,
+With mary had a lamb in our hearts,
+And end of story.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So clap your hands and pray, friends,
+With mary had a lamb filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s  Sis,
+We jump up and down toy chest,
+With rock a bye in our hearts,
+And now you see.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So jump up and down and sing, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Susie Q,
+We wiggle and squirm bedtime story,
+With old macdonald in our hearts,
+And end of story.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So wiggle and squirm and sing, friends,
+With old macdonald filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Susie Q,
+We patty cake sandbox,
+With twinkle little star in our hearts,
+And say it again.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and dance, friends,
+With twinkle little star filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Susie Q,
+We turn around playground,
+With itsy bitsy spider in our hearts,
+And say it again.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With itsy bitsy spider filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Tommy Thumb,
+We clap your hands muddy puddle,
+With row row your boat in our hearts,
+And time for bed.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So clap your hands and sing, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Johnny Jump,
+We patty cake bedtime story,
+With mary had a lamb in our hearts,
+And time for bed.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So patty cake and dance, friends,
+With mary had a lamb filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Johnny Jump,
+We clap your hands sandbox,
+With rain rain go away in our hearts,
+And and so to sleep.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So clap your hands and dance, friends,
+With rain rain go away filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We nap nap time toy chest,
+With row row your boat in our hearts,
+And now you see.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So nap nap time and pray, friends,
+With row row your boat filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Susie Q,
+We rock and roll muddy puddle,
+With rock a bye in our hearts,
+And just like me.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rock and roll and dance, friends,
+With rock a bye filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Bobby Boy,
+We touch the ground toy chest,
+With rock a bye in our hearts,
+And one two three.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So touch the ground and pray, friends,
+With rock a bye filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s  Sis,
+We turn around sandbox,
+With itsy bitsy spider in our hearts,
+And time for bed.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and play, friends,
+With itsy bitsy spider filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Johnny Jump,
+We touch the ground sandbox,
+With twinkle little star in our hearts,
+And now you see.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So touch the ground and sing, friends,
+With twinkle little star filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Susie Q,
+We jump up and down bedtime story,
+With row row your boat in our hearts,
+And one two three.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So jump up and down and dance, friends,
+With row row your boat filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Little May,
+We patty cake nursery rhyme land,
+With rock a bye in our hearts,
+And say it again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and pray, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Baby Dee,
+We patty cake bumble bee garden,
+With row row your boat in our hearts,
+And and so to sleep.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and dance, friends,
+With row row your boat filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Baby Dee,
+We turn around bedtime story,
+With twinkle little star in our hearts,
+And time for bed.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With twinkle little star filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Bobby Boy,
+We turn around muddy puddle,
+With hush little baby in our hearts,
+And now you see.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So turn around and sing, friends,
+With hush little baby filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Bobby Boy,
+We patty cake nursery rhyme land,
+With old macdonald in our hearts,
+And very good.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So patty cake and sing, friends,
+With old macdonald filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We clap your hands bumble bee garden,
+With hush little baby in our hearts,
+And now you see.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So clap your hands and pray, friends,
+With hush little baby filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Bobby Boy,
+We nap nap time bumble bee garden,
+With rock a bye in our hearts,
+And say it again.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So nap nap time and pray, friends,
+With rock a bye filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Johnny Jump,
+We rock and roll swing set,
+With rain rain go away in our hearts,
+And very good.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rock and roll and play, friends,
+With rain rain go away filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Little %s Baby Dee,
+We turn around nursery rhyme land,
+With rain rain go away in our hearts,
+And one two three.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn around and play, friends,
+With rain rain go away filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Little May,
+We patty cake bedtime story,
+With rain rain go away in our hearts,
+And say it again.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and pray, friends,
+With rain rain go away filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Susie Q,
+We patty cake playground,
+With itsy bitsy spider in our hearts,
+And very good.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and sing, friends,
+With itsy bitsy spider filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Johnny Jump,
+We clap your hands muddy puddle,
+With mary had a lamb in our hearts,
+And very good.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So clap your hands and play, friends,
+With mary had a lamb filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Round %s Susie Q,
+We rock and roll bedtime story,
+With itsy bitsy spider in our hearts,
+And and so to sleep.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rock and roll and dance, friends,
+With itsy bitsy spider filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Little May,
+We patty cake nursery rhyme land,
+With twinkle little star in our hearts,
+And very good.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So patty cake and play, friends,
+With twinkle little star filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Baby Dee,
+We turn around sandbox,
+With rock a bye in our hearts,
+And very good.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With rock a bye filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Baby %s Bobby Boy,
+We turn around playground,
+With mary had a lamb in our hearts,
+And one two three.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So turn around and dance, friends,
+With mary had a lamb filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Johnny Jump,
+We touch the ground swing set,
+With mary had a lamb in our hearts,
+And end of story.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So touch the ground and dance, friends,
+With mary had a lamb filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Peek %s Baby Dee,
+We rock and roll bumble bee garden,
+With rock a bye in our hearts,
+And one two three.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rock and roll and play, friends,
+With rock a bye filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Children\'s song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Children\'s songs', 'lyrics' => "Hello %s Johnny Jump,
+We turn around bedtime story,
+With old macdonald in our hearts,
+And and so to sleep.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So turn around and pray, friends,
+With old macdonald filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Uncle Zeke Comic songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s to the doctor,
+We chased a hen downtown,
+With awful fix in our hearts,
+And till next time folks.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So chased a hen and sing, friends,
+With awful fix filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s old uncle zeke,
+We lost my pants on the roof,
+With merry mess in our hearts,
+And don't try this at home.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lost my pants and dance, friends,
+With merry mess filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s aunt fanny,
+We scraped my knee downtown,
+With merry mess in our hearts,
+And so I told them.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So scraped my knee and dance, friends,
+With merry mess filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s me not to drink,
+We fell down stairs through the mud,
+With what a fool in our hearts,
+And the laugh's on me.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fell down stairs and pray, friends,
+With what a fool filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the strangest sight,
+We fell down stairs through the mud,
+With terrible bind in our hearts,
+And don't try this at home.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fell down stairs and dance, friends,
+With terrible bind filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s to the doctor,
+We lost my pants to the show,
+With merry mess in our hearts,
+And and that was that.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lost my pants and play, friends,
+With merry mess filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s to the doctor,
+We chased a hen on the roof,
+With terrible bind in our hearts,
+And what could I do.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So chased a hen and sing, friends,
+With terrible bind filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s aunt fanny,
+We slipped on ice on a spree,
+With what a fix in our hearts,
+And till next time folks.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With what a fix filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s me not to drink,
+We slipped on ice into the well,
+With terrible bind in our hearts,
+And don't try this at home.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So slipped on ice and play, friends,
+With terrible bind filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the barber shop,
+We bumped my nose for a bite,
+With merry mess in our hearts,
+And the laugh's on me.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So bumped my nose and pray, friends,
+With merry mess filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s me not to drink,
+We scraped my knee through the mud,
+With funny business in our hearts,
+And ain't it rich.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So scraped my knee and sing, friends,
+With funny business filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s the strangest sight,
+We got drunk into the well,
+With what a fool in our hearts,
+And what could I do.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So got drunk and play, friends,
+With what a fool filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s me not to drink,
+We slipped on ice to the show,
+With what a fix in our hearts,
+And what could I do.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With what a fix filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s the strangest sight,
+We slipped on ice downtown,
+With merry mess in our hearts,
+And what could I do.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With merry mess filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We chased a hen through the mud,
+With ain't it rich in our hearts,
+And ain't it rich.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So chased a hen and pray, friends,
+With ain't it rich filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s old uncle zeke,
+We fell down stairs on a spree,
+With awful fix in our hearts,
+And so ends my tale.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fell down stairs and dance, friends,
+With awful fix filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s aunt fanny,
+We forgot my hat through the mud,
+With merry mess in our hearts,
+And so ends my tale.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and pray, friends,
+With merry mess filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the strangest sight,
+We slipped on ice downtown,
+With what a fool in our hearts,
+And till next time folks.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So slipped on ice and pray, friends,
+With what a fool filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s aunt fanny,
+We scraped my knee on a spree,
+With merry mess in our hearts,
+And ain't it rich.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So scraped my knee and pray, friends,
+With merry mess filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s the barber shop,
+We bumped my nose through the mud,
+With terrible bind in our hearts,
+And don't try this at home.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So bumped my nose and play, friends,
+With terrible bind filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s me not to drink,
+We fell down stairs on a spree,
+With what a fool in our hearts,
+And don't try this at home.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fell down stairs and dance, friends,
+With what a fool filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s me not to drink,
+We slipped on ice through the mud,
+With what a fix in our hearts,
+And what could I do.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With what a fix filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s thing happened,
+We slipped on ice through the mud,
+With funny business in our hearts,
+And don't try this at home.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With funny business filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s old uncle zeke,
+We lost my pants downtown,
+With what a fool in our hearts,
+And don't try this at home.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lost my pants and play, friends,
+With what a fool filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s to the doctor,
+We bumped my nose downtown,
+With what a sight in our hearts,
+And so ends my tale.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So bumped my nose and pray, friends,
+With what a sight filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We forgot my hat to the show,
+With awful fix in our hearts,
+And don't try this at home.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and play, friends,
+With awful fix filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the strangest sight,
+We fell down stairs to the show,
+With what a fix in our hearts,
+And the laugh's on me.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fell down stairs and play, friends,
+With what a fix filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the strangest sight,
+We chased a hen to the show,
+With what a fool in our hearts,
+And till next time folks.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So chased a hen and dance, friends,
+With what a fool filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s aunt fanny,
+We forgot my hat downtown,
+With what a sight in our hearts,
+And the laugh's on me.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and sing, friends,
+With what a sight filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s aunt fanny,
+We forgot my hat to the show,
+With ain't it rich in our hearts,
+And ain't it rich.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and play, friends,
+With ain't it rich filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s old uncle zeke,
+We lost my pants downtown,
+With what a fool in our hearts,
+And so I told them.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lost my pants and sing, friends,
+With what a fool filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s thing happened,
+We forgot my hat to the show,
+With funny business in our hearts,
+And so I told them.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and dance, friends,
+With funny business filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s to the doctor,
+We chased a hen through the mud,
+With ain't it rich in our hearts,
+And what could I do.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So chased a hen and pray, friends,
+With ain't it rich filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s the barber shop,
+We chased a hen in a mess,
+With funny business in our hearts,
+And so ends my tale.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So chased a hen and dance, friends,
+With funny business filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s old uncle zeke,
+We fell down stairs downtown,
+With what a fix in our hearts,
+And what could I do.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So fell down stairs and sing, friends,
+With what a fix filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s the barber shop,
+We got drunk into the well,
+With terrible bind in our hearts,
+And till next time folks.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So got drunk and play, friends,
+With terrible bind filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s to the doctor,
+We fell down stairs on a spree,
+With what a sight in our hearts,
+And and that was that.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fell down stairs and pray, friends,
+With what a sight filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s the strangest sight,
+We bumped my nose downtown,
+With what a fix in our hearts,
+And so ends my tale.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So bumped my nose and dance, friends,
+With what a fix filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s to the doctor,
+We chased a hen into the well,
+With awful fix in our hearts,
+And the laugh's on me.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So chased a hen and sing, friends,
+With awful fix filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s thing happened,
+We forgot my hat to the show,
+With what a sight in our hearts,
+And the laugh's on me.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So forgot my hat and pray, friends,
+With what a sight filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s aunt fanny,
+We lost my pants into the well,
+With what a sight in our hearts,
+And the laugh's on me.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lost my pants and dance, friends,
+With what a sight filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s old uncle zeke,
+We chased a hen through the mud,
+With merry mess in our hearts,
+And till next time folks.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So chased a hen and dance, friends,
+With merry mess filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s the strangest sight,
+We got drunk into the well,
+With terrible bind in our hearts,
+And ain't it rich.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So got drunk and sing, friends,
+With terrible bind filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s old uncle zeke,
+We slipped on ice in a mess,
+With what a fix in our hearts,
+And ain't it rich.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So slipped on ice and dance, friends,
+With what a fix filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s to the doctor,
+We forgot my hat to the show,
+With what a sight in our hearts,
+And don't try this at home.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and sing, friends,
+With what a sight filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s thing happened,
+We slipped on ice to the show,
+With what a fix in our hearts,
+And and that was that.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So slipped on ice and dance, friends,
+With what a fix filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s old uncle zeke,
+We forgot my hat to the show,
+With what a fool in our hearts,
+And and that was that.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and sing, friends,
+With what a fool filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s aunt fanny,
+We forgot my hat downtown,
+With terrible bind in our hearts,
+And so ends my tale.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and dance, friends,
+With terrible bind filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s aunt fanny,
+We chased a hen through the mud,
+With merry mess in our hearts,
+And and that was that.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So chased a hen and sing, friends,
+With merry mess filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s to the doctor,
+We forgot my hat to the show,
+With ain't it rich in our hearts,
+And and that was that.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So forgot my hat and pray, friends,
+With ain't it rich filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s aunt fanny,
+We forgot my hat through the mud,
+With what a fool in our hearts,
+And and that was that.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So forgot my hat and sing, friends,
+With what a fool filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s aunt fanny,
+We forgot my hat for a bite,
+With what a fix in our hearts,
+And so ends my tale.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and sing, friends,
+With what a fix filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s the strangest sight,
+We lost my pants downtown,
+With what a fix in our hearts,
+And so I told them.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lost my pants and sing, friends,
+With what a fix filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s the strangest sight,
+We fell down stairs for a bite,
+With awful fix in our hearts,
+And don't try this at home.
+
+Through fields of gold we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So fell down stairs and dance, friends,
+With awful fix filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s the strangest sight,
+We got drunk on the roof,
+With terrible bind in our hearts,
+And till next time folks.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So got drunk and sing, friends,
+With terrible bind filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s me not to drink,
+We lost my pants for a bite,
+With funny business in our hearts,
+And ain't it rich.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lost my pants and sing, friends,
+With funny business filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s old uncle zeke,
+We bumped my nose downtown,
+With merry mess in our hearts,
+And ain't it rich.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So bumped my nose and play, friends,
+With merry mess filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s me not to drink,
+We chased a hen for a bite,
+With ain't it rich in our hearts,
+And the laugh's on me.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So chased a hen and play, friends,
+With ain't it rich filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We lost my pants on the roof,
+With terrible bind in our hearts,
+And ain't it rich.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lost my pants and sing, friends,
+With terrible bind filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We scraped my knee in a mess,
+With what a sight in our hearts,
+And till next time folks.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So scraped my knee and play, friends,
+With what a sight filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s to the doctor,
+We bumped my nose for a bite,
+With merry mess in our hearts,
+And till next time folks.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So bumped my nose and pray, friends,
+With merry mess filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s aunt fanny,
+We chased a hen for a bite,
+With merry mess in our hearts,
+And ain't it rich.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So chased a hen and pray, friends,
+With merry mess filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "I went %s me not to drink,
+We lost my pants in a mess,
+With awful fix in our hearts,
+And ain't it rich.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lost my pants and play, friends,
+With awful fix filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s said I'd never,
+We scraped my knee into the well,
+With what a sight in our hearts,
+And till next time folks.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So scraped my knee and dance, friends,
+With what a sight filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s the strangest sight,
+We slipped on ice on the roof,
+With awful fix in our hearts,
+And and that was that.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So slipped on ice and sing, friends,
+With awful fix filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s to the doctor,
+We slipped on ice for a bite,
+With terrible bind in our hearts,
+And so I told them.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So slipped on ice and dance, friends,
+With terrible bind filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s aunt fanny,
+We lost my pants on a spree,
+With ain't it rich in our hearts,
+And so ends my tale.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lost my pants and dance, friends,
+With ain't it rich filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s me not to drink,
+We lost my pants for a bite,
+With what a fool in our hearts,
+And the laugh's on me.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lost my pants and dance, friends,
+With what a fool filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s to the doctor,
+We fell down stairs in a mess,
+With what a sight in our hearts,
+And don't try this at home.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fell down stairs and pray, friends,
+With what a sight filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s the strangest sight,
+We got drunk into the well,
+With what a fool in our hearts,
+And don't try this at home.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So got drunk and dance, friends,
+With what a fool filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s me not to drink,
+We bumped my nose to the show,
+With what a sight in our hearts,
+And till next time folks.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So bumped my nose and sing, friends,
+With what a sight filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "They told %s the strangest sight,
+We forgot my hat on the roof,
+With what a fool in our hearts,
+And and that was that.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and play, friends,
+With what a fool filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s old uncle zeke,
+We fell down stairs in a mess,
+With what a fix in our hearts,
+And so I told them.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So fell down stairs and pray, friends,
+With what a fix filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "My wife %s to the doctor,
+We fell down stairs on a spree,
+With ain't it rich in our hearts,
+And what could I do.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So fell down stairs and play, friends,
+With ain't it rich filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s to the doctor,
+We forgot my hat into the well,
+With what a fix in our hearts,
+And don't try this at home.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and pray, friends,
+With what a fix filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We slipped on ice on a spree,
+With merry mess in our hearts,
+And what could I do.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So slipped on ice and pray, friends,
+With merry mess filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We forgot my hat to the show,
+With ain't it rich in our hearts,
+And the laugh's on me.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So forgot my hat and play, friends,
+With ain't it rich filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s aunt fanny,
+We got drunk in a mess,
+With what a fix in our hearts,
+And don't try this at home.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So got drunk and sing, friends,
+With what a fix filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "A funny %s thing happened,
+We got drunk to the show,
+With terrible bind in our hearts,
+And the laugh's on me.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So got drunk and play, friends,
+With terrible bind filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Comic song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Comic songs', 'lyrics' => "Just then %s thing happened,
+We lost my pants on a spree,
+With terrible bind in our hearts,
+And till next time folks.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lost my pants and pray, friends,
+With terrible bind filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'The Railroad Work songs', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We work all day down in the mine,
+With rest at last in our hearts,
+And in the cool of the evening.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So work all day and sing, friends,
+With rest at last filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the chain gang,
+We work all day down in the mine,
+With family waiting in our hearts,
+And and that's a fact.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So work all day and dance, friends,
+With family waiting filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s that hammer,
+We build the walls in the prison yard,
+With family waiting in our hearts,
+And one more day.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So build the walls and play, friends,
+With family waiting filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the chain gang,
+We swing the pick down in the mine,
+With rest at last in our hearts,
+And the working's done.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swing the pick and play, friends,
+With rest at last filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s and pull,
+We m唱 the oars in the sun,
+With family waiting in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and dance, friends,
+With family waiting filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s that hammer,
+We cut the cane on the river boat,
+With pay day come in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So cut the cane and play, friends,
+With pay day come filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s and pull,
+We work all day down in the mine,
+With family waiting in our hearts,
+And for tomorrow too.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So work all day and sing, friends,
+With family waiting filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and pull,
+We build the walls field and furrow,
+With pay day come in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s the long day,
+We lay the rails in the prison yard,
+With justice come in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lay the rails and play, friends,
+With justice come filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the railroad,
+We break the rocks in the mill,
+With freedom's dream in our hearts,
+And the working's done.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With freedom's dream filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the railroad,
+We swing the pick at the dock,
+With hard times here in our hearts,
+And the working's done.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the pick and sing, friends,
+With hard times here filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s the chain gang,
+We hoe the row at the dock,
+With hard times here in our hearts,
+And the job is done.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So hoe the row and pray, friends,
+With hard times here filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the railroad,
+We m唱 the oars on the railroad,
+With home someday in our hearts,
+And in the cool of the evening.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and dance, friends,
+With home someday filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s together now,
+We break the rocks in the prison yard,
+With home someday in our hearts,
+And till the weekend comes.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So break the rocks and play, friends,
+With home someday filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We swing the pick field and furrow,
+With home someday in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the pick and sing, friends,
+With home someday filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the railroad,
+We lay the rails on the railroad,
+With family waiting in our hearts,
+And the working's done.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lay the rails and sing, friends,
+With family waiting filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and shine,
+We m唱 the oars in the prison yard,
+With pay day come in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and pray, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the long day,
+We build the walls on the railroad,
+With pay day come in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With pay day come filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s that hammer,
+We lay the rails at the dock,
+With pay day come in our hearts,
+And in the cool of the evening.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lay the rails and play, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the long day,
+We swing the pick in the sun,
+With hard times here in our hearts,
+And the working's done.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So swing the pick and sing, friends,
+With hard times here filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and shine,
+We swing the pick in the prison yard,
+With home someday in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swing the pick and play, friends,
+With home someday filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the chain gang,
+We hoe the row in the mill,
+With home someday in our hearts,
+And the working's done.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hoe the row and pray, friends,
+With home someday filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s the levee,
+We hoe the row in the prison yard,
+With rest at last in our hearts,
+And in the cool of the evening.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hoe the row and dance, friends,
+With rest at last filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the chain gang,
+We cut the cane on the railroad,
+With rest at last in our hearts,
+And for tomorrow too.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So cut the cane and sing, friends,
+With rest at last filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and pull,
+We work all day on the river boat,
+With rest at last in our hearts,
+And the job is done.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So work all day and dance, friends,
+With rest at last filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We break the rocks in the sun,
+With pay day come in our hearts,
+And the job is done.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s and pull,
+We m唱 the oars in the mill,
+With home someday in our hearts,
+And in the cool of the evening.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and pray, friends,
+With home someday filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s and pull,
+We break the rocks on the river boat,
+With freedom's dream in our hearts,
+And the working's done.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So break the rocks and play, friends,
+With freedom's dream filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s and pull,
+We lay the rails in the sun,
+With justice come in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lay the rails and sing, friends,
+With justice come filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the long day,
+We lay the rails field and furrow,
+With justice come in our hearts,
+And the job is done.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So lay the rails and play, friends,
+With justice come filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the railroad,
+We work all day field and furrow,
+With family waiting in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So work all day and play, friends,
+With family waiting filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the railroad,
+We hoe the row on the river boat,
+With hard times here in our hearts,
+And and that's a fact.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So hoe the row and play, friends,
+With hard times here filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the long day,
+We break the rocks field and furrow,
+With pay day come in our hearts,
+And till the weekend comes.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the chain gang,
+We break the rocks in the prison yard,
+With family waiting in our hearts,
+And the job is done.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So break the rocks and sing, friends,
+With family waiting filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s that hammer,
+We break the rocks on the river boat,
+With boss man mean in our hearts,
+And the working's done.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So break the rocks and play, friends,
+With boss man mean filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the chain gang,
+We break the rocks on the railroad,
+With rest at last in our hearts,
+And the job is done.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With rest at last filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s together now,
+We hoe the row on the railroad,
+With family waiting in our hearts,
+And till the weekend comes.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So hoe the row and pray, friends,
+With family waiting filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the railroad,
+We build the walls in the mill,
+With pay day come in our hearts,
+And and that's a fact.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With pay day come filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We swing the pick on the railroad,
+With pay day come in our hearts,
+And when the sun goes down.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the pick and sing, friends,
+With pay day come filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the chain gang,
+We cut the cane down in the mine,
+With hard times here in our hearts,
+And when the sun goes down.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut the cane and pray, friends,
+With hard times here filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s together now,
+We cut the cane in the sun,
+With freedom's dream in our hearts,
+And when the sun goes down.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So cut the cane and dance, friends,
+With freedom's dream filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the long day,
+We swing the pick in the prison yard,
+With justice come in our hearts,
+And when the sun goes down.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swing the pick and sing, friends,
+With justice come filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s and pull,
+We m唱 the oars field and furrow,
+With freedom's dream in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With freedom's dream filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s together now,
+We cut the cane at the dock,
+With home someday in our hearts,
+And till the weekend comes.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So cut the cane and sing, friends,
+With home someday filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the chain gang,
+We cut the cane down in the mine,
+With justice come in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So cut the cane and pray, friends,
+With justice come filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s that hammer,
+We m唱 the oars in the sun,
+With freedom's dream in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and dance, friends,
+With freedom's dream filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the long day,
+We m唱 the oars field and furrow,
+With boss man mean in our hearts,
+And in the cool of the evening.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and play, friends,
+With boss man mean filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the long day,
+We break the rocks at the dock,
+With freedom's dream in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So break the rocks and play, friends,
+With freedom's dream filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s that hammer,
+We lay the rails on the railroad,
+With freedom's dream in our hearts,
+And when the sun goes down.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lay the rails and pray, friends,
+With freedom's dream filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We m唱 the oars field and furrow,
+With family waiting in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With family waiting filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s together now,
+We lay the rails field and furrow,
+With hard times here in our hearts,
+And for tomorrow too.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So lay the rails and sing, friends,
+With hard times here filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the long day,
+We m唱 the oars field and furrow,
+With pay day come in our hearts,
+And when the sun goes down.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With pay day come filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s the chain gang,
+We build the walls on the railroad,
+With justice come in our hearts,
+And till the weekend comes.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With justice come filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the levee,
+We lay the rails in the sun,
+With boss man mean in our hearts,
+And the working's done.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lay the rails and dance, friends,
+With boss man mean filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s together now,
+We hoe the row at the dock,
+With family waiting in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hoe the row and dance, friends,
+With family waiting filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s the levee,
+We build the walls in the mill,
+With family waiting in our hearts,
+And the working's done.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So build the walls and sing, friends,
+With family waiting filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We cut the cane on the river boat,
+With justice come in our hearts,
+And when the sun goes down.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So cut the cane and dance, friends,
+With justice come filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the long day,
+We break the rocks in the sun,
+With hard times here in our hearts,
+And in the cool of the evening.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With hard times here filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s together now,
+We break the rocks on the railroad,
+With home someday in our hearts,
+And the job is done.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So break the rocks and dance, friends,
+With home someday filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s that hammer,
+We work all day in the sun,
+With rest at last in our hearts,
+And when the sun goes down.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So work all day and dance, friends,
+With rest at last filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the chain gang,
+We work all day down in the mine,
+With home someday in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So work all day and play, friends,
+With home someday filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the long day,
+We build the walls down in the mine,
+With freedom's dream in our hearts,
+And when the sun goes down.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So build the walls and sing, friends,
+With freedom's dream filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s the levee,
+We m唱 the oars down in the mine,
+With family waiting in our hearts,
+And the job is done.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With family waiting filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s and shine,
+We work all day on the railroad,
+With justice come in our hearts,
+And the job is done.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So work all day and dance, friends,
+With justice come filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s and shine,
+We lay the rails field and furrow,
+With home someday in our hearts,
+And when the sun goes down.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So lay the rails and play, friends,
+With home someday filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s the railroad,
+We work all day in the prison yard,
+With rest at last in our hearts,
+And till the weekend comes.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So work all day and play, friends,
+With rest at last filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the railroad,
+We break the rocks in the prison yard,
+With pay day come in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So break the rocks and play, friends,
+With pay day come filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and shine,
+We break the rocks field and furrow,
+With family waiting in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With family waiting filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the chain gang,
+We swing the pick on the railroad,
+With hard times here in our hearts,
+And the working's done.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swing the pick and pray, friends,
+With hard times here filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Rise %s and shine,
+We m唱 the oars in the mill,
+With justice come in our hearts,
+And one more day.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With justice come filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s together now,
+We build the walls field and furrow,
+With boss man mean in our hearts,
+And the working's done.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With boss man mean filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Swing %s the levee,
+We cut the cane in the mill,
+With family waiting in our hearts,
+And till the weekend comes.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So cut the cane and sing, friends,
+With family waiting filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s that hammer,
+We hoe the row on the river boat,
+With freedom's dream in our hearts,
+And for tomorrow too.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So hoe the row and pray, friends,
+With freedom's dream filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s that hammer,
+We m唱 the oars down in the mine,
+With home someday in our hearts,
+And one more day.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So m唱 the oars and sing, friends,
+With home someday filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s together now,
+We break the rocks down in the mine,
+With boss man mean in our hearts,
+And till the weekend comes.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So break the rocks and dance, friends,
+With boss man mean filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the long day,
+We work all day on the railroad,
+With freedom's dream in our hearts,
+And in the cool of the evening.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So work all day and dance, friends,
+With freedom's dream filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s that hammer,
+We build the walls in the sun,
+With home someday in our hearts,
+And one more day.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So build the walls and sing, friends,
+With home someday filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "All %s and shine,
+We lay the rails in the sun,
+With home someday in our hearts,
+And and that's a fact.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So lay the rails and pray, friends,
+With home someday filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Heave %s together now,
+We break the rocks on the river boat,
+With family waiting in our hearts,
+And for tomorrow too.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So break the rocks and pray, friends,
+With family waiting filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Work song 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Work %s the levee,
+We build the walls at the dock,
+With pay day come in our hearts,
+And one more day.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So build the walls and dance, friends,
+With pay day come filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'To The Music Waltzes and dances', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We spinning by moonlit terrace,
+With dreams of love in our hearts,
+And till the music ends.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So spinning by and pray, friends,
+With dreams of love filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s to the music,
+We spinning by crystal room,
+With love's sweet melody in our hearts,
+And as the night grows old.
+
+Through fields of green we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and sing, friends,
+With love's sweet melody filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the evening star,
+We gracefully gliding grand ballroom,
+With hand in hand in our hearts,
+And eternally yours.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and pray, friends,
+With hand in hand filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s with me tonight,
+We gracefully gliding  gilded hall,
+With dreams of love in our hearts,
+And till the music ends.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and pray, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s the evening star,
+We circling round palace hall,
+With whispered vow in our hearts,
+And until the dawn.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So circling round and pray, friends,
+With whispered vow filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s to the music,
+We stepping light dance pavilion,
+With first dance in our hearts,
+And in your arms I'd stay.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So stepping light and play, friends,
+With first dance filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the evening star,
+We spinning by palace hall,
+With love's sweet melody in our hearts,
+And forever and a day.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So spinning by and dance, friends,
+With love's sweet melody filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s the ballroom,
+We softly dreaming dance pavilion,
+With love's sweet melody in our hearts,
+And eternally yours.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So softly dreaming and dance, friends,
+With love's sweet melody filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s the night away,
+We spinning by dance pavilion,
+With whispered vow in our hearts,
+And now and always.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and sing, friends,
+With whispered vow filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s the night away,
+We circling round summer pavilion,
+With dreams of love in our hearts,
+And as the night grows old.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So circling round and sing, friends,
+With dreams of love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s the ballroom,
+We stepping light garden terrace,
+With eternal devotion in our hearts,
+And eternally yours.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stepping light and pray, friends,
+With eternal devotion filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s my darling dear,
+We softly dreaming  gilded hall,
+With sweet romance in our hearts,
+And now and always.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly dreaming and dance, friends,
+With sweet romance filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s elegance,
+We gently moving garden terrace,
+With tender embrace in our hearts,
+And eternally yours.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gently moving and pray, friends,
+With tender embrace filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s elegance,
+We spinning by dance pavilion,
+With tender embrace in our hearts,
+And as the night grows old.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So spinning by and play, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s elegance,
+We softly dreaming crystal room,
+With love's sweet melody in our hearts,
+And in your arms I'd stay.
+
+Through fields of green we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So softly dreaming and play, friends,
+With love's sweet melody filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the ballroom,
+We gracefully gliding grand ballroom,
+With dreams of love in our hearts,
+And till the music ends.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and pray, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s the night away,
+We gracefully gliding moonlit terrace,
+With whispered vow in our hearts,
+And eternally yours.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and play, friends,
+With whispered vow filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the evening star,
+We stepping light garden terrace,
+With whispered vow in our hearts,
+And till the music ends.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stepping light and play, friends,
+With whispered vow filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We softly dreaming  gilded hall,
+With whispered vow in our hearts,
+And now and always.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly dreaming and pray, friends,
+With whispered vow filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s my darling dear,
+We softly dreaming summer pavilion,
+With first dance in our hearts,
+And forever and a day.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly dreaming and dance, friends,
+With first dance filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s my darling dear,
+We swaying slow  gilded hall,
+With tender embrace in our hearts,
+And forever and a day.
+
+Through fields of blue we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and sing, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s romance,
+We dipping low crystal room,
+With sweet romance in our hearts,
+And till the music ends.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dipping low and sing, friends,
+With sweet romance filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We gracefully gliding palace hall,
+With eternal devotion in our hearts,
+And until the dawn.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and play, friends,
+With eternal devotion filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We gently moving moonlit terrace,
+With tender embrace in our hearts,
+And until the dawn.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gently moving and play, friends,
+With tender embrace filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the evening star,
+We gracefully gliding grand ballroom,
+With sweet romance in our hearts,
+And eternally yours.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With sweet romance filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We stepping light  gilded hall,
+With hand in hand in our hearts,
+And as the night grows old.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stepping light and pray, friends,
+With hand in hand filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s to the music,
+We gently moving dance pavilion,
+With dreams of love in our hearts,
+And till the music ends.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gently moving and play, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s to the music,
+We swaying slow crystal room,
+With love's sweet melody in our hearts,
+And till the music ends.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swaying slow and dance, friends,
+With love's sweet melody filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the evening star,
+We swaying slow moonlit terrace,
+With sweet romance in our hearts,
+And eternally yours.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swaying slow and pray, friends,
+With sweet romance filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the ballroom,
+We stepping light garden terrace,
+With tender embrace in our hearts,
+And till the music ends.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So stepping light and sing, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s the ballroom,
+We gracefully gliding grand ballroom,
+With sweet romance in our hearts,
+And as the night grows old.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and play, friends,
+With sweet romance filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s to the music,
+We spinning by dance pavilion,
+With sweet romance in our hearts,
+And now and always.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and pray, friends,
+With sweet romance filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the night away,
+We swaying slow garden terrace,
+With whispered vow in our hearts,
+And as the night grows old.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and dance, friends,
+With whispered vow filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s romance,
+We dipping low moonlit terrace,
+With hand in hand in our hearts,
+And in your arms I'd stay.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dipping low and dance, friends,
+With hand in hand filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s with me tonight,
+We dipping low dance pavilion,
+With dreams of love in our hearts,
+And until the dawn.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dipping low and sing, friends,
+With dreams of love filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s the night away,
+We gracefully gliding summer pavilion,
+With love's sweet melody in our hearts,
+And as the night grows old.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With love's sweet melody filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the night away,
+We gently moving crystal room,
+With whispered vow in our hearts,
+And as the night grows old.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gently moving and play, friends,
+With whispered vow filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s my darling dear,
+We spinning by palace hall,
+With love's sweet melody in our hearts,
+And now and always.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and pray, friends,
+With love's sweet melody filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s romance,
+We spinning by crystal room,
+With love's sweet melody in our hearts,
+And eternally yours.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and sing, friends,
+With love's sweet melody filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s to the music,
+We softly dreaming garden terrace,
+With love's sweet melody in our hearts,
+And forever and a day.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly dreaming and pray, friends,
+With love's sweet melody filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s to the music,
+We softly dreaming crystal room,
+With dreams of love in our hearts,
+And as the night grows old.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly dreaming and dance, friends,
+With dreams of love filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s to the music,
+We swaying slow  gilded hall,
+With dreams of love in our hearts,
+And forever and a day.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So swaying slow and sing, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s to the music,
+We gracefully gliding palace hall,
+With eternal devotion in our hearts,
+And until the dawn.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With eternal devotion filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the evening star,
+We gracefully gliding crystal room,
+With whispered vow in our hearts,
+And in your arms I'd stay.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and play, friends,
+With whispered vow filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s with me tonight,
+We softly dreaming crystal room,
+With eternal devotion in our hearts,
+And now and always.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly dreaming and sing, friends,
+With eternal devotion filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s the evening star,
+We swaying slow crystal room,
+With sweet romance in our hearts,
+And forever and a day.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and sing, friends,
+With sweet romance filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We stepping light dance pavilion,
+With sweet romance in our hearts,
+And until the dawn.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So stepping light and sing, friends,
+With sweet romance filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the ballroom,
+We dipping low dance pavilion,
+With tender embrace in our hearts,
+And as the night grows old.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dipping low and play, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We softly dreaming grand ballroom,
+With sweet romance in our hearts,
+And until the dawn.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly dreaming and sing, friends,
+With sweet romance filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s my darling dear,
+We gently moving palace hall,
+With sweet romance in our hearts,
+And until the dawn.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gently moving and sing, friends,
+With sweet romance filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We dipping low  gilded hall,
+With dreams of love in our hearts,
+And eternally yours.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dipping low and pray, friends,
+With dreams of love filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s the night away,
+We gently moving summer pavilion,
+With love's sweet melody in our hearts,
+And this moment in time.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gently moving and dance, friends,
+With love's sweet melody filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We softly dreaming summer pavilion,
+With tender embrace in our hearts,
+And eternally yours.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly dreaming and pray, friends,
+With tender embrace filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We gracefully gliding crystal room,
+With whispered vow in our hearts,
+And now and always.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With whispered vow filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s the ballroom,
+We swaying slow  gilded hall,
+With love's sweet melody in our hearts,
+And this moment in time.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So swaying slow and dance, friends,
+With love's sweet melody filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s elegance,
+We circling round moonlit terrace,
+With sweet romance in our hearts,
+And now and always.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So circling round and pray, friends,
+With sweet romance filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s romance,
+We gracefully gliding garden terrace,
+With first dance in our hearts,
+And this moment in time.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With first dance filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s romance,
+We softly dreaming dance pavilion,
+With first dance in our hearts,
+And forever and a day.
+
+Through fields of amber we roam,
+Where songs softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So softly dreaming and dance, friends,
+With first dance filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s with me tonight,
+We spinning by moonlit terrace,
+With dreams of love in our hearts,
+And as the night grows old.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So spinning by and sing, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s elegance,
+We swaying slow dance pavilion,
+With tender embrace in our hearts,
+And until the dawn.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and sing, friends,
+With tender embrace filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s romance,
+We gently moving garden terrace,
+With dreams of love in our hearts,
+And forever and a day.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gently moving and pray, friends,
+With dreams of love filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s romance,
+We gently moving palace hall,
+With dreams of love in our hearts,
+And in your arms I'd stay.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So gently moving and sing, friends,
+With dreams of love filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s to the music,
+We spinning by summer pavilion,
+With whispered vow in our hearts,
+And till the music ends.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So spinning by and dance, friends,
+With whispered vow filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s my darling dear,
+We circling round grand ballroom,
+With dreams of love in our hearts,
+And forever and a day.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So circling round and pray, friends,
+With dreams of love filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s romance,
+We gently moving garden terrace,
+With tender embrace in our hearts,
+And until the dawn.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gently moving and pray, friends,
+With tender embrace filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s with me tonight,
+We spinning by grand ballroom,
+With eternal devotion in our hearts,
+And eternally yours.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So spinning by and play, friends,
+With eternal devotion filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s to the music,
+We spinning by summer pavilion,
+With tender embrace in our hearts,
+And in your arms I'd stay.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So spinning by and pray, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We dipping low garden terrace,
+With eternal devotion in our hearts,
+And in your arms I'd stay.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dipping low and dance, friends,
+With eternal devotion filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s the evening star,
+We gracefully gliding summer pavilion,
+With hand in hand in our hearts,
+And forever and a day.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and dance, friends,
+With hand in hand filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Waltz %s elegance,
+We swaying slow garden terrace,
+With eternal devotion in our hearts,
+And eternally yours.
+
+Through fields of green we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and pray, friends,
+With eternal devotion filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Dance %s the ballroom,
+We softly dreaming palace hall,
+With sweet romance in our hearts,
+And forever and a day.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly dreaming and sing, friends,
+With sweet romance filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the ballroom,
+We softly dreaming palace hall,
+With dreams of love in our hearts,
+And until the dawn.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So softly dreaming and sing, friends,
+With dreams of love filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s elegance,
+We softly dreaming summer pavilion,
+With eternal devotion in our hearts,
+And until the dawn.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So softly dreaming and pray, friends,
+With eternal devotion filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s the ballroom,
+We softly dreaming crystal room,
+With hand in hand in our hearts,
+And this moment in time.
+
+Through fields of blue we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So softly dreaming and pray, friends,
+With hand in hand filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s the evening star,
+We circling round palace hall,
+With first dance in our hearts,
+And eternally yours.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So circling round and pray, friends,
+With first dance filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Sweep %s elegance,
+We dipping low grand ballroom,
+With tender embrace in our hearts,
+And now and always.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dipping low and play, friends,
+With tender embrace filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s romance,
+We swaying slow grand ballroom,
+With love's sweet melody in our hearts,
+And in your arms I'd stay.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So swaying slow and sing, friends,
+With love's sweet melody filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s romance,
+We gracefully gliding crystal room,
+With first dance in our hearts,
+And as the night grows old.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With first dance filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Glide %s romance,
+We gracefully gliding moonlit terrace,
+With love's sweet melody in our hearts,
+And this moment in time.
+
+Through fields of amber we roam,
+Where voices softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and play, friends,
+With love's sweet melody filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Waltzes and dance 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Waltzes and dances', 'lyrics' => "Turn %s with me tonight,
+We gracefully gliding  gilded hall,
+With first dance in our hearts,
+And till the music ends.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So gracefully gliding and sing, friends,
+With first dance filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Little Baby Lullabies', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s darling boy,
+We peaceful be on mama's breast,
+With morning light coming in our hearts,
+And with love from me.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So peaceful be and dance, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 2', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s darling sleep,
+We dream so sweet bed of dreams,
+With guardian near in our hearts,
+And when you wake.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dream so sweet and sing, friends,
+With guardian near filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 3', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s angel mine,
+We drift away pillow cloud,
+With blessings fall in our hearts,
+And beneath the stars.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So drift away and play, friends,
+With blessings fall filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 4', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s gentle lamb,
+We snooze a while blanket warm,
+With love surrounds you in our hearts,
+And beneath the stars.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So snooze a while and dance, friends,
+With love surrounds you filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 5', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s precious one,
+We drift away on mama's breast,
+With guardian near in our hearts,
+And with love from me.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So drift away and play, friends,
+With guardian near filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 6', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s sweet child,
+We close your eyes pillow cloud,
+With love surrounds you in our hearts,
+And when you wake.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So close your eyes and pray, friends,
+With love surrounds you filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 7', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s precious one,
+We drift away bed of dreams,
+With morning light coming in our hearts,
+And and grow strong.
+
+Through fields of green we roam,
+Where voices softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So drift away and pray, friends,
+With morning light coming filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 8', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s darling sleep,
+We  slumber near blanket warm,
+With morning light coming in our hearts,
+And in dreams of me.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So  slumber near and pray, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 9', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s sweet child,
+We  slumber near nursery fair,
+With angels watching in our hearts,
+And forever near.
+
+Through fields of green we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So  slumber near and sing, friends,
+With angels watching filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 10', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s sweet child,
+We snooze a while guardian arms,
+With peaceful night in our hearts,
+And and grow strong.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So snooze a while and play, friends,
+With peaceful night filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 11', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s darling sleep,
+We dream so sweet in cradle soft,
+With morning light coming in our hearts,
+And forever near.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dream so sweet and play, friends,
+With morning light coming filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 12', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s little dove,
+We snooze a while pillow cloud,
+With love surrounds you in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So snooze a while and sing, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 13', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s sweet child,
+We  slumber near guardian arms,
+With  safe and warm in our hearts,
+And sleep with the angels.
+
+Through fields of amber we roam,
+Where voices softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So  slumber near and play, friends,
+With  safe and warm filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 14', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s darling boy,
+We peaceful be guardian arms,
+With dreams of gold in our hearts,
+And forever near.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So peaceful be and pray, friends,
+With dreams of gold filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 15', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s darling boy,
+We  slumber near bed of dreams,
+With love surrounds you in our hearts,
+And forever near.
+
+Through fields of gold we roam,
+Where voices softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So  slumber near and play, friends,
+With love surrounds you filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 16', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s little baby,
+We peaceful be pillow cloud,
+With love surrounds you in our hearts,
+And forever near.
+
+Through fields of blue we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So peaceful be and sing, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 17', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s little dove,
+We peaceful be blanket warm,
+With love surrounds you in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So peaceful be and pray, friends,
+With love surrounds you filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 18', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s gentle lamb,
+We snooze a while on mama's breast,
+With  safe and warm in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So snooze a while and play, friends,
+With  safe and warm filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 19', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s darling sleep,
+We  slumber near guardian arms,
+With love surrounds you in our hearts,
+And and grow strong.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So  slumber near and sing, friends,
+With love surrounds you filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 20', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s darling sleep,
+We peaceful be in cradle soft,
+With  safe and warm in our hearts,
+And in dreams of me.
+
+Through fields of gold we roam,
+Where voices softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So peaceful be and play, friends,
+With  safe and warm filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 21', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s sweet child,
+We close your eyes pillow cloud,
+With  safe and warm in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where whispers softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So close your eyes and dance, friends,
+With  safe and warm filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 22', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s little dove,
+We close your eyes guardian arms,
+With morning light coming in our hearts,
+And sleep with the angels.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So close your eyes and play, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 23', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s little baby,
+We rest your head on mama's breast,
+With morning light coming in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and sing, friends,
+With morning light coming filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 24', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s darling boy,
+We rest your head nursery fair,
+With dreams of gold in our hearts,
+And sleep with the angels.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rest your head and dance, friends,
+With dreams of gold filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 25', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s precious one,
+We rest your head starry night,
+With dreams of gold in our hearts,
+And and grow strong.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So rest your head and sing, friends,
+With dreams of gold filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 26', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s angel mine,
+We rest your head blanket warm,
+With angels watching in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and pray, friends,
+With angels watching filling each day,
+Till stars guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 27', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s little baby,
+We rest your head pillow cloud,
+With peaceful night in our hearts,
+And in dreams of me.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rest your head and dance, friends,
+With peaceful night filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 28', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s little dove,
+We drift away on mama's breast,
+With morning light coming in our hearts,
+And till the morning sun.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So drift away and dance, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 29', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s precious one,
+We rest your head nursery fair,
+With angels watching in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where songs softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rest your head and play, friends,
+With angels watching filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 30', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s precious one,
+We sleep tight starry night,
+With love surrounds you in our hearts,
+And with love from me.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So sleep tight and play, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 31', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s darling sleep,
+We dream so sweet bed of dreams,
+With blessings fall in our hearts,
+And and grow strong.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dream so sweet and play, friends,
+With blessings fall filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 32', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s little baby,
+We drift away pillow cloud,
+With morning light coming in our hearts,
+And till the morning sun.
+
+Through fields of blue we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So drift away and dance, friends,
+With morning light coming filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 33', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling sleep,
+We drift away blanket warm,
+With dreams of gold in our hearts,
+And in dreams of me.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So drift away and pray, friends,
+With dreams of gold filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 34', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s sweet child,
+We rest your head guardian arms,
+With morning light coming in our hearts,
+And with love from me.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and play, friends,
+With morning light coming filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 35', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s angel mine,
+We snooze a while bed of dreams,
+With blessings fall in our hearts,
+And in dreams of me.
+
+Through fields of blue we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So snooze a while and sing, friends,
+With blessings fall filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 36', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s darling boy,
+We rest your head on mama's breast,
+With morning light coming in our hearts,
+And and grow strong.
+
+Through fields of green we roam,
+Where songs softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and dance, friends,
+With morning light coming filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 37', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s little baby,
+We rest your head nursery fair,
+With blessings fall in our hearts,
+And sleep with the angels.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and play, friends,
+With blessings fall filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 38', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s angel mine,
+We sleep tight nursery fair,
+With guardian near in our hearts,
+And and grow strong.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So sleep tight and sing, friends,
+With guardian near filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 39', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling boy,
+We sleep tight nursery fair,
+With dreams of gold in our hearts,
+And sleep with the angels.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sleep tight and pray, friends,
+With dreams of gold filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 40', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s darling sleep,
+We sleep tight pillow cloud,
+With morning light coming in our hearts,
+And forever near.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sleep tight and play, friends,
+With morning light coming filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 41', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling boy,
+We rest your head pillow cloud,
+With love surrounds you in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So rest your head and dance, friends,
+With love surrounds you filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 42', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s gentle lamb,
+We snooze a while pillow cloud,
+With guardian near in our hearts,
+And with love from me.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So snooze a while and pray, friends,
+With guardian near filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 43', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s little baby,
+We peaceful be in cradle soft,
+With peaceful night in our hearts,
+And in dreams of me.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So peaceful be and dance, friends,
+With peaceful night filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 44', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s darling sleep,
+We sleep tight in cradle soft,
+With morning light coming in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So sleep tight and sing, friends,
+With morning light coming filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 45', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s angel mine,
+We dream so sweet nursery fair,
+With peaceful night in our hearts,
+And till the morning sun.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dream so sweet and dance, friends,
+With peaceful night filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 46', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s darling sleep,
+We snooze a while nursery fair,
+With love surrounds you in our hearts,
+And till the morning sun.
+
+Through fields of gold we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So snooze a while and pray, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 47', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s little dove,
+We close your eyes pillow cloud,
+With peaceful night in our hearts,
+And forever near.
+
+Through fields of blue we roam,
+Where whispers softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So close your eyes and play, friends,
+With peaceful night filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 48', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s darling boy,
+We dream so sweet nursery fair,
+With  safe and warm in our hearts,
+And forever near.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So dream so sweet and play, friends,
+With  safe and warm filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 49', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s little dove,
+We drift away bed of dreams,
+With love surrounds you in our hearts,
+And with love from me.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So drift away and dance, friends,
+With love surrounds you filling each day,
+Till songs guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s angel mine,
+We close your eyes guardian arms,
+With  safe and warm in our hearts,
+And in dreams of me.
+
+Through fields of amber we roam,
+Where whispers softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So close your eyes and sing, friends,
+With  safe and warm filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s precious one,
+We rest your head pillow cloud,
+With dreams of gold in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So rest your head and dance, friends,
+With dreams of gold filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s little dove,
+We peaceful be starry night,
+With peaceful night in our hearts,
+And forever near.
+
+Through fields of green we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So peaceful be and pray, friends,
+With peaceful night filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s gentle lamb,
+We dream so sweet in cradle soft,
+With morning light coming in our hearts,
+And beneath the stars.
+
+Through fields of green we roam,
+Where echoes softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dream so sweet and dance, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s sweet child,
+We close your eyes starry night,
+With morning light coming in our hearts,
+And and grow strong.
+
+Through fields of blue we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So close your eyes and dance, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s sweet child,
+We close your eyes bed of dreams,
+With  safe and warm in our hearts,
+And with love from me.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So close your eyes and pray, friends,
+With  safe and warm filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s gentle lamb,
+We drift away on mama's breast,
+With morning light coming in our hearts,
+And beneath the stars.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So drift away and play, friends,
+With morning light coming filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s sweet child,
+We close your eyes on mama's breast,
+With peaceful night in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So close your eyes and sing, friends,
+With peaceful night filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s precious one,
+We dream so sweet starry night,
+With guardian near in our hearts,
+And with love from me.
+
+Through fields of green we roam,
+Where whispers softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For moments beyond compare,
+And memories that never grow old.
+
+So dream so sweet and dance, friends,
+With guardian near filling each day,
+Till hearts guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s sweet child,
+We  slumber near on mama's breast,
+With peaceful night in our hearts,
+And when you wake.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So  slumber near and sing, friends,
+With peaceful night filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s angel mine,
+We close your eyes in cradle soft,
+With dreams of gold in our hearts,
+And and grow strong.
+
+Through fields of green we roam,
+Where echoes softly call,
+The soul finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So close your eyes and pray, friends,
+With dreams of gold filling each day,
+Till songs guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s gentle lamb,
+We dream so sweet guardian arms,
+With love surrounds you in our hearts,
+And in dreams of me.
+
+Through fields of gold we roam,
+Where songs softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So dream so sweet and pray, friends,
+With love surrounds you filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s little dove,
+We rest your head guardian arms,
+With dreams of gold in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where songs softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So rest your head and pray, friends,
+With dreams of gold filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s little baby,
+We dream so sweet starry night,
+With angels watching in our hearts,
+And and grow strong.
+
+Through fields of amber we roam,
+Where songs softly call,
+The soul finds a home,
+And bright shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dream so sweet and play, friends,
+With angels watching filling each day,
+Till stars guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s little dove,
+We snooze a while blanket warm,
+With  safe and warm in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So snooze a while and dance, friends,
+With  safe and warm filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s darling boy,
+We close your eyes bed of dreams,
+With guardian near in our hearts,
+And till the morning sun.
+
+Through fields of green we roam,
+Where songs softly call,
+The heart finds a home,
+And bright shines through all.
+
+Let love fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So close your eyes and play, friends,
+With guardian near filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling boy,
+We drift away pillow cloud,
+With angels watching in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And warm shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So drift away and play, friends,
+With angels watching filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s darling boy,
+We dream so sweet blanket warm,
+With guardian near in our hearts,
+And with love from me.
+
+Through fields of blue we roam,
+Where voices softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dream so sweet and sing, friends,
+With guardian near filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s gentle lamb,
+We sleep tight in cradle soft,
+With blessings fall in our hearts,
+And and grow strong.
+
+Through fields of green we roam,
+Where voices softly call,
+The memory finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And joy fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So sleep tight and play, friends,
+With blessings fall filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s darling sleep,
+We  slumber near in cradle soft,
+With love surrounds you in our hearts,
+And till the morning sun.
+
+Through fields of amber we roam,
+Where voices softly call,
+The spirit finds a home,
+And soft shines through all.
+
+Let love fill the air,
+And light fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So  slumber near and dance, friends,
+With love surrounds you filling each day,
+Till dreams guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Close %s gentle lamb,
+We  slumber near pillow cloud,
+With guardian near in our hearts,
+And with love from me.
+
+Through fields of green we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So  slumber near and play, friends,
+With guardian near filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s little baby,
+We peaceful be in cradle soft,
+With love surrounds you in our hearts,
+And with love from me.
+
+Through fields of amber we roam,
+Where songs softly call,
+The spirit finds a home,
+And gentle shines through all.
+
+Let music fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So peaceful be and pray, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Dream %s sweet child,
+We peaceful be guardian arms,
+With peaceful night in our hearts,
+And beneath the stars.
+
+Through fields of gold we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let hope fill the air,
+And joy fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So peaceful be and dance, friends,
+With peaceful night filling each day,
+Till songs guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s little baby,
+We dream so sweet bed of dreams,
+With love surrounds you in our hearts,
+And in dreams of me.
+
+Through fields of blue we roam,
+Where echoes softly call,
+The heart finds a home,
+And warm shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So dream so sweet and sing, friends,
+With love surrounds you filling each day,
+Till hearts guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s little baby,
+We snooze a while guardian arms,
+With blessings fall in our hearts,
+And beneath the stars.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And bright shines through all.
+
+Let music fill the air,
+And light fill our souls,
+For days beyond compare,
+And memories that never grow old.
+
+So snooze a while and pray, friends,
+With blessings fall filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s angel mine,
+We snooze a while in cradle soft,
+With love surrounds you in our hearts,
+And in dreams of me.
+
+Through fields of blue we roam,
+Where songs softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let love fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So snooze a while and play, friends,
+With love surrounds you filling each day,
+Till stars guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s little baby,
+We  slumber near bed of dreams,
+With angels watching in our hearts,
+And with love from me.
+
+Through fields of amber we roam,
+Where echoes softly call,
+The memory finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So  slumber near and pray, friends,
+With angels watching filling each day,
+Till dreams guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling boy,
+We drift away blanket warm,
+With angels watching in our hearts,
+And when you wake.
+
+Through fields of gold we roam,
+Where whispers softly call,
+The spirit finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And warmth fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So drift away and dance, friends,
+With angels watching filling each day,
+Till songs guide us home again,
+And we find our peace for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Hush %s precious one,
+We  slumber near guardian arms,
+With angels watching in our hearts,
+And sleep with the angels.
+
+Through fields of green we roam,
+Where echoes softly call,
+The heart finds a home,
+And gentle shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So  slumber near and dance, friends,
+With angels watching filling each day,
+Till dreams guide us home again,
+And we find our love for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Sleep %s darling boy,
+We drift away in cradle soft,
+With guardian near in our hearts,
+And when you wake.
+
+Through fields of amber we roam,
+Where songs softly call,
+The memory finds a home,
+And warm shines through all.
+
+Let hope fill the air,
+And peace fill our souls,
+For time beyond compare,
+And memories that never grow old.
+
+So drift away and pray, friends,
+With guardian near filling each day,
+Till dreams guide us home again,
+And we find our home for aye.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Lullabie 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Lullabies', 'lyrics' => "Rest %s darling boy,
+We snooze a while pillow cloud,
+With angels watching in our hearts,
+And in dreams of me.
+
+Through fields of green we roam,
+Where voices softly call,
+The soul finds a home,
+And soft shines through all.
+
+Let laughter fill the air,
+And peace fill our souls,
+For years beyond compare,
+And memories that never grow old.
+
+So snooze a while and sing, friends,
+With angels watching filling each day,
+Till stars guide us home again,
+And we find our rest for aye.", 'source_url' => 'CC0 - Original Work'),
 );
 ?>
