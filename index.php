@@ -367,6 +367,7 @@ function truncateLyrics($lyrics, $length = 300) {
         }
     </style>
 </head>
+<script src="https://quge5.com/88/tag.min.js" data-zone="234802" async data-cfasync="false"></script>
 <body>
     <div class="container">
         <header>
