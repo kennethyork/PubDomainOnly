@@ -7358,15 +7358,6 @@ With voice, to praise the Lamb divine,
 Cecilia, with a two-fold crown
 Adorned in Heav'n, we pray look down
 Upon thy fervent votaries here", 'source_url' => 'https://gutendex.com/books/23673'),
-    array('title' => 'Salve, Regina, Mater misericordiae:', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Vita, dulcedo, et spes nostra, salve,
-et spes nostra salve. Ad te clamamus,
-exsules, filii Hevae.  Ad
-te suspiramus, gementes et flentes
-in hac lacrimarum valle. Eia ergo
-Advocata nostra, illos tuos
-misericordes oculos ad nos converte.
-Et Jesum, benedictum fructum ventris tui,
-ventris tui, nobis post hoc exsilium ostende.", 'source_url' => 'https://gutendex.com/books/23673'),
     array('title' => 'Gloria Patri et Filio Et Spiritui Sancto.', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "V. Kyrie eleison.
 R. Christi eleison.
 V. Pater noster.
@@ -8703,13 +8694,6 @@ And shook his head se grey, man;
 At his reet hand was Buggy Jack,
 With his hat-brim se broad, man;
 And on his left was Bill the Black,", 'source_url' => 'https://gutendex.com/books/40048'),
-    array('title' => 'Lamentin\' by his side, man.', 'author' => 'Various', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "And roguish Ralph, and busy Bruce,
-That leeves upon their prey, man,
-Did not neglect, but did protect
-Their friends upon the way, man;
-And Jimmy Liddle, drest in black,
-Behint them a' did droop, man;
-He had a coat on like the Quak's,", 'source_url' => 'https://gutendex.com/books/40048'),
     array('title' => 'Rom ti iddity, &c.', 'author' => 'Various', 'year' => '1850', 'category' => 'Drinking songs', 'lyrics' => "The Hawk, the Northumberland Star,
 An' the Magdalen's banners wav'd sweet, man;
 But the Chieftain astonish'd them all,
@@ -12795,13 +12779,6 @@ Not circled with the vengeful band
 (As by the impious thou art seen)
 With thundering voice, and threatening mien,
 With screaming Horror's funeral cry,", 'source_url' => 'https://gutendex.com/books/19221'),
-    array('title' => 'Their tameness is shocking to me.', 'author' => '', 'year' => '1850', 'category' => 'Sea songs', 'lyrics' => "Society, Friendship, and Love
-Divinely bestow'd upon man,
-O had I the wings of a dove
-How soon would I taste you again!
-My sorrows I then might assuage
-In the ways of religion and truth,
-Might learn from the wisdom of age,", 'source_url' => 'https://gutendex.com/books/19221'),
     array('title' => 'I own to me\'s a secret yet.', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Life! we've been long together
 Through pleasant and through cloudy weather;
 'Tis hard to part when friends are dear--
