@@ -1165,5 +1165,275 @@ The collection plate is passed along,
 With coins that jingle clear,
 Sweet charity that starts at home,
 Is love that knows no boundary.", 'source_url' => ''),
+    array('title' => 'Morning Hymn', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "I raise my voice at dawning light,
+To greet the day with song,
+The birds join in their chorus sweet,
+As shadows fade along.
+
+The sun ascends on golden path,
+To chase the night away,
+A morning hymn of gratitude,
+Is sung at start of day.", 'source_url' => ''),
+    array('title' => 'Tobacco Road', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Down old Tobacco Road we walk,
+Where the fields stretch wide,
+The curing barns smell sweet and strong,
+With tobacco leaves dried.
+
+Grandfather farmed this very land,
+His roots sank deep and true,
+Tobacco Road remembers him,
+In fields of green and blue.", 'source_url' => ''),
+    array('title' => 'Dixie Land', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "In Dixie Land where magnolias bloom,
+The summers hot and long,
+The fireflies dance on summer nights,
+To jasmine-scented song.
+
+The Mississippi flows so wide,
+By cotton fields and cane,
+Dixie Land holds memories,
+Of sun and Spanish moss rain.", 'source_url' => ''),
+    array('title' => 'Prairie Schooner', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The prairie schooner rolled west,
+On wagon trains of old,
+The families seeking new frontier,
+Their stories to be told.
+
+The canvas top flapped in the wind,
+As pioneers pressed on,
+A prairie schooner carrying dreams,
+Until the journey done.", 'source_url' => ''),
+    array('title' => 'Coal Smoke Morning', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Coal smoke rises in the morn,
+From chimneys tall and black,
+The miners wake before the sun,
+To go and bring some back.
+
+The company store stands nearby,
+Where credit barely scores,
+Coal smoke morning starts the shift,
+That leaves black dust on doors.", 'source_url' => ''),
+    array('title' => 'Old Gospel Choir', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "The old gospel choir sways and sways,
+Their voices lift as one,
+The amen sounds ring through the pews,
+Until the hour is done.
+
+The hymns of faith pass down through years,
+From mothers to their daughters,
+An old gospel choir lifts the soul,
+Like spiritual waters.", 'source_url' => ''),
+    array('title' => 'Cajun Bayou', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The bayou winds through cypress trees,
+Where alligators glide,
+The fiddles play Cajun music,
+That makes you want to ride.
+
+The crawfish boil in pots so large,
+The zydeco plays on,
+Cajun bayou good times roll,
+From dusk until the dawn.", 'source_url' => ''),
+    array('title' => 'Bells of Saint Mary\'s', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The bells of Saint Mary's ring,
+Across the valley wide,
+Calling faithful to the church,
+Where prayers are said inside.
+
+The choir sings the vespers hour,
+The organ fills the nave,
+Bells of Saint Mary's tolling call,
+Is what the faithful crave.", 'source_url' => ''),
+    array('title' => 'Buffalo Gals', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Buffalo gals won't you come out tonight,
+And dance by the light of the moon,
+The fellas there waiting all around the square,
+Just to dance with someone soon.
+
+The fiddles tune and fiddles play,
+The couples swing and spin,
+Buffalo gals and boys so gay,
+Are gathering within.", 'source_url' => ''),
+    array('title' => 'Blue Moon Rising', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "A blue moon rising over the bay,
+Reflects on waters still,
+The lighthouse beam sweeps through the night,
+The distant ships to fill.
+
+The harbor sleeps beneath its glow,
+Its anchor safely moored,
+A blue moon rising peaceful above,
+Cannot be ignored.", 'source_url' => ''),
+    array('title' => 'Crying Towhee', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The towhee cries in underbrush,
+Its call is sharp and clear,
+The summer mornings filled with song,
+Of birds we hold most dear.
+
+The scratching at the fallen leaves,
+Reveals the seeds they've stored,
+A towhee crying in the heat,
+Of summer being toward.", 'source_url' => ''),
+    array('title' => 'Old Sawmill', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "The sawmill buzzes all day long,
+The sawdust fills the air,
+The log carriage moves back and forth,
+With timber cut with care.
+
+The saw blade spins with teeth so sharp,
+To make the boards so fine,
+An old sawmill in the woods,
+Turns trees to building shine.", 'source_url' => ''),
+    array('title' => 'Harvest Festival', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The harvest festival comes round,
+With pies and crafts display,
+The scarecrow contest winner stands,
+In hay bale display.
+
+The Ferris wheel turns slow and high,
+The caramel apples sweet,
+A harvest festival gathering,
+Of neighbors that we meet.", 'source_url' => ''),
+    array('title' => 'Gentle Rain', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "A gentle rain falls soft today,
+On garden rows so neat,
+The drought has ended finally,
+The farmers' hearts beat light.
+
+The gutters stream with water clear,
+The barrels overflow,
+A gentle rain on parched earth,
+Is what the garden grows.", 'source_url' => ''),
+    array('title' => 'Mountain Laurel', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The mountain laurel blooms so pink,
+On rocky slopes so high,
+The hikers stop to admire the view,
+Of mountains touching sky.
+
+The state flower blooms in spring,
+In thickets along the trail,
+Mountain laurel wild and free,
+Grows on the windy ridge steep and pale.", 'source_url' => ''),
+    array('title' => 'Cowboy Lullaby', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Sleep little calf in the hayloft warm,
+Your mother in the barn below,
+The moon shines through the rafters high,
+Where cricket lullabies flow.
+
+Close your eyes now little one,
+The stars watch from above,
+A cowboy lullaby to sleep,
+Under mother's love.", 'source_url' => ''),
+    array('title' => 'Storms on the Horizon', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Storms on the horizon draw near,
+The barometer drops fast,
+The fishermen hurry to shore,
+Their nets gathered in haste.
+
+The lighthouse keeper trims the wick,
+The boat secured at dock,
+Storms on the horizon call,
+For those who know the rock.", 'source_url' => ''),
+    array('title' => 'Buttercup Field', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "We run through buttercup fields,
+With petals in our hair,
+The yellow blooms so bright and bold,
+That cover meadows fair.
+
+Mother said don't pick them all,
+They need to seed and grow,
+But buttercup fields bring such joy,
+Of summer's golden glow.", 'source_url' => ''),
+    array('title' => 'Dust Bowl Days', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "The dust bowl days were hard and long,
+The topsoil blew away,
+The Okies packed their belongings,
+On Route Sixty-Six they traveled every day.
+
+The family car stuffed full of all,
+They owned upon the earth,
+Dust bowl days of losing farms,
+Was economic curse.", 'source_url' => ''),
+    array('title' => 'New England Autumn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "New England autumn paints the hills,
+In orange, red, and gold,
+The apple cider fresh pressed,
+Is worth more than its weight in cold.
+
+The stone walls line the property,
+The pumpkins on the vine,
+New England autumn beauty bold,
+Is a seasonal sign.", 'source_url' => ''),
+    array('title' => 'Old Gospel Morning', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "It's a new day dawning in my soul,
+The old gospel says I'll survive,
+Through all the troubles and trials,
+I've learned that love keeps hope alive.
+
+The choir rocks with hallelujahs,
+The amen echoes long,
+An old gospel morning brings new grace,
+Where faith keeps holding on.", 'source_url' => ''),
+    array('title' => 'Amish Quilt', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Amish quilt is pieced by hand,
+With patterns intricate,
+Each stitch so small and hidden well,
+Makes warmth for those cold nights.
+
+The geometric designs show,
+A patience learned through years,
+An Amish quilt made carefully,
+Will last beyond our tears.", 'source_url' => ''),
+    array('title' => 'Blue Ridge Morn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Blue Ridge mountains catch the dawn,
+Their peaks catch first the light,
+The mist hangs low in valley deep,
+A truly glorious sight.
+
+The Shenandoah flows through hills,
+Where history was made,
+Blue Ridge morn brings beauty still,
+That never seems to fade.", 'source_url' => ''),
+    array('title' => 'Fiddle\'s Farewell', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The fiddle played its final note,
+The last dance was complete,
+The fiddler laid down his bow at last,
+To join the night's retreat.
+
+The dance hall empty now stands still,
+With memories inside,
+A fiddle's farewell to the stage,
+Where musicians once tried.", 'source_url' => ''),
+    array('title' => 'Rodeo Days', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The rodeo comes to town this week,
+The bulls and broncos buck,
+The cowboys in their chaps so tight,
+Try their luck.
+
+The crowd roars loud for cowboy rides,
+On beasts that twist and jump,
+Rodeo days are exciting,
+At the arena we gather and pump.", 'source_url' => ''),
+    array('title' => 'Sweet Magnolia', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Sweet magnolia blooms so white,
+Perfume fills the southern air,
+Her charm is like the moonlight,
+That makes the night so fair.
+
+I found her beneath the shade,
+Of branches low and green,
+Sweet magnolia's gentle shade,
+Is the sweetest I have seen.", 'source_url' => ''),
+    array('title' => 'Steel Rail Song', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "The steel rail stretches cross the land,
+The iron horse's way,
+The railroad workers laid these tracks,
+To connect both coast and bay.
+
+The steam engine's whistle blows,
+Its smoke stacks belching soot,
+A steel rail song of industry,
+Put America on the route.", 'source_url' => ''),
+    array('title' => 'Lighthouse Keeper\'s Wife', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The lighthouse keeper's wife waits long,
+For his return from the tower,
+She tends the garden by the cliff,
+Through every storm-powered hour.
+
+The signal lamp burns through the fog,
+He tends it through the night,
+Lighthouse keeper's wife holds down,
+Until the morning light.", 'source_url' => ''),
+    array('title' => 'Country Churchyard', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The country churchyard on the hill,
+Has headstones worn by time,
+The names we cannot read no more,
+Mark souls once so sublime.
+
+The chapel bell no longer rings,
+The building now unused,
+A country churchyard on the hill,
+Is memory's excuse.", 'source_url' => ''),
+    array('title' => 'Frontier Doctor', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The frontier doctor rode his horse,
+To cabins in the wild,
+His saddlebag held hope and care,
+For pioneer fathers with child.
+
+The leeches and the laudanum,
+Were medicine of the day,
+A frontier doctor on the range,
+Was rarely paid in pay.", 'source_url' => ''),
 );
 ?>
