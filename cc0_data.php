@@ -491,5 +491,454 @@ The winter wind it nips our nose,
 But warmth comes from within,
 When shared with friends and loved ones dear,
 The cold cannot begin.", 'source_url' => ''),
+    array('title' => 'Desert Wind', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The desert wind whispers through the canyons,
+Where ancient spirits roam,
+The red rocks stand like guardians,
+Protecting sacred home.
+
+The tumbleweed rolls past abandoned towns,
+Where ghosts still tell their tales,
+Of pioneers who sought their fortune,
+On winding desert trails.", 'source_url' => ''),
+    array('title' => 'Lighthouse Keeper', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "I tend the light that guides the ships,
+Through fog and storm and night,
+My solitary watch begins,
+When darkness brings its blight.
+
+The beam sweeps far across the waves,
+Where sailors trust my ray,
+To bring them safely to the shore,
+At end of ocean's way.", 'source_url' => ''),
+    array('title' => 'Springtime Bloom', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The crocuses push through the snow,
+A promise of warm days,
+The robin builds her nest anew,
+In tree branches raised in praise.
+
+The streams run high with snowmelt fresh,
+The meadows wake from sleep,
+Springtime brings new life again,
+And promises to keep.", 'source_url' => ''),
+    array('title' => 'Old Barn Red', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old red barn stands tall and proud,
+Its weathervane spins slow,
+The hayloft holds a century's worth,
+Of harvest long ago.
+
+The paint peels but the bones are strong,
+Like memories that last,
+A weathered barn on farmland wide,
+Holds shadows of the past.", 'source_url' => ''),
+    array('title' => 'Distant Shores', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Beyond the waves where horizons meet,
+My thoughts drift out to sea,
+To distant shores where you might walk,
+And wonder still of me.
+
+The salt air carries prayers and dreams,
+That travel far and wide,
+To shores unknown across the deep,
+Where love and hope reside.", 'source_url' => ''),
+    array('title' => 'Moonlight Serenade', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Under the moonlight I sing to you,
+A melody soft and sweet,
+The stars above bear witness true,
+To love that feels so complete.
+
+Your silver light illuminates,
+The path that we both tread,
+A moonlight serenade from me,
+To the one I cherish instead.", 'source_url' => ''),
+    array('title' => 'Prairie Sunset', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The prairie stretches endless wide,
+Beneath a burning sky,
+Where cattle graze on grass so green,
+And cowboys sit nearby.
+
+The sun descends in orange blaze,
+A sight both vast and grand,
+The prairie holds its breath awhile,
+As stars begin to expand.", 'source_url' => ''),
+    array('title' => 'Childhood Summers', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Summer days of endless play,
+Bare feet on warm soil brown,
+The sprinkler's mist a rainbow mist,
+When summer sun comes down.
+
+We'd catch the fireflies at dusk,
+In mason jars with holes,
+Those childhood summers long ago,
+Still warm within our souls.", 'source_url' => ''),
+    array('title' => 'Library of Dreams', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Within the library of dreams,
+The bookshelves reach so high,
+The scent of old and musty pages,
+Makes grown-ups pause and sigh.
+
+The stories waiting on the shelves,
+Hold magic yet untold,
+A library of dreams within,
+Where wisdom is the gold.", 'source_url' => ''),
+    array('title' => 'Rainbow\'s Promise', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "After the storm the rainbow arcs,
+A promise from the sky,
+That sun will shine through clouds again,
+And warm the earth nearby.
+
+The colors bend from red to violet,
+Spanning hill and dale,
+A rainbow's promise ever holds,
+That hope will still prevail.", 'source_url' => ''),
+    array('title' => 'Fishing at Dawn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The mist rises from the lake so still,
+My line cast out with grace,
+The bobber floats like a duck's nest,
+In this quiet peaceful place.
+
+The heron stands on one leg tall,
+Awaiting fish so sly,
+While I sit patient in my boat,
+As morning hours fly by.", 'source_url' => ''),
+    array('title' => 'Autumn Harvest', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The orchards groan with fruit so ripe,
+The apples ready to fall,
+The cider press is cleaned and oiled,
+To catch the season's call.
+
+The farmers pick from dusk till dawn,
+The harvest bounty store,
+Another year of plenty comes,
+To feed the rich and poor.", 'source_url' => ''),
+    array('title' => 'Old Guitar\'s Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "My old guitar sits in the corner,
+Unplayed for years gone by,
+Its strings still hold their tuning true,
+Beneath the dust that lies.
+
+I strum a chord and feel the vibration,
+Of music from my past,
+The old guitar plays on for me,
+As memories hold fast.", 'source_url' => ''),
+    array('title' => 'Morning Dew', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The morning dew sits on the grass,
+Like diamonds bright and clear,
+It catches light before the sun,
+Disperses with our fear.
+
+Each droplet holds a million stars,
+Reflecting sky so blue,
+Morning dew on flowers fresh,
+A day brand new and true.", 'source_url' => ''),
+    array('title' => 'Mountain Stream', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The mountain stream jumps over rocks,
+Its waters pure and cold,
+It carries leaves and acorns small,
+As silver fish swim bold.
+
+The banks are lined with moss so green,
+Where ferns grow in the shade,
+A mountain stream that never dries,
+Has carved its own ravine.", 'source_url' => ''),
+    array('title' => 'Old Covered Bridge', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old covered bridge spans the creek,
+Its boards creak with each step,
+The roof keeps out both rain and snow,
+While we cross the deck.
+
+Generations pass beneath its beams,
+Of wood so old and worn,
+A covered bridge stands still today,
+Where horses once were born.", 'source_url' => ''),
+    array('title' => 'First Dance', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "We stepped onto the ballroom floor,
+My heart aflutter light,
+Your hand fit mine like perfect puzzle,
+On that first dance night.
+
+The orchestra played soft and sweet,
+We turned beneath the lights,
+Our first dance written in my heart,
+Among our fondest memories.", 'source_url' => ''),
+    array('title' => 'Farmhouse Kitchen', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The kitchen smells of bread and pie,
+With flour upon the floor,
+The wood stove warms the winter cold,
+As thunderstorms roar.
+
+Grandmother's recipes in the box,
+Held secrets we still keep,
+A farmhouse kitchen gathering place,
+Where love is learned to reap.", 'source_url' => ''),
+    array('title' => 'Starlight Campfire', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The campfire crackles bright and warm,
+Beneath the starry sky,
+The marshmallows we roast on sticks,
+Make shadows dance nearby.
+
+The stories shared around the flames,
+Will live in memory,
+A starlight campfire under skies,
+Full of wonder and of glee.", 'source_url' => ''),
+    array('title' => 'Ocean\'s Breath', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The ocean breathes with rhythm strong,
+Its waves rise and fall,
+The salt air fills my lungs with life,
+The sea calls to us all.
+
+The tidepools hide in rocky shores,
+Where crabs scuttle and play,
+An ocean's breath sustains my soul,
+At end of each new day.", 'source_url' => ''),
+    array('title' => 'Windmill Spins', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old windmill spins round and round,
+Its blades catch winter's breeze,
+It pumps the water from the well,
+To satisfy our needs.
+
+The creaking metal sounds so loud,
+Against the silent sky,
+A windmill stands through time so long,
+A sentinel nearby.", 'source_url' => ''),
+    array('title' => 'Penny Farthing Ride', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I pedaled hard on penny farthing,
+My balance rather poor,
+The front wheel large, the back quite small,
+I hit the garden floor.
+
+But still I mounted once again,
+With stubborn determination,
+To master this contraption fine,
+A marvel of the nation.", 'source_url' => ''),
+    array('title' => 'Midnight snowfall', 'author' => '', 'year' => '', 'category' => 'Christmas carols', 'lyrics' => "A midnight snowfall blankets all,
+The world turned white and still,
+The only sound is snowflake's soft,
+That covers window sill.
+
+The children slept with anticipation,
+Of snowman and of sled,
+A midnight snowfall frozen still,
+Beneath the moon that's shed.", 'source_url' => ''),
+    array('title' => 'Cactus Bloom', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The desert cactus blooms at night,
+A flower rare and fine,
+It draws the moth and moon bat,
+To taste its sweetness wine.
+
+The bloom will wilt by morning light,
+So brief its beauty shown,
+A desert cactus blooms at night,
+Yet makes the desert home.", 'source_url' => ''),
+    array('title' => 'Riverside Camp', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Our campfire smokes by riverside,
+The tent pegs firmly set,
+The river flows past our camp,
+Where we won't be late yet.
+
+The trout are jumping in the shallows,
+The bass lurk in the shade,
+A riverside camp peaceful spot,
+Where memories were made.", 'source_url' => ''),
+    array('title' => 'Old Porch Swing', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The porch swing sways in summer breeze,
+Where crickets sing all night,
+I sit with you in comfortable silence,
+Watching fireflies light.
+
+The neighbor's dog barks down the street,
+The ice cream truck rolls by,
+An old porch swing on summer nights,
+Beneath the starry sky.", 'source_url' => ''),
+    array('title' => 'Dawn\'s First Light', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Dawn's first light breaks over hills,
+A new day is begun,
+The rooster crows to wake the farm,
+To greet the morning sun.
+
+Each sunrise brings a chance anew,
+To start refreshed and clean,
+Dawn's first light upon the world,
+Makes all things seem serene.", 'source_url' => ''),
+    array('title' => 'Blacksmith\'s Anvil', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The blacksmith's hammer rings so clear,
+Against the anvil hot,
+Sparks fly like fireflies at night,
+From the iron they wrought.
+
+The horseshoe cooled in water bucket,
+Hisses with each dip,
+A blacksmith's trade passed down through years,
+Is work that none can skip.", 'source_url' => ''),
+    array('title' => 'Old Blue Jay', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The old blue jay sits on the fence,
+His feathers blue and white,
+He caws at us with attitude,
+A bully of the birds.
+
+He steals the seeds we put out,
+Chases sparrows away,
+An old blue jay with attitude,
+Makes吵闹 at our feeders all day.", 'source_url' => ''),
+    array('title' => 'Candlelit Dinner', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "The candles flicker soft tonight,
+The table set for two,
+Wine poured in crystal glasses gleams,
+As violins play through.
+
+A candlelit dinner for two,
+With love within the room,
+A perfect evening shared together,
+Where hearts entwine in bloom.", 'source_url' => ''),
+    array('title' => 'Forest Trail', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The forest trail winds through the pines,
+Where ferns grow thick and green,
+The sunlight filters through the canopy,
+A dappled dancing scene.
+
+The woodpecker drums on old bark,
+The deer step light and shy,
+A forest trail of wonder lies,
+Beneath the open sky.", 'source_url' => ''),
+    array('title' => 'Tractor in the Field', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The tractor rumbles through the field,
+Dust billows in its wake,
+The furrows turned in perfect rows,
+The farmers up at stake.
+
+The GPS guides every pass,
+Technology meets soil,
+A tractor works the land today,
+With precision tools.", 'source_url' => ''),
+    array('title' => 'Rainy Porch', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The rain taps on the porch roof,
+A rhythm soft and slow,
+I watch the puddles form below,
+As raindrops come and go.
+
+The thunder growls in distance far,
+The lightning flashes bright,
+A rainy porch is peaceful spot,
+To spend a stormy night.", 'source_url' => ''),
+    array('title' => 'Snowman Melody', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Frosty the snowman was a jolly happy soul,
+With a corncob pipe and a button nose,
+And eyes made out of coal.
+
+He's a fairy tale they say,
+Was made of snow,
+But friends we always stay,
+In our hearts he'll always glow.", 'source_url' => ''),
+    array('title' => 'Wind Chime Notes', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wind chimes ring when breezes blow,
+A melody so clear,
+It carries songs from somewhere far,
+To ears that want to hear.
+
+Each chime a note of music plays,
+Of nature's gentle art,
+A wind chime rings its song today,
+Upon my weary heart.", 'source_url' => ''),
+    array('title' => 'Old Stone Wall', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "An old stone wall through fields it winds,
+Built by hands now gone,
+The moss grows thick on each gray stone,
+Where generations walked upon.
+
+The wall may crumble, cracks appear,
+Yet still it stands today,
+An old stone wall a boundary,
+That time could not decay.", 'source_url' => ''),
+    array('title' => 'Cemetery Walk', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We walk through cemetery gates,
+Where ancestors lie still,
+The flags we place on Memorial Day,
+Their service to fulfill.
+
+The marble stones stand straight and true,
+The names we barely read,
+A cemetery walk reminds us,
+Of those who came before.", 'source_url' => ''),
+    array('title' => 'Honeysuckle Vine', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The honeysuckle vine climbs up,
+The old wooden fence row,
+Its fragrance sweet fills summer air,
+Where bees and butterflies go.
+
+The trumpet blooms of yellow white,
+Invite the hummingbird,
+A honeysuckle vine in bloom,
+Is summer's sweet reward.", 'source_url' => ''),
+    array('title' => 'Picnic Blanket', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The picnic blanket's spread out wide,
+Beneath the oak tree shade,
+The basket holds the lunch we packed,
+Of sandwiches we made.
+
+The ants parade in single file,
+To our feast they come,
+A picnic blanket on the grass,
+Makes summer afternoons fun.", 'source_url' => ''),
+    array('title' => 'Old Accordion Song', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old accordion squeezes out,
+A tune of polka beat,
+Its buttons worn from years of play,
+Make melodies complete.
+
+The squeeze box plays for dancing feet,
+Of those who still recall,
+An old accordion playing songs,
+That echo through the hall.", 'source_url' => ''),
+    array('title' => 'Morning Rooster', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The rooster crows at break of day,
+His voice rings far and wide,
+He's proud to herald morning light,
+With nature as his guide.
+
+The chickens cluck and peck the ground,
+The farm begins to wake,
+A rooster crows to start the day,
+A traditional song to make.", 'source_url' => ''),
+    array('title' => 'Campground Stars', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The campground sits beneath the stars,
+Where constellations bright,
+The Big Dipper guides our way,
+Through铺 from our campsite light.
+
+The wood smoke rises to the sky,
+The fire crackles low,
+Campground stars above our heads,
+Make darkness glow.", 'source_url' => ''),
+    array('title' => 'Apple Orchard', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The apple orchard in the fall,
+Is everyone's delight,
+The leaves turn red and orange bright,
+A painter's palette sight.
+
+The cider fresh from pressing apples,
+The donuts hot and sweet,
+An apple orchard in autumn,
+Is fall's delicious treat.", 'source_url' => ''),
+    array('title' => 'Wind Through Wheat', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wind blows through the wheat field,
+Making waves like sea,
+The amber stalks bend gracefully,
+As far as eyes can see.
+
+The harvest time is almost here,
+The wheat so golden tall,
+A wind through wheat is summer's gold,
+That feeds both great and small.", 'source_url' => ''),
+    array('title' => 'Old Cash Register', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old cash register rings so loud,
+With keys that jangle clear,
+It counted pennies, nickels, dimes,
+For all the goods stored here.
+
+The drawer slides with mechanical click,
+The totals all added right,
+An old cash register ring,
+Marked each transaction tight.", 'source_url' => ''),
+    array('title' => 'Telescope Gazing', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "I peer through the telescope,
+At craters on the moon,
+The Milky Way stretches across,
+Like a river's tune.
+
+The stars are twinkling far away,
+Since billions of years ago,
+Through telescope we see the past,
+A cosmic light to show.", 'source_url' => ''),
+    array('title' => 'Honey Bee', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The honey bee buzzes round the hive,
+His stripes of yellow black,
+He gathers nectar from each flower,
+And builds his honeycomb stack.
+
+The colony works all summer long,
+To fill their golden store,
+A honey bee is busy bee,
+Who crafts the honey more.", 'source_url' => ''),
+    array('title' => 'Watering Can', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "I fill the watering can,
+To help my garden grow,
+Each flower stem and vegetable,
+Needs water's gentle flow.
+
+The sprinkler head sprays droplets fine,
+Like summer rain so sweet,
+A watering can does its job,
+To make the garden complete.", 'source_url' => ''),
+    array('title' => 'Stepping Stones', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The stepping stones across the pond,
+Lead to the garden gate,
+Each stone worn smooth by feet that walked,
+And weather turned to slate.
+
+I hop from stone to stone with care,
+To avoid the lily pads,
+Stepping stones across the pond,
+Are paths my童年 once had.", 'source_url' => ''),
+    array('title' => 'Cottage Door', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The cottage door is painted red,
+With brass knocker worn,
+Welcome mat says come on in,
+And rest from wind that's blown.
+
+Inside the fire crackles warm,
+The tea pot whistles shrill,
+A cottage door that welcomes all,
+To find their peace and will.", 'source_url' => ''),
 );
 ?>
