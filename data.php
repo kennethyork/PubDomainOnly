@@ -6547,35 +6547,6 @@ Not the star in waters red,
 Not this:
 Laughter of a girl that's dead,
 O this!", 'source_url' => ''),
-    array('title' => 'Bangsamoro Autonomy Act No. 7', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Simula noon hanggang ngayon
-Iisa ang naging layon
-Magkaisa at magbuklod
-Kagitingan ay marudob
-Tumayo tayo mula sa hamon ng nakaraan
-Niyapos ang panganib na humahadlang
-Pinangako sa puso at paniniwala
-Ang ginhawang para sa kabataan
-Bansamoro'y tagumpay
-Bunga ng pawis, dugo, at buhay
-Kapayapaan, katarungan
-Ay atin nang nakamtan
-Alhamdulillah, Alhamdulillah
-Pagpalain Bangsamoro
-Bangsamoro, Bangsamoro
-Lagi kang mamahalin
-Walang pipigil sa damdamin
-Mga pangako'y tutuparin
-Habang-buhay kami sayo'y magbabantay
-Mananatili sa puso't isipan
-Ang kahapong humimlay na
-Nagbuwis ng buhay
-Nasa piling nang maykapal
-Bansamoro'y tagumpay
-Bunga ng pawis, dugo, at buhay
-Kapayapaan, katarungan
-Ay atin nang nakamtan
-Alhamdulillah, Alhamdulillah
-Pagpalin Bangsamoro", 'source_url' => ''),
     array('title' => 'A Pretty Girl Is like a Melody', 'author' => '', 'year' => '1880', 'category' => 'Work songs', 'lyrics' => "I have an ear for music,
 And I have an eye for a maid.
 I link a pretty girlie,
