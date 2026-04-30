@@ -16197,5 +16197,64 @@ When we've been there ten thousand years,
 Bright shining as the sun,
 We've no less days to sing God's praise
 Than when we first begun.", 'source_url' => 'https://en.wikisource.org/wiki/Olney_Hymns_(1840)/Book_1/Hymn_41'),
+    array('title' => 'Come, O Thou Traveler Unknown', 'author' => 'Charles Wesley', 'year' => '1742', 'category' => 'Hymns', 'lyrics' => "Come, O thou Traveller unknown,
+Whom still I hold, but cannot see!
+My company before is gone,
+And I am left alone with Thee;
+With Thee all night I mean to stay,
+And wrestle till the break of day.
+
+I need not tell Thee who I am,
+My misery and sin declare;
+Thyself hast called me by my name,
+Look on Thy hands, and read it there;
+But who, I ask Thee, who art Thou?
+Tell me Thy name, and tell me now.
+
+In vain Thou struggling to get free,
+I never will unloose my hold!
+Art Thou the Man that died for me?
+The secret of Thy love unfold;
+Wrestling, I will not let Thee go,
+Till I Thy name, Thy nature know.
+
+Wilt Thou not yet to me reveal
+Thy new, unutterable Name?
+Tell me, I still beseech Thee, tell;
+To know it now resolved I am;
+Wrestling, I will not let Thee go,
+Till I Thy Name, Thy nature know.
+
+'Tis all in vain to hold Thy tongue
+Or touch the hollow of my thigh;
+Though every sinew be unstrung,
+Out from Thy arms, O speed and fly!
+But I will not, I will not let Thee go,
+I will the everlasting God call Thee so.
+
+I know Thee, Savour, from afar,
+And find Thee constant, kind and good;
+Most freely I confess Thee, while
+I wrestle, as a child of blood.
+But shall I count Thy graces none?
+No, I will number Thee among the righteous:
+Let me Thy nature understand,
+And know that I in Thee have rest.
+
+Great God of wonders, all Thy ways
+Demand, though matchless, our surprise;
+But who am I, that thus I gaze
+On heaven's great King with wondering eyes?
+And is my soul so vile, so base,
+That e'en in dust Thy grace should place?
+No, I will seek the face of God,
+And find in Him my righteousness.
+
+Come, O Thou Traveller unknown,
+My only hope and refuge be;
+Withouten Thee I am undone,
+I seek no other name but Thee.
+Wrestling, I will not let Thee go,
+Till I the secret of Thy love know.", 'source_url' => 'https://en.wikisource.org/wiki/Come,_O_Thou_Traveler_Unknown'),
 );
 ?>
