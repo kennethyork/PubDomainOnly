@@ -570,39 +570,6 @@ This work is in thepublic domainin the
 United Statesbecause it was published before January 1, 1931.
 
 This work may be in thepublic domainin countries and areas with longer native copyright terms that apply therule of the shorter termtoforeign works.", 'source_url' => 'https://en.wikisource.org/wiki/Author_of_Our_Salvation,_Thee'),
-    array('title' => 'Jesu, meines Herzens Freud', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Hail my soul's true Comforterhail my Iesuhail my heart's Inflamer dearhail my Iesustill my life's defender nearhail my Iesuhail my sweetest Iesu.
-
-AThousand times I think on thee.
-Come sweet Spouse to me.
-A Thousand times I wish for thee:
-Come sweet Spouse to me.
-A Thousand times I cry to thee;
-Come sweet Spouse to me.
-Come my sweetest Spouse to me.
-
-Heavenly Pastures me afford;
-I new Life shall gain:
-Drop the Milk of thy puré Word,
-My Lips shall then be[1]fain.
-Immerse me in thy Bowels Lord,
-Hope shall spring again:
-Life of Love shall bloom amain.
-
-No sweet Taste can Vie with thee,
-Sweet delicious Love.
-No sweet Smell comes near to thee,
-Sweet Perfume of Love.
-None for Mildness like to thee
-Lov's sweet Lamb and Dove.
-Jesusweetest, sweet of Love.
-
-I am Cold, Inflame thou me
-Heavenly Lover.
-I am Sick, oh! Comfort me
-My Creator.
-Ah! I Die, give Life to me,
-O my Saviour,
-Jesu, O my Saviour.", 'source_url' => 'https://en.wikisource.org/wiki/Author:Johann_Rudolph_Ahle'),
     array('title' => 'Come, Let Us Anew Our Journey Pursue', 'author' => '', 'year' => '1850', 'category' => 'Ballads', 'lyrics' => "COME, let us anew Our journey pursue,
 Roll round with the year,
 And never stand still till the Master appear.
@@ -1275,29 +1242,6 @@ Praise to the Father be,
 Praise to His only Son;
 Praise to the blessed Paraclete,
 While endless ages run.", 'source_url' => 'https://en.wikisource.org/wiki/Catholic_Hymns_(1860)/Hymn_to_the_Sacred_Heart'),
-    array('title' => 'Komm, Heiliger Geist, Herre Gott', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Come holy holy Ghost Lord our God& wththy gifts of Pentecostthe faithfull hearts of Sions Waiters fillthy burning love in them instillthou hast by thy love lightning glancethe Nations calld in Faiths Accordall Tribes to thine Inheritancefor this praise We Sing to our great Kinghalleluiah halleluiah.
-
-HAil Holy, Holy Light! Diamond Rock,
-Of sparkling Truths, shine on thy Flock.
-Thou, Godin[1]Loveto know the Grace imparts:
-To call Him
-Abbain our Hearts.
-From Dotrines Strange, O keep us clear:
-Let us our own true
-Master hear:
-Ev'n
-Jesus Christwith Faith sincere.
-Ever Confiding, in Him our King
-Hallelujah, Hallelujah.
-
-Come Holy Flame of Love, our Dove-Mate,
-Let us, with Joy and Courage great,
-Constant for thee in Holy Warfare stand;
-Let no Temptation Countermand;
-And still with Power inspir'd from Thee,
-Like Champions Fight for Liberty,
-Till Sabbatizing with Christ our King,
-Hallelujah, Hallelujah.", 'source_url' => 'https://en.wikisource.org/wiki/Lyra_Davidica/A_Pentecostal_Hymn'),
     array('title' => 'Head of Thy Church, Whose Spirit Fills', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Head of Thy church, whose Spirit fills
 And flows through every faithful soul,
 Unites in mystic love, and seals
@@ -1781,18 +1725,6 @@ I do believe, I now believe,
 That Jesus died for me;
 And through His blood, His precious blood,
 I shall from sin be free.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
-    array('title' => 'Gloria in Excelsis Deo', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "\"Gloria in excelsis Deo\" (Latin for \"Glory to God in the highest\") is a hymn known also as the
-Greater Doxology(as distinguished from the \"Minor Doxology\" or
-Gloria Patri) and the
-Angelic Hymn. The name is often abbreviated to
-Gloria in Excelsisor simply
-Gloria.\"Gloria in Excelsis Deo,\" in
-Wikipedia, the Free Encyclopedia
-
-English-language translations of
-Gloria in Excelsis Deoinclude:
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
     array('title' => 'Gentle Jesus, Meek and Mild', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "Lamb of God, I look to Thee;
@@ -6876,36 +6808,6 @@ Glory to Him be ever sung ;
 Come, let us adore,
 Come, let us adore,
 Come, let us adore the Lord.", 'source_url' => 'https://en.wikisource.org/wiki/Ye_Faithful,_Come_Rejoice_and_Sing'),
-    array('title' => 'O Come, All Ye Faithful (Westminster Abbey Hymn Book)', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "O come, all ye faithful,
-Joyful and triumphant;
-O come ye, O come ye to Bethlehem:
-Born, to redeem us,
-Behold the King of Angels;
-O come, let us adore Him,
-O come, let us adore Him,
-O come, let us adore Him, Christ the Lord.
-True God of True God,
-Light of Light Eternal,
-Lo, He abhors not the Virgin's womb:
-Son of the Father,
-Begotten, not created;
-O come, let us adore Him,
-O come, let us adore Him,
-O come, let us adore Him, Christ the Lord.
-Sing, Choir Angelic,
-Sing ye Hallelujah;
-Sing, ye that stand around the heavenly throne:“Glory to God,
-All glory in the highest;”O come, let us adore Him,
-O come, let us adore Him,
-O come, let us adore Him, Christ the Lord.
-Hail, Lord Incarnate,
-Born for us this morning;
-Jesu, to Thee be praise and glory given:
-Word of the Father,
-Now in flesh appearing,
-O come, let us adore Him,
-O come, let us adore Him,
-O come, let us adore Him, Christ the Lord.", 'source_url' => ''),
     array('title' => 'The Church in the Wildwood (unsourced)', 'author' => '', 'year' => '1800', 'category' => 'Hymns', 'lyrics' => "There’s a church in the valley by the wildwood,
 No lovelier spot in the dale;
 No place is so dear to my childhood,
@@ -11037,22 +10939,6 @@ Pu’e aku-o na hala,
 Ka hala o Panaewa,
 O Panaewa nui, moku lehua;
 15   Ohia kupu ha-o’e-o’e;", 'source_url' => 'https://gutendex.com/books/20299'),
-    array('title' => 'O ka pu leina[221] kea a Kiha—', 'author' => 'Emerson, Nathaniel Bright', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "O Kiha nui a Pii-lani—[222]
-5   O Kauhi kalana-honu’-a-Kama;[223]
-O ka maka iolena[224] ke koohaulani i-ó!
-O kela kanaka hoali mauna,[225]
-O Ka Lani ku’i hono i ka moku.[226]
-I waihona kapuahi kanaka ehá,[227]
-10   Ai’ i Kauai, i Oahu, i Maui,
-I Hawaii kahiko o Keawe enaena,[228]
-Ke a-á, mai la me ke o-koko,
-Ke lapa-lapa la i ka makani,
-Makani kua, he Naulu.[229]
-10   Kua ka Wainoa i ka Mikioi,
-Me he alii, alii, la no ka hele i Kekaha,
-Ka hookiekie i ka li’u-la,[231]
-Ka hele i ke alia-lia la, alia!
-20   Alia-lia la’a-laau Kekaha.", 'source_url' => 'https://gutendex.com/books/20299'),
     array('title' => 'By the white vaulting conch of Kiha—', 'author' => 'Emerson, Nathaniel Bright', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Great Kiha, offspring of Pii-lani,
 5   Father of eight-branched Kama-lala-walu
 The far-roaming eye now sparkles with joy,
@@ -17157,15 +17043,6 @@ All our cursing couldn't easily demolish.
 Why, the squatter in the parlour's drinking polish!”
    “Polish?” says Bill; “what polish?”
    “Why, furniture-polish!”", 'source_url' => 'https://en.wikisource.org/wiki/Mulligan\'s_Shanty'),
-    array('title' => 'The Song of Roland', 'author' => 'Open Library:OL6623910MInternet Archive:songsofroland00chesuoftWikidata item:Q123735489English Wikisource:90152', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Ma io senti’ sonare un alto corno,
-Tanto ch’ avrebbe ogni tuon fatto fioco,
-Che, contra sè la sua via seguitando,
-Dirizzò gli occhi miei tutti ad un loco:
-Dopo la dolorosa rotta, quando
-Carlo Magno perdè la santa gesta,
-Non sonò sì terribilmente Orlando.
-
-Inferno: xxxi., 12–18.", 'source_url' => 'https://en.wikisource.org/wiki/The_Song_of_Roland'),
     array('title' => 'The Canadian Soldiers\' Song Book', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "010—Hello My Dearie. 
 011—I Shall See You To-Night. 
 012—Every Little While. 
