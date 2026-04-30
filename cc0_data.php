@@ -940,5 +940,230 @@ Inside the fire crackles warm,
 The tea pot whistles shrill,
 A cottage door that welcomes all,
 To find their peace and will.", 'source_url' => ''),
+    array('title' => 'Wishing Well', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "I toss a coin into the well,
+A wish forms in my mind,
+The water ripples soft and deep,
+Where lost hopes go to find.
+
+The wishing well stands in the square,
+Where lovers stop and pray,
+For wishes made on coins so bright,
+Sometimes come true someday.", 'source_url' => ''),
+    array('title' => 'Hay Loft Hideaway', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The hay loft is my secret spot,
+Where spiders make their web,
+I hide among the golden bales,
+Where no one dares to tread.
+
+The barn cats prowl the boards below,
+The horses whinny near,
+A hay loft hideaway for me,
+Where childhood memories appear.", 'source_url' => ''),
+    array('title' => 'Sunset Sail', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "We set the sail at sunset glow,
+The horizon burns so red,
+The breeze carries us out to sea,
+Where ancient sailors fled.
+
+The compass spins but we don't care,
+Our hearts know where we'll roam,
+A sunset sail on waters fair,
+Takes us far from home.", 'source_url' => ''),
+    array('title' => 'Blacksmith\'s Daughter', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "She's the blacksmith's daughter fair,
+With soot upon her cheek,
+She tends the forge while father works,
+Her strength no one can speak.
+
+I love her like the iron hot,
+That shapes the horseshoe firm,
+The blacksmith's daughter works so hard,
+Her spirit like a worm.", 'source_url' => ''),
+    array('title' => 'Old Fence Post', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old fence post stands weathered gray,
+Its wire sags with rust,
+It held the cattle in their place,
+And kept the trustworthy trust.
+
+Generations fixed this fence,
+With tools passed down through years,
+An old fence post that still stands firm,
+Younglings' boundary clear.", 'source_url' => ''),
+    array('title' => 'Milk Pail', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The milk pail filled with suds so white,
+From the Holstein in the barn,
+The cream rises to the top,
+Before it's gathered warm.
+
+We'd sit on stools with buckets large,
+And milk until our wrist,
+A milk pail full of fresh dairy,
+That any farmer blessed.", 'source_url' => ''),
+    array('title' => 'Scarecrow Vigil', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The scarecrow stands in cornfield wide,
+His straw hat worn and frayed,
+He waves his arms in wind so strong,
+To frighten crows away.
+
+All summer long he stands his post,
+Guardians of the crop,
+A scarecrow keeps his vigil true,
+Nonstop to the top.", 'source_url' => ''),
+    array('title' => 'Barn Owl Call', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The barn owl calls in darkest night,
+A screech that splits the air,
+He hunts the meadows silently,
+His prey never aware.
+
+The moonlight guides his flight so sleek,
+His wings beat soundless slow,
+A barn owl calls at midnight hour,
+To hunt below.", 'source_url' => ''),
+    array('title' => 'Cornbread Crumble', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The cornbread crumbles on my plate,
+With butter melting hot,
+A recipe from grandmother,
+That no one else has got.
+
+The cast iron skillet seasoned well,
+Makes cornbread just right,
+Cornbread crumble in my bowl,
+Is warmth on cold winter night.", 'source_url' => ''),
+    array('title' => 'Dairy Cow', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The dairy cow with bell around her neck,
+Grazes in the field,
+She provides the milk we drink,
+Such precious yield.
+
+We lead her in at evening time,
+To barn so warm and dry,
+A dairy cow our livelihood,
+Standing always by.", 'source_url' => ''),
+    array('title' => 'Woodland Camp', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Our camp is set 'mid pine and oak,
+Where squirrels chatter high,
+The tents are pitched on forest floor,
+Beneath the azure sky.
+
+The firepit ring with stones stacked round,
+Holds warmth against the chill,
+A woodland camp where trails begin,
+And nature fills our will.", 'source_url' => ''),
+    array('title' => 'River Ford', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The river ford is shallow here,
+Where horses splashed on through,
+The wagon wheels would get so wet,
+As travelers we knew.
+
+The current pulls with steady strength,
+The stepping stones are slick,
+A river ford both man and beast,
+Must ford to get from A to B.", 'source_url' => ''),
+    array('title' => 'Spinning Wheel', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The spinning wheel goes round and round,
+Its flyer spins with thread,
+The wool from sheep is carded first,
+Before it's spun and fed.
+
+Grandmother's wheel sits silent now,
+Its wood worn smooth by hands,
+A spinning wheel that made the cloth,
+For aprons, dresses, bands.", 'source_url' => ''),
+    array('title' => 'Stone Steps', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The stone steps lead up to the door,
+Worn smooth by feet of those,
+Who climbed before through many years,
+To reach their home's repose.
+
+Each step a story carved in rock,
+Of families long past,
+Stone steps that lead to welcome home,
+Are built to always last.", 'source_url' => ''),
+    array('title' => 'Cobbler\'s Bench', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The cobbler's bench sits in the shop,
+Where shoes were made to fit,
+The leather strips and hammers small,
+Created something fit.
+
+The cobblar's awl and waxed thread,
+Made shoes that walked the miles,
+A cobbler's bench where craftsmanship,
+Displayed their skills and styles.", 'source_url' => ''),
+    array('title' => 'Pigeon Post', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The carrier pigeon wings the sky,
+A message tied tight,
+It carries news across the waves,
+To places out of sight.
+
+The homing bird knows where to go,
+With instinct sharp and true,
+Pigeon post that flies the air,
+Brought messages anew.", 'source_url' => ''),
+    array('title' => 'Wagon Wheel', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wagon wheel creaks with each turn,
+Its iron rim holds strong,
+It carries grain to market town,
+And folks along the long.
+
+The wooden spokes have seen better days,
+The hub is worn and rough,
+A wagon wheel that still rolls on,
+Is transportation enough.", 'source_url' => ''),
+    array('title' => 'Pumpkin Patch', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "We walk through the pumpkin patch,
+To find the perfect one,
+Its vine缠绕 and stem so thick,
+We pick and call it fun.
+
+The pumpkin's orange glows so bright,
+Beneath the autumn sun,
+A pumpkin patch is autumn's delight,
+Of fall this was the one.", 'source_url' => ''),
+    array('title' => 'Coal Miner\'s Song', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Down in the mine where the coal's so black,
+We sing to pass the dark,
+The pickaxe rings through hardest rock,
+Until the shift's remark.
+
+The canary in the cage tells us,
+If air's still safe to breathe,
+A coal miner's lot is danger's lot,
+As dangerous as the deep.", 'source_url' => ''),
+    array('title' => 'Fiddle\'s Tune', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The fiddle sings a melody,
+That makes your feet want to dance,
+The bow drawn across strings so bright,
+Leads couples into a trance.
+
+At socials and at wedding suppers,
+The fiddler plays all night,
+A fiddle's tune that lifts your heart,
+Is pure delight.", 'source_url' => ''),
+    array('title' => 'Morning Frost', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The morning frost covers the fields,
+Like silver glitter spread,
+Each blade of grass has diamonds small,
+That glisten before shred.
+
+The温度 drops below freezing,
+As winter's breath sweeps near,
+Morning frost on everything,
+Makes the world结晶 disappear.", 'source_url' => ''),
+    array('title' => 'Woodpecker Drum', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The woodpecker drums on the oak tree trunk,
+His staccato beats so fast,
+He's searching for the insects hidden,
+In bark from the past.
+
+Tap tap tap goes the woodpecker,
+On the old tree's trunk so sound,
+A woodpecker drum fills the forest,
+With nature's percussive sound.", 'source_url' => ''),
+    array('title' => 'Canning Jars', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The canning jars line the pantry shelf,
+Filled with peaches and beans,
+Grandmother's recipes preserved,
+By steamy summer scenes.
+
+The pressure cooker hiss and vents,
+As lids seal tight with pop,
+Canning jars of harvest bounty,
+Will winter cold stop.", 'source_url' => ''),
+    array('title' => 'Cedar Chest', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The cedar chest holds quilts and lace,
+That grandmother did stitch,
+Its wood smells strong of cedar tree,
+And keeps the moths from hitch.
+
+The hinges creak when opened up,
+The treasure troves within,
+A cedar chest of memories,
+Where family history begins.", 'source_url' => ''),
+    array('title' => 'Sweet Charity', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Sweet charity begins at home,
+And spreads to neighbors near,
+We share our bread with those in need,
+And calms the daily fear.
+
+The collection plate is passed along,
+With coins that jingle clear,
+Sweet charity that starts at home,
+Is love that knows no boundary.", 'source_url' => ''),
 );
 ?>
