@@ -1938,5 +1938,199 @@ Now developers want to cut it down,
 For parking and for stores,
 But the old oak tree means more than wood,
 It's what this village stands for.", 'source_url' => ''),
+    array('title' => 'Cemetery of Ships', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The cemetery of ships lies here,
+Where vessels come to die,
+Their masts point skyward like tombstones,
+As ocean currents pass by.
+
+The iron bolts and rotting hulls,
+Lie claimed by salt and tide,
+These ships were grand in their day,
+Now in Davy Jones they reside.
+
+The pelicans perch on the masts,
+Their sentinel watch to keep,
+While crabs scuttle through the holds,
+Where sailors once did sleep.
+
+
+We walk among these ghost ships,
+In waters calm and still,
+The cemetery of ships reminds,
+That nothing lasts at will.", 'source_url' => ''),
+    array('title' => 'Grandmother\'s Hands', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "Grandmother's hands were rough and worn,
+From a lifetime in the kitchen,
+They kneaded bread and scrubbed clothes,
+And mended anything that was missions.
+
+Those hands taught me to quilt,
+And quilt patterns in all designs,
+They showed me how to thread a needle,
+And other useful times.
+
+The arthritis twisted them some,
+But still they held so dear,
+The memories of all the love,
+They gave throughout the year.
+
+Now when I quilt or bake bread,
+I feel her presence near,
+Grandmother's hands upon my own,
+Remind me she's still here.", 'source_url' => ''),
+    array('title' => 'Canyon Lands', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The canyon lands stretch vast and deep,
+Where rivers carved their way,
+Through millions of years of patient work,
+In sandstone canyon walls today.
+
+The hikers marvel at the colors,
+Of red and orange band,
+The slot canyons narrow passage,
+Is where true beauty stands.
+
+The cliff dwellings of ancient ones,
+Are carved into the stone,
+The ancestral people who lived here,
+Called this canyon lands home.
+
+The wind whispers through the corridors,
+With secrets to unfold,
+The canyon lands hold mysteries,
+Stories yet to be told.", 'source_url' => ''),
+    array('title' => 'Lighthouse Keeper\'s Daughter', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The lighthouse keeper's daughter grew,
+With ocean as her view,
+She learned to row before she walked,
+And swim before she flew.
+
+She knew the stars by name at five,
+And read the weather signs,
+She helped her father tend the lamp,
+When fog pressed on the shine.
+
+Her mother taught her how to bake,
+And tend the garden plot,
+The isolation made her strong,
+And ready for what she's got.
+
+Now she tends the lighthouse lamp,
+On her father's retirement day,
+A lighthouse keeper's daughter stands,
+To guide ships on their way.", 'source_url' => ''),
+    array('title' => 'Old Gospel Salvation', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Old gospel salvation through the cross,
+Is what keeps me going every day,
+Through trials and tribulations,
+And worries that come my way.
+
+The church choir sings with feeling,
+The organ plays so strong,
+The spirit moves among the pews,
+As voices raise the song.
+
+I found my peace in Jesus Christ,
+When I was lost and alone,
+He gave me hope and purpose,
+And a place to call my home.
+
+The old gospel salvation message,
+Is one of love and grace,
+I'm grateful for the second chance,
+And the journey that I face.", 'source_url' => ''),
+    array('title' => 'Spoon River Shore', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Spoon River flows along,
+The edge of my hometown,
+We learned to swim in its murky waters,
+And fished for catfish down.
+
+
+The bridge that crossed at Main Street,
+Was where we dared to jump,
+Into the muddy current below,
+Without a pump or plump.
+
+The townsfolk say the river's haunted,
+By those who drowned in play,
+Their spirits wade the shallows now,
+And fish both night and day.
+
+But I don't fear the Spoon River Shore,
+Or any ghosts that roam,
+I'm proud to call this place my home,
+Along this river's home.", 'source_url' => ''),
+    array('title' => 'Desert Mirage', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The desert mirage appears ahead,
+A shimmering lake so fair,
+We drive toward it endlessly,
+But it vanishes in air.
+
+
+The heat waves bend the horizon,
+To fool the traveler's eye,
+The alkali flats reflect the sky,
+In patterns that defy.
+
+The jackrabbits dart across the road,
+The roadrunners chase their prey,
+The desert flora and fauna,
+Have found their own way.
+
+The cactus stores its water well,
+The tortoise digs its den,
+The desert mirage is illusion,
+But beauty is very real then.", 'source_url' => ''),
+    array('title' => 'Old Covered Bridge Crossing', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "We slow down at the covered bridge,
+The wooden planks so old,
+Our headlights illuminate the dark,
+As stories briefly told.
+
+The creek runs shallow underneath,
+Its banks grown up with reed,
+The water shines like silver thread,
+In this historic deed.
+
+They built these bridges years ago,
+With timber hewn so fine,
+To span the creeks and rivers,
+Across this land of mine.
+
+
+We cross with reverence and care,
+Lest the old wood break,
+The old covered bridge crossing,
+Is a piece of history we make.", 'source_url' => ''),
+    array('title' => 'Magnolia Summer', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Magnolia summer fills the air,
+With perfume sweet and thick,
+The blossoms white as wedding gowns,
+Dress every limb and stick.
+
+The porch swings sway in breeze so soft,
+The bees drone lazy by,
+The fireflies begin their show,
+As sun descends the sky.
+
+We sit and watch the light fade slow,
+On another summer day,
+These magnolia summers hold,
+The love that won't away.
+
+When autumn comes the blooms will fall,
+Like snow on southern ground,
+But summer memories live on,
+In magnolias all around.", 'source_url' => ''),
+    array('title' => 'Old Gospel Journey', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "The old gospel journey is long and hard,
+With mountains to climb,
+Through the valleys low and shadows dark,
+When troubles are high on my mind.
+
+But the old gospel gives me strength,
+To carry on each day,
+The promise that I'm never alone,
+Is what keeps the doubt at bay.
+
+The choir sings of Jordan's waters,
+And dry bones coming alive,
+The amen sounds in the church,
+Are threads that bind the survive.
+
+I walk this old gospel journey,
+With faith as my only guide,
+The destination is glory land,
+Where all tears are dried.", 'source_url' => ''),
 );
 ?>
