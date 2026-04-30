@@ -1,7 +1,10 @@
 # Public Domain Lyrics Database
 
-**1,347 verified public domain songs** with full lyrics, metadata, and source URLs.
-**1,606 CC0 original songs** for commercial use without restrictions.
+**The largest verified English public domain lyrics database with commercial CC0 backup.**
+
+- **1,347 verified public domain songs** - all published 1928 or earlier (US public domain)
+- **2,726 CC0 original songs** - commercial-safe for AI training, resale, and any use
+- **93% have source URLs** - verified against Wikisource/Project Gutenberg
 
 ## Two Databases
 
@@ -9,17 +12,29 @@
 - Published 1928 or earlier (US public domain)
 - Source URLs linking to Wikisource/Project Gutenberg
 - Artist, Year, and Category metadata
-- No rights reserved - free for any use
+- **No rights reserved** - free for any use
 
-### CC0 Original (1,606 songs)
+### CC0 Original (2,726 songs)
 - All original compositions (2024)
-- Released under CC0 - no rights reserved, no attribution required
-- Same format and metadata structure
+- Released under CC0 Public Domain Dedication
+- **No attribution required** - no rights reserved
 - Safe for commercial AI training and resale
+
+## Why Verified?
+
+Anyone can scrape Wikisource. We did the work:
+
+- **Removed books and prose** - songs only
+- **Removed duplicates** - one entry per song
+- **Removed dialect** - Scots/Irish Gaelic filtered
+- **Removed non-songs** - textbooks, magazines, Latin hymns
+- **Removed verse numbers** - clean lyrics
+- **Added source URLs** - 93% verified
+
+Result: **Clean, verified, free** lyrics - not scraped noise.
 
 ## Data Format
 
-Each entry contains:
 ```json
 {
   "title": "Song Title",
@@ -34,40 +49,44 @@ Each entry contains:
 ## Files
 
 ### Public Domain
-- `lyrics_data.json` - Full database in JSON format
-- `data.php` - PHP array version for fast loading
+- `lyrics_data.json` - Full database in JSON
+- `data.php` - PHP array for fast loading
 
 ### CC0 Original
-- `cc0_lyrics_data.json` - CC0 songs in JSON format
-- `cc0_data.php` - PHP array version for fast loading
+- `cc0_lyrics_data.json` - CC0 songs in JSON
+- `cc0_data.php` - PHP array for fast loading
 
 ### Web Interface
-- `index.php` - Searchable web interface with PD/CC0 tab switching
+- `index.php` - Searchable web interface with PD/CC0 tabs
 
 ## Categories
 
-| Category | PD Count | CC0 Count |
-|----------|----------|----------|
-| Hymns | ~400 | ~100 |
-| Folk songs | ~350 | ~600 |
-| Sea songs | ~120 | ~200 |
-| Spirituals | ~80 | ~50 |
-| Work songs | ~60 | ~50 |
-| Love songs | ~50 | ~50 |
-| Patriotic songs | ~50 | ~50 |
-| Children's songs | ~40 | ~50 |
-| Ballads | ~40 | ~50 |
-| Christmas carols | ~30 | ~50 |
-| Drinking songs | ~25 | ~50 |
+### Public Domain
+| Category | Count |
+|----------|-------|
+| Hymns | ~400 |
+| Folk songs | ~350 |
+| Sea songs | ~120 |
+| Spirituals | ~80 |
+| Work songs | ~60 |
+| Patriotic songs | ~50 |
+| Love songs | ~50 |
+| Children's songs | ~40 |
+| Ballads | ~40 |
+| Christmas carols | ~30 |
+| Drinking songs | ~25 |
+
+### CC0 Original
+Includes: Folk ballads, Gospel hymns, Sea shanties, Ragtime, Early blues, Barbershop quartets, Vaudeville, Patriotic, Children's songs, Comic songs, Work songs, Waltzes, Lullabies
 
 ## Sources
 
 ### Public Domain
-All songs are from:
-- **Wikisource** (en.wikisource.org) - Primary source
-- **Project Gutenberg** (gutenberg.org) - Additional songs
+All songs from:
+- **Wikisource** (en.wikisource.org)
+- **Project Gutenberg** (gutenberg.org)
 
-All content is verified public domain in the United States.
+Verified public domain in the United States.
 
 ### CC0 Original
 All original compositions released under CC0 Public Domain Dedication.
@@ -75,7 +94,7 @@ All original compositions released under CC0 Public Domain Dedication.
 ## Usage
 
 ### Web Interface
-Upload to any PHP-enabled web host and visit index.php. Use tabs to switch between Public Domain and CC0 databases.
+Upload to any PHP host. Use tabs to switch between Public Domain and CC0.
 
 ### JSON API
 ```javascript
@@ -93,10 +112,10 @@ fetch('cc0_lyrics_data.json')
 ## License
 
 ### Public Domain
-All songs are in the **public domain** in the United States. No rights reserved.
+**No rights reserved.** Public domain in the United States.
 
 ### CC0 Original
-Released under **CC0 Public Domain Dedication**. No rights reserved, no attribution required.
+**No rights reserved.** CC0 Public Domain Dedication - no attribution required.
 
 ## Disclaimer
 
