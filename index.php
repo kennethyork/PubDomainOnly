@@ -374,6 +374,7 @@ function truncateLyrics($lyrics, $length = 300) {
             color: #666;
             font-size: 0.85rem;
             border: 1px dashed rgba(255,255,255,0.1);
+            min-height: 90px;
         }
         .ad-footer {
             text-align: center;
@@ -383,6 +384,7 @@ function truncateLyrics($lyrics, $length = 300) {
             border-radius: 8px;
             color: #666;
             font-size: 0.85rem;
+            min-height: 90px;
         }
     </style>
 </head>
@@ -394,7 +396,18 @@ function truncateLyrics($lyrics, $length = 300) {
         </header>
 
         <div class="ad-banner">
-            <small>Support free lyrics - Your ad here</small>
+            <script>
+(function(ckge){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = ckge || {};
+s.src = "\/\/elderlygoal.com\/c.Dp9Z6ybK2_5\/lqS\/W-QR9oNszjAxwrMhT\/Q\/3\/Mcyc0s3yM\/DCA-xSNaDLcf3g";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
         </div>
 
         <div class="type-tabs">
@@ -582,7 +595,18 @@ function truncateLyrics($lyrics, $length = 300) {
         </div>
 
         <div class="ad-footer">
-            <small>Support free lyrics - Your ad here</small>
+            <script>
+(function(ckge){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = ckge || {};
+s.src = "\/\/elderlygoal.com\/c.Dp9Z6ybK2_5\/lqS\/W-QR9oNszjAxwrMhT\/Q\/3\/Mcyc0s3yM\/DCA-xSNaDLcf3g";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
         </div>
 
         <footer>
