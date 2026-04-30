@@ -2132,5 +2132,12039 @@ I walk this old gospel journey,
 With faith as my only guide,
 The destination is glory land,
 Where all tears are dried.", 'source_url' => ''),
+    array('title' => 'Farmers Market Morning', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Farmers market morning sun,
+Glows over stalls so bright,
+With tomatoes red and squash so yellow,
+And berries purple quite.
+
+The vendors set up before dawn,
+Their canopies all in rows,
+With honey, bread, and flowers fresh,
+And cheese the local cows.
+
+I buy my produce every Saturday,
+From farmers I call by name,
+Farmers market morning is,
+Where community claims its fame.", 'source_url' => ''),
+    array('title' => 'Wild Mustang Herd', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wild mustang herd roams free,
+Across the Nevada plain,
+Their manes flow long and tangled,
+And hooves thunder again.
+
+The mustangs have survived centuries,
+Of hunting and capture near,
+The Bureau of Land Management,
+Tries year by year to manage.
+
+They represent freedom so wild,
+That settlers couldn't tame,
+The wild mustang herd roaming,
+Is America's western claim.", 'source_url' => ''),
+    array('title' => 'Chrysanthemum Festival', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The chrysanthemum festival blooms,
+In autumn's crisp cool air,
+With mums in orange, red, and gold,
+That blossom everywhere.
+
+The Japanese tradition here,
+Brought flowers from their home,
+The mums stand tall in garden pots,
+Along the streets of Rome.
+
+The festival features teas,
+And songs that celebrate,
+The chrysanthemum festival in fall,
+Is a tradition truly great.", 'source_url' => ''),
+    array('title' => 'Old Gospel Morning Light', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Old gospel morning light streams through,
+The stained glass windows bright,
+Transforming the church interior,
+Into a heavenly sight.
+
+The choir robes hang in the back,
+The bulletins stacked so neat,
+The ushers greet with handshakes warm,
+And locate your seat.
+
+Old gospel morning light,
+Is what fills my soul with hope,
+When Sunday school begins at nine,
+I climb the stairs to slope.", 'source_url' => ''),
+    array('title' => 'Riverside Canoe Trip', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Our riverside canoe trip,
+Started at first light,
+We packed sandwiches and drinks,
+And launched into the current's might.
+
+The river carried us along,
+Past sycamores so old,
+The turtles sunned on logs,
+As our canoe quietly polled.
+
+We paddled until evening came,
+Then made camp on the sand,
+Riverside canoe trip memories,
+Are treasures I hold close in hand.", 'source_url' => ''),
+    array('title' => 'Southern Gothic Porch', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Southern gothic porch swing sways,
+As thunder rolls outside,
+The Spanish moss hangs heavy,
+In the humidity tide.
+
+The pitcher of sweet tea grows warm,
+The cicadas drone their sound,
+Magnolia blossoms perfume,
+Wraps the whole porch around.
+
+We're safe here in the twilight,
+As lightning bugs appear,
+Southern gothic porch evenings,
+Are what I hold dear.", 'source_url' => ''),
+    array('title' => 'Pioneer Woman', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Pioneer woman on the prairie,
+With children in tow,
+The covered wagon waits outside,
+For the journey she'll know.
+
+She milked the cow each morning,
+And churned the butter too,
+Gardened and canned vegetables,
+For the winter's coming due.
+
+She raised them all by herself,
+When frontiers were wild,
+The pioneer woman standing,
+Was the pioneer household's child.", 'source_url' => ''),
+    array('title' => 'Great Plains Dust', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Great plains dust blew so fierce,
+In the Dirty Thirties before,
+The topsoil turned to dust storm clouds,
+That buried farms to the core.
+
+The farm implements abandoned,
+Stood like sculptures in waste,
+The families packed everything,
+On Route sixty-six in haste.
+
+The dust bowl was a tragedy,
+Of wind and drought combined,
+Great plains dust carried away,
+The futures of many kinds.", 'source_url' => ''),
+    array('title' => 'Cowboy Campfire Tales', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Cowboy campfire tales unfold,
+Beneath the stars so bright,
+The wranglers share their stories,
+Of roundups and cattle drives.
+
+The fire crackles and pops,
+The coffee pot bubbles near,
+The horses stand saddled nearby,
+While the night sounds fill my ear.
+
+These cowboy campfire tales,
+Will live in memory,
+Of nights spent under the stars,
+And cowboy's reverie.", 'source_url' => ''),
+    array('title' => 'Cedar Rapids', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The Cedar Rapids rush by,
+With whitewater roaring loud,
+The kayakers test their skills,
+In this rushing crowd.
+
+The limestone cliffs rise high,
+Above the water's edge,
+The caverns carved by geology,
+Stand carved from the sediment wedge.
+
+I float the Cedar Rapids,
+My raft bouncing through,
+The rapids thrill and chill me,
+In the river's spray so blue.", 'source_url' => ''),
+    array('title' => 'Mountain Cabin Retreat', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Mountain cabin retreat,
+Is where I go to breathe,
+The Aspen trees surround,
+With their leaves that shake.
+
+No WiFi or cell signal,
+Just the wind through pine,
+The deer walk past at dusk,
+As stars begin to shine.
+
+I read by kerosene lamp,
+And chop wood for the fire,
+Mountain cabin retreat days,
+Are what I desire.", 'source_url' => ''),
+    array('title' => 'Old Gospel River', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "The old gospel river flows wide,
+Its waters deep and wide,
+I wade into the stream,
+Where my soul learns to glide.
+
+The current carries me downstream,
+Past the shoreline trees,
+The old gospel river runs deep,
+And calms my every worry.
+
+I baptized in this river,
+When I was twelve years old,
+The old gospel river runs past,
+My spiritual home.", 'source_url' => ''),
+    array('title' => 'Vermont Maple Syrup', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Vermont maple syrup season,
+Comes when winter thaws,
+The sap buckets hang on trees,
+With metal pails because.
+
+The sugarhouse steams so sweet,
+As the evaporator works,
+The amber syrup trickles out,
+Its flavor never shirks.
+
+We pour it over pancakes tall,
+With butter melting slow,
+Vermont maple syrup morning,
+Is the best way to go.", 'source_url' => ''),
+    array('title' => 'Prairie Dog Town', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Prairie dog town is bustling,
+With yips that echo near,
+Their colonies spread underground,
+Where burrows protect their fear.
+
+The black-tailed prairie dogs,
+Stand upright on hind legs,
+To watch for hawks and coyotes,
+While tending their eggs.
+
+I drive across the prairie,
+Their towns dotting the plain,
+Prairie dog town is teeming,
+With life in the maintained.", 'source_url' => ''),
+    array('title' => 'Ozark Folk Festival', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Ozark folk festival time,
+Is when the mountain folk gather near,
+With fiddles, banjos, and guitars,
+And old songs that they share.
+
+The square dance callers shout,
+Dosido and promenade,
+The callers and musicians,
+Are the best in the trade.
+
+Ozark folk festival brings,
+Traditions to life again,
+The heritage of the hills,
+Revived by local men.", 'source_url' => ''),
+    array('title' => 'Gulf Coast Shrimper', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The Gulf Coast shrimper heads out,
+Before the sun does rise,
+The nets are cast into the waters,
+Where the brown pelicans dive.
+
+The deckhand throws the bait,
+To bring the catch in fresh,
+The shrimp boats battle the waves,
+For a living in the cascade.
+
+The Gulf Coast shrimper's life,
+Is one of salt and spray,
+We're grateful for the catch,
+At the end of each day.", 'source_url' => ''),
+    array('title' => 'Hush Puppy Dreams', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Hush puppy dreams of better days,
+When I was still a child,
+When the world was simple,
+And the future seemed worthwhile.
+
+I dream of hush puppies frying,
+In cast iron pots,
+The smell of corn fritters,
+Is what really counts.
+
+
+Those southern cooking memories,
+Are hush puppy dreams come true,
+Of dinners with the family,
+And corn cakes with sugar too.", 'source_url' => ''),
+    array('title' => 'Red River Valley Girl', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Red River valley girl,
+With hair the color of wheat,
+She dances at the hoe down,
+With lightning in her feet.
+
+I've loved her since the summer,
+When we were both sixteen,
+She drove a pickup truck,
+And wore denim.
+
+Now years have passed us by,
+But my heart still ache for,
+Red River valley girl,
+Of all the memories in store.", 'source_url' => ''),
+    array('title' => 'Sailing on Lake Erie', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Sailing on Lake Erie,
+When the sun sets so grand,
+The water turns to copper,
+And the islands appear.
+
+
+The breeze fills our sails so,
+As we tack and jibe with glee,
+The fresh water splashes,
+On a lake that is blue and free.
+
+
+Lake Erie can be fickle,
+With squalls that bring a fright,
+But sailing on Lake Erie,
+Is pure summer delight.", 'source_url' => ''),
+    array('title' => 'Appalachian Morning', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Appalachian morning fog,
+Sits heavy in the hollers,
+The rooster crows on somebody's porch,
+While the wood smoke smell hovers.
+
+The coon hounds bay in distance,
+Their prey has been treed,
+The hunters gather in the kitchen,
+For coffee and deeds.
+
+
+Appalachian morning is,
+Where the world moves slow,
+Where neighbors help each other,
+And nobody's alone.", 'source_url' => ''),
+    array('title' => 'Farmers Market Morning', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Farmers market morning sun,
+Glows over stalls so bright,
+With tomatoes red and squash so yellow,
+And berries purple quite.
+
+The vendors set up before dawn,
+Their canopies all in rows,
+With honey, bread, and flowers fresh,
+And cheese the local cows.
+
+I buy my produce every Saturday,
+From farmers I call by name,
+Farmers market morning is,
+Where community claims its fame.", 'source_url' => ''),
+    array('title' => 'Wild Mustang Herd', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wild mustang herd roams free,
+Across the Nevada plain,
+Their manes flow long and tangled,
+And hooves thunder again.
+
+The mustangs have survived centuries,
+Of hunting and capture near,
+The Bureau of Land Management,
+Tries year by year to manage.
+
+They represent freedom so wild,
+That settlers couldn't tame,
+The wild mustang herd roaming,
+Is America's western claim.", 'source_url' => ''),
+    array('title' => 'Chrysanthemum Festival', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The chrysanthemum festival blooms,
+In autumn's crisp cool air,
+With mums in orange, red, and gold,
+That blossom everywhere.
+
+The Japanese tradition here,
+Brought flowers from their home,
+The mums stand tall in garden pots,
+Along the streets of Rome.
+
+The festival features teas,
+And songs that celebrate,
+The chrysanthemum festival in fall,
+Is a tradition truly great.", 'source_url' => ''),
+    array('title' => 'Old Gospel Morning Light', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "Old gospel morning light streams through,
+The stained glass windows bright,
+Transforming the church interior,
+Into a heavenly sight.
+
+The choir robes hang in the back,
+The bulletins stacked so neat,
+The ushers greet with handshakes warm,
+And locate your seat.
+
+Old gospel morning light,
+Is what fills my soul with hope,
+When Sunday school begins at nine,
+I climb the stairs to slope.", 'source_url' => ''),
+    array('title' => 'Riverside Canoe Trip', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Our riverside canoe trip,
+Started at first light,
+We packed sandwiches and drinks,
+And launched into the current's might.
+
+The river carried us along,
+Past sycamores so old,
+The turtles sunned on logs,
+As our canoe quietly polled.
+
+We paddled until evening came,
+Then made camp on the sand,
+Riverside canoe trip memories,
+Are treasures I hold close in hand.", 'source_url' => ''),
+    array('title' => 'Southern Gothic Porch', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Southern gothic porch swing sways,
+As thunder rolls outside,
+The Spanish moss hangs heavy,
+In the humidity tide.
+
+The pitcher of sweet tea grows warm,
+The cicadas drone their sound,
+Magnolia blossoms perfume,
+Wraps the whole porch around.
+
+We're safe here in the twilight,
+As lightning bugs appear,
+Southern gothic porch evenings,
+Are what I hold dear.", 'source_url' => ''),
+    array('title' => 'Pioneer Woman', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Pioneer woman on the prairie,
+With children in tow,
+The covered wagon waits outside,
+For the journey she'll know.
+
+She milked the cow each morning,
+And churned the butter too,
+Gardened and canned vegetables,
+For the winter's coming due.
+
+She raised them all by herself,
+When frontiers were wild,
+The pioneer woman standing,
+Was the pioneer household's child.", 'source_url' => ''),
+    array('title' => 'Great Plains Dust', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Great plains dust blew so fierce,
+In the Dirty Thirties before,
+The topsoil turned to dust storm clouds,
+That buried farms to the core.
+
+The farm implements abandoned,
+Stood like sculptures in waste,
+The families packed everything,
+On Route sixty-six in haste.
+
+The dust bowl was a tragedy,
+Of wind and drought combined,
+Great plains dust carried away,
+The futures of many kinds.", 'source_url' => ''),
+    array('title' => 'Cowboy Campfire Tales', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Cowboy campfire tales unfold,
+Beneath the stars so bright,
+The wranglers share their stories,
+Of roundups and cattle drives.
+
+The fire crackles and pops,
+The coffee pot bubbles near,
+The horses stand saddled nearby,
+While the night sounds fill my ear.
+
+These cowboy campfire tales,
+Will live in memory,
+Of nights spent under the stars,
+And cowboy's reverie.", 'source_url' => ''),
+    array('title' => 'Cedar Rapids', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The Cedar Rapids rush by,
+With whitewater roaring loud,
+The kayakers test their skills,
+In this rushing crowd.
+
+The limestone cliffs rise high,
+Above the water's edge,
+The caverns carved by geology,
+Stand carved from the sediment wedge.
+
+I float the Cedar Rapids,
+My raft bouncing through,
+The rapids thrill and chill me,
+In the river's spray so blue.", 'source_url' => ''),
+    array('title' => 'Mountain Cabin Retreat', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Mountain cabin retreat,
+Is where I go to breathe,
+The Aspen trees surround,
+With their leaves that shake.
+
+No WiFi or cell signal,
+Just the wind through pine,
+The deer walk past at dusk,
+As stars begin to shine.
+
+I read by kerosene lamp,
+And chop wood for the fire,
+Mountain cabin retreat days,
+Are what I desire.", 'source_url' => ''),
+    array('title' => 'Old Gospel River', 'author' => '', 'year' => '', 'category' => 'Spirituals', 'lyrics' => "The old gospel river flows wide,
+Its waters deep and wide,
+I wade into the stream,
+Where my soul learns to glide.
+
+The current carries me downstream,
+Past the shoreline trees,
+The old gospel river runs deep,
+And calms my every worry.
+
+I baptized in this river,
+When I was twelve years old,
+The old gospel river runs past,
+My spiritual home.", 'source_url' => ''),
+    array('title' => 'Vermont Maple Syrup', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Vermont maple syrup season,
+Comes when winter thaws,
+The sap buckets hang on trees,
+With metal pails because.
+
+The sugarhouse steams so sweet,
+As the evaporator works,
+The amber syrup trickles out,
+Its flavor never shirks.
+
+We pour it over pancakes tall,
+With butter melting slow,
+Vermont maple syrup morning,
+Is the best way to go.", 'source_url' => ''),
+    array('title' => 'Prairie Dog Town', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Prairie dog town is bustling,
+With yips that echo near,
+Their colonies spread underground,
+Where burrows protect their fear.
+
+The black-tailed prairie dogs,
+Stand upright on hind legs,
+To watch for hawks and coyotes,
+While tending their eggs.
+
+I drive across the prairie,
+Their towns dotting the plain,
+Prairie dog town is teeming,
+With life in the maintained.", 'source_url' => ''),
+    array('title' => 'Ozark Folk Festival', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Ozark folk festival time,
+Is when the mountain folk gather near,
+With fiddles, banjos, and guitars,
+And old songs that they share.
+
+The square dance callers shout,
+Dosido and promenade,
+The callers and musicians,
+Are the best in the trade.
+
+Ozark folk festival brings,
+Traditions to life again,
+The heritage of the hills,
+Revived by local men.", 'source_url' => ''),
+    array('title' => 'Gulf Coast Shrimper', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The Gulf Coast shrimper heads out,
+Before the sun does rise,
+The nets are cast into the waters,
+Where the brown pelicans dive.
+
+The deckhand throws the bait,
+To bring the catch in fresh,
+The shrimp boats battle the waves,
+For a living in the cascade.
+
+The Gulf Coast shrimper's life,
+Is one of salt and spray,
+We're grateful for the catch,
+At the end of each day.", 'source_url' => ''),
+    array('title' => 'Hush Puppy Dreams', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Hush puppy dreams of better days,
+When I was still a child,
+When the world was simple,
+And the future seemed worthwhile.
+
+I dream of hush puppies frying,
+In cast iron pots,
+The smell of corn fritters,
+Is what really counts.
+
+Those southern cooking memories,
+Are hush puppy dreams come true,
+Of dinners with the family,
+And corn cakes with sugar too.", 'source_url' => ''),
+    array('title' => 'Red River Valley Girl', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Red River valley girl,
+With hair the color of wheat,
+She dances at the hoe down,
+With lightning in her feet.
+
+I've loved her since the summer,
+When we were both sixteen,
+She drove a pickup truck,
+And wore denim.
+
+Now years have passed us by,
+But my heart still ache for,
+Red River valley girl,
+Of all the memories in store.", 'source_url' => ''),
+    array('title' => 'Sailing on Lake Erie', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Sailing on Lake Erie,
+When the sun sets so grand,
+The water turns to copper,
+And the islands appear.
+
+The breeze fills our sails so,
+As we tack and jibe with glee,
+The fresh water splashes,
+On a lake that is blue and free.
+
+Lake Erie can be fickle,
+With squalls that bring a fright,
+But sailing on Lake Erie,
+Is pure summer delight.", 'source_url' => ''),
+    array('title' => 'Appalachian Morning', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Appalachian morning fog,
+Sits heavy in the hollers,
+The rooster crows on somebody's porch,
+While the wood smoke smell hovers.
+
+The coon hounds bay in distance,
+Their prey has been treed,
+The hunters gather in the kitchen,
+For coffee and deeds.
+
+Appalachian morning is,
+Where the world moves slow,
+Where neighbors help each other,
+And nobody's alone.", 'source_url' => ''),
+    array('title' => 'Mountain Stream Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+fills my soul with peace.
+The prairie dances every day,
+I walk beneath the twilight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+fills my soul with peace.
+The river shines every day,
+I pray beneath the twilight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+is my sacred place.
+The prairie sways every day,
+I sit beneath the morning sun.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+gives me strength to face.
+The valley rises every day,
+I pray beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+gives me strength to face.
+The forest blooms every day,
+I pray beneath the morning sun.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+holds my heart so dear.
+The valley dances every day,
+I sing beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+gives me strength to face.
+The river flows every day,
+I dream beneath the starlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+is my sacred place.
+The meadow sways every day,
+I pray beneath the starlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+fills my soul with peace.
+The hills whispers every day,
+I walk beneath the moonlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+gives me strength to face.
+The valley flows every day,
+I hope beneath the moonlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+gives me strength to face.
+The forest sings every day,
+I work beneath the morning sun.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+holds my heart so dear.
+The canyon shines every day,
+I work beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+holds my heart so dear.
+The shore blooms every day,
+I pray beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+holds my heart so dear.
+The shore dances every day,
+I dream beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+calls me home each night.
+The valley shines every day,
+I pray beneath the evening sky.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+calls me home each night.
+The hills dances every day,
+I sing beneath the moonlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+calls me home each night.
+The mountain flows every day,
+I rest beneath the starlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+holds my heart so dear.
+The river blooms every day,
+I walk beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+is my sacred place.
+The meadow blooms every day,
+I sit beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+calls me home each night.
+The meadow dances every day,
+I sing beneath the moonlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+is my sacred place.
+The forest blooms every day,
+I pray beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+is my sacred place.
+The meadow whispers every day,
+I hope beneath the evening sky.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+calls me home each night.
+The hills shines every day,
+I hope beneath the morning sun.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+gives me strength to face.
+The prairie sways every day,
+I work beneath the moonlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+holds my heart so dear.
+The meadow flows every day,
+I sit beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+fills my soul with peace.
+The valley whispers every day,
+I sit beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+is my sacred place.
+The forest blooms every day,
+I work beneath the twilight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+calls me home each night.
+The meadow whispers every day,
+I pray beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+fills my soul with peace.
+The shore dances every day,
+I hope beneath the moonlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+holds my heart so dear.
+The valley blooms every day,
+I hope beneath the moonlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+holds my heart so dear.
+The shore shines every day,
+I work beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+gives me strength to face.
+The hills flows every day,
+I rest beneath the morning sun.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+calls me home each night.
+The prairie whispers every day,
+I hope beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+is my sacred place.
+The shore dances every day,
+I sit beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+is my sacred place.
+The river shines every day,
+I sit beneath the morning sun.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+fills my soul with peace.
+The prairie dances every day,
+I sing beneath the moonlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+calls me home each night.
+The valley whispers every day,
+I sit beneath the evening sky.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+gives me strength to face.
+The hills blooms every day,
+I walk beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+is my sacred place.
+The shore sways every day,
+I rest beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+gives me strength to face.
+The valley blooms every day,
+I rest beneath the starlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+gives me strength to face.
+The prairie flows every day,
+I work beneath the moonlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+is my sacred place.
+The valley sways every day,
+I work beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+is my sacred place.
+The river shines every day,
+I hope beneath the starlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+fills my soul with peace.
+The river sways every day,
+I sing beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+is my sacred place.
+The valley flows every day,
+I hope beneath the twilight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+gives me strength to face.
+The hills sings every day,
+I walk beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+fills my soul with peace.
+The canyon flows every day,
+I work beneath the twilight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+gives me strength to face.
+The river sways every day,
+I sing beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+fills my soul with peace.
+The mountain dances every day,
+I sit beneath the morning sun.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+holds my heart so dear.
+The forest flows every day,
+I sit beneath the evening sky.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+holds my heart so dear.
+The canyon whispers every day,
+I sing beneath the twilight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+fills my soul with peace.
+The shore flows every day,
+I pray beneath the twilight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+calls me home each night.
+The shore rises every day,
+I sit beneath the morning sun.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+fills my soul with peace.
+The river sways every day,
+I pray beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+fills my soul with peace.
+The mountain blooms every day,
+I work beneath the moonlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+is my sacred place.
+The canyon whispers every day,
+I rest beneath the starlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+is my sacred place.
+The hills flows every day,
+I sit beneath the morning sun.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+fills my soul with peace.
+The meadow blooms every day,
+I hope beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+is my sacred place.
+The meadow flows every day,
+I hope beneath the moonlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+is my sacred place.
+The meadow dances every day,
+I sing beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+is my sacred place.
+The prairie rises every day,
+I walk beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+holds my heart so dear.
+The hills whispers every day,
+I work beneath the starlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+calls me home each night.
+The shore dances every day,
+I walk beneath the evening sky.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+is my sacred place.
+The meadow whispers every day,
+I work beneath the moonlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+is my sacred place.
+The prairie dances every day,
+I walk beneath the morning sun.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+calls me home each night.
+The valley rises every day,
+I sit beneath the twilight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+fills my soul with peace.
+The hills sings every day,
+I hope beneath the morning sun.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+calls me home each night.
+The hills blooms every day,
+I sit beneath the morning sun.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+holds my heart so dear.
+The hills blooms every day,
+I dream beneath the evening sky.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+fills my soul with peace.
+The canyon rises every day,
+I walk beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+calls me home each night.
+The mountain whispers every day,
+I rest beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+gives me strength to face.
+The forest sings every day,
+I walk beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+gives me strength to face.
+The meadow rises every day,
+I walk beneath the morning sun.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+calls me home each night.
+The river flows every day,
+I pray beneath the morning sun.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+holds my heart so dear.
+The mountain sways every day,
+I pray beneath the twilight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+fills my soul with peace.
+The meadow shines every day,
+I work beneath the moonlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+is my sacred place.
+The prairie flows every day,
+I work beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+is my sacred place.
+The river sings every day,
+I work beneath the twilight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+calls me home each night.
+The valley rises every day,
+I hope beneath the moonlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+gives me strength to face.
+The prairie rises every day,
+I work beneath the moonlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+holds my heart so dear.
+The meadow rises every day,
+I work beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+is my sacred place.
+The forest dances every day,
+I pray beneath the moonlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+fills my soul with peace.
+The prairie blooms every day,
+I dream beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+calls me home each night.
+The hills rises every day,
+I walk beneath the moonlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+fills my soul with peace.
+The prairie sways every day,
+I work beneath the twilight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+fills my soul with peace.
+The canyon blooms every day,
+I walk beneath the moonlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+fills my soul with peace.
+The shore sways every day,
+I hope beneath the twilight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+calls me home each night.
+The hills whispers every day,
+I rest beneath the moonlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+holds my heart so dear.
+The shore whispers every day,
+I sing beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+holds my heart so dear.
+The valley flows every day,
+I hope beneath the starlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+fills my soul with peace.
+The hills sings every day,
+I work beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+holds my heart so dear.
+The shore sings every day,
+I rest beneath the evening sky.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+calls me home each night.
+The river blooms every day,
+I sing beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+gives me strength to face.
+The hills shines every day,
+I rest beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+holds my heart so dear.
+The mountain whispers every day,
+I hope beneath the moonlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+gives me strength to face.
+The hills shines every day,
+I sing beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+gives me strength to face.
+The hills sings every day,
+I work beneath the moonlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+gives me strength to face.
+The river sings every day,
+I dream beneath the morning sun.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+is my sacred place.
+The shore blooms every day,
+I hope beneath the twilight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+fills my soul with peace.
+The meadow rises every day,
+I hope beneath the morning sun.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the morning sun.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the starlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the dawn.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the morning sun.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild meadow plays,
+The meadow plays every day,
+Playing beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild valley works,
+The valley works every day,
+Working beneath the dusk.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the starlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the moonlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild forest flows,
+The forest flows every day,
+Flowing beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the dusk.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the starlight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the morning sun.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the dusk.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the moonlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the twilight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the morning sun.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild mountain dances,
+The mountain dances every day,
+Danceing beneath the starlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the evening sky.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain flows,
+The mountain flows every day,
+Flowing beneath the starlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the moonlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the dawn.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the starlight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the twilight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the dusk.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the moonlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the evening sky.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild shore grows,
+The shore grows every day,
+Growing beneath the morning sun.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the twilight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the morning sun.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild prairie works,
+The prairie works every day,
+Working beneath the starlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the dusk.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the twilight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild creek works,
+The creek works every day,
+Working beneath the evening sky.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild shore sings,
+The shore sings every day,
+Singing beneath the twilight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the dawn.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the starlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the dusk.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the moonlight.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the twilight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the dusk.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the morning sun.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the moonlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 50', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the starlight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 51', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild creek works,
+The creek works every day,
+Working beneath the morning sun.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 52', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild creek sings,
+The creek sings every day,
+Singing beneath the twilight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 53', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the evening sky.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 54', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the moonlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 55', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the evening sky.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 56', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the morning sun.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 57', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the dawn.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 58', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the twilight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 59', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 60', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the moonlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 61', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the moonlight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 62', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild creek rests,
+The creek rests every day,
+Resting beneath the moonlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 63', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 64', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the dawn.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 65', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 66', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 67', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the morning sun.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 68', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild forest flows,
+The forest flows every day,
+Flowing beneath the dawn.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 69', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the morning sun.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 70', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the starlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 71', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the dusk.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 72', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild creek works,
+The creek works every day,
+Working beneath the moonlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 73', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the starlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 74', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the evening sky.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 75', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild river flows,
+The river flows every day,
+Flowing beneath the dawn.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 76', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the morning sun.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 77', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the twilight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 78', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 79', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the dusk.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 80', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the morning sun.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 81', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild prairie grows,
+The prairie grows every day,
+Growing beneath the dawn.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 82', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the evening sky.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 83', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the twilight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 84', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the dusk.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 85', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain blooms,
+The mountain blooms every day,
+Blooming beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 86', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the starlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 87', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild creek rests,
+The creek rests every day,
+Resting beneath the dawn.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 88', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 89', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the moonlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 90', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the dusk.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 91', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the dusk.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 92', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the dusk.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 93', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the dusk.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 94', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the dawn.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 95', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the dusk.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 96', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the dawn.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 97', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the twilight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 98', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild prairie grows,
+The prairie grows every day,
+Growing beneath the dusk.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 99', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the evening sky.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 100', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the moonlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 101', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the dawn.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 102', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 103', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the moonlight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 104', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild prairie grows,
+The prairie grows every day,
+Growing beneath the twilight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 105', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the dusk.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 106', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 107', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the twilight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 108', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 109', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the evening sky.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 110', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 111', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 112', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the twilight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 113', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the twilight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 114', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the twilight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 115', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the twilight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 116', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the morning sun.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 117', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild shore flows,
+The shore flows every day,
+Flowing beneath the dusk.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 118', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild valley rests,
+The valley rests every day,
+Resting beneath the morning sun.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 119', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the dawn.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 120', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild shore plays,
+The shore plays every day,
+Playing beneath the starlight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 121', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the evening sky.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 122', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild creek sways,
+The creek sways every day,
+Swaying beneath the dusk.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 123', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the evening sky.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 124', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the dawn.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 125', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the morning sun.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 126', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the morning sun.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 127', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild creek grows,
+The creek grows every day,
+Growing beneath the moonlight.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 128', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 129', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the morning sun.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 130', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the moonlight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 131', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the starlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 132', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the dawn.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 133', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild creek sings,
+The creek sings every day,
+Singing beneath the moonlight.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 134', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the moonlight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 135', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the evening sky.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 136', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the evening sky.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 137', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the moonlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 138', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the morning sun.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 139', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 140', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild valley flows,
+The valley flows every day,
+Flowing beneath the starlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 141', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the dusk.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 142', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the moonlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 143', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the dusk.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 144', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the moonlight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 145', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 146', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the evening sky.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 147', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild creek rests,
+The creek rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 148', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the morning sun.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 149', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the moonlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 150', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 151', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 152', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the twilight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 153', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the morning sun.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 154', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 155', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the evening sky.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 156', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the evening sky.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 157', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild valley sways,
+The valley sways every day,
+Swaying beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 158', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the dawn.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 159', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the dawn.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 160', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the evening sky.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 161', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the moonlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 162', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild river flows,
+The river flows every day,
+Flowing beneath the dawn.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 163', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the dawn.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 164', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild creek rests,
+The creek rests every day,
+Resting beneath the dawn.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 165', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the starlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 166', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 167', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the starlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 168', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 169', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild forest dances,
+The forest dances every day,
+Danceing beneath the moonlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 170', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the starlight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 171', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the moonlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 172', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild mountain flows,
+The mountain flows every day,
+Flowing beneath the dusk.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 173', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the starlight.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 174', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the morning sun.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 175', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 176', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the dusk.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 177', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the morning sun.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 178', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild shore grows,
+The shore grows every day,
+Growing beneath the dusk.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 179', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the evening sky.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 180', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the dusk.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 181', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 182', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 183', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the twilight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 184', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the moonlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 185', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain plays,
+The mountain plays every day,
+Playing beneath the starlight.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 186', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild canyon grows,
+The canyon grows every day,
+Growing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 187', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild forest blooms,
+The forest blooms every day,
+Blooming beneath the twilight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 188', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the dawn.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 189', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the morning sun.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 190', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the dawn.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 191', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild canyon grows,
+The canyon grows every day,
+Growing beneath the evening sky.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 192', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the starlight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 193', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild creek rests,
+The creek rests every day,
+Resting beneath the morning sun.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 194', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 195', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the dawn.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 196', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 197', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the dusk.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 198', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the moonlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 199', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild river blooms,
+The river blooms every day,
+Blooming beneath the dusk.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild oak blooms,
+The oak blooms every day,
+Blooming beneath the twilight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the dawn.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild pine works,
+The pine works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the dusk.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the dusk.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the moonlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild hills plays,
+The hills plays every day,
+Playing beneath the starlight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild oak sings,
+The oak sings every day,
+Singing beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the morning sun.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the sunset.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the twilight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the starlight.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild meadow dreams,
+The meadow dreams every day,
+Dreaming beneath the starlight.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild forest prays,
+The forest prays every day,
+Praying beneath the twilight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the twilight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the moonlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild shore flows,
+The shore flows every day,
+Flowing beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild oak works,
+The oak works every day,
+Working beneath the morning sun.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the morning sun.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild oak works,
+The oak works every day,
+Working beneath the starlight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild oak works,
+The oak works every day,
+Working beneath the dusk.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the dawn.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the dusk.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the sunset.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild valley dreams,
+The valley dreams every day,
+Dreaming beneath the dusk.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the morning sun.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the dawn.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the starlight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the dawn.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild river prays,
+The river prays every day,
+Praying beneath the noon.
+My heart is forever anchored here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild prairie grows,
+The prairie grows every day,
+Growing beneath the twilight.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the noon.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild valley flows,
+The valley flows every day,
+Flowing beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the dusk.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild mountain plays,
+The mountain plays every day,
+Playing beneath the dawn.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the dawn.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the moonlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the dawn.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 640', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the starlight.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 641', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild oak blooms,
+The oak blooms every day,
+Blooming beneath the sunset.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 642', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the dawn.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 643', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the twilight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 644', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the moonlight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 645', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild pine dances,
+The pine dances every day,
+Danceing beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 646', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the twilight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 647', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the dusk.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 648', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild oak prays,
+The oak prays every day,
+Praying beneath the evening sky.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 649', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the sunset.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 650', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 651', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild creek prays,
+The creek prays every day,
+Praying beneath the starlight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 652', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the dusk.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 653', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the starlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 654', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the sunset.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 655', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild forest prays,
+The forest prays every day,
+Praying beneath the starlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 656', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 657', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the twilight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 658', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild forest sways,
+The forest sways every day,
+Swaying beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 659', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild shore sings,
+The shore sings every day,
+Singing beneath the moonlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 660', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild creek sways,
+The creek sways every day,
+Swaying beneath the starlight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 661', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild hills sways,
+The hills sways every day,
+Swaying beneath the dusk.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 662', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild river blooms,
+The river blooms every day,
+Blooming beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 663', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain blooms,
+The mountain blooms every day,
+Blooming beneath the noon.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 664', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the starlight.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 665', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the twilight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 666', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the starlight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 667', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the morning sun.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 668', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the dusk.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 669', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the dusk.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 670', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild prairie prays,
+The prairie prays every day,
+Praying beneath the moonlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 671', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the twilight.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 672', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the twilight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 673', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the dawn.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 674', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the sunset.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 675', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the noon.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 676', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild oak plays,
+The oak plays every day,
+Playing beneath the morning sun.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 677', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the starlight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 678', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild mountain dances,
+The mountain dances every day,
+Danceing beneath the evening sky.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 679', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild pine dances,
+The pine dances every day,
+Danceing beneath the sunset.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 680', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the twilight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 681', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the twilight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 682', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the dusk.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 683', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the dawn.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 684', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the moonlight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 685', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the dusk.
+The memories here will never fade,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 686', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the starlight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 687', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the dawn.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 688', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the moonlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 689', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the starlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 690', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the moonlight.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 691', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the twilight.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 692', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the evening sky.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 693', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the sunset.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 694', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild valley works,
+The valley works every day,
+Working beneath the sunset.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 695', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the starlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 696', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the starlight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 697', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the noon.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 698', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild mountain prays,
+The mountain prays every day,
+Praying beneath the evening sky.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 699', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the moonlight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 700', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the twilight.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 701', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the dawn.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 702', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the morning sun.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 703', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain flows,
+The mountain flows every day,
+Flowing beneath the dusk.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 704', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the dusk.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 705', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild forest blooms,
+The forest blooms every day,
+Blooming beneath the moonlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 706', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the moonlight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 707', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the dawn.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 708', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild pine plays,
+The pine plays every day,
+Playing beneath the morning sun.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 709', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the dawn.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 710', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the morning sun.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 711', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the starlight.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 712', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the dusk.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 713', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the dusk.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 714', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the starlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 715', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the moonlight.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 716', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the moonlight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 717', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 718', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild oak rests,
+The oak rests every day,
+Resting beneath the dusk.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 719', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the evening sky.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 720', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the moonlight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 721', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the evening sky.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 722', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild shore flows,
+The shore flows every day,
+Flowing beneath the sunset.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 723', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild hills sways,
+The hills sways every day,
+Swaying beneath the noon.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 724', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the morning sun.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 725', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild forest flows,
+The forest flows every day,
+Flowing beneath the dusk.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 726', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild river prays,
+The river prays every day,
+Praying beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 727', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie works,
+The prairie works every day,
+Working beneath the starlight.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 728', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the dusk.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 729', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the dawn.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 730', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the dusk.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 731', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the noon.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 732', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the dawn.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 733', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the dusk.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 734', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the twilight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 735', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the moonlight.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 736', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild pine plays,
+The pine plays every day,
+Playing beneath the moonlight.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 737', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the sunset.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 738', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the evening sky.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 739', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the sunset.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 740', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the evening sky.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 741', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the morning sun.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 742', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 743', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the evening sky.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 744', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the noon.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 745', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the evening sky.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 746', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the dusk.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 747', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the starlight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 748', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the dusk.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 749', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 750', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild forest dreams,
+The forest dreams every day,
+Dreaming beneath the twilight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 751', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the twilight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 752', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild prairie prays,
+The prairie prays every day,
+Praying beneath the dusk.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 753', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild canyon sings,
+The canyon sings every day,
+Singing beneath the sunset.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 754', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild shore dreams,
+The shore dreams every day,
+Dreaming beneath the dusk.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 755', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the evening sky.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 756', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild shore grows,
+The shore grows every day,
+Growing beneath the twilight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 757', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the dawn.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 758', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the twilight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 759', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild prairie prays,
+The prairie prays every day,
+Praying beneath the dusk.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 760', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the sunset.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 761', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the sunset.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 762', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the sunset.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 763', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the moonlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 764', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the evening sky.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 765', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the noon.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 766', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 767', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 768', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the sunset.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 769', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the twilight.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 770', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild river shines,
+The river shines every day,
+Shineing beneath the evening sky.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 771', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the evening sky.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 772', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the evening sky.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 773', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild shore flows,
+The shore flows every day,
+Flowing beneath the dawn.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 774', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the morning sun.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 775', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the dusk.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 776', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the sunset.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 777', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 778', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the morning sun.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 779', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild shore plays,
+The shore plays every day,
+Playing beneath the moonlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 780', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 781', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the moonlight.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 782', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the evening sky.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 783', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain dreams,
+The mountain dreams every day,
+Dreaming beneath the dawn.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 784', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the dusk.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 785', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the evening sky.
+My heart is forever anchored here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 786', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild mountain blooms,
+The mountain blooms every day,
+Blooming beneath the moonlight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 787', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild creek sings,
+The creek sings every day,
+Singing beneath the moonlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 788', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 789', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the dawn.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 790', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the noon.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 791', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the starlight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 792', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the dawn.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 793', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the twilight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 794', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the evening sky.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 795', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the noon.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 796', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the dusk.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 797', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the evening sky.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 798', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the starlight.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 799', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the dusk.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 800', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the dusk.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 801', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the evening sky.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 802', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild creek sways,
+The creek sways every day,
+Swaying beneath the twilight.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 803', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the noon.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 804', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the moonlight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 805', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild oak flows,
+The oak flows every day,
+Flowing beneath the moonlight.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 806', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild pine prays,
+The pine prays every day,
+Praying beneath the dusk.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 807', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the morning sun.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 808', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the dusk.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 809', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild creek prays,
+The creek prays every day,
+Praying beneath the twilight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 810', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the moonlight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 811', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the dusk.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 812', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the evening sky.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 813', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild pine dances,
+The pine dances every day,
+Danceing beneath the morning sun.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 814', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the dusk.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 815', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the twilight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 816', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the starlight.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 817', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild forest sways,
+The forest sways every day,
+Swaying beneath the evening sky.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 818', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild oak flows,
+The oak flows every day,
+Flowing beneath the evening sky.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 819', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the twilight.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 820', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the moonlight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 821', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the morning sun.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 822', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the noon.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 823', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the twilight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 824', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the twilight.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 825', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the starlight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 826', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the evening sky.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 827', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the twilight.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 828', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the twilight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 829', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the dawn.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 830', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the sunset.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 831', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the dawn.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 832', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the dawn.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 833', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the noon.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 834', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the dawn.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 835', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild pine prays,
+The pine prays every day,
+Praying beneath the moonlight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 836', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild canyon sings,
+The canyon sings every day,
+Singing beneath the starlight.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 837', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild forest dances,
+The forest dances every day,
+Danceing beneath the dusk.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 838', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild oak blooms,
+The oak blooms every day,
+Blooming beneath the morning sun.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 839', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild shore dreams,
+The shore dreams every day,
+Dreaming beneath the starlight.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 840', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the dawn.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 841', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the dusk.
+My heart is forever anchored here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 842', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the sunset.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 843', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild forest blooms,
+The forest blooms every day,
+Blooming beneath the sunset.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 844', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 845', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the noon.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 846', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild creek prays,
+The creek prays every day,
+Praying beneath the noon.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 847', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the evening sky.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 848', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild canyon dreams,
+The canyon dreams every day,
+Dreaming beneath the morning sun.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 849', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the evening sky.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 850', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild mountain dreams,
+The mountain dreams every day,
+Dreaming beneath the moonlight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 851', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the dusk.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 852', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the noon.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 853', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild river shines,
+The river shines every day,
+Shineing beneath the twilight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 854', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the morning sun.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 855', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild creek grows,
+The creek grows every day,
+Growing beneath the morning sun.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 856', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the morning sun.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 857', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the moonlight.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 858', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the evening sky.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 859', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild shore sways,
+The shore sways every day,
+Swaying beneath the noon.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 860', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild oak blooms,
+The oak blooms every day,
+Blooming beneath the dawn.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 861', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild creek works,
+The creek works every day,
+Working beneath the sunset.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 862', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild pine sways,
+The pine sways every day,
+Swaying beneath the noon.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 863', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild valley sways,
+The valley sways every day,
+Swaying beneath the starlight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 864', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the starlight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 865', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild river dreams,
+The river dreams every day,
+Dreaming beneath the twilight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 866', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild pine sways,
+The pine sways every day,
+Swaying beneath the morning sun.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 867', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the moonlight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 868', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the evening sky.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 869', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the starlight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 870', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the moonlight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 871', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the dusk.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 872', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the dawn.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 873', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild pine sways,
+The pine sways every day,
+Swaying beneath the sunset.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 874', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild mountain dances,
+The mountain dances every day,
+Danceing beneath the sunset.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 875', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the moonlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 876', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild oak plays,
+The oak plays every day,
+Playing beneath the moonlight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 877', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the evening sky.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 878', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the twilight.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 879', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild shore flows,
+The shore flows every day,
+Flowing beneath the evening sky.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 880', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the dawn.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 881', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild river prays,
+The river prays every day,
+Praying beneath the morning sun.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 882', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the evening sky.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 883', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the twilight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 884', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the dusk.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 885', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 886', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild pine plays,
+The pine plays every day,
+Playing beneath the dawn.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 887', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the sunset.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 888', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the sunset.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 889', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the sunset.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 890', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the noon.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 891', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest dances,
+The forest dances every day,
+Danceing beneath the sunset.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 892', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild oak flows,
+The oak flows every day,
+Flowing beneath the sunset.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 893', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the noon.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 894', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the moonlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 895', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the starlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 896', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the moonlight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 897', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild shore grows,
+The shore grows every day,
+Growing beneath the dusk.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 898', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the twilight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 899', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild mountain plays,
+The mountain plays every day,
+Playing beneath the evening sky.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild creek works,
+The creek works every day,
+Working beneath the dawn.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild field prays,
+The field prays every day,
+Praying beneath the evening sky.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the dusk.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the twilight.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the noon.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild forest dreams,
+The forest dreams every day,
+Dreaming beneath the sunset.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild pine sways,
+The pine sways every day,
+Swaying beneath the noon.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the midnight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the noon.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the noon.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild pine works,
+The pine works every day,
+Working beneath the starlight.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the morning sun.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the moonlight.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild meadow blooms,
+The meadow blooms every day,
+Blooming beneath the evening sky.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the twilight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild valley dances,
+The valley dances every day,
+Danceing beneath the morning sun.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild valley sways,
+The valley sways every day,
+Swaying beneath the sunset.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the starlight.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the morning sun.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild hills plays,
+The hills plays every day,
+Playing beneath the moonlight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the morning sun.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild canyon sings,
+The canyon sings every day,
+Singing beneath the evening sky.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the morning sun.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild meadow blooms,
+The meadow blooms every day,
+Blooming beneath the midnight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild river walks,
+The river walks every day,
+Walking beneath the dusk.
+Hope springs eternal here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the dawn.
+Hope springs eternal here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild hills plays,
+The hills plays every day,
+Playing beneath the dusk.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the dusk.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild creek prays,
+The creek prays every day,
+Praying beneath the midnight.
+Hope springs eternal here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the starlight.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild prairie prays,
+The prairie prays every day,
+Praying beneath the starlight.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the twilight.
+Hope springs eternal here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the twilight.
+This place will always feel like home,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the moonlight.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the dusk.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the dawn.
+These moments I hold dear,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the dusk.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild field works,
+The field works every day,
+Working beneath the sunset.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon runs,
+The canyon runs every day,
+Runing beneath the twilight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild field dreams,
+The field dreams every day,
+Dreaming beneath the dawn.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild pine walks,
+The pine walks every day,
+Walking beneath the dusk.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the starlight.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild field sways,
+The field sways every day,
+Swaying beneath the midnight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the sunset.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the dusk.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild mountain walks,
+The mountain walks every day,
+Walking beneath the moonlight.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the starlight.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild field flows,
+The field flows every day,
+Flowing beneath the sunset.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild creek grows,
+The creek grows every day,
+Growing beneath the moonlight.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1050', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the dusk.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1051', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the midnight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1052', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the noon.
+Where roots run deep and love will stay,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1053', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the moonlight.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1054', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the starlight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1055', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild oak runs,
+The oak runs every day,
+Runing beneath the dusk.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1056', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain flows,
+The mountain flows every day,
+Flowing beneath the evening sky.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1057', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the dawn.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1058', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the morning sun.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1059', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild river prays,
+The river prays every day,
+Praying beneath the starlight.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1060', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild pine walks,
+The pine walks every day,
+Walking beneath the sunset.
+The memories here will never fade,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1061', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild valley walks,
+The valley walks every day,
+Walking beneath the dawn.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1062', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild mountain dreams,
+The mountain dreams every day,
+Dreaming beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1063', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the starlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1064', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the moonlight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1065', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the morning sun.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1066', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the dawn.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1067', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild meadow plays,
+The meadow plays every day,
+Playing beneath the evening sky.
+Hope springs eternal here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1068', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the dawn.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1069', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild canyon sings,
+The canyon sings every day,
+Singing beneath the dusk.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1070', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the moonlight.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1071', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the sunset.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1072', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild field walks,
+The field walks every day,
+Walking beneath the sunset.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1073', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the sunset.
+My heart is forever anchored here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1074', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the morning sun.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1075', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the dawn.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1076', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild canyon dreams,
+The canyon dreams every day,
+Dreaming beneath the moonlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1077', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild canyon sings,
+The canyon sings every day,
+Singing beneath the twilight.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1078', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the midnight.
+Hope springs eternal here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1079', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild forest walks,
+The forest walks every day,
+Walking beneath the evening sky.
+Hope springs eternal here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1080', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild mountain dreams,
+The mountain dreams every day,
+Dreaming beneath the noon.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1081', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the morning sun.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1082', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the midnight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1083', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the twilight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1084', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild field works,
+The field works every day,
+Working beneath the sunset.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1085', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild oak prays,
+The oak prays every day,
+Praying beneath the starlight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1086', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the sunset.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1087', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the twilight.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1088', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the moonlight.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1089', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the twilight.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1090', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild field flows,
+The field flows every day,
+Flowing beneath the midnight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1091', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the noon.
+My heart is forever anchored here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1092', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the moonlight.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1093', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the dusk.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1094', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the midnight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1095', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the midnight.
+Where roots run deep and love will stay,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1096', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the sunset.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1097', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the evening sky.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1098', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild mountain prays,
+The mountain prays every day,
+Praying beneath the midnight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1099', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the midnight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1100', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild field sings,
+The field sings every day,
+Singing beneath the dusk.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1101', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the dawn.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1102', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the sunset.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1103', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild river runs,
+The river runs every day,
+Runing beneath the dawn.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1104', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the dusk.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1105', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the midnight.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1106', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild prairie runs,
+The prairie runs every day,
+Runing beneath the noon.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1107', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the dusk.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1108', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the evening sky.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1109', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the dusk.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1110', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the evening sky.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1111', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow dreams,
+The meadow dreams every day,
+Dreaming beneath the midnight.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1112', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild forest sways,
+The forest sways every day,
+Swaying beneath the evening sky.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1113', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild meadow dreams,
+The meadow dreams every day,
+Dreaming beneath the starlight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1114', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild forest sways,
+The forest sways every day,
+Swaying beneath the evening sky.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1115', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild oak rests,
+The oak rests every day,
+Resting beneath the midnight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1116', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the midnight.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1117', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the dawn.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1118', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the midnight.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1119', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild river plays,
+The river plays every day,
+Playing beneath the sunset.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1120', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the dawn.
+Hope springs eternal here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1121', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild river blooms,
+The river blooms every day,
+Blooming beneath the noon.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1122', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the dusk.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1123', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild field sways,
+The field sways every day,
+Swaying beneath the dusk.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1124', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild river shines,
+The river shines every day,
+Shineing beneath the evening sky.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1125', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild shore dreams,
+The shore dreams every day,
+Dreaming beneath the dawn.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1126', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the midnight.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1127', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie walks,
+The prairie walks every day,
+Walking beneath the noon.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1128', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild river shines,
+The river shines every day,
+Shineing beneath the twilight.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1129', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the midnight.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1130', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild valley flows,
+The valley flows every day,
+Flowing beneath the midnight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1131', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild prairie grows,
+The prairie grows every day,
+Growing beneath the noon.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1132', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the starlight.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1133', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild hills plays,
+The hills plays every day,
+Playing beneath the morning sun.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1134', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the starlight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1135', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the noon.
+The memories here will never fade,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1136', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the sunset.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1137', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild field dreams,
+The field dreams every day,
+Dreaming beneath the starlight.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1138', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the evening sky.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1139', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the noon.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1140', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the midnight.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1141', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild meadow dreams,
+The meadow dreams every day,
+Dreaming beneath the dusk.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1142', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the evening sky.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1143', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild mountain prays,
+The mountain prays every day,
+Praying beneath the noon.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1144', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild canyon grows,
+The canyon grows every day,
+Growing beneath the midnight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1145', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the morning sun.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1146', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the midnight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1147', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the morning sun.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1148', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild forest walks,
+The forest walks every day,
+Walking beneath the dawn.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1149', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the noon.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1150', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild oak dances,
+The oak dances every day,
+Danceing beneath the sunset.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1151', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the noon.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1152', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild river dreams,
+The river dreams every day,
+Dreaming beneath the sunset.
+Hope springs eternal here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1153', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild valley runs,
+The valley runs every day,
+Runing beneath the dusk.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1154', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the twilight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1155', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild pine sways,
+The pine sways every day,
+Swaying beneath the evening sky.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1156', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild valley dances,
+The valley dances every day,
+Danceing beneath the sunset.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1157', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the sunset.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1158', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the starlight.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1159', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the twilight.
+Joy comes every morning,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1160', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the sunset.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1161', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the starlight.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1162', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the starlight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1163', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the starlight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1164', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild valley grows,
+The valley grows every day,
+Growing beneath the midnight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1165', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild valley sings,
+The valley sings every day,
+Singing beneath the moonlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1166', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the twilight.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1167', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the evening sky.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1168', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the sunset.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1169', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild pine prays,
+The pine prays every day,
+Praying beneath the noon.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1170', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the noon.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1171', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the starlight.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1172', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the twilight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1173', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild prairie runs,
+The prairie runs every day,
+Runing beneath the sunset.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1174', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the sunset.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1175', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild mountain flows,
+The mountain flows every day,
+Flowing beneath the starlight.
+My heart is forever anchored here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1176', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild valley walks,
+The valley walks every day,
+Walking beneath the twilight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1177', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie works,
+The prairie works every day,
+Working beneath the moonlight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1178', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the sunset.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1179', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the twilight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1180', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild field sways,
+The field sways every day,
+Swaying beneath the midnight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1181', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the sunset.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1182', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the noon.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1183', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the starlight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1184', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild river dreams,
+The river dreams every day,
+Dreaming beneath the twilight.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1185', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the noon.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1186', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild field dances,
+The field dances every day,
+Danceing beneath the twilight.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1187', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the evening sky.
+These moments I hold dear,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1188', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild field rests,
+The field rests every day,
+Resting beneath the morning sun.
+This place will always feel like home,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1189', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild meadow shines,
+The meadow shines every day,
+Shineing beneath the noon.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1190', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild river runs,
+The river runs every day,
+Runing beneath the twilight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1191', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the dawn.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1192', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild valley runs,
+The valley runs every day,
+Runing beneath the noon.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1193', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild field works,
+The field works every day,
+Working beneath the morning sun.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1194', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the midnight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1195', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild forest runs,
+The forest runs every day,
+Runing beneath the starlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1196', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the twilight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1197', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild field runs,
+The field runs every day,
+Runing beneath the noon.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1198', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the twilight.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1199', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the noon.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1200', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild river sings,
+The river sings every day,
+Singing beneath the starlight.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1201', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild hills dances,
+The hills dances every day,
+Danceing beneath the midnight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1202', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the evening sky.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1203', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the midnight.
+The world feels right somehow,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1204', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the midnight.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1205', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild oak dances,
+The oak dances every day,
+Danceing beneath the morning sun.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1206', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild creek sways,
+The creek sways every day,
+Swaying beneath the dusk.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1207', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the sunset.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1208', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the noon.
+Hope springs eternal here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1209', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild oak works,
+The oak works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1210', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild field sways,
+The field sways every day,
+Swaying beneath the noon.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1211', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the sunset.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1212', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild shore sings,
+The shore sings every day,
+Singing beneath the sunset.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1213', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild field grows,
+The field grows every day,
+Growing beneath the midnight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1214', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild forest runs,
+The forest runs every day,
+Runing beneath the moonlight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1215', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild meadow plays,
+The meadow plays every day,
+Playing beneath the starlight.
+Hope springs eternal here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1216', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain prays,
+The mountain prays every day,
+Praying beneath the midnight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1217', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the midnight.
+Joy comes every morning,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1218', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild hills sways,
+The hills sways every day,
+Swaying beneath the midnight.
+This place will always feel like home,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1219', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild canyon plays,
+The canyon plays every day,
+Playing beneath the sunset.
+My heart is forever anchored here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1220', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild valley prays,
+The valley prays every day,
+Praying beneath the evening sky.
+Hope springs eternal here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1221', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the dawn.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1222', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild valley works,
+The valley works every day,
+Working beneath the starlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1223', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the starlight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1224', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild forest dances,
+The forest dances every day,
+Danceing beneath the midnight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1225', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild mountain runs,
+The mountain runs every day,
+Runing beneath the dusk.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1226', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild canyon sways,
+The canyon sways every day,
+Swaying beneath the twilight.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1227', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild valley works,
+The valley works every day,
+Working beneath the morning sun.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1228', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild prairie runs,
+The prairie runs every day,
+Runing beneath the starlight.
+Joy comes every morning,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1229', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild shore blooms,
+The shore blooms every day,
+Blooming beneath the twilight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1230', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the evening sky.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1231', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the evening sky.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1232', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild mountain works,
+The mountain works every day,
+Working beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1233', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the dawn.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1234', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild oak sings,
+The oak sings every day,
+Singing beneath the twilight.
+My heart is forever anchored here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1235', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the morning sun.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1236', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the dawn.
+Joy comes every morning,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1237', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the sunset.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1238', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon dreams,
+The canyon dreams every day,
+Dreaming beneath the evening sky.
+Hope springs eternal here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1239', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the midnight.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1240', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild river sways,
+The river sways every day,
+Swaying beneath the sunset.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1241', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild pine works,
+The pine works every day,
+Working beneath the noon.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1242', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild meadow plays,
+The meadow plays every day,
+Playing beneath the twilight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1243', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild creek grows,
+The creek grows every day,
+Growing beneath the midnight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1244', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild field plays,
+The field plays every day,
+Playing beneath the midnight.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1245', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the dawn.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1246', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the midnight.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1247', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the dusk.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1248', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the noon.
+The memories here will never fade,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1249', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the moonlight.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1250', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the moonlight.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1251', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the morning sun.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1252', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the dusk.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1253', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the morning sun.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1254', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the midnight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1255', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1256', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the dusk.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1257', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the noon.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1258', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the midnight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1259', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the noon.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1260', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild prairie runs,
+The prairie runs every day,
+Runing beneath the midnight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1261', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the moonlight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1262', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the sunset.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1263', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild forest blooms,
+The forest blooms every day,
+Blooming beneath the evening sky.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1264', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild pine works,
+The pine works every day,
+Working beneath the starlight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1265', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the morning sun.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1266', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild valley sways,
+The valley sways every day,
+Swaying beneath the morning sun.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1267', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild forest dances,
+The forest dances every day,
+Danceing beneath the midnight.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1268', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the starlight.
+Peace fills my soul today,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1269', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the dusk.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1270', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild pine walks,
+The pine walks every day,
+Walking beneath the sunset.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1271', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild pine blooms,
+The pine blooms every day,
+Blooming beneath the dusk.
+These moments I hold dear,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1272', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild forest dreams,
+The forest dreams every day,
+Dreaming beneath the dawn.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1273', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the midnight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1274', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild creek sings,
+The creek sings every day,
+Singing beneath the morning sun.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1275', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild meadow walks,
+The meadow walks every day,
+Walking beneath the starlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1276', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the morning sun.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1277', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the dawn.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1278', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the morning sun.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1279', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the noon.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1280', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the evening sky.
+Hope springs eternal here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1281', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild valley works,
+The valley works every day,
+Working beneath the sunset.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1282', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild field rests,
+The field rests every day,
+Resting beneath the dusk.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1283', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild valley flows,
+The valley flows every day,
+Flowing beneath the morning sun.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1284', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild hills walks,
+The hills walks every day,
+Walking beneath the moonlight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1285', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the dusk.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1286', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the midnight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1287', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild river flows,
+The river flows every day,
+Flowing beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1288', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the dusk.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1289', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the starlight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1290', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild river flows,
+The river flows every day,
+Flowing beneath the starlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1291', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the morning sun.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1292', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild field shines,
+The field shines every day,
+Shineing beneath the twilight.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1293', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild forest walks,
+The forest walks every day,
+Walking beneath the twilight.
+These moments I hold dear,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1294', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the twilight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1295', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild oak walks,
+The oak walks every day,
+Walking beneath the morning sun.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1296', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the morning sun.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1297', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the dusk.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1298', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild river dreams,
+The river dreams every day,
+Dreaming beneath the evening sky.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1299', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild prairie works,
+The prairie works every day,
+Working beneath the dawn.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1300', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the dusk.
+This place will always feel like home,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1301', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the morning sun.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1302', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild pine walks,
+The pine walks every day,
+Walking beneath the morning sun.
+Peace fills my soul today,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1303', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild shore walks,
+The shore walks every day,
+Walking beneath the dawn.
+Joy comes every morning,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1304', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild valley flows,
+The valley flows every day,
+Flowing beneath the noon.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1305', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild forest runs,
+The forest runs every day,
+Runing beneath the twilight.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1306', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain runs,
+The mountain runs every day,
+Runing beneath the starlight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1307', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the sunset.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1308', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild mountain walks,
+The mountain walks every day,
+Walking beneath the dawn.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1309', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild oak runs,
+The oak runs every day,
+Runing beneath the midnight.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1310', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the evening sky.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1311', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the sunset.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1312', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild field dreams,
+The field dreams every day,
+Dreaming beneath the moonlight.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1313', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild mountain runs,
+The mountain runs every day,
+Runing beneath the starlight.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1314', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild oak runs,
+The oak runs every day,
+Runing beneath the sunset.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1315', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild oak runs,
+The oak runs every day,
+Runing beneath the dawn.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1316', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild meadow flows,
+The meadow flows every day,
+Flowing beneath the dusk.
+Where roots run deep and love will stay,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1317', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild river grows,
+The river grows every day,
+Growing beneath the noon.
+These moments I hold dear,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1318', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the sunset.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1319', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the twilight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1320', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild forest prays,
+The forest prays every day,
+Praying beneath the evening sky.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1321', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild forest sings,
+The forest sings every day,
+Singing beneath the midnight.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1322', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the evening sky.
+Hope springs eternal here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1323', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the twilight.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1324', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild prairie dances,
+The prairie dances every day,
+Danceing beneath the moonlight.
+Peace fills my soul today,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1325', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the moonlight.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1326', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the dawn.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1327', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild meadow prays,
+The meadow prays every day,
+Praying beneath the sunset.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1328', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild valley walks,
+The valley walks every day,
+Walking beneath the morning sun.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1329', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the sunset.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1330', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the dawn.
+Where roots run deep and love will stay,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1331', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild canyon works,
+The canyon works every day,
+Working beneath the sunset.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1332', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild creek sways,
+The creek sways every day,
+Swaying beneath the noon.
+Where roots run deep and love will stay,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1333', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild field sings,
+The field sings every day,
+Singing beneath the morning sun.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1334', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the moonlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1335', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the noon.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1336', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the evening sky.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1337', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the moonlight.
+My heart is forever anchored here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1338', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the noon.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1339', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the dusk.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1340', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the midnight.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1341', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild field plays,
+The field plays every day,
+Playing beneath the starlight.
+The memories here will never fade,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1342', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the starlight.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1343', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild meadow runs,
+The meadow runs every day,
+Runing beneath the dusk.
+The world feels right somehow,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1344', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the moonlight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1345', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild mountain grows,
+The mountain grows every day,
+Growing beneath the morning sun.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1346', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild oak runs,
+The oak runs every day,
+Runing beneath the noon.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1347', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the moonlight.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1348', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild canyon grows,
+The canyon grows every day,
+Growing beneath the morning sun.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1349', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the twilight.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1350', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild meadow walks,
+The meadow walks every day,
+Walking beneath the midnight.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1351', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the dusk.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1352', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild hills runs,
+The hills runs every day,
+Runing beneath the evening sky.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1353', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild pine rests,
+The pine rests every day,
+Resting beneath the moonlight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1354', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild shore prays,
+The shore prays every day,
+Praying beneath the morning sun.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1355', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild hills plays,
+The hills plays every day,
+Playing beneath the midnight.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1356', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the dusk.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1357', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the starlight.
+Joy comes every morning,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1358', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild field blooms,
+The field blooms every day,
+Blooming beneath the dawn.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1359', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the twilight.
+Hope springs eternal here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1360', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild meadow walks,
+The meadow walks every day,
+Walking beneath the twilight.
+The memories here will never fade,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1361', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the noon.
+Hope springs eternal here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1362', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the twilight.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1363', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild field rests,
+The field rests every day,
+Resting beneath the midnight.
+This place will always feel like home,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1364', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the midnight.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1365', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild field flows,
+The field flows every day,
+Flowing beneath the twilight.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1366', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain runs,
+The mountain runs every day,
+Runing beneath the dawn.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1367', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the sunset.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1368', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild oak sings,
+The oak sings every day,
+Singing beneath the noon.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1369', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild forest shines,
+The forest shines every day,
+Shineing beneath the dawn.
+My heart is forever anchored here,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1370', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild oak dances,
+The oak dances every day,
+Danceing beneath the moonlight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1371', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild creek runs,
+The creek runs every day,
+Runing beneath the twilight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1372', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild forest grows,
+The forest grows every day,
+Growing beneath the twilight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1373', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild field flows,
+The field flows every day,
+Flowing beneath the noon.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1374', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild meadow blooms,
+The meadow blooms every day,
+Blooming beneath the starlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1375', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild shore rests,
+The shore rests every day,
+Resting beneath the starlight.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1376', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild hills runs,
+The hills runs every day,
+Runing beneath the sunset.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1377', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild valley plays,
+The valley plays every day,
+Playing beneath the moonlight.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1378', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild field rests,
+The field rests every day,
+Resting beneath the dusk.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1379', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the dusk.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1380', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the starlight.
+Hope springs eternal here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1381', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild creek dances,
+The creek dances every day,
+Danceing beneath the starlight.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1382', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild field dreams,
+The field dreams every day,
+Dreaming beneath the dawn.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1383', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild creek sings,
+The creek sings every day,
+Singing beneath the dawn.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1384', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the morning sun.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1385', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the moonlight.
+Where roots run deep and love will stay,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1386', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the noon.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1387', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild mountain sways,
+The mountain sways every day,
+Swaying beneath the starlight.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1388', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the starlight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1389', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild shore plays,
+The shore plays every day,
+Playing beneath the evening sky.
+Joy comes every morning,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1390', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild canyon blooms,
+The canyon blooms every day,
+Blooming beneath the noon.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1391', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the evening sky.
+Hope springs eternal here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1392', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild field blooms,
+The field blooms every day,
+Blooming beneath the sunset.
+My heart is forever anchored here,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1393', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild creek dreams,
+The creek dreams every day,
+Dreaming beneath the sunset.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1394', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the morning sun.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1395', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild prairie sways,
+The prairie sways every day,
+Swaying beneath the moonlight.
+The memories here will never fade,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1396', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the dusk.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1397', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild hills shines,
+The hills shines every day,
+Shineing beneath the moonlight.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1398', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the starlight.
+These moments I hold dear,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1399', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the dawn.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1400', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the dusk.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1401', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the evening sky.
+Hope springs eternal here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1402', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild mountain blooms,
+The mountain blooms every day,
+Blooming beneath the starlight.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1403', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the moonlight.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1404', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild forest runs,
+The forest runs every day,
+Runing beneath the sunset.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1405', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild river walks,
+The river walks every day,
+Walking beneath the dawn.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1406', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild creek blooms,
+The creek blooms every day,
+Blooming beneath the noon.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1407', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild field dances,
+The field dances every day,
+Danceing beneath the morning sun.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1408', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild pine grows,
+The pine grows every day,
+Growing beneath the dusk.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1409', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild field flows,
+The field flows every day,
+Flowing beneath the midnight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1410', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild oak sways,
+The oak sways every day,
+Swaying beneath the twilight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1411', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the starlight.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1412', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild oak walks,
+The oak walks every day,
+Walking beneath the dawn.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1413', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild prairie runs,
+The prairie runs every day,
+Runing beneath the midnight.
+These moments I hold dear,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1414', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the noon.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1415', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild field plays,
+The field plays every day,
+Playing beneath the dusk.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1416', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild pine sings,
+The pine sings every day,
+Singing beneath the dusk.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1417', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild field walks,
+The field walks every day,
+Walking beneath the starlight.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1418', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild canyon dances,
+The canyon dances every day,
+Danceing beneath the sunset.
+The world feels right somehow,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1419', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild prairie rests,
+The prairie rests every day,
+Resting beneath the dusk.
+Joy comes every morning,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1420', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild pine walks,
+The pine walks every day,
+Walking beneath the evening sky.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1421', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild river rests,
+The river rests every day,
+Resting beneath the midnight.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1422', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the sunset.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1423', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild pine runs,
+The pine runs every day,
+Runing beneath the evening sky.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1424', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild oak flows,
+The oak flows every day,
+Flowing beneath the moonlight.
+My heart is forever anchored here,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1425', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the morning sun.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1426', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild valley dances,
+The valley dances every day,
+Danceing beneath the dusk.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1427', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild river walks,
+The river walks every day,
+Walking beneath the sunset.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1428', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild hills walks,
+The hills walks every day,
+Walking beneath the dusk.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1429', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild shore walks,
+The shore walks every day,
+Walking beneath the twilight.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1430', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild canyon shines,
+The canyon shines every day,
+Shineing beneath the dawn.
+Hope springs eternal here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1431', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild river runs,
+The river runs every day,
+Runing beneath the midnight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1432', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild river shines,
+The river shines every day,
+Shineing beneath the dawn.
+My heart is forever anchored here,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1433', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild field rests,
+The field rests every day,
+Resting beneath the dawn.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1434', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild canyon walks,
+The canyon walks every day,
+Walking beneath the dawn.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1435', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the starlight.
+Where roots run deep and love will stay,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1436', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild shore runs,
+The shore runs every day,
+Runing beneath the dawn.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1437', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild oak blooms,
+The oak blooms every day,
+Blooming beneath the moonlight.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1438', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild field blooms,
+The field blooms every day,
+Blooming beneath the morning sun.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1439', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild forest works,
+The forest works every day,
+Working beneath the starlight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1440', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild field sways,
+The field sways every day,
+Swaying beneath the starlight.
+This place will always feel like home,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1441', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild prairie shines,
+The prairie shines every day,
+Shineing beneath the dawn.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1442', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild oak grows,
+The oak grows every day,
+Growing beneath the noon.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1443', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild prairie works,
+The prairie works every day,
+Working beneath the noon.
+The memories here will never fade,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1444', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild forest plays,
+The forest plays every day,
+Playing beneath the evening sky.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1445', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild river walks,
+The river walks every day,
+Walking beneath the starlight.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1446', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild forest rests,
+The forest rests every day,
+Resting beneath the dawn.
+Hope springs eternal here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1447', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the midnight.
+These moments I hold dear,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1448', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild prairie dreams,
+The prairie dreams every day,
+Dreaming beneath the twilight.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1449', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the midnight.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1450', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild creek shines,
+The creek shines every day,
+Shineing beneath the noon.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1451', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the sunset.
+Hope springs eternal here,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1452', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild meadow dances,
+The meadow dances every day,
+Danceing beneath the starlight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1453', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild canyon flows,
+The canyon flows every day,
+Flowing beneath the sunset.
+Joy comes every morning,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1454', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild valley rests,
+The valley rests every day,
+Resting beneath the evening sky.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1455', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild meadow works,
+The meadow works every day,
+Working beneath the dusk.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1456', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild forest prays,
+The forest prays every day,
+Praying beneath the dawn.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1457', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie blooms,
+The prairie blooms every day,
+Blooming beneath the morning sun.
+Hope springs eternal here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1458', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild field plays,
+The field plays every day,
+Playing beneath the midnight.
+The memories here will never fade,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1459', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the morning sun.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1460', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild meadow plays,
+The meadow plays every day,
+Playing beneath the sunset.
+This place will always feel like home,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1461', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild meadow rests,
+The meadow rests every day,
+Resting beneath the moonlight.
+The world feels right somehow,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1462', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild valley dreams,
+The valley dreams every day,
+Dreaming beneath the midnight.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1463', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the dusk.
+The world feels right somehow,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1464', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild hills runs,
+The hills runs every day,
+Runing beneath the noon.
+These moments I hold dear,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1465', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild meadow sways,
+The meadow sways every day,
+Swaying beneath the starlight.
+Joy comes every morning,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1466', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain shines,
+The mountain shines every day,
+Shineing beneath the starlight.
+The world feels right somehow,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1467', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild mountain sings,
+The mountain sings every day,
+Singing beneath the evening sky.
+Joy comes every morning,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1468', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild pine flows,
+The pine flows every day,
+Flowing beneath the dusk.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1469', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild canyon rests,
+The canyon rests every day,
+Resting beneath the twilight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 1470', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild shore works,
+The shore works every day,
+Working beneath the morning sun.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 1471', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild river blooms,
+The river blooms every day,
+Blooming beneath the dawn.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 1472', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the sunset.
+My heart is forever anchored here,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 1473', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild creek runs,
+The creek runs every day,
+Runing beneath the twilight.
+Hope springs eternal here,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 1474', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild creek walks,
+The creek walks every day,
+Walking beneath the dusk.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 1475', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild forest blooms,
+The forest blooms every day,
+Blooming beneath the twilight.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 1476', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild river works,
+The river works every day,
+Working beneath the twilight.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 1477', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild shore shines,
+The shore shines every day,
+Shineing beneath the midnight.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 1478', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the sunset.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 1479', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild creek plays,
+The creek plays every day,
+Playing beneath the evening sky.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 1480', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild forest flows,
+The forest flows every day,
+Flowing beneath the dusk.
+These moments I hold dear,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 1481', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild meadow walks,
+The meadow walks every day,
+Walking beneath the twilight.
+Peace fills my soul today,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 1482', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild hills flows,
+The hills flows every day,
+Flowing beneath the starlight.
+Hope springs eternal here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 1483', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild pine dreams,
+The pine dreams every day,
+Dreaming beneath the noon.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 1484', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the noon.
+This place will always feel like home,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 1485', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild hills rests,
+The hills rests every day,
+Resting beneath the evening sky.
+Where roots run deep and love will stay,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 1486', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the evening sky.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 1487', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild hills works,
+The hills works every day,
+Working beneath the starlight.
+Peace fills my soul today,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 1488', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild oak rests,
+The oak rests every day,
+Resting beneath the evening sky.
+The world feels right somehow,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 1489', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild pine shines,
+The pine shines every day,
+Shineing beneath the morning sun.
+The memories here will never fade,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 1490', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild shore sings,
+The shore sings every day,
+Singing beneath the dusk.
+This place will always feel like home,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 1491', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the morning sun.
+Peace fills my soul today,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 1492', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild valley runs,
+The valley runs every day,
+Runing beneath the midnight.
+Peace fills my soul today,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 1493', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild canyon prays,
+The canyon prays every day,
+Praying beneath the evening sky.
+Where roots run deep and love will stay,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 1494', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild creek flows,
+The creek flows every day,
+Flowing beneath the evening sky.
+These moments I hold dear,
+as time goes slowly by.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Magnolia Bloom 1495', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Love songs', 'lyrics' => "Southern Magnolia Bloom is where I belong,
+Where the wild river walks,
+The river walks every day,
+Walking beneath the starlight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Piano Bar 1496', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Piano Bar is where I belong,
+Where the wild oak dreams,
+The oak dreams every day,
+Dreaming beneath the evening sky.
+Joy comes every morning,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cow Pasture Sunrise 1497', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cow Pasture Sunrise is where I belong,
+Where the wild prairie plays,
+The prairie plays every day,
+Playing beneath the dusk.
+The world feels right somehow,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Train Depot 1498', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Train Depot is where I belong,
+Where the wild hills blooms,
+The hills blooms every day,
+Blooming beneath the twilight.
+The world feels right somehow,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Shoreline Walk 1499', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Shoreline Walk is where I belong,
+Where the wild meadow blooms,
+The meadow blooms every day,
+Blooming beneath the twilight.
+My heart is forever anchored here,
+like a warm summer breeze.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 1500', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild meadow walks,
+The meadow walks every day,
+Walking beneath the starlight.
+This place will always feel like home,
+exactly where I should be.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 1501', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild shore plays,
+The shore plays every day,
+Playing beneath the moonlight.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 1502', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild prairie flows,
+The prairie flows every day,
+Flowing beneath the morning sun.
+Joy comes every morning,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 1503', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild mountain dreams,
+The mountain dreams every day,
+Dreaming beneath the morning sun.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 1504', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild canyon runs,
+The canyon runs every day,
+Runing beneath the evening sky.
+Joy comes every morning,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 1505', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild shore dances,
+The shore dances every day,
+Danceing beneath the sunset.
+My heart is forever anchored here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 1506', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild hills dreams,
+The hills dreams every day,
+Dreaming beneath the evening sky.
+This place will always feel like home,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 1507', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild oak sings,
+The oak sings every day,
+Singing beneath the evening sky.
+This place will always feel like home,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 1508', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild creek prays,
+The creek prays every day,
+Praying beneath the twilight.
+Where roots run deep and love will stay,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 1509', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the twilight.
+Where roots run deep and love will stay,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 1510', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild hills grows,
+The hills grows every day,
+Growing beneath the dusk.
+Peace fills my soul today,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 1511', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild hills sings,
+The hills sings every day,
+Singing beneath the midnight.
+Joy comes every morning,
+until my final day.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 1512', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild meadow grows,
+The meadow grows every day,
+Growing beneath the moonlight.
+Hope springs eternal here,
+for all the world to see.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 1513', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild prairie sings,
+The prairie sings every day,
+Singing beneath the dusk.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 1514', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild mountain rests,
+The mountain rests every day,
+Resting beneath the noon.
+Peace fills my soul today,
+in the book of my life.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 1515', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the dawn.
+This place will always feel like home,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 1516', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild river dances,
+The river dances every day,
+Danceing beneath the starlight.
+The memories here will never fade,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 1517', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild valley blooms,
+The valley blooms every day,
+Blooming beneath the dawn.
+These moments I hold dear,
+forever etched within my soul.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 1518', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild valley shines,
+The valley shines every day,
+Shineing beneath the starlight.
+These moments I hold dear,
+a song that never ends.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 1519', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild meadow sings,
+The meadow sings every day,
+Singing beneath the starlight.
+The memories here will never fade,
+a treasure beyond compare.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild forest glen sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild river crossing sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the twilight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild desert canyon sings,
+The coastal shore calls me home,
+And my heart with peaceful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the dawn I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie winds sings,
+The coastal shore calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild prairie winds sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild river crossing sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild coastal shore sings,
+The desert canyon calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest glen sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the dawn I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with joyful rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with blessed rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild river crossing sings,
+The countryside lane calls me home,
+And my heart with blessed rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with joyful rings.
+
+Beneath the twilight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild coastal shore sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild prairie winds sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild coastal shore sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with blessed rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild mountain valley sings,
+The coastal shore calls me home,
+And my heart with blessed rings.
+
+Beneath the moonlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Atlantic Fisherman,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the dusk I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wildflower Meadow Walk,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild coastal shore sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dusk I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rustic Barn Wedding,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild desert canyon sings,
+The desert canyon calls me home,
+And my heart with blessed rings.
+
+Beneath the starlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Autumn Harvest Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild prairie winds sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Fog Lift,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild mountain valley sings,
+The prairie winds calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Frontier Fort Town,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild desert canyon sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Steel Guitar Melody,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild prairie winds sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Grocery Store,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild coastal shore sings,
+The prairie winds calls me home,
+And my heart with content rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Dusty Ranch Road,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild forest glen sings,
+The mountain valley calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Sunrise on the Range,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rocky Mountain High,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the dusk I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Homesteaders,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild desert canyon sings,
+The desert canyon calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to River Ferry Crossing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Honey Bee Garden,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild river crossing sings,
+The countryside lane calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Harvest Moon Rising,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild prairie winds sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cedar Chest Memories,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild coastal shore sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the twilight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Railroad Yard Workers,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild river crossing sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Valley Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild forest glen sings,
+The desert canyon calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Dance Hall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wild Mustang Run,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 2045', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the morning sun I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 2046', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 2047', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild desert canyon sings,
+The forest glen calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 2048', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild countryside lane sings,
+The countryside lane calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 2049', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild prairie winds sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 2050', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the dawn I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 2051', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the dusk I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 2052', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 2053', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 2054', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild countryside lane sings,
+The desert canyon calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 2055', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 2056', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild prairie winds sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 2057', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild prairie winds sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the starlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 2058', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild countryside lane sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 2059', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild desert canyon sings,
+The countryside lane calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 2060', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the twilight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 2061', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with grateful rings.
+
+Beneath the moonlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 2062', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild forest glen sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 2063', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 2064', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild coastal shore sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 2065', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 2066', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with content rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 2067', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 2068', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild countryside lane sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 2069', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 2070', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild mountain valley sings,
+The coastal shore calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Atlantic Fisherman,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 2071', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with peaceful rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wildflower Meadow Walk,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 2072', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild prairie winds sings,
+The countryside lane calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rustic Barn Wedding,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 2073', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Autumn Harvest Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 2074', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild forest glen sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Fog Lift,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 2075', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild coastal shore sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Frontier Fort Town,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 2076', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with peaceful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Steel Guitar Melody,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 2077', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild river crossing sings,
+The mountain valley calls me home,
+And my heart with blessed rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Grocery Store,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 2078', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Dusty Ranch Road,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 2079', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the dusk I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Sunrise on the Range,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 2080', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rocky Mountain High,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 2081', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild forest glen sings,
+The countryside lane calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Homesteaders,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 2082', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the starlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to River Ferry Crossing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 2083', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild countryside lane sings,
+The desert canyon calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Honey Bee Garden,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 2084', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild countryside lane sings,
+The coastal shore calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Harvest Moon Rising,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 2085', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild desert canyon sings,
+The mountain valley calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cedar Chest Memories,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 2086', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Railroad Yard Workers,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 2087', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Valley Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 2088', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Dance Hall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 2089', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild river crossing sings,
+The countryside lane calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wild Mustang Run,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 2090', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild forest glen sings,
+The coastal shore calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 2091', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild coastal shore sings,
+The prairie winds calls me home,
+And my heart with blessed rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 2092', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild desert canyon sings,
+The coastal shore calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 2093', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild prairie winds sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 2094', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 2095', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 2096', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the starlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 2097', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild coastal shore sings,
+The countryside lane calls me home,
+And my heart with content rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 2098', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild desert canyon sings,
+The mountain valley calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dusk I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 2099', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild coastal shore sings,
+The countryside lane calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 2100', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild coastal shore sings,
+The countryside lane calls me home,
+And my heart with peaceful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 2101', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with joyful rings.
+
+Beneath the twilight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 2102', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild mountain valley sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the moonlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 2103', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 2104', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild coastal shore sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 2105', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild forest glen sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 2106', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with grateful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 2107', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 2108', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild mountain valley sings,
+The prairie winds calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 2109', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 2110', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 2111', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild coastal shore sings,
+The desert canyon calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 2112', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 2113', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with peaceful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 2114', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild mountain valley sings,
+The prairie winds calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 2115', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild forest glen sings,
+The river crossing calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Atlantic Fisherman,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 2116', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wildflower Meadow Walk,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 2117', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rustic Barn Wedding,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 2118', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Autumn Harvest Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 2119', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild desert canyon sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Fog Lift,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 2120', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the dusk I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Frontier Fort Town,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 2121', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Steel Guitar Melody,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 2122', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild desert canyon sings,
+The desert canyon calls me home,
+And my heart with peaceful rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Grocery Store,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 2123', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild countryside lane sings,
+The desert canyon calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Dusty Ranch Road,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 2124', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Sunrise on the Range,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 2125', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild desert canyon sings,
+The coastal shore calls me home,
+And my heart with joyful rings.
+
+Beneath the twilight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rocky Mountain High,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 2126', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild forest glen sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Homesteaders,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 2127', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to River Ferry Crossing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 2128', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Honey Bee Garden,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 2129', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild desert canyon sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Harvest Moon Rising,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 2130', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild desert canyon sings,
+The river crossing calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cedar Chest Memories,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 2131', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild forest glen sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the twilight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Railroad Yard Workers,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 2132', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild desert canyon sings,
+The mountain valley calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Valley Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 2133', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Dance Hall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 2134', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild river crossing sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dusk I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wild Mustang Run,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 2135', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild prairie winds sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 2136', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 2137', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild countryside lane sings,
+The desert canyon calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 2138', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 2139', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild river crossing sings,
+The desert canyon calls me home,
+And my heart with joyful rings.
+
+Beneath the dusk I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 2140', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 2141', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild coastal shore sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 2142', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild desert canyon sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 2143', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 2144', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 2145', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with joyful rings.
+
+Beneath the starlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 2146', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild coastal shore sings,
+The coastal shore calls me home,
+And my heart with joyful rings.
+
+Beneath the starlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 2147', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 2148', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild coastal shore sings,
+The coastal shore calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 2149', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with peaceful rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 2150', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 2151', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 2152', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild prairie winds sings,
+The mountain valley calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 2153', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 2154', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the dawn I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 2155', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with content rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 2156', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 2157', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 2158', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 2159', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild countryside lane sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 2160', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Atlantic Fisherman,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 2161', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild prairie winds sings,
+The desert canyon calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wildflower Meadow Walk,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 2162', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with joyful rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rustic Barn Wedding,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 2163', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild river crossing sings,
+The desert canyon calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Autumn Harvest Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 2164', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild prairie winds sings,
+The forest glen calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Fog Lift,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 2165', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild prairie winds sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the moonlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Frontier Fort Town,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 2166', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the dusk I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Steel Guitar Melody,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 2167', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild forest glen sings,
+The mountain valley calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Grocery Store,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 2168', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Dusty Ranch Road,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 2169', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild prairie winds sings,
+The prairie winds calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Sunrise on the Range,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 2170', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with peaceful rings.
+
+Beneath the dawn I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rocky Mountain High,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 2171', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild mountain valley sings,
+The prairie winds calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Homesteaders,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 2172', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild countryside lane sings,
+The countryside lane calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to River Ferry Crossing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 2173', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild river crossing sings,
+The coastal shore calls me home,
+And my heart with blessed rings.
+
+Beneath the dawn I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Honey Bee Garden,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 2174', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the morning sun I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Harvest Moon Rising,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 2175', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild river crossing sings,
+The countryside lane calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cedar Chest Memories,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 2176', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild forest glen sings,
+The countryside lane calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Railroad Yard Workers,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 2177', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Valley Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 2178', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Dance Hall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 2179', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild forest glen sings,
+The countryside lane calls me home,
+And my heart with peaceful rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wild Mustang Run,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 2180', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild coastal shore sings,
+The countryside lane calls me home,
+And my heart with joyful rings.
+
+Beneath the twilight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 2181', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild prairie winds sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 2182', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with joyful rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 2183', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild forest glen sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 2184', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 2185', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild prairie winds sings,
+The countryside lane calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 2186', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the moonlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 2187', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild prairie winds sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the moonlight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 2188', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild coastal shore sings,
+The countryside lane calls me home,
+And my heart with serene rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 2189', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 2190', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with serene rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 2191', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild forest glen sings,
+The mountain valley calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 2192', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild desert canyon sings,
+The countryside lane calls me home,
+And my heart with blessed rings.
+
+Beneath the twilight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 2193', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with blessed rings.
+
+Beneath the moonlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 2194', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild countryside lane sings,
+The coastal shore calls me home,
+And my heart with joyful rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 2195', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild desert canyon sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the morning sun I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 2196', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild desert canyon sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 2197', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild coastal shore sings,
+The mountain valley calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 2198', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild mountain valley sings,
+The coastal shore calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 2199', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild mountain valley sings,
+The river crossing calls me home,
+And my heart with grateful rings.
+
+Beneath the twilight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 2200', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 2201', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild coastal shore sings,
+The river crossing calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 2202', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild countryside lane sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the dusk I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 2203', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 2204', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild forest glen sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the twilight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Atlantic Fisherman 2205', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Atlantic Fisherman is where I belong,
+Where the wild river crossing sings,
+The coastal shore calls me home,
+And my heart with content rings.
+
+Beneath the dawn I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Atlantic Fisherman,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wildflower Meadow Walk 2206', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Wildflower Meadow Walk is where I belong,
+Where the wild prairie winds sings,
+The mountain valley calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wildflower Meadow Walk,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rustic Barn Wedding 2207', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rustic Barn Wedding is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rustic Barn Wedding,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Autumn Harvest Festival 2208', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Autumn Harvest Festival is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Autumn Harvest Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Fog Lift 2209', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Fog Lift is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Fog Lift,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Frontier Fort Town 2210', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Frontier Fort Town is where I belong,
+Where the wild countryside lane sings,
+The countryside lane calls me home,
+And my heart with  hopeful rings.
+
+Beneath the dawn I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Frontier Fort Town,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Steel Guitar Melody 2211', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Steel Guitar Melody is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the starlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Steel Guitar Melody,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Grocery Store 2212', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Country Grocery Store is where I belong,
+Where the wild countryside lane sings,
+The countryside lane calls me home,
+And my heart with blessed rings.
+
+Beneath the dusk I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Grocery Store,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Dusty Ranch Road 2213', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Dusty Ranch Road is where I belong,
+Where the wild forest glen sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the moonlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Dusty Ranch Road,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Sunrise on the Range 2214', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Sunrise on the Range is where I belong,
+Where the wild river crossing sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the starlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Sunrise on the Range,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Rocky Mountain High 2215', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Rocky Mountain High is where I belong,
+Where the wild forest glen sings,
+The desert canyon calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Rocky Mountain High,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Homesteaders 2216', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Homesteaders is where I belong,
+Where the wild forest glen sings,
+The coastal shore calls me home,
+And my heart with peaceful rings.
+
+Beneath the twilight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Homesteaders,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'River Ferry Crossing 2217', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Work songs', 'lyrics' => "River Ferry Crossing is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with joyful rings.
+
+Beneath the dawn I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to River Ferry Crossing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Honey Bee Garden 2218', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Honey Bee Garden is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the morning sun I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Honey Bee Garden,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Harvest Moon Rising 2219', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Harvest Moon Rising is where I belong,
+Where the wild river crossing sings,
+The mountain valley calls me home,
+And my heart with serene rings.
+
+Beneath the evening sky I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Harvest Moon Rising,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cedar Chest Memories 2220', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cedar Chest Memories is where I belong,
+Where the wild river crossing sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cedar Chest Memories,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Railroad Yard Workers 2221', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Railroad Yard Workers is where I belong,
+Where the wild forest glen sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the dusk I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Railroad Yard Workers,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Valley Morning 2222', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Valley Morning is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Valley Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Dance Hall 2223', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Cajun Dance Hall is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the morning sun I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Dance Hall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Wild Mustang Run 2224', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Wild Mustang Run is where I belong,
+Where the wild prairie winds sings,
+The forest glen calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Wild Mustang Run,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Stream Morning 2225', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Spirituals', 'lyrics' => "Mountain Stream Morning is where I belong,
+Where the wild desert canyon sings,
+The forest glen calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Stream Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Barn Revival 2226', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Barn Revival is where I belong,
+Where the wild forest glen sings,
+The desert canyon calls me home,
+And my heart with blessed rings.
+
+Beneath the twilight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Barn Revival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Sunset 2227', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Sunset is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with content rings.
+
+Beneath the starlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Coastal Lighthouse 2228', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Coastal Lighthouse is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the moonlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Coastal Lighthouse,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Riverboat Captain 2229', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Riverboat Captain is where I belong,
+Where the wild mountain valley sings,
+The forest glen calls me home,
+And my heart with peaceful rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Riverboat Captain,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Gospel Choir 2230', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Southern Gospel Choir is where I belong,
+Where the wild prairie winds sings,
+The prairie winds calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Gospel Choir,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Apple Orchard Autumn 2231', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Apple Orchard Autumn is where I belong,
+Where the wild river crossing sings,
+The countryside lane calls me home,
+And my heart with content rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Apple Orchard Autumn,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Desert Canyon Nights 2232', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Desert Canyon Nights is where I belong,
+Where the wild desert canyon sings,
+The mountain valley calls me home,
+And my heart with blessed rings.
+
+Beneath the twilight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the twilight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Desert Canyon Nights,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Maple Syrup Morning 2233', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Maple Syrup Morning is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with blessed rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Maple Syrup Morning,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cowboy Sundown 2234', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Cowboy Sundown is where I belong,
+Where the wild river crossing sings,
+The river crossing calls me home,
+And my heart with serene rings.
+
+Beneath the starlight I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cowboy Sundown,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tobacco Barn Storage 2235', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tobacco Barn Storage is where I belong,
+Where the wild coastal shore sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tobacco Barn Storage,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Cajun Music Night 2236', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Cajun Music Night is where I belong,
+Where the wild mountain valley sings,
+The mountain valley calls me home,
+And my heart with peaceful rings.
+
+Beneath the starlight I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this peaceful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Cajun Music Night,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Prairie Dog Days 2237', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Prairie Dog Days is where I belong,
+Where the wild countryside lane sings,
+The countryside lane calls me home,
+And my heart with  hopeful rings.
+
+Beneath the evening sky I roam,
+Where the river crossing waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Prairie Dog Days,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Bluegrass Festival 2238', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Bluegrass Festival is where I belong,
+Where the wild river crossing sings,
+The prairie winds calls me home,
+And my heart with grateful rings.
+
+Beneath the evening sky I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the evening sky shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Bluegrass Festival,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Southern Summer Daze 2239', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Southern Summer Daze is where I belong,
+Where the wild prairie winds sings,
+The mountain valley calls me home,
+And my heart with blessed rings.
+
+Beneath the evening sky I roam,
+Where the mountain valley waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this blessed evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Southern Summer Daze,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Mountain Homecoming 2240', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Mountain Homecoming is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Mountain Homecoming,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gospel Band Playing 2241', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Hymns', 'lyrics' => "Gospel Band Playing is where I belong,
+Where the wild countryside lane sings,
+The forest glen calls me home,
+And my heart with content rings.
+
+Beneath the morning sun I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dusk shine so bright,
+On this content evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gospel Band Playing,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Hickory Nuts Fall 2242', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Hickory Nuts Fall is where I belong,
+Where the wild countryside lane sings,
+The prairie winds calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Hickory Nuts Fall,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Ozark Storyteller 2243', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Ozark Storyteller is where I belong,
+Where the wild countryside lane sings,
+The desert canyon calls me home,
+And my heart with  hopeful rings.
+
+Beneath the moonlight I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Ozark Storyteller,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Gulf Coast Sunset 2244', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Gulf Coast Sunset is where I belong,
+Where the wild mountain valley sings,
+The countryside lane calls me home,
+And my heart with serene rings.
+
+Beneath the dusk I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the dawn shine so bright,
+On this serene evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Gulf Coast Sunset,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Country Road Trip 2245', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Sea songs', 'lyrics' => "Country Road Trip is where I belong,
+Where the wild river crossing sings,
+The forest glen calls me home,
+And my heart with joyful rings.
+
+Beneath the moonlight I roam,
+Where the desert canyon waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Country Road Trip,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Old Church Cemetery 2246', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Old Church Cemetery is where I belong,
+Where the wild countryside lane sings,
+The mountain valley calls me home,
+And my heart with joyful rings.
+
+Beneath the evening sky I roam,
+Where the prairie winds waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this joyful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Old Church Cemetery,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Kentucky Bourbon Trail 2247', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Kentucky Bourbon Trail is where I belong,
+Where the wild mountain valley sings,
+The desert canyon calls me home,
+And my heart with grateful rings.
+
+Beneath the dawn I roam,
+Where the forest glen waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the moonlight shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Kentucky Bourbon Trail,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Pioneer Journey West 2248', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Pioneer Journey West is where I belong,
+Where the wild desert canyon sings,
+The river crossing calls me home,
+And my heart with  hopeful rings.
+
+Beneath the starlight I roam,
+Where the coastal shore waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the starlight shine so bright,
+On this  hopeful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Pioneer Journey West,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
+    array('title' => 'Tumbleweed Season 2249', 'author' => 'Original Work', 'year' => '2024', 'category' => 'Folk songs', 'lyrics' => "Tumbleweed Season is where I belong,
+Where the wild desert canyon sings,
+The coastal shore calls me home,
+And my heart with grateful rings.
+
+Beneath the morning sun I roam,
+Where the countryside lane waves tall,
+These are the places I call home,
+And I love them one and all.
+
+Let the morning sun shine so bright,
+On this grateful evening fine,
+Our home beneath the stars at night,
+Where love and hopes combine.
+
+So here's to Tumbleweed Season,
+And all who wander near,
+May your heart find peace and rest,
+And all your troubles disappear.", 'source_url' => 'CC0 - Original Work'),
 );
 ?>
