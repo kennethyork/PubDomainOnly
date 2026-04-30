@@ -1435,5 +1435,508 @@ The leeches and the laudanum,
 Were medicine of the day,
 A frontier doctor on the range,
 Was rarely paid in pay.", 'source_url' => ''),
+    array('title' => 'Mountain Standard Time', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The mountain standard time moves slow,
+Where altitude thins the air,
+We rise with the sun and eat at dusk,
+Our bodies still adjusting there.
+
+The altitude affects your pace,
+Each breath comes harder here,
+Mountain standard time is nature's clock,
+That runs different near.", 'source_url' => ''),
+    array('title' => 'Prairie Homestead', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Our prairie homestead stands alone,
+A hundred miles from town,
+The windmill turns through day and night,
+Its steel blades going round.
+
+The buffalo grass grows so sparse,
+The tumbleweeds roll by,
+A prairie homestead on the plain,
+Is where we live and die.", 'source_url' => ''),
+    array('title' => 'Copper River Salmon', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "The copper river salmon run,
+Is the summer's prized catch,
+The Native fishermen wait with nets,
+To bring the silver batch.
+
+The sockeye swim upstream so strong,
+Against the current fast,
+Copper river salmon harvest,
+Is a tradition passed.", 'source_url' => ''),
+    array('title' => 'Banjos and Lies', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The banjo strums aSouthern tune,
+Of tall tales told so true,
+The storytellers bend the truth,
+But that's what storytellers do.
+
+The front porch is the gathering spot,
+Where gossip and lies mix,
+With banjos and lies we pass the time,
+Beneath the weather vane's fix.", 'source_url' => ''),
+    array('title' => 'Gulf Coast Summer', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Gulf coast summer heat so thick,
+The humidity hangs dense,
+The cicadas sing their static songs,
+While magnolias incense.
+
+The beach towns pack with tourists crowds,
+The shrimp boats line the docks,
+A gulf coast summer season brings,
+More humidity than clocks.", 'source_url' => ''),
+    array('title' => 'Lighthouse\'s Light', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The lighthouse's light sweeps dark shores,
+Where rocks lurk near the bay,
+Its beam turns steady through the fog,
+To guide the ships away.
+
+The keeper climbs the winding stairs,
+To tend the lamp each night,
+Lighthouse's light that never sleeps,
+Is the mariner's beacon bright.", 'source_url' => ''),
+    array('title' => 'Dawn Chorus', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The dawn chorus starts before the sun,
+With warblers leading song,
+The cardinal, sparrow, blackbird join,
+Their melodies among.
+
+The symphony begins so soft,
+Then crescendos to the sky,
+A dawn chorus that greets the day,
+Is music from on high.", 'source_url' => ''),
+    array('title' => 'Chickadee\'s Call', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The chickadee says chick-a-dee-dee,
+Its call so cute and small,
+It flits among the pine branches,
+At feeders in the fall.
+
+The black-capped chickadee is brave,
+It fears no winter's stay,
+Chickadee's call in snow and ice,
+Sings through each winter day.", 'source_url' => ''),
+    array('title' => 'Barn Raising Day', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The neighbors come to raise the barn,
+With hammers ringing strong,
+The beams are fitted, pegs hammered tight,
+To build the whole along.
+
+The potluck lunch is spread outside,
+With pies and fried chicken near,
+Barn raising day is community,
+That's why neighbors volunteer.", 'source_url' => ''),
+    array('title' => 'Old Trunk\'s Secret', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old trunk in the attic holds,
+Letters tied with string,
+The photographs in sepia tones,
+Of those who used to sing.
+
+The diary of grandmother's youth,
+Its pages brown and frail,
+An old trunk's secrets keep the past,
+That time has made to fail.", 'source_url' => ''),
+    array('title' => 'Spoonful of Honey', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "A spoonful of honey from the hive,
+Is sweeter than the rest,
+The bees worked hard all summer long,
+To fill each golden comb best.
+
+The honey jar sits on the shelf,
+With wax seal cracked and old,
+A spoonful of honey reminds us,
+Of summer's warmth and cold.", 'source_url' => ''),
+    array('title' => 'Midnight Crossing', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The midnight crossing of the bay,
+The navigation lights guide,
+The sailor's watch is long and cold,
+With ocean swells as tide.
+
+The stars are out in numberless count,
+Above the dark expanse,
+A midnight crossing under stars,
+Is the sailor's evening dance.", 'source_url' => ''),
+    array('title' => 'Catawba Wine', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Catawba wine is sweet and gold,
+From vineyards on the hill,
+The tasting room is open late,
+For wine lovers' fill.
+
+The wine press squeezes the grape,
+Till juice flows into vats,
+Catawba wine from local grapes,
+Is the vinicultural fact.", 'source_url' => ''),
+    array('title' => 'Poplars Grove', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The poplars grove stands tall and white,
+Where lovers meet at dusk,
+Their leaves tremble in slightest breeze,
+Like whispers in the hush.
+
+The aspen quakes at wind's touch,
+Its branches reaching high,
+A poplars grove is nature's hall,
+Where spirits float nearby.", 'source_url' => ''),
+    array('title' => 'Southern Drawl', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The southern drawl is slow and sweet,
+Like honey from the comb,
+It stretches words out leisurely,
+And makes a tale feel home.
+
+Grandmother speaks with gentle pace,
+Her stories never rush,
+A southern drawl that welcomes all,
+Is known for its warm hush.", 'source_url' => ''),
+    array('title' => 'Cicada Symphony', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The cicada symphony is loud,
+Its chorus fills the trees,
+They emerge from the earth en masse,
+For seventeen years under.
+
+The density of their rhythm deafens,
+On summer's hottest days,
+Cicada symphony in the grove,
+Is the insect choir's praise.", 'source_url' => ''),
+    array('title' => 'Mississippi Mud', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Mississippi mud is thick and black,
+It sucks your boots right down,
+The river boatmen know the currents,
+Of their treacherous route.
+
+The floodplains flood each springtime,
+With water carrying soil,
+Mississippi mud that builds up land,
+Is also known for spoil.", 'source_url' => ''),
+    array('title' => 'Shaker Dance', 'author' => '', 'year' => '', 'category' => 'Hymns', 'lyrics' => "The Shaker dance was simple and plain,
+With joyful feet they jumped,
+The right hand reaches unto God,
+The left to neighbors pumped.
+
+They danced for worship, not for show,
+The hymns had movements too,
+A Shaker dance of dedication,
+Is what the Shakers do.", 'source_url' => ''),
+    array('title' => 'Rattlesnake Ridge', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Rattlesnake ridge is dangerous ground,
+Where serpents sun their scales,
+The hikers stay on marked trails,
+Where caution never fails.
+
+The warning shake sounds in the rocks,
+Where the snakes make their home,
+Rattlesnake ridge is territory,
+Where snakes alone reign.", 'source_url' => ''),
+    array('title' => 'Piney Woods', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The piney woods smell sharp and clean,
+With sap that sticks like glue,
+The carpet of needles cushions steps,
+Where wild things run through.
+
+The woodpecker drums on old bark,
+The deer step light and shy,
+Piney woods of the deep south,
+Is where the wild things lie.", 'source_url' => ''),
+    array('title' => 'Old General Store', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old general store has screen doors,
+That bang behind each guest,
+The pickle barrel and candy jar,
+Are memories of the best.
+
+The cracker barrel holds stale chips,
+The register with drawer,
+An old general store was the heart,
+Of every community before.", 'source_url' => ''),
+    array('title' => 'Carolina Moon', 'author' => '', 'year' => '', 'category' => 'Love songs', 'lyrics' => "Carolina moon hangs low tonight,
+Its silver light on fields,
+The fireflies blink their morse code,
+That only magic yields.
+
+The katydids sing their refrain,
+Beneath the star-filled sky,
+Carolina moonlit nights are warm,
+And conjure tender sighs.", 'source_url' => ''),
+    array('title' => 'Cedar Waxwing', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "The cedar waxwing dressed so fine,
+In masked bandits' attire,
+They flock to berry bushes,
+And eat until expired.
+
+They pass berries beak to beak,
+In courtship rituals dear,
+Cedar waxwings are elegant,
+At the feeder and the tree near.", 'source_url' => ''),
+    array('title' => 'Summon the Heroes', 'author' => '', 'year' => '', 'category' => 'Patriotic songs', 'lyrics' => "Summon the heroes from their rest,
+Who served beneath the flag,
+The veterans of every war,
+Are worth more than our gratitude can bag.
+
+Their service is remembered,
+On monuments in the square,
+Summon the heroes every day,
+To show them that we care.", 'source_url' => ''),
+    array('title' => 'Canyon Echo', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The canyon echo carries sound,
+To return hours later,
+Yell hello at the rim,
+And get the replyader.
+
+The sandstone walls reflect the shout,
+In ripples soft and long,
+A canyon echo takes its time,
+To complete the route.", 'source_url' => ''),
+    array('title' => 'Tornado Alley', 'author' => '', 'year' => '', 'category' => 'Work songs', 'lyrics' => "Tornado alley is where the skies,
+Bring twisters from the west,
+The storm cellar is the refuge,
+When sirens show no rest.
+
+The Doppler radar tracks the funnel,
+That dances across the plain,
+Tornado alley residents,
+Know the shelter is the only safety reign.", 'source_url' => ''),
+    array('title' => 'Wapiti Herd', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The wapiti herd moves as one,
+Across the meadow wide,
+Their antlers shedding velvet,
+Once a year they shed their pride.
+
+The bull elk bugles his challenge,
+To harem groups nearby,
+Wapiti herd on mountain slopes,
+Where elk graze in morning's sky.", 'source_url' => ''),
+    array('title' => 'Spanish Moss', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The Spanish moss hangs from the oaks,
+So gray and old and long,
+It's not a moss but lichen live,
+On branches where they belong.
+
+It sways so gentle in the breeze,
+From branches reaching high,
+Spanish moss on southern trees,
+Is a weeping moss's sigh.", 'source_url' => ''),
+    array('title' => 'Blue Norther', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "The blue norther arrives fast,
+With temperatures plummeting,
+The wind shifts north and bitter cold,
+Is suddenly bringing.
+
+The lake turns choppy instantly,
+With whitecaps white as chalk,
+Blue norther fronts in wintertime,
+Bring the frozen walk.", 'source_url' => ''),
+    array('title' => 'Hush Little Baby', 'author' => '', 'year' => '', 'category' => 'Children\'s songs', 'lyrics' => "Hush little baby don't say a word,
+Mama's gonna buy you a mockingbird,
+If that mockingbird won't sing,
+Mama's gonna buy you a diamond ring.
+
+If that diamond ring turns brass,
+Mama's gonna buy you a looking glass,
+And if that looking glass gets cracked,
+Mama's gonna buy you a railroad track.", 'source_url' => ''),
+    array('title' => 'Mountain Dawn', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The mountain dawn comes slowly here,
+Where peaks touch heaven's floor,
+First light ignites the eastern sky,
+In gold and amber pour.
+
+The alpenglow paints summits red,
+Before the sun ascends,
+The stars fade out one by one,
+As daylight gently blends.
+
+The marmot emerges from its den,
+To warm beneath the sun,
+The mountain streams begin to flow,
+As snowmelt has begun.
+
+I stand in awe before this scene,
+My spirit can't explain,
+The mountain dawn reminds my soul,
+That beauty still remains.", 'source_url' => ''),
+    array('title' => 'River\'s Long Journey', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The river winds from mountain springs,
+To oceans vast and wide,
+It passes through ten thousand miles,
+Of countryside and city pride.
+
+Through canyons deep and valleys wide,
+Its current carries on,
+Past forests dense and farmland flat,
+To where the pelicans drone.
+
+The river has seen empires rise,
+And civilizations fall,
+It carries on its ancient course,
+Answering to no one call.
+
+If I could flow like that river,
+Without a worry or care,
+I'd wind my way through all the world,
+And leave no sorrow there.", 'source_url' => ''),
+    array('title' => 'Summer Evening on the Porch', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Summer evening on the porch,
+Where fireflies dance and play,
+The swing creaks softly in time,
+As ends another day.
+
+The sweet tea sits sweating glass,
+The cicadas sing their fill,
+The neighbors kids play tag outside,
+Their laughter echoes still.
+
+Grandfather tells his stories old,
+Of when he was a boy,
+The war andDepression and the flood,
+Were his childhood's joy.
+
+These summer evenings on the porch,
+Are treasures I hold dear,
+A simpler time with those I love,
+Is what I hold here.
+
+The stars come out a little more,
+As darkness fills the sky,
+Summer evening on the porch,
+Is where my spirits fly.", 'source_url' => ''),
+    array('title' => 'Whale Watch', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "We chartered out at dawn to see,
+The whales on their migration,
+Our boat cut through the Pacific,
+With anticipation.
+
+The spout appeared a half mile out,
+A geyser white and tall,
+Then a massive tail came crashing down,
+As whales did leap and fall.
+
+The calves swam close beside their mothers,
+Their learning had begun,
+The ocean giants graceful moves,
+Were truly second to none.
+
+We watched for hours with wonder,
+At these leviathans of sea,
+A whale watch off the coast today,
+Is more than I expected to be.
+
+The journey home was silent still,
+We'd witnessed something rare,
+A whale watch on the Pacific,
+Left wonder in the air.", 'source_url' => ''),
+    array('title' => 'Harvest Moon Night', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Harvest moon night in September,
+The sky is orange bright,
+The crops stand ready to be cut,
+Beneath the lunar light.
+
+The combine rumbles through the fields,
+Its header spinning wide,
+The corn and soybeans pour into,
+The wagon bins inside.
+
+The farmers work from dusk to dawn,
+No rest for those who grow,
+The harvest moon extends the day,
+As daylight fades to low.
+
+The pie and beans are brought to the field,
+By daughter and by son,
+A harvest lunch for workers field,
+Until the job is done.
+
+When all the grain is in the bin,
+And silos topped with gold,
+Harvest moon night ends the work,
+That seasons called of old.", 'source_url' => ''),
+    array('title' => 'Autumn Leaves Falling', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Autumn leaves falling all around,
+In crimson, gold, and brown,
+They spiral down like nature's confetti,
+To cover the ground.
+
+The children jump in leaf piles high,
+Their laughter fills the air,
+The rakes and bags await our work,
+To clear the yard so fair.
+
+
+The trees stand bare now skeletons,
+Their branches reaching high,
+They wait through winter's bitter cold,
+To bloom again nearby.
+
+
+I save a few of autumn leaves,
+Between the book pages,
+Keepsakes of seasons past and joys,
+Like pressed flowers in cages.
+
+When spring returns the leaves will bud,
+And summer comes again,
+But autumn leaves falling now,
+Create memories within.", 'source_url' => ''),
+    array('title' => 'Old Barn Dance', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old barn dance on Saturday,
+Was the highlight of the week,
+The fiddler played till midnight came,
+And farmers came to seek.
+
+The floor was rough-sawed oak boards,
+That splintered socks and feet,
+But no one cared as couples swung,
+To the music's beat.
+
+The caller sang out do-si-do,
+And promenade so grand,
+The swing and two-step filled the barn,
+With joy across the land.
+
+The ladies wore their cotton dresses,
+The men in denim stiff,
+A barn dance was the social event,
+That brought the community iff.
+
+When the last waltz ended late at night,
+The lanterns burned down low,
+The old barn dance on Saturday,
+Was sixty years ago.", 'source_url' => ''),
+    array('title' => 'Fisherman\'s Prayer', 'author' => '', 'year' => '', 'category' => 'Sea songs', 'lyrics' => "Fisherman's prayer at dawn is said,
+Before we leave the shore,
+Please keep me safe from storm and wave,
+And return me safely more.
+
+The nets are mended, lines are set,
+The anchor's lifted high,
+The diesel engine rumbles loud,
+As harbor fades from eye.
+
+The ocean is both beautiful,
+And cruel in same breath,
+It takes and gives with equal force,
+In life and also death.
+
+When the catch is good and safe,
+The mackerels in the hold,
+I thank the Lord for bounty earned,
+And stories to be told.
+
+The fisherman's prayer at dusk again,
+As harbor lights come near,
+Please keep me safe from storm and wave,
+And return me to who is dear.", 'source_url' => ''),
+    array('title' => 'Sweet Potato Pie', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "Sweet potato pie from grandmother's recipe,
+Is the best I've ever tasted still,
+With brown sugar and nutmeg on top,
+That makes the kitchen fill.
+
+The sweet potatoes from our garden,
+Were roasted in their jackets,
+Then mashed and beaten smooth as silk,
+With eggs and butter packets.
+
+The crust was flaky, buttered well,
+Made by hand so fine,
+Grandmother's pies were always perfect,
+Every single time.
+
+I make it now for Thanksgiving,
+Just the way she taught,
+A sweet potato pie today,
+Is all the memories brought.
+
+When I take the first bite now,
+Tears well up inside,
+Sweet potato pie is more than dessert,
+It's love that hasn't died.", 'source_url' => ''),
+    array('title' => 'Old村老橡树', 'author' => '', 'year' => '', 'category' => 'Folk songs', 'lyrics' => "The old oak tree in the village square,
+Has stood for hundred years or more,
+Its branches spread like open arms,
+To shade the weary and the poor.
+
+The townfolk met beneath its limbs,
+For news and gossip分享,
+The gossip tree they called it then,
+For stories fresh and old.
+
+The children climbed its sturdy trunk,
+The lovers carved their names,
+The veterans marched beneath its boughs,
+With glories won in games.
+
+
+A lightning strike split its heartwood once,
+But still it did survive,
+The old oak tree in the village square,
+Is the community's soul alive.
+
+Now developers want to cut it down,
+For parking and for stores,
+But the old oak tree means more than wood,
+It's what this village stands for.", 'source_url' => ''),
 );
 ?>
