@@ -2007,40 +2007,6 @@ Be like your Lord, His Word embrace,
 Nor bear His hallowed Name in vain.
 
 This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => 'https://en.wikisource.org/wiki/Awake,_Jerusalem,_Awake!'),
-    array('title' => 'Follow Me up to Carlow', 'author' => '', 'year' => '1880', 'category' => 'Children\'s songs', 'lyrics' => "Lift Mac
-Cahir Óg your face, brooding o'er the old disgrace
-That black
-Fitz
-Williamstormed your place, drove you to the Fern
-Greysaid victory was sure - Soon the firebrand he'd secure
-Until he met at
-Glenmalurewith
-Fiach Mac
-Hugh O'Byrne.
-
-See the swords of
-Glen Imall, flashing o'er the
-English Pale!
-See all the children of the Gael, beneath O'Byrne's banners.
-Rooster of a fighting stock, would you let a
-Saxoncock
-Crow out upon an Irish rock? -- fly up and teach him manners!.
-
-From
-Tassagartto
-Clonmore, there flows a stream of Saxon gore,
-Och, great is Rory Óg O'More, sending the loons to
-Hades.
-White is sick and Lane is fled, now for black
-Fitz
-William's head,
-We'll send it over, dripping red, to
-Queen Lizaand the ladies.
-
-Please see this document'stalk pagefor details for verification. \"Source\" means a location at which other users can find a copy of this work.  Ideally this will be a scanned copy of the original that can be uploaded to
-Wikimedia Commonsandproofread. If not, it is preferably a URL; if one is not available, please explain on the talk page.
-
-This work was published before January 1, 1931, and is in thepublic domainworldwide because the author died at least 100 years ago.", 'source_url' => ''),
     array('title' => 'Do Your Duty Doctor! (Oh, Oh, Oh, Oh, Doctor)', 'author' => '', 'year' => '1850', 'category' => 'Love songs', 'lyrics' => "Liza Green felt awf'ly sick,
 Sent out for the doctor quick.
 The doctor called around, these words to say:\"You're suff'ring from a love attack,
@@ -18420,18 +18386,6 @@ Led by the dauntless, the conqueror Jackson.
 Rise, rise, &c.
 
 June 30th, 1862.", 'source_url' => 'https://en.wikisource.org/wiki/Patriotic_Song'),
-    array('title' => 'Greek National Anthem (unknown translation)', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Σε γνωρίζω από την κόψη
-Του σπαθιού την τρομερή,
-Σε γνωρίζω από την όψη
-Που με βιά μετράει τη γη.
-Απ' τα κόκκαλα βγαλμένη
-Των Ελλήνων τα ιερά
-Και σαν πρώτα ανδρειωμένη
-Χαίρε, ω χαίρε Ελευθεριά!
-Και σαν πρώτα ανδρειωμένη
-Χαίρε, ω χαίρε Ελευθεριά!
-Και σαν πρώτα ανδρειωμένη
-Χαίρε, ω χαίρε Ελευθεριά!", 'source_url' => 'https://en.wikisource.org/wiki/Greek_National_Anthem_(unknown_translation)'),
     array('title' => 'Namibia, Land of the Brave', 'author' => '', 'year' => '1850', 'category' => 'Folk songs', 'lyrics' => "Namibia land of the brave
 Freedom fight we have won
 Glory to their bravery
