@@ -365,27 +365,6 @@ function truncateLyrics($lyrics, $length = 300) {
             .stat-number { font-size: 1.8rem; }
             .type-tabs { flex-direction: column; }
         }
-        .ad-banner {
-            text-align: center;
-            padding: 0.75rem;
-            background: rgba(255,255,255,0.03);
-            border-radius: 8px;
-            margin-bottom: 1.5rem;
-            color: #666;
-            font-size: 0.85rem;
-            border: 1px dashed rgba(255,255,255,0.1);
-            min-height: 90px;
-        }
-        .ad-footer {
-            text-align: center;
-            padding: 1rem;
-            margin-top: 2rem;
-            background: rgba(255,255,255,0.03);
-            border-radius: 8px;
-            color: #666;
-            font-size: 0.85rem;
-            min-height: 90px;
-        }
     </style>
 </head>
 <body>
@@ -394,21 +373,6 @@ function truncateLyrics($lyrics, $length = 300) {
             <h1>Free Song Lyrics</h1>
             <p class="subtitle">Public Domain + CC0 Original searchable database</p>
         </header>
-
-        <div class="ad-banner">
-            <script>
-(function(ckge){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = ckge || {};
-s.src = "\/\/elderlygoal.com\/c.Dp9Z6ybK2_5\/lqS\/W-QR9oNszjAxwrMhT\/Q\/3\/Mcyc0s3yM\/DCA-xSNaDLcf3g";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>
-        </div>
 
         <div class="type-tabs">
             <a href="?type=pd" class="type-tab <?php echo $type === 'pd' ? 'active' : ''; ?>">
@@ -592,21 +556,6 @@ l.parentNode.insertBefore(s, l);
                 <li><strong>Public Domain:</strong> Project Gutenberg (gutenberg.org) - 70,000+ free e-books</li>
                 <li><strong>CC0 Original:</strong> Original creations by opencode AI - Released under CC0 dedication</li>
             </ul>
-        </div>
-
-        <div class="ad-footer">
-            <script>
-(function(ckge){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = ckge || {};
-s.src = "\/\/elderlygoal.com\/c.Dp9Z6ybK2_5\/lqS\/W-QR9oNszjAxwrMhT\/Q\/3\/Mcyc0s3yM\/DCA-xSNaDLcf3g";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>
         </div>
 
         <footer>
