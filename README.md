@@ -1,10 +1,12 @@
 # Public Domain Lyrics Database
 
-**The largest verified English public domain lyrics database with commercial CC0 backup.**
+**Free lyrics for everyone.**
 
 - **1,347 verified public domain songs** - all published 1928 or earlier (US public domain)
-- **2,726 CC0 original songs** - commercial-safe for AI training, resale, and any use
+- **2,726 CC0 original songs** - free for any use, no strings attached
 - **93% have source URLs** - verified against Wikisource/Project Gutenberg
+
+No accounts. No paywalls. No terms. Just songs.
 
 ## Two Databases
 
@@ -12,13 +14,11 @@
 - Published 1928 or earlier (US public domain)
 - Source URLs linking to Wikisource/Project Gutenberg
 - Artist, Year, and Category metadata
-- **No rights reserved** - free for any use
 
 ### CC0 Original (2,726 songs)
 - All original compositions (2024)
-- Released under CC0 Public Domain Dedication
-- **No attribution required** - no rights reserved
-- Safe for commercial AI training and resale
+- Released under CC0 - no rights reserved
+- Safe for anyone to use however they want
 
 ## Why Verified?
 
@@ -30,8 +30,6 @@ Anyone can scrape Wikisource. We did the work:
 - **Removed non-songs** - textbooks, magazines, Latin hymns
 - **Removed verse numbers** - clean lyrics
 - **Added source URLs** - 93% verified
-
-Result: **Clean, verified, free** lyrics - not scraped noise.
 
 ## Data Format
 
@@ -62,22 +60,10 @@ Result: **Clean, verified, free** lyrics - not scraped noise.
 ## Categories
 
 ### Public Domain
-| Category | Count |
-|----------|-------|
-| Hymns | ~400 |
-| Folk songs | ~350 |
-| Sea songs | ~120 |
-| Spirituals | ~80 |
-| Work songs | ~60 |
-| Patriotic songs | ~50 |
-| Love songs | ~50 |
-| Children's songs | ~40 |
-| Ballads | ~40 |
-| Christmas carols | ~30 |
-| Drinking songs | ~25 |
+Hymns, Folk songs, Sea songs, Spirituals, Work songs, Patriotic songs, Love songs, Children's songs, Ballads, Christmas carols, Drinking songs
 
 ### CC0 Original
-Includes: Folk ballads, Gospel hymns, Sea shanties, Ragtime, Early blues, Barbershop quartets, Vaudeville, Patriotic, Children's songs, Comic songs, Work songs, Waltzes, Lullabies
+Folk ballads, Gospel hymns, Sea shanties, Ragtime, Early blues, Barbershop quartets, Vaudeville, Patriotic, Children's songs, Comic songs, Work songs, Waltzes, Lullabies
 
 ## Sources
 
@@ -94,28 +80,26 @@ All original compositions released under CC0 Public Domain Dedication.
 ## Usage
 
 ### Web Interface
-Upload to any PHP host. Use tabs to switch between Public Domain and CC0.
+Upload to any PHP host and visit index.php.
 
 ### JSON API
 ```javascript
-// Public Domain
 fetch('lyrics_data.json')
   .then(r => r.json())
-  .then(songs => console.log(songs.length, 'PD songs'));
+  .then(songs => console.log(songs));
 
-// CC0 Original
 fetch('cc0_lyrics_data.json')
   .then(r => r.json())
-  .then(songs => console.log(songs.length, 'CC0 songs'));
+  .then(songs => console.log(songs));
 ```
 
 ## License
 
 ### Public Domain
-**No rights reserved.** Public domain in the United States.
+Public domain in the United States. No rights reserved.
 
 ### CC0 Original
-**No rights reserved.** CC0 Public Domain Dedication - no attribution required.
+CC0 Public Domain Dedication. No rights reserved, no attribution required.
 
 ## Disclaimer
 
