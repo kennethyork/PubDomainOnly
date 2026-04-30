@@ -1,30 +1,51 @@
 <?php
-// Public Domain Lyrics Database - PHP Version
-// No JavaScript required, fully server-side rendering
+// Public Domain + CC0 Lyrics Database - PHP Version
 
 $PER_PAGE = 20;
 
-// Load database from compiled PHP array (faster than json_decode)
-$songs = [];
+// Load public domain database
+$pdSongs = [];
 if (file_exists('data.php')) {
     include 'data.php';
-    $songs = $SONGS ?? [];
+    $pdSongs = $SONGS ?? [];
 } elseif (file_exists('lyrics_data.json')) {
     $json = file_get_contents('lyrics_data.json');
-    $songs = json_decode($json, true) ?: [];
+    $pdSongs = json_decode($json, true) ?: [];
 }
 
-$totalSongs = count($songs);
+// Load CC0 database
+$cc0Songs = [];
+if (file_exists('cc0_data.php')) {
+    include 'cc0_data.php';
+    $cc0Songs = $CC0_SONGS ?? [];
+} elseif (file_exists('cc0_lyrics_data.json')) {
+    $json = file_get_contents('cc0_lyrics_data.json');
+    $cc0Songs = json_decode($json, true) ?: [];
+}
+
+$totalPD = count($pdSongs);
+$totalCC0 = count($cc0Songs);
+$totalSongs = $totalPD + $totalCC0;
 
 // Get search parameters
 $query = isset($_GET['q']) ? strtolower(trim($_GET['q'])) : '';
 $category = isset($_GET['category']) ? $_GET['category'] : '';
 $page = isset($_GET['page']) ? max(1, intval($_GET['page'])) : 1;
 $songId = isset($_GET['song']) ? intval($_GET['song']) : null;
+$type = isset($_GET['type']) ? $_GET['type'] : 'pd';
+
+// Determine which database to use
+if ($type === 'cc0') {
+    $currentSongs = $cc0Songs;
+    $totalSongs = $totalCC0;
+} else {
+    $currentSongs = $pdSongs;
+    $totalSongs = $totalPD;
+}
 
 // Get all categories
 $categories = [];
-foreach ($songs as $song) {
+foreach ($currentSongs as $song) {
     $cat = $song['category'] ?? 'Unknown';
     if (!isset($categories[$cat])) {
         $categories[$cat] = 0;
@@ -34,14 +55,14 @@ foreach ($songs as $song) {
 ksort($categories);
 
 // Filter songs
-$filtered = $songs;
+$filtered = $currentSongs;
 if ($query !== '') {
     $filtered = array_filter($filtered, function($song) use ($query) {
         $title = strtolower($song['title'] ?? '');
         $author = strtolower($song['author'] ?? '');
         $lyrics = strtolower($song['lyrics'] ?? '');
-        return strpos($title, $query) !== false 
-            || strpos($author, $query) !== false 
+        return strpos($title, $query) !== false
+            || strpos($author, $query) !== false
             || strpos($lyrics, $query) !== false;
     });
 }
@@ -52,20 +73,17 @@ if ($category !== '') {
     });
 }
 
-$filtered = array_values($filtered); // Re-index
+$filtered = array_values($filtered);
 $totalFiltered = count($filtered);
 $totalPages = max(1, ceil($totalFiltered / $PER_PAGE));
 
-// Ensure page is valid
 if ($page > $totalPages) {
     $page = $totalPages;
 }
 
-// Get current page results
 $start = ($page - 1) * $PER_PAGE;
 $pageResults = array_slice($filtered, $start, $PER_PAGE);
 
-// Get single song if requested
 $singleSong = null;
 if ($songId !== null && $songId >= 0 && $songId < count($filtered)) {
     $singleSong = $filtered[$songId];
@@ -87,8 +105,8 @@ function truncateLyrics($lyrics, $length = 300) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Public Domain Lyrics Database - Free Song Lyrics Search</title>
-    <meta name="description" content="Search free public domain song lyrics. Folk songs, hymns, carols, spirituals, and more. 100% free to use.">
+    <title>Free Song Lyrics - Public Domain & CC0 Search</title>
+    <meta name="description" content="Search free public domain and CC0 song lyrics. Folk songs, hymns, carols, spirituals, and more.">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -169,6 +187,45 @@ function truncateLyrics($lyrics, $length = 300) {
             border-radius: 6px;
             cursor: pointer;
         }
+        .type-tabs {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            justify-content: center;
+        }
+        .type-tab {
+            padding: 0.8rem 2rem;
+            background: rgba(255,255,255,0.05);
+            border: 2px solid rgba(255,255,255,0.1);
+            border-radius: 10px;
+            color: #888;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        .type-tab:hover {
+            border-color: #00d9ff;
+            color: #00d9ff;
+        }
+        .type-tab.active {
+            background: rgba(0,217,255,0.15);
+            border-color: #00d9ff;
+            color: #00d9ff;
+        }
+        .type-tab.cc0-active {
+            background: rgba(0,255,136,0.15);
+            border-color: #00ff88;
+            color: #00ff88;
+        }
+        .type-tab small {
+            display: block;
+            font-size: 0.75rem;
+            color: #666;
+            margin-top: 0.2rem;
+        }
+        .type-tab.active small,
+        .type-tab:hover small {
+            color: inherit;
+        }
         .stats {
             display: flex;
             justify-content: center;
@@ -185,6 +242,7 @@ function truncateLyrics($lyrics, $length = 300) {
         }
         .stat-number { font-size: 2.5rem; font-weight: bold; color: #00d9ff; }
         .stat-label { color: #888; font-size: 0.9rem; }
+        .stat.cc0 .stat-number { color: #00ff88; }
         .results { display: flex; flex-direction: column; gap: 1.5rem; }
         .song-card {
             background: rgba(255,255,255,0.05);
@@ -199,18 +257,18 @@ function truncateLyrics($lyrics, $length = 300) {
         }
         .song-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem; }
         .song-title { font-size: 1.3rem; color: #00d9ff; font-weight: bold; }
-        .song-category { 
-            background: rgba(0,217,255,0.2); 
-            padding: 0.2rem 0.8rem; 
-            border-radius: 20px; 
+        .song-category {
+            background: rgba(0,217,255,0.2);
+            padding: 0.2rem 0.8rem;
+            border-radius: 20px;
             font-size: 0.8rem;
             color: #00d9ff;
             white-space: nowrap;
         }
         .song-meta { color: #888; font-size: 0.9rem; margin-bottom: 1rem; }
-        .song-lyrics { 
-            color: #ddd; 
-            white-space: pre-wrap; 
+        .song-lyrics {
+            color: #ddd;
+            white-space: pre-wrap;
             line-height: 1.8;
             background: rgba(0,0,0,0.2);
             padding: 1rem;
@@ -243,7 +301,6 @@ function truncateLyrics($lyrics, $length = 300) {
             font-size: 0.9rem;
         }
         footer a { color: #00d9ff; text-decoration: none; }
-        .error { text-align: center; padding: 2rem; color: #ff6666; background: rgba(255,0,0,0.1); border-radius: 8px; }
         .disclaimer {
             background: rgba(255,200,0,0.1);
             border: 1px solid rgba(255,200,0,0.3);
@@ -253,6 +310,16 @@ function truncateLyrics($lyrics, $length = 300) {
             color: #ffcc00;
             font-size: 0.9rem;
         }
+        .cc0-disclaimer {
+            background: rgba(0,255,136,0.1);
+            border: 1px solid rgba(0,255,136,0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            color: #00ff88;
+            font-size: 0.9rem;
+        }
+        .cc0-disclaimer a { color: #00ff88; }
         .results-status { color: #888; margin-bottom: 1rem; }
         .pagination {
             display: flex;
@@ -281,10 +348,6 @@ function truncateLyrics($lyrics, $length = 300) {
             color: #00d9ff;
             cursor: default;
         }
-        .page-btn:disabled {
-            opacity: 0.3;
-            cursor: not-allowed;
-        }
         .back-link {
             color: #00d9ff;
             text-decoration: none;
@@ -300,47 +363,73 @@ function truncateLyrics($lyrics, $length = 300) {
             .stats { gap: 1rem; }
             .stat { padding: 1rem 1.5rem; }
             .stat-number { font-size: 1.8rem; }
+            .type-tabs { flex-direction: column; }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Public Domain Lyrics</h1>
-            <p class="subtitle">Free, searchable database of public domain song lyrics</p>
+            <h1>Free Song Lyrics</h1>
+            <p class="subtitle">Public Domain + CC0 Original searchable database</p>
         </header>
 
-        <div class="disclaimer">
-            All lyrics in this database are verified public domain. Sources include Wikisource and Project Gutenberg.
+        <div class="type-tabs">
+            <a href="?type=pd" class="type-tab <?php echo $type === 'pd' ? 'active' : ''; ?>">
+                Public Domain
+                <small><?php echo number_format($totalPD); ?> songs - No restrictions</small>
+            </a>
+            <a href="?type=cc0" class="type-tab <?php echo $type === 'cc0' ? 'cc0-active' : ''; ?>">
+                CC0 Original
+                <small><?php echo number_format($totalCC0); ?> songs - Free to use</small>
+            </a>
         </div>
 
+        <?php if ($type === 'cc0'): ?>
+            <div class="cc0-disclaimer">
+                These lyrics are <strong>CC0 (Public Domain Dedication)</strong> - free for any use including commercial. No attribution required. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Learn more</a>
+            </div>
+        <?php else: ?>
+            <div class="disclaimer">
+                All lyrics in this database are verified public domain. Sources include Wikisource and Project Gutenberg.
+            </div>
+        <?php endif; ?>
+
         <div class="stats">
-            <div class="stat">
-                <div class="stat-number"><?php echo number_format($totalSongs); ?></div>
-                <div class="stat-label">Songs</div>
+            <div class="stat <?php echo $type === 'cc0' ? 'cc0' : ''; ?>">
+                <div class="stat-number"><?php echo number_format($totalFiltered); ?></div>
+                <div class="stat-label"><?php echo $type === 'cc0' ? 'CC0 Songs' : 'Songs'; ?></div>
             </div>
             <div class="stat">
                 <div class="stat-number"><?php echo count($categories); ?></div>
                 <div class="stat-label">Categories</div>
             </div>
             <div class="stat">
-                <div class="stat-number">100%</div>
-                <div class="stat-label">Free to Use</div>
+                <div class="stat-number"><?php echo $type === 'cc0' ? 'CC0' : '100%'; ?></div>
+                <div class="stat-label"><?php echo $type === 'cc0' ? 'License' : 'Free'; ?></div>
             </div>
         </div>
 
         <?php if ($singleSong): ?>
-            <!-- Single Song View -->
-            <a href="?<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" class="back-link">&larr; Back to results</a>
-            
+            <a href="?type=<?php echo $type; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" class="back-link">&larr; Back to results</a>
+
             <div class="song-card">
                 <div class="song-header">
                     <div class="song-title"><?php echo escapeHtml($singleSong['title']); ?></div>
-                    <span class="song-category"><?php echo escapeHtml($singleSong['category']); ?></span>
+                    <span class="song-category"><?php echo escapeHtml($singleSong['category'] ?? 'Unknown'); ?></span>
                 </div>
-                <div class="song-meta"><?php echo $singleSong['author'] ? 'By ' . escapeHtml($singleSong['author']) : 'Unknown author'; ?></div>
+                <div class="song-meta">
+                    <?php if ($singleSong['author']): ?>By <?php echo escapeHtml($singleSong['author']); ?><?php endif; ?>
+                </div>
                 <div class="song-lyrics full"><?php echo nl2br(escapeHtml($singleSong['lyrics'])); ?></div>
-                <?php if ($singleSong['source_url'] || $singleSong['author'] || $singleSong['year']): ?>
+                <?php if ($type === 'cc0'): ?>
+                    <div style="margin-top: 1rem; padding: 1rem; background: rgba(0,255,136,0.1); border-radius: 8px; font-size: 0.85rem;">
+                        <strong style="color: #00ff88;">CC0 License</strong>
+                        <p style="margin-top: 0.5rem; color: #aaa;">
+                            This song is released under CC0 (Public Domain Dedication). You may use it for any purpose, including commercially.
+                        </p>
+                    </div>
+                <?php elseif ($singleSong['source_url'] || $singleSong['author'] || $singleSong['year']): ?>
                     <div style="margin-top: 1rem; font-size: 0.85rem; color: #888; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1);">
                         <?php if ($singleSong['author']): ?>
                             <div>Artist: <?php echo escapeHtml($singleSong['author']); ?></div>
@@ -356,9 +445,9 @@ function truncateLyrics($lyrics, $length = 300) {
             </div>
 
         <?php else: ?>
-            <!-- Search Form -->
             <div class="search-container">
                 <form method="GET" action="">
+                    <input type="hidden" name="type" value="<?php echo $type; ?>">
                     <div class="search-box">
                         <input type="text" name="q" placeholder="Search by title, author, or lyrics..." value="<?php echo escapeHtml($query); ?>">
                         <button type="submit">Search</button>
@@ -373,13 +462,12 @@ function truncateLyrics($lyrics, $length = 300) {
                             <?php endforeach; ?>
                         </select>
                         <?php if ($query || $category): ?>
-                            <a href="?" class="btn" style="padding: 0.5rem 1rem; font-size: 0.9rem;">Clear</a>
+                            <a href="?type=<?php echo $type; ?>" class="btn" style="padding: 0.5rem 1rem; font-size: 0.9rem;">Clear</a>
                         <?php endif; ?>
                     </div>
                 </form>
             </div>
 
-            <!-- Results -->
             <div class="results-status">
                 <?php if ($query || $category): ?>
                     <?php echo number_format($totalFiltered); ?> songs found
@@ -387,7 +475,7 @@ function truncateLyrics($lyrics, $length = 300) {
                         (page <?php echo $page; ?> of <?php echo $totalPages; ?>)
                     <?php endif; ?>
                 <?php else: ?>
-                    Start searching above or browse all <?php echo number_format($totalSongs); ?> songs
+                    Browse all <?php echo number_format($totalFiltered); ?> songs
                 <?php endif; ?>
             </div>
 
@@ -400,8 +488,8 @@ function truncateLyrics($lyrics, $length = 300) {
                         </div>
                     <?php else: ?>
                         <div class="no-results">
-                            <h3>Start searching</h3>
-                            <p>Enter a search term or select a category</p>
+                            <h3>No songs available</h3>
+                            <p>Check back later or switch to a different type</p>
                         </div>
                     <?php endif; ?>
                 <?php else: ?>
@@ -410,21 +498,20 @@ function truncateLyrics($lyrics, $length = 300) {
                         <div class="song-card">
                             <div class="song-header">
                                 <div class="song-title">
-                                    <a href="?song=<?php echo $globalIndex; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" style="color: #00d9ff; text-decoration: none;">
+                                    <a href="?type=<?php echo $type; ?>&song=<?php echo $globalIndex; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" style="color: #00d9ff; text-decoration: none;">
                                         <?php echo escapeHtml($song['title']); ?>
                                     </a>
                                 </div>
-                                <span class="song-category"><?php echo escapeHtml($song['category']); ?></span>
+                                <span class="song-category"><?php echo escapeHtml($song['category'] ?? 'Unknown'); ?></span>
                             </div>
                             <div class="song-meta">
                                 <?php if ($song['author']): ?>By <?php echo escapeHtml($song['author']); ?><?php endif; ?>
-                                <?php if ($song['year']): ?> (<?php echo escapeHtml($song['year']); ?>)<?php endif; ?>
                             </div>
                             <div class="song-lyrics">
                                 <?php echo nl2br(escapeHtml(truncateLyrics($song['lyrics'] ?? '', 500))); ?>
                                 <?php if (strlen($song['lyrics'] ?? '') > 500): ?>
                                     <div style="margin-top: 0.5rem;">
-                                        <a href="?song=<?php echo $globalIndex; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" style="color: #00d9ff; font-size: 0.9rem;">Show full lyrics &rarr;</a>
+                                        <a href="?type=<?php echo $type; ?>&song=<?php echo $globalIndex; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page; ?>" style="color: #00d9ff; font-size: 0.9rem;">Show full lyrics &rarr;</a>
                                     </div>
                                 <?php endif; ?>
                             </div>
@@ -433,11 +520,10 @@ function truncateLyrics($lyrics, $length = 300) {
                 <?php endif; ?>
             </div>
 
-            <!-- Pagination -->
             <?php if ($totalPages > 1): ?>
                 <div class="pagination">
                     <?php if ($page > 1): ?>
-                        <a href="?<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page - 1; ?>" class="page-btn">&larr; Prev</a>
+                        <a href="?type=<?php echo $type; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page - 1; ?>" class="page-btn">&larr; Prev</a>
                     <?php else: ?>
                         <span class="page-btn" style="opacity: 0.3; cursor: not-allowed;">&larr; Prev</span>
                     <?php endif; ?>
@@ -447,7 +533,7 @@ function truncateLyrics($lyrics, $length = 300) {
                             <?php if ($i == $page): ?>
                                 <span class="page-btn-current"><?php echo $i; ?></span>
                             <?php else: ?>
-                                <a href="?<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $i; ?>" class="page-btn"><?php echo $i; ?></a>
+                                <a href="?type=<?php echo $type; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $i; ?>" class="page-btn"><?php echo $i; ?></a>
                             <?php endif; ?>
                         <?php elseif ($i == $page - 3 || $i == $page + 3): ?>
                             <span style="color: #666;">...</span>
@@ -455,7 +541,7 @@ function truncateLyrics($lyrics, $length = 300) {
                     <?php endfor; ?>
 
                     <?php if ($page < $totalPages): ?>
-                        <a href="?<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page + 1; ?>" class="page-btn">Next &rarr;</a>
+                        <a href="?type=<?php echo $type; ?>&<?php echo $query ? 'q=' . urlencode($query) . '&' : ''; echo $category ? 'category=' . urlencode($category) . '&' : ''; ?>page=<?php echo $page + 1; ?>" class="page-btn">Next &rarr;</a>
                     <?php else: ?>
                         <span class="page-btn" style="opacity: 0.3; cursor: not-allowed;">Next &rarr;</span>
                     <?php endif; ?>
@@ -466,14 +552,15 @@ function truncateLyrics($lyrics, $length = 300) {
         <div class="sources">
             <h3>Data Sources</h3>
             <ul>
-                <li>Wikisource (en.wikisource.org) - Free library of public domain texts</li>
-                <li>Project Gutenberg (gutenberg.org) - 70,000+ free e-books</li>
+                <li><strong>Public Domain:</strong> Wikisource (en.wikisource.org) - Free library of public domain texts</li>
+                <li><strong>Public Domain:</strong> Project Gutenberg (gutenberg.org) - 70,000+ free e-books</li>
+                <li><strong>CC0 Original:</strong> Original creations by opencode AI - Released under CC0 dedication</li>
             </ul>
         </div>
 
         <footer>
-            <p>All lyrics are in the public domain in the United States (pre-1928)</p>
-            <p>Powered by PHP + JSON</p>
+            <p><?php echo number_format($totalPD); ?> Public Domain songs + <?php echo number_format($totalCC0); ?> CC0 Original songs</p>
+            <p>PD songs: no restrictions | CC0 songs: free for any use including commercially</p>
         </footer>
     </div>
 </body>
