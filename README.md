@@ -14,11 +14,13 @@ No accounts. No paywalls. No terms. Just songs.
 - Published 1928 or earlier (US public domain)
 - Source URLs linking to Wikisource/Project Gutenberg
 - Artist, Year, and Category metadata
+- Commercial use allowed
 
 ### CC0 Original (2,726 songs)
 - All original compositions (2024)
 - Released under CC0 - no rights reserved
-- Safe for anyone to use however they want
+- **Commercial use allowed** - sell it, train AI, remix, redistribute
+- No attribution required
 
 ## Why Verified?
 
@@ -96,10 +98,10 @@ fetch('cc0_lyrics_data.json')
 ## License
 
 ### Public Domain
-Public domain in the United States. No rights reserved.
+Public domain in the United States. No rights reserved. Commercial use allowed.
 
 ### CC0 Original
-CC0 Public Domain Dedication. No rights reserved, no attribution required.
+CC0 Public Domain Dedication. No rights reserved. Commercial use allowed. No attribution required.
 
 ## Disclaimer
 
