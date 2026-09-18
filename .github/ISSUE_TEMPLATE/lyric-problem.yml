@@ -1,0 +1,39 @@
+name: Lyric or rights problem
+description: Report incorrect text, metadata, duplication, or questionable reuse status.
+title: "[Song problem]: "
+body:
+  - type: dropdown
+    id: collection
+    attributes:
+      label: Collection
+      options:
+        - Public domain
+        - CC0 original
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Song title
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Incorrect or awkward lyrics
+        - Incorrect metadata
+        - Duplicate entry
+        - Questionable copyright or CC0 status
+        - Broken or missing source
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and proposed correction
+      description: Include a reliable source when reporting public-domain or rights information.
+    validations:
+      required: true

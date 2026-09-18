@@ -1,0 +1,14 @@
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+.idea/
+.vscode/
+
+# Local test output
+/tmp/
+*.log

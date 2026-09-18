@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contribution guide
+    url: https://github.com/kennethyork/PubDomainOnly/blob/main/CONTRIBUTING.md
+    about: Read how to correct lyrics or contribute a CC0 song.

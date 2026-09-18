@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Song Lyrics - Public Domain & CC0 Search</title>
+    <meta name="description" content="Search free public domain and CC0 song lyrics. Folk songs, hymns, carols, spirituals, and more.">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            color: #eee;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 1000px; margin: 0 auto; padding: 2rem; }
+        header { text-align: center; padding: 3rem 0; }
+        h1 {
+            font-size: 3rem;
+            background: linear-gradient(90deg, #00d9ff, #00ff88);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 1rem;
+        }
+        .subtitle { color: #aaa; font-size: 1.2rem; margin-bottom: 2rem; }
+        .search-container {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+        }
+        .search-box {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 1rem 1.5rem;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            background: rgba(0,0,0,0.4);
+            color: #fff;
+            border: 2px solid transparent;
+            transition: border-color 0.3s;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #00d9ff;
+        }
+        input[type="text"]::placeholder { color: #666; }
+        button, .btn {
+            padding: 1rem 2rem;
+            background: linear-gradient(135deg, #00d9ff, #00ff88);
+            color: #000;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        button:hover, .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(0,217,255,0.4);
+        }
+        .filters {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        select {
+            padding: 0.5rem 1rem;
+            background: rgba(0,0,0,0.4);
+            color: #fff;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 6px;
+            cursor: pointer;
+        }
+        select option { background: #24243e; color: #fff; }
+        .type-tabs {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            justify-content: center;
+        }
+        .type-tab {
+            padding: 0.8rem 2rem;
+            background: rgba(255,255,255,0.05);
+            border: 2px solid rgba(255,255,255,0.1);
+            border-radius: 10px;
+            color: #888;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        .type-tab:hover {
+            border-color: #00d9ff;
+            color: #00d9ff;
+        }
+        .type-tab.active {
+            background: rgba(0,217,255,0.15);
+            border-color: #00d9ff;
+            color: #00d9ff;
+        }
+        .type-tab.cc0-active {
+            background: rgba(0,255,136,0.15);
+            border-color: #00ff88;
+            color: #00ff88;
+        }
+        .type-tab small {
+            display: block;
+            font-size: 0.75rem;
+            color: #666;
+            margin-top: 0.2rem;
+        }
+        .type-tab.active small,
+        .type-tab:hover small {
+            color: inherit;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        .stat {
+            background: rgba(255,255,255,0.05);
+            padding: 1.5rem 2rem;
+            border-radius: 12px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .stat-number { font-size: 2.5rem; font-weight: bold; color: #00d9ff; }
+        .stat-label { color: #888; font-size: 0.9rem; }
+        .stat.cc0 .stat-number { color: #00ff88; }
+        .results { display: flex; flex-direction: column; gap: 1.5rem; }
+        .song-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.3s;
+        }
+        .song-card:hover {
+            border-color: #00d9ff;
+            background: rgba(255,255,255,0.08);
+        }
+        .song-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem; }
+        .song-title { font-size: 1.3rem; color: #00d9ff; font-weight: bold; }
+        .song-title a { color: #00d9ff; text-decoration: none; }
+        .song-category {
+            background: rgba(0,217,255,0.2);
+            padding: 0.2rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            color: #00d9ff;
+            white-space: nowrap;
+        }
+        .song-meta { color: #888; font-size: 0.9rem; margin-bottom: 1rem; }
+        .song-lyrics {
+            color: #ddd;
+            white-space: pre-wrap;
+            line-height: 1.8;
+            background: rgba(0,0,0,0.2);
+            padding: 1rem;
+            border-radius: 8px;
+            max-height: 400px;
+            overflow-y: auto;
+            font-size: 0.95rem;
+            overflow-wrap: anywhere;
+        }
+        .song-lyrics.full {
+            max-height: none;
+        }
+        .no-results { text-align: center; padding: 3rem; color: #888; }
+        .no-results h3 { color: #666; margin-bottom: 0.5rem; }
+        .sources {
+            background: rgba(255,255,255,0.03);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .sources h3 { color: #888; margin-bottom: 1rem; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; }
+        .sources a { color: #00d9ff; text-decoration: none; }
+        .sources a:hover { text-decoration: underline; }
+        .sources ul { list-style: none; color: #666; font-size: 0.9rem; }
+        .sources li { margin-bottom: 0.5rem; }
+        footer {
+            text-align: center;
+            padding: 3rem 0;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        footer a { color: #00d9ff; text-decoration: none; }
+        .disclaimer {
+            background: rgba(255,200,0,0.1);
+            border: 1px solid rgba(255,200,0,0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            color: #ffcc00;
+            font-size: 0.9rem;
+        }
+        .cc0-disclaimer {
+            background: rgba(0,255,136,0.1);
+            border: 1px solid rgba(0,255,136,0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            color: #00ff88;
+            font-size: 0.9rem;
+        }
+        .cc0-disclaimer a { color: #00ff88; }
+        .community-notice {
+            background: rgba(0,217,255,0.08);
+            border: 1px solid rgba(0,217,255,0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+            color: #b8efff;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        .community-notice strong { color: #00d9ff; }
+        .community-notice a { color: #00d9ff; }
+        .results-status { color: #888; margin-bottom: 1rem; }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+        .page-btn, .page-btn-current {
+            padding: 0.5rem 1rem;
+            background: rgba(0,0,0,0.4);
+            color: #fff;
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .page-btn:hover {
+            border-color: #00d9ff;
+        }
+        .page-btn-current {
+            background: rgba(0,217,255,0.2);
+            border-color: #00d9ff;
+            color: #00d9ff;
+            cursor: default;
+        }
+        .back-link {
+            color: #00d9ff;
+            text-decoration: none;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .song-extra {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-size: 0.85rem;
+            color: #888;
+        }
+        .song-extra a { color: #00d9ff; }
+        .song-license {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: rgba(0,255,136,0.1);
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+        .song-license strong { color: #00ff88; }
+        .song-license p { margin-top: 0.5rem; color: #aaa; }
+        .loading { text-align: center; padding: 3rem; color: #888; }
+        .error { text-align: center; padding: 3rem; color: #ff6b6b; }
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .search-box { flex-direction: column; }
+            .stats { gap: 1rem; }
+            .stat { padding: 1rem 1.5rem; }
+            .stat-number { font-size: 1.8rem; }
+            .type-tabs { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Free Song Lyrics</h1>
+            <p class="subtitle">Public Domain + CC0 Original searchable database</p>
+        </header>
+
+        <div class="community-notice">
+            <strong>Open source and community maintained:</strong>
+            Some CC0 lyrics were generated with automated templates and may need editing.
+            <a href="https://github.com/kennethyork/PubDomainOnly/issues/new/choose" target="_blank" rel="noopener noreferrer">Report a problem</a>
+            or <a href="https://github.com/kennethyork/PubDomainOnly/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">help improve the collection</a>.
+        </div>
+
+        <div id="app">
+            <div class="loading">Loading lyrics database&hellip;</div>
+        </div>
+
+        <div class="sources">
+            <h3>Data Sources</h3>
+            <ul>
+                <li><strong>Public Domain:</strong> Wikisource (en.wikisource.org) - Free library of public domain texts</li>
+                <li><strong>Public Domain:</strong> Project Gutenberg (gutenberg.org) - 70,000+ free e-books</li>
+                <li><strong>CC0 Original:</strong> Original creations by opencode AI - Released under CC0 dedication</li>
+            </ul>
+        </div>
+
+        <footer id="footer">
+            <p id="footer-totals"></p>
+            <p>PD songs: no restrictions | CC0 songs: free for any use including commercially</p>
+            <p><a href="https://github.com/kennethyork/PubDomainOnly" target="_blank" rel="noopener noreferrer">Source code</a> · <a href="https://github.com/kennethyork/PubDomainOnly/issues/new/choose" target="_blank" rel="noopener noreferrer">Report an issue</a> · <a href="https://github.com/kennethyork/PubDomainOnly/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute</a></p>
+        </footer>
+    </div>
+
+    <script>
+    (function () {
+        'use strict';
+
+        var PER_PAGE = 20;
+        var TRUNCATE = 500;
+        var REPO = 'https://github.com/kennethyork/PubDomainOnly';
+
+        var state = {
+            pd: [],
+            cc0: [],
+            totalPD: 0,
+            totalCC0: 0,
+            type: 'pd',
+            query: '',
+            category: '',
+            page: 1,
+            song: null
+        };
+
+        function escapeHtml(text) {
+            return String(text == null ? '' : text).replace(/[&<>"']/g, function (ch) {
+                return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch];
+            });
+        }
+
+        function formatNumber(n) {
+            return Number(n).toLocaleString('en-US');
+        }
+
+        function truncate(text, length) {
+            text = String(text == null ? '' : text);
+            if (text.length <= length) return text;
+            return text.slice(0, length) + '...';
+        }
+
+        function parseHash() {
+            var params = new URLSearchParams(window.location.hash.replace(/^#/, ''));
+            var type = params.get('type') === 'cc0' ? 'cc0' : 'pd';
+            return {
+                type: type,
+                query: (params.get('q') || '').trim(),
+                category: params.get('category') || '',
+                page: Math.max(1, parseInt(params.get('page'), 10) || 1),
+                song: params.has('song') ? Math.max(0, parseInt(params.get('song'), 10) || 0) : null
+            };
+        }
+
+        function buildHash(overrides) {
+            var next = {
+                type: state.type,
+                q: state.query,
+                category: state.category,
+                page: state.page,
+                song: state.song
+            };
+            if (overrides) {
+                for (var key in overrides) {
+                    if (Object.prototype.hasOwnProperty.call(overrides, key)) next[key] = overrides[key];
+                }
+            }
+            var params = new URLSearchParams();
+            params.set('type', next.type);
+            if (next.q) params.set('q', next.q);
+            if (next.category) params.set('category', next.category);
+            if (next.song !== null && next.song !== undefined && next.song !== '') {
+                params.set('song', next.song);
+            }
+            if (next.page > 1) params.set('page', next.page);
+            return '#' + params.toString();
+        }
+
+        function href(overrides) {
+            return buildHash(overrides);
+        }
+
+        function currentSongs() {
+            return state.type === 'cc0' ? state.cc0 : state.pd;
+        }
+
+        function songsLink(song, overrides) {
+            var data = currentSongs();
+            var index = data.indexOf(song);
+            return href(Object.assign({ song: index }, overrides || {}));
+        }
+
+        function getCategories(songs) {
+            var counts = {};
+            songs.forEach(function (song) {
+                var cat = song.category || 'Unknown';
+                counts[cat] = (counts[cat] || 0) + 1;
+            });
+            return Object.keys(counts).sort().map(function (cat) {
+                return { name: cat, count: counts[cat] };
+            });
+        }
+
+        function filterSongs() {
+            var songs = currentSongs();
+            var query = state.query.toLowerCase();
+            if (query) {
+                songs = songs.filter(function (song) {
+                    return String(song.title || '').toLowerCase().indexOf(query) !== -1
+                        || String(song.author || '').toLowerCase().indexOf(query) !== -1
+                        || String(song.lyrics || '').toLowerCase().indexOf(query) !== -1;
+                });
+            }
+            if (state.category) {
+                songs = songs.filter(function (song) {
+                    return (song.category || 'Unknown') === state.category;
+                });
+            }
+            return songs;
+        }
+
+        function renderSongCard(song) {
+            var lyrics = String(song.lyrics || '');
+            var html = '<div class="song-card">';
+            html += '<div class="song-header">';
+            html += '<div class="song-title"><a href="' + escapeHtml(songsLink(song)) + '">' + escapeHtml(song.title) + '</a></div>';
+            html += '<span class="song-category">' + escapeHtml(song.category || 'Unknown') + '</span>';
+            html += '</div>';
+            html += '<div class="song-meta">' + (song.author ? 'By ' + escapeHtml(song.author) : '') + '</div>';
+            html += '<div class="song-lyrics">' + escapeHtml(truncate(lyrics, TRUNCATE)).replace(/\n/g, '<br>');
+            if (lyrics.length > TRUNCATE) {
+                html += '<div style="margin-top: 0.5rem;"><a href="' + escapeHtml(songsLink(song)) + '" style="color: #00d9ff; font-size: 0.9rem;">Show full lyrics &rarr;</a></div>';
+            }
+            html += '</div></div>';
+            return html;
+        }
+
+        function renderSongDetail(song) {
+            var type = state.type;
+            var html = '<a href="' + escapeHtml(href({ song: null })) + '" class="back-link">&larr; Back to results</a>';
+            html += '<div class="song-card">';
+            html += '<div class="song-header">';
+            html += '<div class="song-title">' + escapeHtml(song.title) + '</div>';
+            html += '<span class="song-category">' + escapeHtml(song.category || 'Unknown') + '</span>';
+            html += '</div>';
+            html += '<div class="song-meta">' + (song.author ? 'By ' + escapeHtml(song.author) : '') + '</div>';
+            html += '<div class="song-lyrics full">' + escapeHtml(song.lyrics || '').replace(/\n/g, '<br>') + '</div>';
+
+            if (type === 'cc0') {
+                html += '<div class="song-license"><strong>CC0 License</strong>';
+                html += '<p>This song is released under CC0 (Public Domain Dedication). You may use it for any purpose, including commercially.</p></div>';
+            } else if (song.source_url || song.author || song.year) {
+                html += '<div class="song-extra">';
+                if (song.author) html += '<div>Artist: ' + escapeHtml(song.author) + '</div>';
+                if (song.year) html += '<div>Year: ' + escapeHtml(song.year) + '</div>';
+                if (song.source_url) {
+                    html += '<div>Source: <a href="' + escapeHtml(song.source_url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(song.source_url) + '</a></div>';
+                }
+                html += '</div>';
+            }
+            html += '</div>';
+            return html;
+        }
+
+        function renderPagination(totalPages) {
+            if (totalPages <= 1) return '';
+            var html = '<div class="pagination">';
+            if (state.page > 1) {
+                html += '<a href="' + escapeHtml(href({ page: state.page - 1 })) + '" class="page-btn">&larr; Prev</a>';
+            } else {
+                html += '<span class="page-btn" style="opacity: 0.3; cursor: not-allowed;">&larr; Prev</span>';
+            }
+            for (var i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= state.page - 2 && i <= state.page + 2)) {
+                    if (i === state.page) {
+                        html += '<span class="page-btn-current">' + i + '</span>';
+                    } else {
+                        html += '<a href="' + escapeHtml(href({ page: i })) + '" class="page-btn">' + i + '</a>';
+                    }
+                } else if (i === state.page - 3 || i === state.page + 3) {
+                    html += '<span style="color: #666;">...</span>';
+                }
+            }
+            if (state.page < totalPages) {
+                html += '<a href="' + escapeHtml(href({ page: state.page + 1 })) + '" class="page-btn">Next &rarr;</a>';
+            } else {
+                html += '<span class="page-btn" style="opacity: 0.3; cursor: not-allowed;">Next &rarr;</span>';
+            }
+            html += '</div>';
+            return html;
+        }
+
+        function render() {
+            var app = document.getElementById('app');
+            var songs = currentSongs();
+            var filtered = filterSongs();
+            var totalFiltered = filtered.length;
+            var totalPages = Math.max(1, Math.ceil(totalFiltered / PER_PAGE));
+
+            if (state.page > totalPages) state.page = totalPages;
+            if (state.page < 1) state.page = 1;
+
+            var start = (state.page - 1) * PER_PAGE;
+            var pageResults = filtered.slice(start, start + PER_PAGE);
+            var categories = getCategories(songs);
+            var total = state.type === 'cc0' ? state.totalCC0 : state.totalPD;
+            var isCC0 = state.type === 'cc0';
+
+            var html = '';
+
+            html += '<div class="type-tabs">';
+            html += '<a href="' + escapeHtml(href({ type: 'pd', song: null, page: 1 })) + '" class="type-tab ' + (!isCC0 ? 'active' : '') + '">Public Domain<small>' + formatNumber(state.totalPD) + ' songs - No restrictions</small></a>';
+            html += '<a href="' + escapeHtml(href({ type: 'cc0', song: null, page: 1 })) + '" class="type-tab ' + (isCC0 ? 'cc0-active' : '') + '">CC0 Original<small>' + formatNumber(state.totalCC0) + ' songs - Free to use</small></a>';
+            html += '</div>';
+
+            if (isCC0) {
+                html += '<div class="cc0-disclaimer">These lyrics are <strong>CC0 (Public Domain Dedication)</strong> - free for any use including commercial. No attribution required. <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">Learn more</a></div>';
+            } else {
+                html += '<div class="disclaimer">All lyrics in this database are verified public domain. Sources include Wikisource and Project Gutenberg.</div>';
+            }
+
+            html += '<div class="stats">';
+            html += '<div class="stat ' + (isCC0 ? 'cc0' : '') + '"><div class="stat-number">' + formatNumber(totalFiltered) + '</div><div class="stat-label">' + (isCC0 ? 'CC0 Songs' : 'Songs') + '</div></div>';
+            html += '<div class="stat"><div class="stat-number">' + categories.length + '</div><div class="stat-label">Categories</div></div>';
+            html += '<div class="stat"><div class="stat-number">' + (isCC0 ? 'CC0' : '100%') + '</div><div class="stat-label">' + (isCC0 ? 'License' : 'Free') + '</div></div>';
+            html += '</div>';
+
+            var singleSong = null;
+            if (state.song !== null && state.song >= 0 && state.song < filtered.length) {
+                singleSong = filtered[state.song];
+            }
+
+            if (singleSong) {
+                html += renderSongDetail(singleSong);
+            } else {
+                html += '<div class="search-container"><form id="search-form" method="GET" action="">';
+                html += '<input type="hidden" name="type" value="' + escapeHtml(state.type) + '">';
+                html += '<div class="search-box">';
+                html += '<input type="text" name="q" placeholder="Search by title, author, or lyrics..." value="' + escapeHtml(state.query) + '">';
+                html += '<button type="submit">Search</button></div>';
+                html += '<div class="filters"><select name="category" id="category-select"><option value="">All Categories</option>';
+                categories.forEach(function (cat) {
+                    html += '<option value="' + escapeHtml(cat.name) + '"' + (state.category === cat.name ? ' selected' : '') + '>' + escapeHtml(cat.name) + ' (' + formatNumber(cat.count) + ')</option>';
+                });
+                html += '</select>';
+                if (state.query || state.category) {
+                    html += '<a href="' + escapeHtml(href({ q: '', category: '', song: null, page: 1 })) + '" class="btn" style="padding: 0.5rem 1rem; font-size: 0.9rem;">Clear</a>';
+                }
+                html += '</div></form></div>';
+
+                html += '<div class="results-status">';
+                if (state.query || state.category) {
+                    html += formatNumber(totalFiltered) + ' songs found';
+                    if (totalPages > 1) html += ' (page ' + state.page + ' of ' + formatNumber(totalPages) + ')';
+                } else {
+                    html += 'Browse all ' + formatNumber(totalFiltered) + ' songs';
+                }
+                html += '</div>';
+
+                html += '<div class="results">';
+                if (!pageResults.length) {
+                    if (state.query || state.category) {
+                        html += '<div class="no-results"><h3>No songs found</h3><p>Try a different search term or category</p></div>';
+                    } else {
+                        html += '<div class="no-results"><h3>No songs available</h3><p>Check back later or switch to a different type</p></div>';
+                    }
+                } else {
+                    pageResults.forEach(function (song) {
+                        html += renderSongCard(song);
+                    });
+                }
+                html += '</div>';
+
+                html += renderPagination(totalPages);
+            }
+
+            app.innerHTML = html;
+
+            var form = document.getElementById('search-form');
+            if (form) {
+                form.addEventListener('submit', function (event) {
+                    event.preventDefault();
+                    var input = form.querySelector('input[name="q"]');
+                    window.location.hash = buildHash({ q: input.value.trim(), song: null, page: 1 });
+                });
+            }
+
+            var select = document.getElementById('category-select');
+            if (select) {
+                select.addEventListener('change', function () {
+                    window.location.hash = buildHash({ category: select.value, song: null, page: 1 });
+                });
+            }
+
+            var totals = document.getElementById('footer-totals');
+            if (totals) {
+                totals.textContent = formatNumber(state.totalPD) + ' Public Domain songs + ' + formatNumber(state.totalCC0) + ' CC0 Original songs';
+            }
+        }
+
+        function onHashChange() {
+            var parsed = parseHash();
+            state.type = parsed.type;
+            state.query = parsed.query;
+            state.category = parsed.category;
+            state.page = parsed.page;
+            state.song = parsed.song;
+
+            var songs = currentSongs();
+            if (parsed.category && !songs.some(function (s) { return (s.category || 'Unknown') === parsed.category; })) {
+                state.category = '';
+            }
+            render();
+        }
+
+        function loadJSON(url) {
+            return fetch(url).then(function (response) {
+                if (!response.ok) throw new Error('Failed to load ' + url + ' (' + response.status + ')');
+                return response.json();
+            });
+        }
+
+        function boot() {
+            Promise.all([loadJSON('lyrics_data.json'), loadJSON('cc0_lyrics_data.json')]).then(function (results) {
+                state.pd = results[0];
+                state.cc0 = results[1];
+                state.totalPD = state.pd.length;
+                state.totalCC0 = state.cc0.length;
+                onHashChange();
+                window.addEventListener('hashchange', onHashChange);
+            }).catch(function (error) {
+                document.getElementById('app').innerHTML = '<div class="error">Could not load the lyrics database.<br>' + escapeHtml(error.message) + '</div>';
+            });
+        }
+
+        boot();
+    })();
+    </script>
+</body>
+</html>
